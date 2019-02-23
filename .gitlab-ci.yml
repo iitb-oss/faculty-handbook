@@ -5,7 +5,7 @@ pages:
     - apt update && apt -y install texlive-latex-extra pandoc make
     - make -B
     - mkdir -p public
-    - cp out.pdf out.html public
+    - cp out.pdf out.html *.jpg public
   artifacts:
     paths:
       - public
