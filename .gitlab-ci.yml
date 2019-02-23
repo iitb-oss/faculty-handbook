@@ -1,12 +1,11 @@
 image: debian:stable
 
-build:
-  stage: build
-  before_script:
-    - apt update && apt -y install texlive-full pandoc make
+pages:
   script:
+    - apt update && apt -y install texlive-full pandoc make
     - make -B
+    - mkdir -p public
+    - cp out.pdf out.html public
   artifacts:
     paths:
-      - out.pdf
-      - out.html
+      - public
