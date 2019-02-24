@@ -153,15 +153,17 @@ Senate.
 
 \section{The Director and Other Functionaries}
 ![Director](Director.jpg){width=200px}
-
-
-\noindent {Prof Devang Khakhar}
-\end{figure*}
+Prof. Devang Khakhar
 
 The CEO of the Institute is the Director[^director],  who runs the Institute as per the policies decided by the Board. The Director is appointed by the Government
 of India and usually has a tenure of five years, which may be extended until (s)he reaches the age of superannuation. 
-\subsection{The Deputy Director, Deans and Registrar}
-The Director is helped in the administration by what can be termed as his cabinet. There are two Deputy Directors, Deputy Director (Academic and Infrastructural Affairs or AIA)[^ddaia], and Deputy Director (Finance and External Affairs, or FEA[^ddfea], one of who acts as the Director whenever the Director is away. 
+
+### The Deputy Director, Deans and Registrar
+The Director is helped in the administration by what can be termed as
+his cabinet. There are two Deputy Directors, Deputy Director (Academic
+and Infrastructural Affairs or AIA)[^ddaia], and Deputy Director
+(Finance and External Affairs, or FEA[^ddfea], one of who acts as the
+Director whenever the Director is away.
 
 [^director]: Currently Prof Devang V. Khakhar, a Chemical Engineer by profession.
 
@@ -173,8 +175,8 @@ The Director is helped in the administration by what can be termed as his cabine
 The powers vested in the Director have been delegated to various functionaries in the interest of smooth administration. Deans have powers of sanctioning within their area of responsibility. There are eight (8) Deans. They are as follows:
 
 1. _Dean (Faculty Affairs, FA)[^deanfa]._ His primary job is to look at matters connected with the Faculty. He initiates and processes recruitment of the faculty as well.
-1. _Dean (Alumni \& Corporate Relations, ACR)[^deanacr]._He looks after relations with alumni, coordinates donations received from alumni and corporate sources. There is also a Development Office under the Dean (ACR) which catalyses the alumni relations. 
-1. _Dean (Research and Development, R&D)[^deanrnd]_ to help the Dean (R&D) discharge his responsibilities. The Institute has a very large establishment called Industrial Research and Consultancy Center (IRCC) to take care of its sponsored projects and consultancy matters. The Dean (R&D) is the chief of this unit. There is an Associate Dean (R\&D)[^adeanrnd].
+1. _Dean (Alumni & Corporate Relations, ACR)[^deanacr]_. He looks after relations with alumni, coordinates donations received from alumni and corporate sources. There is also a Development Office under the Dean (ACR) which catalyses the alumni relations. 
+1. _Dean (Research and Development, R&D)[^deanrnd]_ to help the Dean (R&D) discharge his responsibilities. The Institute has a very large establishment called Industrial Research and Consultancy Center (IRCC) to take care of its sponsored projects and consultancy matters. The Dean (R&D) is the chief of this unit. There is an Associate Dean (R&D)[^adeanrnd].
 1. _Dean (Academic Programmes, AP)[^deanap]_. The Academic Office is the repository of all records connected with academic performance of students. The Dean (AP) also presides over the undergraduate and postgraduate programme committees (UGPC and PGPC) of the Institute which processes all academic proposals received from academic units such as Departments, Schools and Centres. As the Academic Office is one with which the faculty has substantial interaction, we will describe this office at length later. Dean (AP) is assisted in his work by an Associate Dean[^adeanap].
 1. _Dean (Infrastructure, Planning and Support, IPS)[^deanip]_. All matters connected with creation of new civil infrastructure and maintenance of the existing civil infrastructure and all related facilities, such as roads, electricity and water supply etc. come under the purview of Dean (IPS). He is also responsible for all estate related matters, including allotment of accommodation. Two Associate Deans[^adeanips]. The latter also serves as the Chairman, Accommodation Allotment Committee (AAC).} assist the Dean in his working. 
 1. _Dean (International Relations, IR)[^deanir]._As the name suggests, this Dean's job is to promote and administer international linkages. The Institute has a very large number of MoUs with many foreign and national institutions. All foreign students in the Institute are required to report to the Dean (IR)'s office for all their interactions with the Institute. Dean (IR)'s office also co-ordinates visits to the Institute by foreign nationals, whether for conference of other types of academic exchanges, including Visiting faculty.
@@ -211,7 +213,7 @@ Then there is the _Registrar[^registrar]_, who is officially the custodian of al
 
 [^registrar]: The position is vacant at present, Shri B.S. Punalkar, the previous incumbent, having retired recently. Dr. Indu Saxena, Deputy registrar (Admin) is the Acting Registrar.
 
-## Academic Units \& their internal administration
+## Academic Units & their internal administration
 
 The broad disciplines in which IITB has its teaching and research
 activities are those of Engineering, Science, Management, Design and
@@ -286,7 +288,7 @@ Immediately on joining:
 
 [^accommodation]: currently, Mr. Ravindran.
 
-[^allotmentrules]: Refer to  {\tt http://www.iitb.ac.in/deanpl/allotment.html}
+[^allotmentrules]: Refer to  http://www.iitb.ac.in/deanpl/allotment.html
 
 [^kvprof]: Currently, Prof. Virendra Sethi, Centre for Environmental Science and Engineering.
 
@@ -304,7 +306,7 @@ For most faculty members joining this Institute, this will be the first 'job', a
 ## What the Institute expects of you
 When you join as an Assistant Professor, In order to assist you to settle in and get your research under way quickly and efficiently, the Institute and the department extend certain facilities. These are:
 
-1. A seed grant of Rs. 20 lakh plus support for a PhD student in the project mode. Higher seed grant amounts may be considered for equipment intensive research. You need to see the Dean (R\&D) regarding this, soon after you join.
+1. A seed grant of Rs. 20 lakh plus support for a PhD student in the project mode. Higher seed grant amounts may be considered for equipment intensive research. You need to see the Dean (R&D) regarding this, soon after you join.
 2. Space: A minimum of a faculty cabin (10 $\times$ 15') and a working space of 300 sq. ft. to be identified before the person joins, and made available on joining.
 3. Reduced teaching load (say a course associateship) in the first semester (unless the faculty member wants to be involved in intensive teaching right from the start). Similarly, administrative load to be kept to a minimum in the initial semester.
 
@@ -315,7 +317,7 @@ In return, the Institute has certain expectations from the new faculty members. 
 3. Demonstrated research productivity in terms of lab development and publications as relevant to the faculty member's nature of work, as well as evidence of research guidance (in the form of PhD scholars and completed Masters' projects) within a reasonable time period.
 
 ### Typical activity profile of a Faculty member and Annual self-assessment
-The three main areas in which faculty members contribute to the Institute are Teaching, Research and Service[^servicedetails]. It is expected that, averaged over the year, a young faculty member spends of the order of 30\% of one's time during the working week on teaching, and up to 20\% on service-related activities, leaving the rest of the time (50\% of the working week, but you also have the weekends!) for research. It may therefore be expected that, at various points where one's contributions are to be assessed, these weightages will apply.
+The three main areas in which faculty members contribute to the Institute are Teaching, Research and Service[^servicedetails]. It is expected that, averaged over the year, a young faculty member spends of the order of 30% of one's time during the working week on teaching, and up to 20\% on service-related activities, leaving the rest of the time (50% of the working week, but you also have the weekends!) for research. It may therefore be expected that, at various points where one's contributions are to be assessed, these weightages will apply.
 
 [^servicedetails]: _Service_ includes administration as well as  contributions to the society at large and  to the profession. The latter contributions are usually through participation in  extension activities (continuing education, consultancy, etc., on which more in further sections),  membership of professional bodies, governmental committees, journal reviewerships and editorships, and so on.
 
@@ -439,87 +441,185 @@ and increases every year by an  _increment_. In addition, every position carries
 
 The Institute website (see 'Recruitment' link) carries the minimum eligibility criteria for all the above positions.
 
-<!---
-\begin{itemize}
-	\item {\em Professor (HAG Scale):\/} From August 18, 2009, a senior cadre of Professors has been created. This scale pay for this cadre is known as HAG (Higher Administrative Grade, the name being a carry-over from administrative services for which the scale was in existence earlier). The minimum eligibility for this scale is six years of service as a Professor. A maximum of 40\% of the total number of Professors can be placed in this scale. The scale does not have an AGP. The pay band is from Rs 67,000 to Rs 79,000.   
+1. _Professor (HAG Scale):_ From August 18, 2009, a senior cadre of Professors has been created. This scale pay for this cadre is known as HAG (Higher Administrative Grade, the name being a carry-over from administrative services for which the scale was in existence earlier). The minimum eligibility for this scale is six years of service as a Professor. A maximum of 40\% of the total number of Professors can be placed in this scale. The scale does not have an AGP. The pay band is from Rs 67,000 to Rs 79,000.
+2. _Institute and Endowed Chairs for faculty:_ As a means of recognizing outstanding performance, the Institute has several Chairs. While most of these are at the Professor's level (about 50 in the Institute), there are a few at other levels also.  Funding for several of these comes from endowments, and is managed by the Dean (ACR)'s office, which also takes an active role in raising funds for further chairs. The selection to these chairs is carried out by Dean (FA). Each chair is given for a period of 3 years, and the chair is re-advertised at the end of that period. Faculty who hold chairs receive some financial and academic perks in addition to their salaries. Details are available on the Dean(FA)'s webpage.
+3. _Dearness Allowance:_ A component termed as Dearness Allowance to take care of rising prices due to inflation is also a part of your pay packet. The rate of Dearness Allowance is revised by the Government every January and July based on consumer price indices, the rate hike has been typically 3% to 10% on the last few occasions[^danote].
+4. _House Rent Allowance (HRA):_ If you do not stay in Institute-provided accommodation, you will also receive House Rent Allowance (HRA) which is 30\% of your basic pay. The allowance is payable even when you stay in an accommodation owned by you. (Interestingly, if both spouses are employees of the Institute, both can claim HRA if the accommodation is rented or is owned. However, if the spouse has a Government accommodation, HRA cannot be claimed by either). HRA is taxable. If, however, you live in a rented accommodation, the HRA that you receive may be fully or partially exempt from income tax. The amount of exemption that can be claimed is the least amount out of the following three: (i) the HRA received, (ii) rent that you actually paid over and above 10\% of your basic pay and (iii) 50\% of your basic salary.
+5. _Transport Allowance:_ All employees, irrespective of whether they live within the campus or commute from outside, are eligible to receive a transport allowance. For those in the faculty cadre, the rate of transport allowance is Rs. 3200 per month. In addition, the Dearness Allowance at prevailing rate is payable on this amount as well. (Note: The transport allowance payable to the blind or orthopedically handicapped employees is double this rate).
 
-	\item {\em Institute and Endowed Chairs for faculty:\/} As a means of recognizing outstanding performance, the Institute has several Chairs. While most of these are at the Professor's level (about 50 in the Institute), there are a few at other levels also.  Funding for several of these comes from endowments, and is managed by the Dean (ACR)'s office, which also takes an active role in raising funds for further chairs. The selection to these chairs is carried out by Dean (FA). Each chair is given for a period of 3 years, and the chair is re-advertised at the end of that period. Faculty who hold chairs receive some financial and academic perks in addition to their salaries. Details are available on the Dean(FA)'s webpage.
-\end{itemize}
+[^danote]: Currently (from July 2011), the Dearness Allowance is 90\% of basic pay. The next increase in the Dearness allowance will be from Jan 2014.
 	
-	\item {\em Dearness Allowance:\/} A component termed as Dearness Allowance to take care of rising prices due to inflation is also a part of your pay packet. The rate of Dearness Allowance is revised by the Government every January and July based on consumer price indices, the rate hike has been typically 3\% to 10\% on the last few occasions\footnote{Currently (from July 2011), the Dearness Allowance is 90\% of basic pay. The next increase in the Dearness allowance will be from Jan 2014.}.
-  
-	\item {\em House Rent Allowance (HRA):\/} If you do not stay in Institute-provided accommodation, you will also receive House Rent Allowance (HRA) which is 30\% of your basic pay. The allowance is payable even when you stay in an accommodation owned by you. (Interestingly, if both spouses are employees of the Institute, both can claim HRA if the accommodation is rented or is owned. However, if the spouse has a Government accommodation, HRA cannot be claimed by either). HRA is taxable. If, however, you live in a rented accommodation, the HRA that you receive may be fully or partially exempt from income tax. The amount of exemption that can be claimed is the least amount out of the following three: (i) the HRA received, (ii) rent that you actually paid over and above 10\% of your basic pay and (iii) 50\% of your basic salary.
-
-	\item {\em Transport Allowance:\/} All employees, irrespective of whether they live within the campus or commute from outside, are eligible to receive a transport allowance. For those in the faculty cadre, the rate of transport allowance is Rs. 3200 per month. In addition, the Dearness Allowance at prevailing rate is payable on this amount as well. [Note: The transport allowance payable to the blind or orthopedically handicapped employees is double this rate].
-\end{enumerate}
-	
- \section {Annual Increment} 
-	Every year employees are given an increment in their salary. The pay in the pay band increases by 3\% of the basic pay (Band Pay + AGP). Note that AGP being a fixed component does not change but it is used in computing the quantum of increment.  The yearly increment is given from the first day of July every year. However, the first increment can be availed only after completing six months in a given pay. This means that if you are appointed between July and 1$^{st}$ January (of the following year), you are eligible for an increment in the following July but if the date of appointment is between 2$^{nd}$ January to June, you will have to wait for the first increment till July of the following year.  If the employee is on leave, other than casual leave, on the first day of July, the increment is given from the day when the employee rejoins the duty.
+## Annual Increment
+Every year employees are given an increment in their salary. The pay in the pay band increases by 3% of the basic pay (Band Pay + AGP). Note that AGP being a fixed component does not change but it is used in computing the quantum of increment.  The yearly increment is given from the first day of July every year. However, the first increment can be availed only after completing six months in a given pay. This means that if you are appointed between July and 1st January (of the following year), you are eligible for an increment in the following July but if the date of appointment is between 2nd January to June, you will have to wait for the first increment till July of the following year.  If the employee is on leave, other than casual leave, on the first day of July, the increment is given from the day when the employee rejoins the duty.
 
 
-\section{Deductions}
-	When you receive your salary slip, you will find some deductions as well. The primary deductions are:
-\begin{enumerate}	
-	\item {\em Income Tax:\/} Income tax rates are as per finance bill passed by the Parliament every year. It is possible to minimize your tax liability through some tax shelters. Almost every Department has a local expert on such matters for advising you on this. Filing an income tax return every year is compulsory. Unless the last date is extended, returns have to be filed by 31st July following the financial year for which the return is being filed. From the assessment year 2013-14 e-filing of your income tax return is mandatory. While initially you may find the process a bit cumbersome, it is actually fairly straightforward. There are some minor problems, which a more experienced colleague of yours will be able to help out with. You will need to complete a one-time registration process at {\tt http://www.incometaxindiaefiling.gov.in}. Your PAN number will be your user-id. You can view your tax credit (form 26AS) once you login (you will also be able to see it at your net banking website). Download the appropriate ITR form (usually, ITR-1 or ITR-2), fill up an excel utility and submit. (Though many in the Institute hate it, e-filing is smooth on a Microsoft platform!).  On successful submission of your return, the system will generate an acknowledgement (called ITR-V). Take a print out of this acknowledgement, sign it and send it to the address mentioned in this form by ordinary post or speed post and you are done.  (Incidentally ITR-V is password protected with a long 18 digit password consisting of your pan number in lower case followed by  your date of birth in ddmmyyyy format.) You can get all the necessary information from the Income Tax Department website ({\tt http://incometaxindia.gov.in}).
+## Deductions
+When you receive your salary slip, you will find some deductions as well. The primary deductions are:
 
-From the  financial  year (2011-12), you are not required to file your return if your taxable income does not exceed Rs 5 Lakhs and your income from interests from bank deposits does not exceed Rs 10,000 during the financial year. However, in such a case you must inform the Accounts Section of the Institute, of details of income from bank deposits. Note that if you have income from sources other than from the Institute and the bank deposits or if you are expecting a refund of income tax, you have to file a return.
+1. _Income Tax:_ Income tax rates are as per finance bill passed by
+   the Parliament every year. It is possible to minimize your tax
+   liability through some tax shelters. Almost every Department has a
+   local expert on such matters for advising you on this. Filing an
+   income tax return every year is compulsory. Unless the last date is
+   extended, returns have to be filed by 31st July following the
+   financial year for which the return is being filed. From the
+   assessment year 2013-14 e-filing of your income tax return is
+   mandatory. While initially you may find the process a bit
+   cumbersome, it is actually fairly straightforward. There are some
+   minor problems, which a more experienced colleague of yours will be
+   able to help out with. You will need to complete a one-time
+   registration process at http://www.incometaxindiaefiling.gov.in
+   . Your PAN number will be your user-id. You can view your tax
+   credit (form 26AS) once you login (you will also be able to see it
+   at your net banking website). Download the appropriate ITR form
+   (usually, ITR-1 or ITR-2), fill up an excel utility and
+   submit. (Though many in the Institute hate it, e-filing is smooth
+   on a Microsoft platform!).  On successful submission of your
+   return, the system will generate an acknowledgement (called
+   ITR-V). Take a print out of this acknowledgement, sign it and send
+   it to the address mentioned in this form by ordinary post or speed
+   post and you are done.  (Incidentally ITR-V is password protected
+   with a long 18 digit password consisting of your pan number in
+   lower case followed by your date of birth in ddmmyyyy format.) You
+   can get all the necessary information from the Income Tax
+   Department website http://incometaxindia.gov.in.
+
+   From the financial year (2011-12), you are not required to file
+    your return if your taxable income does not exceed Rs 5 Lakhs and
+    your income from interests from bank deposits does not exceed Rs
+    10,000 during the financial year. However, in such a case you must
+    inform the Accounts Section of the Institute, of details of income
+    from bank deposits. Note that if you have income from sources
+    other than from the Institute and the bank deposits or if you are
+    expecting a refund of income tax, you have to file a return.
 
 
-	\item {\em Profession Tax:\/} Currently Rs 2500/- per year.
+2. _Profession Tax:_ Currently Rs 2500/- per year.
 
-	\item Contribution to CPF/GPF/NPS
+3. Contribution to CPF/GPF/NPS
 
-	\item License Fee and utility charges for your quarter in the campus.
-\end{enumerate}
+4. License Fee and utility charges for your quarter in the campus.
 
-\section {Leave Travel Concession (LTC)}
-Once every two years, you are eligible for a paid travel to your home town. For the purpose of LTC, block years are defined for two years starting January 1$^{st}$ of an even year (e.g. 2012) to December 31$^{st}$ of an odd year. If you do not avail LTC during this block year it generally lapses. However, it has been the practice of the Government to  allow for a grace year, i.e. LTC for the block year 2012-13 can be availed (i.e. outward journey commenced) up to  31$^{st}$ December 2014.
-\par
+
+## Leave Travel Concession (LTC)
+Once every two years, you are eligible for a paid travel to your home town. For the purpose of LTC, block years are defined for two years starting January 1st of an even year (e.g. 2012) to December 31st of an odd year. If you do not avail LTC during this block year it generally lapses. However, it has been the practice of the Government to  allow for a grace year, i.e. LTC for the block year 2012-13 can be availed (i.e. outward journey commenced) up to  31st December 2014.
+
 Two of the above blocks are combined together to define a four year block, e.g., the  block 2010-11 and the next block 2012-13 define a four year block 2010-2013. In this four year block, one can take LTC for home town in one two-year block and another LTC to anywhere in India (including home town) in the other two-year block. The four-year block also has a grace period of one year, i.e. the 2010-13 block must be utilized (i.e. outward journey commenced) before 31.12.2014.
-\par
-\subsection {Eligibility} 
-You must have had one year service in the block to be eligible for LTC in the block, i.e. those appointed up to 31.12.12 are  eligible for LTC in the block year 2012-13 but those appointed after this day are not eligible.
-\par
-All the declared dependents are eligible for LTC and the travel need not be taken up together. All return journeys must be completed within six months of outward journey.
-\par
-If both the spouses are working for the Institute, they can claim LTC separately only if the declared dependents are different, i.e. if the wife has declared her parents to be dependent on her, she can claim for them separately. The children can avail LTC only from one of the parents. If you take LTC for spouse under your LTC entitlement, he/she cannot independently claim LTC for self. Each spouse can declare separate ``Home Town" and take LTC for their respective hometowns. 
-\subsection {Special provision for New Appointees}
- Fresh appointees are eligible for LTC once every year for two blocks of four years each. This means that during the first eight years of service an employee can avail one LTC every year. The definition of the Block years remain the same. (Illustration: Suppose an employee joined in 2011. (S)he can take one year LTC for home town in 2012 and 2013 or (s)he may avail one hometown and one anywhere in India LTC in the block 2012-2013. In the next block, i.e. 2014-2017 (s)he can avail three home towns and one anywhere in India and so on till (s)he completes eight years of service.)
-\subsection{Encashment of Leave for LTC}
-  Normally, Government employees cannot encash their accumulated earned leave excepting at the time of retirement. However, at the time of taking LTC an employee is permitted to encash up to 10 days of accumulated earned leave subject to the condition that such encashment will not exceed sixty days during the entire career of an employee. If both husband and wife are employees, each can encash such earned leave even when they are traveling together.  The encashment of earned leave for the purpose of LTC will not have any bearing on the maximum number of days (300) for which earned leave can be cashed at the time of retirement.
-\subsection{Travel Eligibility} 
-  The employee and all dependents are eligible to travel by air\footnote{At present, for all official purposes, travel is permitted only by Air India. Waivers can only be granted (on a case-by-case basis, by the Ministry of Civil Aviation (MCA).}  if the AGP of the employee is  Rs. 5400/-  and above. They are also eligible to travel by AC-First Class if traveling by train (provided the AGP is Rs. 7600 or higher). Those with AGP of Rs 10,000 and above (and those who are in HAG scale) can travel in Business/Club class by Air while those below can only avail economy class\footnote{As what is (hopefully a temporary) austerity measure, business class travel is presently suspended for LTC. Extending the same logic, at IITB, faculty members are strongly advised to travel only by economy class irrespective of eligibility, even when on official travel.}.   Please note that no taxi or road mileage is admissible to reach the airport/railway station or for internal travel to destination except where road travel is done by buses run by Govt. organizations (for which you will have to produce the tickets). LTC rules are strictly observed and it is necessary to attach Xerox copies of your tickets along with your claim (In case of Air travel Boarding Passes must be retained and produced along with e-tickets; production of an e-ticket without the boarding passes is not acceptable as proof of travel. (For journeys which involve water transport, detailed rules are available which may be checked with the administration).
-\subsection{LTC Advance}
-   90\% of the estimated cost of journey can be taken as an advance, only where the journey is expected to be completed by all persons travelling (including the return journey) within 90 days of taking the advance. In case the expected date of completion is more than 90 days, please draw advance only for outward journey.
-\par
-   When LTC advance is drawn and the tickets purchased for an amount lower than the advance drawn, the excess amount should be refunded to the Institute immediately. If this is not done penal interest on the excess amount is charged, which cannot be waived by authorities.
-\par
-   The employee must take formal leave for availing LTC for self. You cannot avail LTC using only the officially closed days. The leave can be even a casual leave, in which case it is convenient to enclose a xerox copy of your casual leave card along with the final LTC claim. Faculty members can avail LTC during vacation also, but with prior intimation (with the destination specified) to administration. Submit the final LTC claim as soon as the return journey is completed.%%%%%%%%%%%%%%%
 
-\section{Telephone Expense Reimbursement}
-A faculty member is entitled to reimbursement of telephone (landline at home and/or mobile connection) expenses up to Rs 18,000/- (Rs. 21600/- for a Professor) per financial year. The amount includes an amount of Rs 4800/- towards internet connection at home. Since internet connections for all campus residence are provided by the Institute, the amount is accordingly reduced for campus residents. For those not staying on campus (including those staying in Institute-leased accommodation off campus) the full amount is available for reimbursement provided they have supporting evidence for internet connection at home. 
+### Eligibility
+You must have had one year service in the block to be eligible for LTC in the block, i.e. those appointed up to 31.12.12 are  eligible for LTC in the block year 2012-13 but those appointed after this day are not eligible.
+
+All the declared dependents are eligible for LTC and the travel need not be taken up together. All return journeys must be completed within six months of outward journey.
+
+If both the spouses are working for the Institute, they can claim LTC separately only if the declared dependents are different, i.e. if the wife has declared her parents to be dependent on her, she can claim for them separately. The children can avail LTC only from one of the parents. If you take LTC for spouse under your LTC entitlement, he/she cannot independently claim LTC for self. Each spouse can declare separate ``Home Town" and take LTC for their respective hometowns. 
+### Special provision for New Appointees
+Fresh appointees are eligible for LTC once every year for two blocks
+of four years each. This means that during the first eight years of
+service an employee can avail one LTC every year. The definition of
+the Block years remain the same. (Illustration: Suppose an employee
+joined in 2011. (S)he can take one year LTC for home town in 2012 and
+2013 or (s)he may avail one hometown and one anywhere in India LTC in
+the block 2012-2013. In the next block, i.e. 2014-2017 (s)he can avail
+three home towns and one anywhere in India and so on till (s)he
+completes eight years of service.) 
+
+### Encashment of Leave for LTC
+Normally, Government employees cannot encash their accumulated earned
+leave excepting at the time of retirement. However, at the time of
+taking LTC an employee is permitted to encash up to 10 days of
+accumulated earned leave subject to the condition that such encashment
+will not exceed sixty days during the entire career of an employee. If
+both husband and wife are employees, each can encash such earned leave
+even when they are traveling together.  The encashment of earned leave
+for the purpose of LTC will not have any bearing on the maximum number
+of days (300) for which earned leave can be cashed at the time of
+retirement.
+
+### {Travel Eligibility}
+The employee and all dependents are eligible to travel by
+air[^airindia].  if the
+AGP of the employee is Rs. 5400/- and above. They are also eligible to
+travel by AC-First Class if traveling by train (provided the AGP is
+Rs. 7600 or higher). Those with AGP of Rs 10,000 and above (and those
+who are in HAG scale) can travel in Business/Club class by Air while
+those below can only avail economy class[^economyclass].  Please
+note that no taxi or road mileage is admissible to reach the
+airport/railway station or for internal travel to destination except
+where road travel is done by buses run by Govt. organizations (for
+which you will have to produce the tickets). LTC rules are strictly
+observed and it is necessary to attach Xerox copies of your tickets
+along with your claim (In case of Air travel Boarding Passes must be
+retained and produced along with e-tickets; production of an e-ticket
+without the boarding passes is not acceptable as proof of travel. (For
+journeys which involve water transport, detailed rules are available
+which may be checked with the administration). 
+
+[^airindia]: At present, for all official purposes, travel is
+permitted only by Air India. Waivers can only be granted (on a
+case-by-case basis, by the Ministry of Civil Aviation (MCA).
+
+[^economyclass]: As what is (hopefully a temporary) austerity measure,
+business class travel is presently suspended for LTC. Extending the
+same logic, at IITB, faculty members are strongly advised to travel
+only by economy class irrespective of eligibility, even when on
+official travel.
+
+### LTC Advance
+90% of the estimated cost of journey can be taken as an advance, only
+where the journey is expected to be completed by all persons
+travelling (including the return journey) within 90 days of taking the
+advance. In case the expected date of completion is more than 90 days,
+please draw advance only for outward journey. 
+
+When LTC advance
+is drawn and the tickets purchased for an amount lower than the
+advance drawn, the excess amount should be refunded to the Institute
+immediately. If this is not done penal interest on the excess amount
+is charged, which cannot be waived by authorities.
+
+The employee
+must take formal leave for availing LTC for self. You cannot avail LTC
+using only the officially closed days. The leave can be even a casual
+leave, in which case it is convenient to enclose a xerox copy of your
+casual leave card along with the final LTC claim. Faculty members can
+avail LTC during vacation also, but with prior intimation (with the
+destination specified) to administration. Submit the final LTC claim
+as soon as the return journey is completed.%%%%%%%%%%%%%%%
+
+
+## Telephone Expense Reimbursement
+
+A faculty member is entitled to reimbursement of telephone (landline at home and/or mobile connection) expenses up to Rs 18,000/- (Rs. 21,600/- for a Professor) per financial year. The amount includes an amount of Rs 4800/- towards internet connection at home. Since internet connections for all campus residence are provided by the Institute, the amount is accordingly reduced for campus residents. For those not staying on campus (including those staying in Institute-leased accommodation off campus) the full amount is available for reimbursement provided they have supporting evidence for internet connection at home. 
+
 To claim this, telephone bills (including mobile bills and bills for internet charges) should be submitted to the accounts section. Though bills can be submitted as and when the faculty desires, it is customary to submit consolidated claim either annually or semi-annually. As it is a reimbursement, no tax liability is due on this amount.
 
-\section{Children's Education Allowance}
-    Expense incurred in putting up to two children through school (from nursery to twelfth class) can be reimbursed subject to an annual ceiling of Rs 15,000. Allowed expenses which can be claimed under this head include tuition fee, admission fee, laboratory fee, special fee charged for electronics, agriculture, sports fee, Library fee, cost of purchase on set of text books and note books, two sets of uniforms (including one pair of shoes) etc. Reimbursement can be claimed at the rate of Rs 3750 per quarter or for the full amount in the last quarter of the financial year. The quantum of reimbursement for disabled children is twice this amount. 
+## Children's Education Allowance
+Expense incurred in putting up to two children through school (from nursery to twelfth class) can be reimbursed subject to an annual ceiling of Rs 15,000. Allowed expenses which can be claimed under this head include tuition fee, admission fee, laboratory fee, special fee charged for electronics, agriculture, sports fee, Library fee, cost of purchase on set of text books and note books, two sets of uniforms (including one pair of shoes) etc. Reimbursement can be claimed at the rate of Rs 3750 per quarter or for the full amount in the last quarter of the financial year. The quantum of reimbursement for disabled children is twice this amount. 
 
-\section{Family Planning Allowance}
-    If an employee or the spouse has undergone a sterilization operation (subject to some conditions) and have no more than two surviving children, he/she will be eligible for a special allowance which varies between Rs 800 to Rs 1000 per month for a faculty member depending on the AGP of the faculty member at the time of the operation (it then remains unchanged for the entire service). 
+## Family Planning Allowance
+If an employee or the spouse has undergone a sterilization operation
+(subject to some conditions) and have no more than two surviving
+children, he/she will be eligible for a special allowance which varies
+between Rs 800 to Rs 1000 per month for a faculty member depending on
+the AGP of the faculty member at the time of the operation (it then
+remains unchanged for the entire service).
 
-\section{Cumulative Professional Development Allowance (CPDA)}
-    An allowance of Rs 3 Lakhs for a block of three years  is made available to faculty members (including faculty on contractual basis) on reimbursable basis to enable presentation of their research work in conferences, paying the membership fee of various professional bodies, books and contingent expenses. Dean (FA) is the approving authority for expenditure under this head. The conference amount is primarily intended for international conferences but may be spent for National conferences as well if support for the latter cannot be provided by the Department. CPDA cannot be utilized during the period in which a faculty member may be on lien or extraordinary leave. 
-\subsection{Rules governing CPDA}
-    \begin{enumerate}
-		\item Out of the amount of Rs 3 lakh mentioned above, a minimum of Rs 2 Lakhs is earmarked for presenting papers at conferences and a maximum Rs 1 Lakh can be spent towards membership of professional bodies, contingent expenses (includes purchase of books, stationeries, computers and related items, electronic devices for professional use)\footnote{The split can be changed to 1.5 lakh each for conferences and contingency provided the latter can be justified on the basis of rare and expensive books.}. This implies that expenses towards attending conferences can be more than Rs 2 Lakhs with a corresponding reduction in the allocation for other expenses. Acceptance of a paper is a requirement for approval of expenses towards conferences. Expenses for a conference includes cost of travel (by Air India), local transport, overseas medical insurance, cost of visa, registration fee and living expenses @ US \$ 250 per day   for the period of conference and two additional days (for travel) preceding/succeeding the conference, subject to a maximum of (5+2) days.  If this amount falls  short of what the actual expense turns out to be, you may supplement this from other sources (projects, travel grants from organizations like DST etc).
-		\item The contingent expenses provided above cannot be spent in one go. Out of the maximum allocation of Rs 1 lakh in the block of three years, an amount up to Rs 33,000 can be spent in the year one, a further Rs 33000 plus the unused portion of the first year's allocation in year two and the entire unspent balance out of the total allocation in the last year. 
-		%\item On appropriate justification, the contingency part of the CPDA can be extended to Rs. 1.5 lakh only for purchase of expensive and rare books.
-		\item If one has used up the conference grants as mentioned above, but has a paper accepted in a prestigious conference falling within the same block, the Institute has made a provision for granting upto an additional Rs. 1 lakh from its own funds.
-		\item  {\em Use of CPDA for National Conferences:\/} Generally, a faculty member can expect approval for attending one national conference every year. The funds come out of departmental grants and HoD is the approving authority. HoDs are authorized to sanction rail fare and Apex airfare on Air India, beyond which Director's sanction is required. If the department finds itself unable to support such expenditure, a faculty member can use CPDA for presenting papers at national conferences also.
-\end{enumerate}
-    
-\section{Loans}
-      The Institute provides loans  for purchase of a car, motorcycle, scooter or a personal computer. These loans bear interest.  The Institute also has provision for a loan for buying a flat or building a house. Details of these may be ascertained from the Administration. 
+## Cumulative Professional Development Allowance (CPDA)
+An allowance of Rs 3 Lakhs for a block of three years  is made available to faculty members (including faculty on contractual basis) on reimbursable basis to enable presentation of their research work in conferences, paying the membership fee of various professional bodies, books and contingent expenses. Dean (FA) is the approving authority for expenditure under this head. The conference amount is primarily intended for international conferences but may be spent for National conferences as well if support for the latter cannot be provided by the Department. CPDA cannot be utilized during the period in which a faculty member may be on lien or extraordinary leave. 
 
+### {Rules governing CPDA}
+1. Out of the amount of Rs 3 lakh mentioned above, a minimum of Rs 2 Lakhs is earmarked for presenting papers at conferences and a maximum Rs 1 Lakh can be spent towards membership of professional bodies, contingent expenses (includes purchase of books, stationeries, computers and related items, electronic devices for professional use)[^splitnote]. This implies that expenses towards attending conferences can be more than Rs 2 Lakhs with a corresponding reduction in the allocation for other expenses. Acceptance of a paper is a requirement for approval of expenses towards conferences. Expenses for a conference includes cost of travel (by Air India), local transport, overseas medical insurance, cost of visa, registration fee and living expenses @ US \$ 250 per day   for the period of conference and two additional days (for travel) preceding/succeeding the conference, subject to a maximum of (5+2) days.  If this amount falls  short of what the actual expense turns out to be, you may supplement this from other sources (projects, travel grants from organizations like DST etc).
+2. The contingent expenses provided above cannot be spent in one go. Out of the maximum allocation of Rs 1 lakh in the block of three years, an amount up to Rs 33,000 can be spent in the year one, a further Rs 33000 plus the unused portion of the first year's allocation in year two and the entire unspent balance out of the total allocation in the last year. 
+
+3. If one has used up the conference grants as mentioned above, but has a paper accepted in a prestigious conference falling within the same block, the Institute has made a provision for granting upto an additional Rs. 1 lakh from its own funds.
+4. _Use of CPDA for National Conferences:_ Generally, a faculty member can expect approval for attending one national conference every year. The funds come out of departmental grants and HoD is the approving authority. HoDs are authorized to sanction rail fare and Apex airfare on Air India, beyond which Director's sanction is required. If the department finds itself unable to support such expenditure, a faculty member can use CPDA for presenting papers at national conferences also.
+
+[^splitnote]: {The split can be changed to 1.5 lakh each for conferences and contingency provided the latter can be justified on the basis of rare and expensive books.}
+
+## Loans
+The Institute provides loans for purchase of a car, motorcycle, scooter or a personal computer. These loans bear interest.  The Institute also has provision for a loan for buying a flat or building a house. Details of these may be ascertained from the Administration. 
+
+<!---
 \section{Entitlement for work related travel}
        While you travel on duty, your TA/DA entitlement is governed by your grade pay (AGP) alone.  According to the new rules, all Professors (including those on HAG scale) are entitled to travel by business class while traveling by Air. All other faculty members are entitled to travel in Economy class\footnote{Currently, if you are using Government funds, you have to travel by Air India only.} (see however, austerity-related policy described in the footnote to the section on {\em Travel eligibility\/}).  For all faculty (except Assistant Professors on contractual basis\footnote{For these faculty the entitlement is limited to 2$^{nd}$ AC class by rail.}), AC First class travel is permitted in train travel.  Please remember to submit your TA bill along with boarding passes and e-ticket copy.  (This is also Government of India's policy on International travel but please contact Accounts section for business class International travel).
 For road travel, Professors may use AC taxies while for all others ordinary taxi is permitted. All faculty are entitled to travel by any type of public bus including Air-conditioned buses. If you travel by your own car or taxi (in places where metered taxies are not available), you could claim up to Rs 16/- per kilometer. 
