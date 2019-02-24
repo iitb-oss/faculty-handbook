@@ -11,7 +11,7 @@ header-includes:
   ```
 ---
 
-# Faculty Handbook
+# Preface
 
 The need for a handy booklet to consolidate the information a faculty
 member is likely to need in navigating through her career at IIT
