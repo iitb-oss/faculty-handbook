@@ -273,19 +273,90 @@ If you are joining as a fresh faculty as an _Assistant Professor_, you are eligi
 
 Immediately on joining:
 
-1. You have to make a visit to the Administration Section to complete joining formalities. For this purpose you need
-   a. original and copies of all academic certificates from SSC (10th Board) to Ph.D. SSC or HSC certificate which gives your date of birth is very important as the Administration does not accept any other proof of date of birth.
-   b. several passport size photographs for various purposes.
-   c. if you were previously employed, a certificate stating that you have been relieved of your position there.
-2. The Administration section will, in turn, give you several letters and forms. Two letters of immediate importance are the ones to (i) Chairman, Accommodation Allotment Committee (AAC), requesting that a quarter be allotted to you and (ii) IIT Hospital, to examine you and certify that you are medically fit.
-3. Take the Accommodation Committee letter to the Estate Office and give it to the person looking after accommodation matters[^accommodation] who will tell you about the possibilities that exist. The _ad-hoc_ provided to you is likely to be either a Vihar House flat or a flatlet in the Staff Hostel. The accommodation is very basic and consists of a one room-kitchen accommodation (Vihar House) or a one Bedroom-Hall-Kitchen (one BHK in Mumbai lingo) in the Staff Hostel Annexe, depending on availability. (If you happen to have joined the Institute directly as a Professor, you will get a C-type quarter - 2 or 3 BHK - as your ad-hoc allotment). Moving to regular accommodation takes time (one to two years at present, but expected to come down to a matter of a few months by mid-2014) and allotment of regular accommodation is done by a seniority rule[^allotmentrules] for accommodation allotment rules and updates.}. The quarters do not come furnished and you will have to furnish it yourself. A home telephone connected to the internal exchange will be provided which does not have outside call facilities. You may decide to get a personal telephone connection either from MTNL or from one of the private  operators. Your quarter also has internet facilities connected to the Institute network.
-4. Retain your accommodation allotment letter in a safe place, as it will serve as proof of address for various purposes; in particular, it will come in useful for applying for a LPG cooking cylinder connection or for getting a Ration Card. While the importance of a Ration Card has now diminished substantially, LPG connection is essential if you plan to cook at home. Take your accommodation allotment letter to Maharashtra Gas Service, which is located in the building known as `Powai Plaza' at the Pizza Hut junction on the main road outside IIT (Adi Shankaracharya Marg). You will have to make some deposits to get a gas connection, which fortunately does not take much time.
-5. The letter to IIT Hospital is to be presented to the Hospital reception, where an appointment will be scheduled for your medical examination.
-6. There are a few other forms to be filled up, viz. an attestation form, a form declaring your dependents, a form for joining the Group Insurance Scheme and exercising your option for joining the Defined Contributory Pension Scheme (DCPS).
-   i. _Group Insurance Scheme_ provides for an insurance cover of Rs. 8 Lakhs during the service period of an employee. A premium of Rs. 800 per month is directly debited from your salary. A part of the premium is invested and is refunded with interest at the time of retirement (or leaving the Institute) while another part pays for the insurance cover. There is no annuity payable for this insurance.
-   ii. Faculty joining the service after 1st January, 2004 have to join the _National Pension Scheme_ or NPS, details of which are given further on. For people joining earlier to this date, there was the _Provident Fund (PF) Scheme_ -- compulsory, though called an option because of an option of joining either a Pension scheme (GPF) or a non-pension Contributory PF (CPF).
-   iii. _Attestation Form_ is to be filled up so that the Institute can verify that you have not been involved in criminal activities in the past. You will have to provide all addresses where you have resided during the preceding five years. A clearance from the police is mandatory before your services are made permanent (a process termed as confirmation).
-   iv. _Dependents:_ You will have to make a declaration of your dependents who will be eligible for various service facilities like Leave Travel Concession, Medical benefits etc. Your spouse is treated as a dependent, whether employed or not. Sons are dependents till the age of 25 or till they start earning, whichever comes first (no age bar for permanently disabled sons). Daughters are considered dependents till they start earning or till they get married, whichever is earlier. You can declare your parents as dependent provided they live with you and do not have independent income (exceeding Rs. 3500 per month) of their own.
+1. You have to make a visit to the Administration Section to complete
+   joining formalities. For this purpose you need
+     a. original and copies of all academic certificates from SSC (10th Board) to Ph.D. SSC or HSC certificate which gives your date of birth is very important as the Administration does not accept any other proof of date of birth.
+	 b. several passport size photographs for various purposes.
+	 c. if you were previously employed, a certificate stating that you have been relieved of your position there.
+2. The Administration section will, in turn, give you several letters
+   and forms. Two letters of immediate importance are the ones to (i)
+   Chairman, Accommodation Allotment Committee (AAC), requesting that
+   a quarter be allotted to you and (ii) IIT Hospital, to examine you
+   and certify that you are medically fit.
+3. Take the Accommodation Committee letter to the Estate Office and
+   give it to the person looking after accommodation
+   matters[^accommodation] who will tell you about the possibilities
+   that exist. The _ad-hoc_ provided to you is likely to be either a
+   Vihar House flat or a flatlet in the Staff Hostel. The
+   accommodation is very basic and consists of a one room-kitchen
+   accommodation (Vihar House) or a one Bedroom-Hall-Kitchen (one BHK
+   in Mumbai lingo) in the Staff Hostel Annexe, depending on
+   availability. (If you happen to have joined the Institute directly
+   as a Professor, you will get a C-type quarter - 2 or 3 BHK - as
+   your ad-hoc allotment). Moving to regular accommodation takes time
+   (one to two years at present, but expected to come down to a matter
+   of a few months by mid-2020) and allotment of regular accommodation
+   is done by a seniority rule[^allotmentrules]. The quarters do not
+   come furnished and you will have to furnish it yourself. A home
+   telephone connected to the internal exchange will be provided which
+   does not have outside call facilities. You may decide to get a
+   personal telephone connection either from MTNL or from one of the
+   private operators. Your quarter also has internet facilities
+   connected to the Institute network.
+4. Retain your accommodation allotment letter in a safe place, as it
+   will serve as proof of address for various purposes; in particular,
+   it will come in useful for applying for a LPG cooking cylinder
+   connection or for getting a Ration Card. While the importance of a
+   Ration Card has now diminished substantially, LPG connection is
+   essential if you plan to cook at home. Take your accommodation
+   allotment letter to Maharashtra Gas Service, which is located in
+   the building known as 'Powai Plaza' on the main road outside IIT on
+   Adi Shankaracharya Marg (there used to be a at the Pizza Hut at
+   that location in the past, so that location is still referred to as
+   Pizza Hut junction!). You will have to make some deposits to get a
+   gas connection, which fortunately does not take much time.
+5. The letter to IIT Hospital is to be presented to the Hospital
+   reception, where an appointment will be scheduled for your medical
+   examination.
+6. There are a few other forms to be filled up, viz. an attestation
+   form, a form declaring your dependents, a form for joining the
+   Group Insurance Scheme and exercising your option for joining the
+   Defined Contributory Pension Scheme (DCPS).
+
+   i. _Group Insurance Scheme_ provides for an insurance cover of
+      Rs. 8 Lakhs during the service period of an employee. A premium
+      of Rs. 800 per month is directly debited from your salary. A
+      part of the premium is invested and is refunded with interest at
+      the time of retirement (or leaving the Institute) while another
+      part pays for the insurance cover. There is no annuity payable
+      for this insurance.
+
+   ii. Faculty joining the service after 1st January, 2004 have to
+       join the _National Pension Scheme_ or NPS, details of which are
+       given further on. For people joining earlier to this date,
+       there was the _Provident Fund (PF) Scheme_ -- compulsory,
+       though called an option because of an option of joining either
+       a Pension scheme (GPF) or a non-pension Contributory PF (CPF).
+
+   iii. _Attestation Form_ is to be filled up so that the Institute
+       can verify that you have not been involved in criminal
+       activities in the past. You will have to provide all addresses
+       where you have resided during the preceding five years. A
+       clearance from the police is mandatory before your services are
+       made permanent (a process termed as confirmation).
+
+   iv. _Dependents:_ You will have to make a declaration of your
+       dependents who will be eligible for various service facilities
+       like Leave Travel Concession, Medical benefits etc. Your spouse
+       is treated as a dependent, whether employed or not. Sons are
+       dependents till the age of 25 or till they start earning,
+       whichever comes first (no age bar for permanently disabled
+       sons). Daughters are considered dependents till they start
+       earning or till they get married, whichever is earlier. You can
+       declare your parents as dependent provided they live with you
+       and do not have independent income (exceeding Rs. 3500 per
+       month) of their own.
+
 7. Now that you are done with the Administration Section, return to your Department and fill up a joining report form which will be signed by the Head of the Department and sent to the Administration. The Department will provide you with an office space equipped with a telephone (with limited local and STD (long distance) facility) and of course stationeries. A personal desktop computer with internet connection will also come within a few days.
 8. Once the Administration processes your joining report, intimation of your having joined is sent to various sections such as the Library, Security Section, Hospital etc. You and your family members will be photographed and identity cards issued by the Security Section located on the ground floor of the Main Building. For the employee, the identity card doubles as the Library card as well. You will have an _employee salary code_ number which you will need in connection with all payments and financial transactions within the Institute. It is good to memorize this even though you usually have your identity card  handy.
 9. With joining formalities completed, you have to pay attention to other issues, like getting a child admitted to a school. The campus has two schools, one Kendriya Vidyalaya (Central School), affiliated to Central Board of Secondary Education (CBSE) and the other, Campus School, affiliated to the Maharashtra State Board. Campus School is exclusively for the children of IIT employees while in the Kendriya Vidyalaya most of the seats are reserved for them. You are likely to have some anxious moments before your child gets an admission, but eventually it works out. In case of exceptional difficulty in getting admission into the Kendriya Vidyalaya, our Director, who is the Chairman of the Vidyalaya Management Committee always helps out by exercising his discretionary quota. There is also a Professor-in-Charge[^kvprof]. who you may contact for helpful advice in case of difficulties. The Campus School also has a kindergarten school for children above the age of three. For younger kids there is a private creche (Sishu Vihar, currently temporarily located in the Lake side near the main gate of the Institute), and run by an NGO.
@@ -294,9 +365,10 @@ Immediately on joining:
 12. _UID Number (or Aadhar Number):_ When you have a bit of time to spare, get a photo identification issued by the Unique Identification Authority of India. Administration will be able to provide you with details of the nearest data collection center at which an application can be lodged (at certain times centers were operated on campus also). It is a good idea to take this for your whole family in one go.
 13. You will need to get a bank account so that your salary can be deposited at the bank. There are branches of two banks on campus, viz. State Bank of India and Canara Bank. Drop in there with your identity proof and a photograph and open a bank account. You may require one of your colleagues holding an account in the same branch to provide an introduction. There are several private banks (HDFC, ICICI, Axis Bank, South Indian Bank), public sector banks (e.g. Oriental Bank of Commerce, Andhra Bank, Vijaya Bank etc.), foreign banks (HSBC) around IIT, particularly in the area known as Hiranandani Gardens.
 
-[^accommodation]: currently, Mr. Ravindran.
+[^accommodation]: currently, Mr. Unnithan.
 
-[^allotmentrules]: Refer to  http://www.iitb.ac.in/deanpl/allotment.html
+[^allotmentrules]: Refer to  http://www.iitb.ac.in/deanpl/allotment.html for accommodation
+   allotment rules and updates
 
 [^kvprof]: Currently, Prof. Virendra Sethi, Centre for Environmental Science and Engineering.
 
