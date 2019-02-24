@@ -2,12 +2,13 @@
 title: Faculty Handbook
 numbersections: true
 documentclass: amsbook
-papersize: a5
-fontsize: 11pt
+classoptions: 11pt
 header-includes:
 - |
   ```{=latex}
   \usepackage{times}
+  \usepackage{geometry}
+  \geometry{a5paper}
   ```
 ---
 
