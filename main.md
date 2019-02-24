@@ -202,7 +202,7 @@ The powers vested in the Director have been delegated to various functionaries i
 [^adeanips]: Currently, Prof B.V. Vishwanadham of the Department of
     Civil Engg. and Prof. Kishore Chatterjee of the Department of
     Electrical Engineering.
-	
+
 [^deansa]: Currently, Prof. U.A. Yajnik, Department of Physics.
 
 [^adeansa]: Currently, Prof Anindya Datta, Department of Chemistry.
@@ -450,7 +450,7 @@ The Institute website (see 'Recruitment' link) carries the minimum eligibility c
 5. _Transport Allowance:_ All employees, irrespective of whether they live within the campus or commute from outside, are eligible to receive a transport allowance. For those in the faculty cadre, the rate of transport allowance is Rs. 3200 per month. In addition, the Dearness Allowance at prevailing rate is payable on this amount as well. (Note: The transport allowance payable to the blind or orthopedically handicapped employees is double this rate).
 
 [^danote]: Currently (from July 2011), the Dearness Allowance is 90\% of basic pay. The next increase in the Dearness allowance will be from Jan 2014.
-	
+
 ## Annual Increment
 Every year employees are given an increment in their salary. The pay in the pay band increases by 3% of the basic pay (Band Pay + AGP). Note that AGP being a fixed component does not change but it is used in computing the quantum of increment.  The yearly increment is given from the first day of July every year. However, the first increment can be availed only after completing six months in a given pay. This means that if you are appointed between July and 1st January (of the following year), you are eligible for an increment in the following July but if the date of appointment is between 2nd January to June, you will have to wait for the first increment till July of the following year.  If the employee is on leave, other than casual leave, on the first day of July, the increment is given from the day when the employee rejoins the duty.
 
@@ -756,68 +756,172 @@ The Institute Hospital provides all major vaccinations for children. It is a goo
 
 The hospital has an ambulance which works 24 $\times$ 7 for transportation of patients within the campus and for transporting patients to hospitals outside when referred to by IIT Hospital.
 
-<!---
-\subsection{OPD facilities for visiting parents} Though they may not be officially your dependents, the Institute offers OPD facilities to visiting parents of the employee and of employee's spouse. This facility is offered for a period of six months on payment of Rs 1,000/- and for a year on payment of Rs 2,000/-. They will be treated on `non-entitled' basis; however, medicines etc. will have to be purchased from outside without any reimbursement.
-\subsection{Medical advance, reimbursement, etc.} When an employee or a dependent is admitted to an outside hospital, up to 80\% of the estimated cost can be provided as an advance to the employee.
-\par
-For the benefit of staff members staying outside the campus (as also for staff on vacation/leave), a list of Medicare Centres/Hospitals\footnote{These hospitals, at present, are: Pragati Mitra Mandal (Mulund(W)), Smt. Nand Kunverben Rasiklal Seth Hosp. (Borivli(W)), Maland Jain Yuvak Mandal Med. Relief Centre (Malad(W)), Lions Clinic(Matunga), Vasani Diagnostic Centre(Andheri) and Seth Nanji Gangji Charitable Polyclinic (Dombivali). See the hospital website for up-to-date information.}  are approved for OPD treatment. Medicines purchased on prescription by doctors from these hospitals are reimbursed fully. However, further referrals from these hospitals to outside hospitals need to be sanctioned by IIT Hospital.
-\par
-For reimbursement, separate forms for OPD (inclusive of cost of medicine purchased from outside) and indoor treatment,  available in the Hospital office\footnote{These and most other forms you may require are also downloadable from {\tt http://asc.iitb.ac.in}.}, should be filled up and submitted along with cash memos within three months. Please note that except in case of emergency, no reimbursement is permissible unless the reference was made by the IIT Hospital to the outside hospital.
-\section{Healthcare after retirement} The Institute has two schemes to take care of your and your spouse's medical requirements after retirement. Both the schemes are contributory.
-\begin{enumerate}
-	\item {\em Contributory Medical Scheme (CMS):\/} The scheme entitles you and your spouse to avail of OPD treatment in the IIT Hospital. You have to pay a one time Rs. 8000/- to join the scheme. All OPD facilities of the IIT Hospital (consultancy, diagnostic tests etc.) can be availed by employee and his/her spouse. Medicines available at the Pharmacy are also given to CMS members without charge. However, no indoor hospitalization is possible and no reimbursement of any kind is provided.
-	\item {\em Post-Retirement Medical Scheme (PRMS):\/} The scheme has been introduced to take care of hospitalization needs of the employee and spouse. Employee has to pay a net contribution of Rs 36,000/- (payable over a maximum 240 installments during the service from salary) to join the scheme. Hospitalization expense in a very large number of hospitals in the country can be reimbursed up to a maximum cumulative limit of Rs 10 Lakhs for both spouses combined. No medical advance is available under the scheme nor any provision for direct payment to the hospitals exist. The employee has to bear the expenses first and claim for reimbursement from the Institute.  (Joining this scheme is compulsory for all employees who join(ed) the Institute on or after 1st July, 2003).
-\end{enumerate}
+### OPD facilities for visiting parents
+Though they may not be officially your dependents, the Institute offers OPD facilities to visiting parents of the employee and of employee's spouse. This facility is offered for a period of six months on payment of Rs 1,000/- and for a year on payment of Rs 2,000/-. They will be treated on 'non-entitled' basis; however, medicines etc. will have to be purchased from outside without any reimbursement.
 
-\chapter{Retirement Benefits}
+### Medical advance, reimbursement, etc.
+When an employee or a dependent is admitted to an outside hospital, up to 80% of the estimated cost can be provided as an advance to the employee.
+
+For the benefit of staff members staying outside the campus (as also for staff on vacation/leave), a list of Medicare Centres/Hospitals[^hosplist]  are approved for OPD treatment. Medicines purchased on prescription by doctors from these hospitals are reimbursed fully. However, further referrals from these hospitals to outside hospitals need to be sanctioned by IIT Hospital.
+
+[^hosplist]: These hospitals, at present, are: Pragati Mitra Mandal (Mulund(W)), Smt. Nand Kunverben Rasiklal Seth Hosp. (Borivli(W)), Maland Jain Yuvak Mandal Med. Relief Centre (Malad(W)), Lions Clinic(Matunga), Vasani Diagnostic Centre(Andheri) and Seth Nanji Gangji Charitable Polyclinic (Dombivali). See the hospital website for up-to-date information.
+
+For reimbursement, separate forms for OPD (inclusive of cost of medicine purchased from outside) and indoor treatment,  available in the Hospital office[^websiteforms], should be filled up and submitted along with cash memos within three months. Please note that except in case of emergency, no reimbursement is permissible unless the reference was made by the IIT Hospital to the outside hospital.
+
+[^websiteforms]: These and most other forms you may require are also downloadable from http://asc.iitb.ac.in.
+
+## Healthcare after retirement
+The Institute has two schemes to take care of your and your spouse's medical requirements after retirement. Both the schemes are contributory.
+
+1. _Contributory Medical Scheme (CMS):_ The scheme entitles you and your spouse to avail of OPD treatment in the IIT Hospital. You have to pay a one time Rs. 8000/- to join the scheme. All OPD facilities of the IIT Hospital (consultancy, diagnostic tests etc.) can be availed by employee and his/her spouse. Medicines available at the Pharmacy are also given to CMS members without charge. However, no indoor hospitalization is possible and no reimbursement of any kind is provided.
+2. _Post-Retirement Medical Scheme (PRMS):_ The scheme has been introduced to take care of hospitalization needs of the employee and spouse. Employee has to pay a net contribution of Rs 36,000/- (payable over a maximum 240 installments during the service from salary) to join the scheme. Hospitalization expense in a very large number of hospitals in the country can be reimbursed up to a maximum cumulative limit of Rs 10 Lakhs for both spouses combined. No medical advance is available under the scheme nor any provision for direct payment to the hospitals exist. The employee has to bear the expenses first and claim for reimbursement from the Institute.  (Joining this scheme is compulsory for all employees who join(ed) the Institute on or after 1st July, 2003).
+
+# Retirement Benefits
 While this chapter was originally written primarily for faculty who joined the Institute before 2004 (or who joined later, but with transfer of previous services rendered in Govt or Institutions like IITs), suitable additions/provisions which apply to faculty who joined on or after 1st January, 2004 (New Pension Scheme) have now been incorporated.
 
-\section{Pension, Gratuity, Commutation of Pension etc.}
+## Pension, Gratuity, Commutation of Pension etc.
 What happens after you have served out your active life with the Institute? Most look at the period of retirement with a certain amount of anxiety because they anticipate a sharp drop in income. It is, therefore, prudent to do some planning reasonably early in life, certainly by the time you are approaching 50.
 
-\subsection{Superannuation} This is the term used for official termination of your regular appointment. It happens on the last day of the month in which you complete 65 years of age, if your birthday is from 2$^{nd}$ to the last day of the month and  on the last day of the preceding month if your birthday is the first day of the month. Usually, the Director offers you a cup of tea and hands over a few retirement cheques on this day.
-\subsection{Re-employment} Faculty members are usually reappointed till the last day of June (i.e., end of the academic year) in the year they complete 65, based on a recommendation from the department. (Further extensions are possible till the age of 70,  and are made on case-to-case basis depending on recommendations from the department.) During the period of re-employment, you receive your pension cheques as well as a component of salary in such a way that the two together do not exceed the last drawn salary.  Further, many service benefits come to an end. The reappointment letter from the Director will make it clear as to what benefits will still be available. As per the current practice, the medical facilities will continue during the period of re-employment. As per Govt. of India rules, you will continue to be eligible for LTC provided there is no break between the regular appointment and the re-employment.
-\subsection{Retirement schemes} For those who joined the Institute before 2004, there were two retirement schemes to choose from (unfortunately, of late the ministry is not allowing a change of option), {\em viz.,\/} Contributory Provident Fund-cum-gratuity Scheme (CPF) and General Provident Fund-cum-Pension-cum-gratuity Scheme (GPF). The salient features of these schemes are as follows.
-\begin{enumerate}
-	\item {\em GPF:\/} If you have chosen this scheme, you are eligible to draw a pension throughout your remaining life at a rate to be shown below. Further, after your death, your spouse will be eligible for a {\em family pension\/} too.
-	\begin{enumerate}
-		\item {\em Pension:\/} The maximum rate of pension is half the basic pay at the time of retirement, or 50\% of the average monthly remuneration drawn during the last ten months of service, whichever is beneficial\footnote{50\% of retiring salary will always be equal to or more than the 10 month average except in rare cases of a demotion or punishment during the last phase of service.}, along with the applicable rate of D.A. This requires having put in a minimum of 20 years of service, for voluntary retirees, and 10 years of qualifying service for superannuating faculty (the durations not counting extra-ordinary leave or unauthorized absence dies non or periods of suspension which are followed by major penalty).
-		\item {\em Commutation of Pension:\/} It is possible to offer to the Institute  that a percentage of your pension be commuted, i.e. you opt to receive a one time lump-sum amount and a smaller pension. The maximum commutation possible is 40\% of the basic pension. This offer may be made to the Institute either at the time of superannuation or even afterwards. However, if the offer is made after one year of superannuation, you may be required to undergo a medical examination. As experts will tell you that it is good to commute pension, an illustration of how it works is given below (the example is actually appropriate to a Professor retiring at the top of the band):
-\par
-Suppose your basic salary was Rs. 77,500/- at the time of retirement. Your basic pension is Rs 38,750/- at the time of superannuation (age 66 on your next birthday). You offer to receive 40\% less as monthly pension, i.e. receive Rs 15,500/- per month less as basic pension. The amount of lump sum payment is given by the following formula.
-$$
-\mbox{Lump sum amount} = Rs. 15,500 \times12 \times 7.591 = Rs. 14,11,926
-$$
-The unusual factor 7.591 is a factor representing the number of years the
-Government has decided that it is willing to pay you as a lump sum if your
-age next birthday is 66 at the time you opt for commutation\footnote{The factor
-reduces if you make the offer later, becoming 7.431,7.262, 7.083 and 6.897 if the age on your next birthday at the time of making the offer is respectively 67,68, 69 and 70. The factor for a person whose age next birthday is 65 is 7.731.}.
-Note that, though your basic pension will be reduced by Rs 15,500/- in the above example, the Dearness Allowance is payable on the regular pension amount of Rs. 38,500/-. Full pension will be restored to you after 15 years of receiving the commutation amount. As you grow older, till the age of 80, the pension amount changes because the D.A. changes. However, when you reach the age of 80, the basic pension increases by 20\%, at 85 : 30\% at 90: 40\% and at 95: 50\%. And if you hit a century in your life, the basic pension doubles!
+## Superannuation
+This is the term used for official termination of your regular appointment. It happens on the last day of the month in which you complete 65 years of age, if your birthday is from 2nd$ to the last day of the month and on the last day of the preceding month if your birthday is the first day of the month. Usually, the Director offers you a cup of tea and hands over a few retirement cheques on this day.
 
-		\item {\em Family Pension:\/} After the death of the employee, a reduced pension is payable to dependent family members (not payable to dependent parents if spouse and/or dependent children exist). All such dependents must have been declared before superannuation and must have continued to remain qualified as dependents. The family pension is calculated as 60\% of the basic pension defined earlier.
-\par
-In case an employee dies while in service the rate of family pension will be 50\% of the last salary drawn by the employee for a period of 10 years, after which it would revert to the regular rate stated above. In case an employee dies after retirement but before reaching 67 years of age, the family pension till such time will be equal to the pension that would have been payable had the employee not so died. In addition, applicable D.A. is also payable. Note that family pension amount is not affected by any commutation that the employee might have done. Family pension also accelerates with age beyond 80 as for regular pension.
-		\item {\em General Provident Fund (GPF):\/} This is basically what you keep aside every month from your salary. The minimum amount you have to save is 6\% of your basic pay and the maximum cannot exceed basic pay.  The amount of subscription can be increased  and/or decreased once during a financial year. The attractive thing about this is when you receive it back, the amount is tax free in your hand. Further, the subscription qualifies for tax reduction too. Government of India announces the interest payable for deposits in GPF, which is currently 8.7\%, one of the best rates of interest for securities. Loans (called advances) can be taken from your GPF to meet various contingent expenditures like illness and education related expense of dependents, obligatory family expense like marriages and sradh, to meet cost of legal proceedings or simply to buy consumer durables. Such loans must be refunded in a maximum of 24 monthly installments and are interest free (as the amount actually belongs to you!). Facility of nomination is available. One can also make permanent withdrawals from GPF for all the above mentioned purposes after 15 years of service or for purchase of an accommodation(including renovating ancestral house) any time during the service.
-		\item {\em Gratuity:\/} A lump sum amount known as gratuity is payable to an employee on superannuation. The amount payable is a fourth of the emoluments for every completed six months of service, subject to a maximum of Rs 10 Lakhs. The emolument includes basic pay and D.A. drawn by the employee on the day of superannuation.
-	\end{enumerate}
-	\item Contributory Provident Fund (CPF): If you have opted for this scheme, no pension is payable to you. However, the gratuity as described under GPF scheme is payable. In this scheme, your contribution is a minimum 10\% of your basic pay with the maximum being 100\% of the same. The Institute contributes 10\% of your basic pay to this fund as well, hence the name contributory. The deposits under the scheme earns interest at a prescribed rate (currently, 8.7\%) and like the GPF is tax free in the hand of the retiree. Loans and withdrawals may be made from the subscription account like the GPF scheme.
-	\end{enumerate}
-\section{Encashment of Leave at the time of Superannuation} A maximum 300 days of earned leave may be accumulated by an employee. All unutilized earned leave up to this maximum duration is encashable at the time of superannuation. In case the amount of earned leave to the credit of the employee is less than 300 at the time of retirement, the shortfall can be made up from the half pay leave to the credit of the employee to the extent of such shortfall. However, the half pay leave will only be cashed at half rate and no commutation is permitted\footnote{For instance if an employee has, at the time of retirement, 200 days of earned leave and 300 days of half-pay leave to his/her credit, encashment will be for 200 full days and 100 half days, the balance of half pay leave will lapse.}. The rate of encashment is the total emoluments (basic + D.A.) per day on the date of retirement assuming a month to consist of 30 days.
-\section{Voluntary Retirement} The minimum period of service for voluntary retirement with full pension (as determined by pay at the time of taking such retirement) is 20 years.
-\section{Premature Retirement} All faculty members who have entered service before attaining the age of 35 years have the option of retiring after attaining the age of 50 years.
-\section{New Pension Scheme (for those who joined the service on or after 1.1.2004)} The New Pension Scheme (NPS) is applicable for all employees who joined the Institute on or after 1.1.2004. The funds will be managed by the National Security Depository Ltd (NSDL). At present, loans and withdrawals from the fund are not permissible. What follows is the information on NPS for Central Government servants.
-\par	
+## Re-employment
+Faculty members are usually reappointed till the last day of June
+(i.e., end of the academic year) in the year they complete 65, based
+on a recommendation from the department. (Further extensions are
+possible till the age of 70,  and are made on case-to-case basis
+depending on recommendations from the department.) During the period
+of re-employment, you receive your pension cheques as well as a
+component of salary in such a way that the two together do not exceed
+the last drawn salary.  Further, many service benefits come to an
+end. The reappointment letter from the Director will make it clear as
+to what benefits will still be available. As per the current practice,
+the medical facilities will continue during the period of
+re-employment. As per Govt. of India rules, you will continue to be
+eligible for LTC provided there is no break between the regular
+appointment and the re-employment.
+
+## Retirement schemes
+For those who joined the Institute before 2004, there were two retirement schemes to choose from (unfortunately, of late the ministry is not allowing a change of option), _viz._ Contributory Provident Fund-cum-gratuity Scheme (CPF) and General Provident Fund-cum-Pension-cum-gratuity Scheme (GPF). The salient features of these schemes are as follows.
+
+1. _GPF:_ If you have chosen this scheme, you are eligible to draw a pension throughout your remaining life at a rate to be shown below. Further, after your death, your spouse will be eligible for a _family pension_ too.
+   a. _Pension:_ The maximum rate of pension is half the basic pay at
+		the time of retirement, or 50\% of the average monthly
+		remuneration drawn during the last ten months of service,
+		whichever is beneficial[^retireavg], along with the applicable rate of D.A. This requires having put in a minimum of 20 years of service, for voluntary retirees, and 10 years of qualifying service for superannuating faculty (the durations not counting extra-ordinary leave or unauthorized absence dies non or periods of suspension which are followed by major penalty).
+    b. _Commutation of Pension:_ It is possible to offer to the
+       Institute that a percentage of your pension be commuted,
+       i.e. you opt to receive a one time lump-sum amount and a
+       smaller pension. The maximum commutation possible is 40% of the
+       basic pension. This offer may be made to the Institute either
+       at the time of superannuation or even afterwards. However, if
+       the offer is made after one year of superannuation, you may be
+       required to undergo a medical examination. As experts will tell
+       you that it is good to commute pension, an illustration of how
+       it works is given below (the example is actually appropriate to
+       a Professor retiring at the top of the band):
+
+       Suppose your basic salary was Rs. 77,500/- at the time of
+	   retirement. Your basic pension is Rs 38,750/- at the time of
+	   superannuation (age 66 on your next birthday). You offer to
+	   receive 40\% less as monthly pension, i.e. receive Rs 15,500/-
+	   per month less as basic pension. The amount of lump sum payment
+	   is given by the following formula.  $$ \mbox{Lump sum amount} =
+	   Rs. 15,500 \times12 \times 7.591 = Rs. 14,11,926 $$ The unusual
+	   factor 7.591 is a factor representing the number of years the
+	   Government has decided that it is willing to pay you as a lump
+	   sum if your age next birthday is 66 at the time you opt for
+	   commutation[^commutation].  Note that, though your basic
+	   pension will be reduced by Rs 15,500/- in the above example,
+	   the Dearness Allowance is payable on the regular pension amount
+	   of Rs. 38,500/-. Full pension will be restored to you after 15
+	   years of receiving the commutation amount. As you grow older,
+	   till the age of 80, the pension amount changes because the
+	   D.A. changes. However, when you reach the age of 80, the basic
+	   pension increases by 20\%, at 85 : 30\% at 90: 40\% and at 95:
+	   50\%. And if you hit a century in your life, the basic pension
+	   doubles!
+
+	 c. _Family Pension:_ After the death of the employee, a reduced
+           pension is payable to dependent family members (not payable
+           to dependent parents if spouse and/or dependent children
+           exist). All such dependents must have been declared before
+           superannuation and must have continued to remain qualified
+           as dependents. The family pension is calculated as 60% of
+           the basic pension defined earlier.
+
+		   In case an employee dies while in service the rate of
+           family pension will be 50\% of the last salary drawn by the
+           employee for a period of 10 years, after which it would
+           revert to the regular rate stated above. In case an
+           employee dies after retirement but before reaching 67 years
+           of age, the family pension till such time will be equal to
+           the pension that would have been payable had the employee
+           not so died. In addition, applicable D.A. is also
+           payable. Note that family pension amount is not affected by
+           any commutation that the employee might have done. Family
+           pension also accelerates with age beyond 80 as for regular
+           pension.
+
+	 d. _General Provident Fund (GPF):_ This is basically what you
+           keep aside every month from your salary. The minimum amount
+           you have to save is 6\% of your basic pay and the maximum
+           cannot exceed basic pay.  The amount of subscription can be
+           increased and/or decreased once during a financial
+           year. The attractive thing about this is when you receive
+           it back, the amount is tax free in your hand. Further, the
+           subscription qualifies for tax reduction too. Government of
+           India announces the interest payable for deposits in GPF,
+           which is currently 8.7\%, one of the best rates of interest
+           for securities. Loans (called advances) can be taken from
+           your GPF to meet various contingent expenditures like
+           illness and education related expense of dependents,
+           obligatory family expense like marriages and sradh, to meet
+           cost of legal proceedings or simply to buy consumer
+           durables. Such loans must be refunded in a maximum of 24
+           monthly installments and are interest free (as the amount
+           actually belongs to you!). Facility of nomination is
+           available. One can also make permanent withdrawals from GPF
+           for all the above mentioned purposes after 15 years of
+           service or for purchase of an accommodation(including
+           renovating ancestral house) any time during the service.
+
+	 e. _Gratuity:_ A lump sum amount known as gratuity is payable to
+           an employee on superannuation. The amount payable is a
+           fourth of the emoluments for every completed six months of
+           service, subject to a maximum of Rs 10 Lakhs. The emolument
+           includes basic pay and D.A. drawn by the employee on the
+           day of superannuation.
+2. Contributory Provident Fund (CPF): If you have opted for this
+   scheme, no pension is payable to you. However, the gratuity as
+   described under GPF scheme is payable. In this scheme, your
+   contribution is a minimum 10\% of your basic pay with the maximum
+   being 100\% of the same. The Institute contributes 10\% of your
+   basic pay to this fund as well, hence the name contributory. The
+   deposits under the scheme earns interest at a prescribed rate
+   (currently, 8.7\%) and like the GPF is tax free in the hand of the
+   retiree. Loans and withdrawals may be made from the subscription
+   account like the GPF scheme.
+
+[^retireavg]: 50% of retiring salary will always be equal to or more than the 10 month average except in rare cases of a demotion or punishment during the last phase of service.
+
+[^commutation]: The factor reduces if you make the offer later, becoming 7.431,7.262, 7.083 and 6.897 if the age on your next birthday at the time of making the offer is respectively 67,68, 69 and 70. The factor for a person whose age next birthday is 65 is 7.731.
+
+## Encashment of Leave at the time of Superannuation
+A maximum 300 days of earned leave may be accumulated by an employee. All unutilized earned leave up to this maximum duration is encashable at the time of superannuation. In case the amount of earned leave to the credit of the employee is less than 300 at the time of retirement, the shortfall can be made up from the half pay leave to the credit of the employee to the extent of such shortfall. However, the half pay leave will only be cashed at half rate and no commutation is permitted\footnote{For instance if an employee has, at the time of retirement, 200 days of earned leave and 300 days of half-pay leave to his/her credit, encashment will be for 200 full days and 100 half days, the balance of half pay leave will lapse.}. The rate of encashment is the total emoluments (basic + D.A.) per day on the date of retirement assuming a month to consist of 30 days.
+
+## Voluntary Retirement
+The minimum period of service for voluntary retirement with full
+pension (as determined by pay at the time of taking such retirement)
+is 20 years
+
+## Premature Retirement
+All faculty members who have entered service before attaining the age of 35 years have the option of retiring after attaining the age of 50 years.
+
+## New Pension Scheme (for those who joined the service on or after 1.1.2004)
+The New Pension Scheme (NPS) is applicable for all employees who joined the Institute on or after 1.1.2004. The funds will be managed by the National Security Depository Ltd (NSDL). At present, loans and withdrawals from the fund are not permissible. What follows is the information on NPS for Central Government servants.
+
 Under this scheme, an individual account will be opened in the name of every employee to which the employee will contribute 10\% of his emoluments every month. This account number is known as the Permanent Retirement Account  Number (PRAN). This, in turn, will provide you two personal accounts:
-\begin{enumerate}
-	\item {\em A mandatory Tier-I Pension Account:\/} You will have to contribute a minimum of 10\% of your basic pay plus D.A. to the Tier-I account every month. You will not be able to withdraw from this account till you retire from service.  The Government (the Institute) will contribute to this account 10\% of your basic plus D.A. Subject to a ceiling to be decided by the Government, your contribution, along with the contribution by the employer, will be invested by NSDL in debt instruments and stocks (85\% fixed income and 15\% equity).
-	\item {\em A voluntary Tier- II Savings Account:\/} A purely optional savings scheme without any tax benefit, from which withdrawals and loans are permitted. No matching contribution from the employer/Govt will be made. Tier-II is however not yet operational for Government sector.
-\end{enumerate}	
 
-
-
-
-
-\end{document}
-Accommodation website:
-http://www.iitb.ac.in/deanpl/allotment.html
---->
+1. _A mandatory Tier-I Pension Account:_ You will have to contribute a minimum of 10\% of your basic pay plus D.A. to the Tier-I account every month. You will not be able to withdraw from this account till you retire from service.  The Government (the Institute) will contribute to this account 10\% of your basic plus D.A. Subject to a ceiling to be decided by the Government, your contribution, along with the contribution by the employer, will be invested by NSDL in debt instruments and stocks (85\% fixed income and 15\% equity).
+2. _A voluntary Tier- II Savings Account:_ A purely optional savings scheme without any tax benefit, from which withdrawals and loans are permitted. No matching contribution from the employer/Govt will be made. Tier-II is however not yet operational for Government sector.
