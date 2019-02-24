@@ -151,7 +151,7 @@ Institute. The Registrar of the Institute is the Secretary of the
 Senate. 
 
 
-\section{The Director and Other Functionaries}
+## The Director and Other Functionaries
 ![Director](Director.jpg){width=200px}
 Prof. Devang Khakhar
 
@@ -337,7 +337,9 @@ The Institute has an active 'Continuing Education Programme (CEP)', which is man
 
 ## Consultancy
 The Institute has rather liberal rules on consultancy, in order to facilitate the interaction of its faculty members with industry. All your consultancy work must be processed through the Institute (Dean R&D). The Dean (R&D)'s website may be consulted in regard to the process to be followed when you would like to take up a consultancy assignment, as well as for details of how any revenue from such activity is to be shared between the Institute and the consultant.
+
 ## Directorship in Companies
+
 The Institute encourages faculty to develop industrial relations and permits employees to be on the Board of Directors of Companies. You must, however, apply to the Director, through the Dean (FA), to obtain permission for this purpose. You may accept a sitting fee given to members of the Board for attending meetings. 
 
 ## Starting a company based on your research/ technological breakthroughs
@@ -512,7 +514,9 @@ You must have had one year service in the block to be eligible for LTC in the bl
 All the declared dependents are eligible for LTC and the travel need not be taken up together. All return journeys must be completed within six months of outward journey.
 
 If both the spouses are working for the Institute, they can claim LTC separately only if the declared dependents are different, i.e. if the wife has declared her parents to be dependent on her, she can claim for them separately. The children can avail LTC only from one of the parents. If you take LTC for spouse under your LTC entitlement, he/she cannot independently claim LTC for self. Each spouse can declare separate ``Home Town" and take LTC for their respective hometowns. 
+
 ### Special provision for New Appointees
+
 Fresh appointees are eligible for LTC once every year for two blocks
 of four years each. This means that during the first eight years of
 service an employee can avail one LTC every year. The definition of
@@ -619,64 +623,95 @@ An allowance of Rs 3 Lakhs for a block of three years  is made available to facu
 ## Loans
 The Institute provides loans for purchase of a car, motorcycle, scooter or a personal computer. These loans bear interest.  The Institute also has provision for a loan for buying a flat or building a house. Details of these may be ascertained from the Administration. 
 
-<!---
-\section{Entitlement for work related travel}
-       While you travel on duty, your TA/DA entitlement is governed by your grade pay (AGP) alone.  According to the new rules, all Professors (including those on HAG scale) are entitled to travel by business class while traveling by Air. All other faculty members are entitled to travel in Economy class\footnote{Currently, if you are using Government funds, you have to travel by Air India only.} (see however, austerity-related policy described in the footnote to the section on {\em Travel eligibility\/}).  For all faculty (except Assistant Professors on contractual basis\footnote{For these faculty the entitlement is limited to 2$^{nd}$ AC class by rail.}), AC First class travel is permitted in train travel.  Please remember to submit your TA bill along with boarding passes and e-ticket copy.  (This is also Government of India's policy on International travel but please contact Accounts section for business class International travel).
+## Entitlement for work related travel
+While you travel on duty, your TA/DA entitlement is governed by your
+grade pay (AGP) alone.  According to the new rules, all Professors
+(including those on HAG scale) are entitled to travel by business
+class while traveling by Air. All other faculty members are entitled
+to travel in Economy class[^airindiarule] (see however,
+austerity-related policy described in the footnote to the section on
+_Travel eligibility_).  For all faculty (except Assistant Professors
+on contractual basis[^railonly]), AC First class travel is permitted
+in train travel.  Please remember to submit your TA bill along with
+boarding passes and e-ticket copy.  (This is also Government of
+India's policy on International travel but please contact Accounts
+section for business class International travel).
+
+[^airindiarule]: Currently, if you are using Government funds, you have to travel by Air India only.
+
+[^railonly]: For these faculty the entitlement is limited to 2$^{nd}$ AC class by rail.
+
 For road travel, Professors may use AC taxies while for all others ordinary taxi is permitted. All faculty are entitled to travel by any type of public bus including Air-conditioned buses. If you travel by your own car or taxi (in places where metered taxies are not available), you could claim up to Rs 16/- per kilometer. 
-\subsection{Daily allowance}
- As per new rules, the concept of daily allowance during tour is discontinued. Instead, the reimbursement will be on actuals supported by vouchers.  For this purpose, Professors (including those on HAG scale) will be eligible for reimbursement for Hotel accommodation/Guest House for an amount up to Rs 5000/- per day; reimbursement of AC taxi up to 50 km for local travel and reimbursement of food bills not exceeding Rs 500/- per day. The rates for other faculty are Rs 3000/- for Hotel, non-AC taxi up to 50 km, and Rs 300/- for food bill. For Assistant Professors on contractual basis, whose grade pay is below Rs 8000/-, the limits are Rs 1500/- per day towards accommodation, taxi charges of Rs 150/- per day for local travel, and Rs 200/- per day for food bill.{
-\par
-	However, if you so desire, for calculation of daily allowance, you could opt to be governed by rules which existed before revision of pay scale as well. Such an option can be exercised for the entire duration of a given tour and not for parts of a tour. In such a case, all faculty will be eligible to draw daily allowance appropriate to pre-revised scale of Rs 16,400/- and above. This is only useful when you would like to claim a daily allowance without submitting detailed expenditure receipts. 
-	\par
- For International Conferences and for faculty members visiting  abroad on Institute's work, a per diem of US \$115 is payable. In addition, Hotel expenses at actuals subject to a maximum of US \$135, supported by bills and receipts, is payable  for conferences. For official visits, all actual expenses, as may be approved by the Director is payable, if per diem is not claimed.  Where full hospitality is provided abroad by hosts, only 25\% per diem, i.e. US \$28.75 is allowable.
+
+### Daily allowance
+
+As per new rules, the concept of daily allowance during tour is discontinued. Instead, the reimbursement will be on actuals supported by vouchers.  For this purpose, Professors (including those on HAG scale) will be eligible for reimbursement for Hotel accommodation/Guest House for an amount up to Rs 5,000/- per day; reimbursement of AC taxi up to 50 km for local travel and reimbursement of food bills not exceeding Rs 500/- per day. The rates for other faculty are Rs 3000/- for Hotel, non-AC taxi up to 50 km, and Rs 300/- for food bill. For Assistant Professors on contractual basis, whose grade pay is below Rs 8000/-, the limits are Rs 1500/- per day towards accommodation, taxi charges of Rs 150/- per day for local travel, and Rs 200/- per day for food bill.
+
+However, if you so desire, for calculation of daily allowance, you could opt to be governed by rules which existed before revision of pay scale as well. Such an option can be exercised for the entire duration of a given tour and not for parts of a tour. In such a case, all faculty will be eligible to draw daily allowance appropriate to pre-revised scale of Rs 16,400/- and above. This is only useful when you would like to claim a daily allowance without submitting detailed expenditure receipts. 
+
+For International Conferences and for faculty members visiting  abroad on Institute's work, a per diem of US \$115 is payable. In addition, Hotel expenses at actuals subject to a maximum of US \$135, supported by bills and receipts, is payable  for conferences. For official visits, all actual expenses, as may be approved by the Director is payable, if per diem is not claimed.  Where full hospitality is provided abroad by hosts, only 25\% per diem, i.e. US \$28.75 is allowable.
        
-\chapter{Leave and Vacation}
+# Leave and Vacation
 During the period of service, an employee is eligible for various forms of leave. Technically, no leave is a matter of right and has to be sanctioned by the competent authority, which in the case of faculty members, is the Director of the Institute. However, except under unusual circumstances (for instance, if a group of employees wish to take mass casual leave to register protest against something) and discipline related cases, leave is generally not refused. However, Departments may sometimes have reasons for not recommending sanction of leave in case your services are required for any purpose.  The following are general guidelines and are not exhaustive.  For complete information, faculty members should refer to the Institute's statutes or consult the Administration section of the Institute.
-\section{Casual Leave}
- As the name suggests, this form of leave is to meet casual requirements of an individual.
-\begin{enumerate}
-	\item At present the number of days for which casual leave can be taken is eight per year. For the purpose of casual leave, the year is a calendar year, i.e., from January to December. However, the maximum period for which casual leave can be taken is not more than 5 days at a time. Saturdays/ Sundays and holidays may be prefixed or suffixed to casual leave and will not count towards casual leave. For those who join in the middle of a calendar year, proportionate amount of casual leave is allowed. Casual leave can even be taken for half a day, i.e. morning session or afternoon session. 
-	\item Casual leave cannot be appended to any other form of leave other than vacation.
-	\item Unutilized casual leave expires on 31st December every year and is not carried over. 
-	\item Generally, no reason has to be given for going on casual leave. Every Department maintains a card for each employee and the employee has to fill in the date on which the leave is to be taken and sign.  The sanctioning power for casual leave is vested in the Head of the Department of the employee. Strictly speaking, one has to take an advance sanction for casual leave as well. However, in case of unforeseen circumstances one can fill up the card post-facto. It is a good practice to keep the Head or at least one of your colleagues informed of such an absence.
-\end{enumerate}
-\section{Special Casual Leave}
- Special casual leave for a period not exceeding 15 days in a year may be granted to a faculty member for legitimate academic/administrative absence, for instance, for attending conferences, undertaking examinership in an university, etc. (Special casual leave of varying duration is also available for undergoing operations required for family planning purposes. Administration section should be consulted for details.)
-\section{Vacation} Vacation is special, and is available only to the faculty members of the Institute.
- \begin{enumerate} 
-	\item A faculty member is entitled to  60 days of vacation during the year. The year for the purpose of vacation is the academic year, i.e. from 1 July to 30 June of the following year. A faculty member joining the Institute any time during the first semester (July-November) is eligible for full vacation while those joining in the second semester (January-April) will be entitled to 30 days of vacation in the year of joining.
-	\item The conventional vacation period comprises the months of May, June and December. However, the Institute announces the exact dates every year depending on its academic schedule. 
-	\item No separate application is made for availing vacation. Each faculty member has to provide his/her vacation plans by filling up certain details in a common form made available in the Departments.
-	\item If a faculty member does not avail the full 60 days vacation in any academic year, 50\% of unavailed vacation is converted to Earned Leave and is credited to the earned leave account of the faculty member on 1st July of the next academic year. Thus if a faculty avails of a total of x days of vacation during the vacation period, (60-x)/2 days of earned leave is credited to his/her earned leave account. 
- \end{enumerate}
-\section{Earned Leave} Earned leave, unlike vacation, can be availed any time during the year with prior sanction. Unlike non-academic staff, the only way in which a faculty accumulates earned leave is by virtue of not having availed the entitled vacation in a given academic year. Half of the unutilized vacation is credited as earned leave on July 1st every year. 
- \begin{enumerate}
-	\item Earned leave can be accumulated up to a maximum of 300 days. The unutilized amount of earned leave can be encashed only at the time of superannuation from service. However, A limited number of days of earned leave can be cashed at the time of availing LTC. Such encashment will not exceed 10 days in each instance with a cumulative maximum of 60 days during the entire span of service. 
-	\item Overflowing of Earned Leave: Half of unutilized vacation is credited as earned leave on July 1st, even when a faculty has already accumulated 300 days of earned leave in his account. This overflowing earned leave must be availed during the same academic year after which it lapses.
-	\item Earned leave can be combined with all types of leave other than casual leave.
- \end{enumerate}
-\section{Half-Pay Leave and Commuted Leave} An employee is entitled to 20 days of half-pay leave for every completed year of service. As the name suggests, the employee will be paid half the salary during such leave period.
- \begin{enumerate}
-	\item Half-pay leave is credited in advance on January 1st and July 1st every year by calculating the expected period of service of an employee during the following six months. (The credit given is 5/3 days for every month expected to be completed.) 
-	\item Half pay leave can be availed for personal reasons or for medical purposes.
-	\item An employee can avail half-pay leave even when he/she has earned leave to his/her credit.
-	\item When a half-pay leave is sought to be availed for employee's medical requirement, an employee may opt to avail Commuted Leave by surrendering two days of half pay leave for every day of leave required. In such a case, the employee draws full salary.   
-	\item  Leave can be commuted for non-medical purposes  (i) by women employees, for a maximum of 60 days, if taken in continuity of a maternity leave or when she adopts a child less than one year old (ii) for pursuing a course of study for a total period not exceeding 90 days during entire service.   
-\end{enumerate}
- \section{Maternity and Paternity Leaves}
- \begin{enumerate}
-	\item Maternity leave with full pay for a maximum of 180 days at each instance can be availed by female employees with less than two surviving children. Leave of any kind due and admissible (including commuted leave for a period not exceeding 60 days and leave not due) can be granted in continuation with maternity leave for a maximum period of two years. 
-	\item Paternity leave of 15 days can be granted to a male employee with less than two surviving children during the confinement of his wife for childbirth. Such leave can be taken in the period up to 15 days before delivery and 6 months after the delivery. 
- \end{enumerate}
-\section{Child Care Leave} A child care leave to facilitate women employees to take care of their two eldest surviving children below the age of 18 years at the time of need (such as sickness, examination etc.)  for a period not exceeding two years (730 days)  during the entire period of service may be granted. Such leave must be pre-approved by the authorities.  It can be availed for not less than 15 days at a time, and on not more than three occasions in a year. During the period of such leave, the employee is eligible to draw salary received by her immediately before proceeding on such leave.
-\section{Special Leave \& Sabbatical Leave} During the entire period of service, a faculty member is permitted to avail long leaves for a total duration not exceeding three years for academic purposes. The two primary categories of such leave with full pay are Special Leave and Sabbatical Leave. Applications should be forwarded through the Head of the Department to the Dean (FA) who makes suitable recommendation to the Director (the approving authority). All such applications must be forwarded with recommendation from the Head of the Department. The Department must be satisfied that the academic programmes of the Department will not be adversely affected by granting of such leave and also make alternative arrangements for taking care of students who may be working under the concerned faculty member. Further, the faculty member is also required to make arrangements for ongoing projects, and such arrangement must be intimated to the Dean (R\&D) in a form available with the IRCC. 
- \begin{enumerate}
-	\item Special leave is generally granted to faculty members to accept academic assignments abroad for availing scholarships and fellowships such as Humboldt Foundation fellowship, Boyscast fellowship, Commonwealth fellowship etc. The faculty member must have put in at least 3 years of service and should have  applied  for such fellowships through proper channel(i.e., the applications should have been forwarded by the Institute). During the special leave, the faculty draws full salary in the Institute in addition to the fellowship amounts.
-	\item Sabbatical leave is granted for accepting temporary academic assignments in Indian or foreign universities or research institutions, availing fellowships, writing a book etc. The faculty member should have put in a minimum of six years of service in the Institute for availing a one year sabbatical. The Dean (FA)  may recommend a shorter and proportionate amount  of sabbatical for a faculty  who falls short of the minimum requirement. For a subsequent sabbatical, there must be a gap of at least 3 years for a one semester sabbatical and six years for a two semesters sabbatical.
-	\item The Institute requires a bond to be executed by the faculty members proceeding on a sabbatical, undertaking to serve the Institute for a minimum period of three years on return from sabbatical (the period of bond is two years for a one semester sabbatical). If the faculty member resigns before completion of the bond period, he/she will be required to refund the salary paid by the Institute during the sabbatical period.
-	\item As a policy, the Institute does not extend a sabbatical. However, a faculty member may request for appending a maximum of 4 months of earned leave to the sabbatical. In case the faculty does not join back the duty after this period, the entire period of sabbatical will be considered as leave without pay or adjusted fully or partially against leave due to the faculty.  
- \end{enumerate}
-\section{Extraordinary Leave} Leave without pay, which does not normally count towards increment or other service and retirement benefits may be granted to a faculty member at the Director's discretion when no other form of leave is available to the employee, or, when in spite of leave being available, the employee specifically desires for the same.
+
+## Casual Leave
+As the name suggests, this form of leave is to meet casual requirements of an individual.
+
+1. At present the number of days for which casual leave can be taken is eight per year. For the purpose of casual leave, the year is a calendar year, i.e., from January to December. However, the maximum period for which casual leave can be taken is not more than 5 days at a time. Saturdays/ Sundays and holidays may be prefixed or suffixed to casual leave and will not count towards casual leave. For those who join in the middle of a calendar year, proportionate amount of casual leave is allowed. Casual leave can even be taken for half a day, i.e. morning session or afternoon session. 
+2. Casual leave cannot be appended to any other form of leave other than vacation.
+3. Unutilized casual leave expires on 31st December every year and is not carried over. 
+4. Generally, no reason has to be given for going on casual leave. Every Department maintains a card for each employee and the employee has to fill in the date on which the leave is to be taken and sign.  The sanctioning power for casual leave is vested in the Head of the Department of the employee. Strictly speaking, one has to take an advance sanction for casual leave as well. However, in case of unforeseen circumstances one can fill up the card post-facto. It is a good practice to keep the Head or at least one of your colleagues informed of such an absence.
+
+## Special Casual Leave
+Special casual leave for a period not exceeding 15 days in a year may be granted to a faculty member for legitimate academic/administrative absence, for instance, for attending conferences, undertaking examinership in an university, etc. (Special casual leave of varying duration is also available for undergoing operations required for family planning purposes. Administration section should be consulted for details.)
+
+## Vacation
+Vacation is special, and is available only to the faculty members of the Institute.
+
+1. A faculty member is entitled to  60 days of vacation during the year. The year for the purpose of vacation is the academic year, i.e. from 1 July to 30 June of the following year. A faculty member joining the Institute any time during the first semester (July-November) is eligible for full vacation while those joining in the second semester (January-April) will be entitled to 30 days of vacation in the year of joining.
+2. The conventional vacation period comprises the months of May, June and December. However, the Institute announces the exact dates every year depending on its academic schedule. 
+3. No separate application is made for availing vacation. Each faculty member has to provide his/her vacation plans by filling up certain details in a common form made available in the Departments.
+4. If a faculty member does not avail the full 60 days vacation in any academic year, 50% of unavailed vacation is converted to Earned Leave and is credited to the earned leave account of the faculty member on 1st July of the next academic year. Thus if a faculty avails of a total of x days of vacation during the vacation period, (60-x)/2 days of earned leave is credited to his/her earned leave account. 
+
+## Earned Leave
+Earned leave, unlike vacation, can be availed any time during the year with prior sanction. Unlike non-academic staff, the only way in which a faculty accumulates earned leave is by virtue of not having availed the entitled vacation in a given academic year. Half of the unutilized vacation is credited as earned leave on July 1st every year. 
+
+1. Earned leave can be accumulated up to a maximum of 300 days. The unutilized amount of earned leave can be encashed only at the time of superannuation from service. However, A limited number of days of earned leave can be cashed at the time of availing LTC. Such encashment will not exceed 10 days in each instance with a cumulative maximum of 60 days during the entire span of service. 
+2. Overflowing of Earned Leave: Half of unutilized vacation is credited as earned leave on July 1st, even when a faculty has already accumulated 300 days of earned leave in his account. This overflowing earned leave must be availed during the same academic year after which it lapses.
+3. Earned leave can be combined with all types of leave other than casual leave.
+
+## Half-Pay Leave and Commuted Leave
+An employee is entitled to 20 days of half-pay leave for every completed year of service. As the name suggests, the employee will be paid half the salary during such leave period.
+
+1. Half-pay leave is credited in advance on January 1st and July 1st every year by calculating the expected period of service of an employee during the following six months. (The credit given is 5/3 days for every month expected to be completed.) 
+2. Half pay leave can be availed for personal reasons or for medical purposes.
+3. An employee can avail half-pay leave even when he/she has earned leave to his/her credit.
+4. When a half-pay leave is sought to be availed for employee's medical requirement, an employee may opt to avail Commuted Leave by surrendering two days of half pay leave for every day of leave required. In such a case, the employee draws full salary.
+5.  Leave can be commuted for non-medical purposes  (i) by women employees, for a maximum of 60 days, if taken in continuity of a maternity leave or when she adopts a child less than one year old (ii) for pursuing a course of study for a total period not exceeding 90 days during entire service.   
+
+## Maternity and Paternity Leaves
+1. Maternity leave with full pay for a maximum of 180 days at each instance can be availed by female employees with less than two surviving children. Leave of any kind due and admissible (including commuted leave for a period not exceeding 60 days and leave not due) can be granted in continuation with maternity leave for a maximum period of two years. 
+2. Paternity leave of 15 days can be granted to a male employee with less than two surviving children during the confinement of his wife for childbirth. Such leave can be taken in the period up to 15 days before delivery and 6 months after the delivery. 
+
+## Child Care Leave
+A child care leave to facilitate women employees to take care of their two eldest surviving children below the age of 18 years at the time of need (such as sickness, examination etc.)  for a period not exceeding two years (730 days)  during the entire period of service may be granted. Such leave must be pre-approved by the authorities.  It can be availed for not less than 15 days at a time, and on not more than three occasions in a year. During the period of such leave, the employee is eligible to draw salary received by her immediately before proceeding on such leave.
+
+## Special Leave & Sabbatical Leave
+During the entire period of service, a faculty member is permitted to avail long leaves for a total duration not exceeding three years for academic purposes. The two primary categories of such leave with full pay are Special Leave and Sabbatical Leave. Applications should be forwarded through the Head of the Department to the Dean (FA) who makes suitable recommendation to the Director (the approving authority). All such applications must be forwarded with recommendation from the Head of the Department. The Department must be satisfied that the academic programmes of the Department will not be adversely affected by granting of such leave and also make alternative arrangements for taking care of students who may be working under the concerned faculty member. Further, the faculty member is also required to make arrangements for ongoing projects, and such arrangement must be intimated to the Dean (R&D) in a form available with the IRCC. 
+
+1. Special leave is generally granted to faculty members to accept academic assignments abroad for availing scholarships and fellowships such as Humboldt Foundation fellowship, Boyscast fellowship, Commonwealth fellowship etc. The faculty member must have put in at least 3 years of service and should have  applied  for such fellowships through proper channel(i.e., the applications should have been forwarded by the Institute). During the special leave, the faculty draws full salary in the Institute in addition to the fellowship amounts.
+2. Sabbatical leave is granted for accepting temporary academic assignments in Indian or foreign universities or research institutions, availing fellowships, writing a book etc. The faculty member should have put in a minimum of six years of service in the Institute for availing a one year sabbatical. The Dean (FA)  may recommend a shorter and proportionate amount  of sabbatical for a faculty  who falls short of the minimum requirement. For a subsequent sabbatical, there must be a gap of at least 3 years for a one semester sabbatical and six years for a two semesters sabbatical.
+2. The Institute requires a bond to be executed by the faculty members proceeding on a sabbatical, undertaking to serve the Institute for a minimum period of three years on return from sabbatical (the period of bond is two years for a one semester sabbatical). If the faculty member resigns before completion of the bond period, he/she will be required to refund the salary paid by the Institute during the sabbatical period.
+3. As a policy, the Institute does not extend a sabbatical. However, a faculty member may request for appending a maximum of 4 months of earned leave to the sabbatical. In case the faculty does not join back the duty after this period, the entire period of sabbatical will be considered as leave without pay or adjusted fully or partially against leave due to the faculty.
+
+## Extraordinary Leave
+Leave without pay, which does not normally count towards increment or
+other service and retirement benefits may be granted to a faculty
+member at the Director's discretion when no other form of leave is
+available to the employee, or, when in spite of leave being available,
+the employee specifically desires for the same.
+
+<!---
 \section{Leave not due} Leave not due, at half-pay salary may be granted to an employee who has no leave to his/her credit. Such leave will be adjusted against half-pay leave that may accrue at future date. 
 \section{Lien} A faculty member may request for keeping lien on his/her post for accepting a job either in India or abroad. Such jobs may be for assignments in private or public sector undertakings. (The Govt. of India terminology for such lien is Foreign Service, which is used whenever a Govt. servant takes up an assignment in a non-Government organization.). To be eligible for lien a faculty member must have put in at least 5 years of service after confirmation. The period of lien can be one year at a stretch or two years if the period of service is over 10 years. (Lien period can be for a period of Five years for those appointed as Directors or CEOs in a Government organization or a PSU.)
  \begin{enumerate}
