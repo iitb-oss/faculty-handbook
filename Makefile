@@ -4,7 +4,7 @@ out.pdf: main.md
 	pandoc -o out.pdf main.md
 
 out.html: main.md
-	pandoc --toc -s -c pandoc.css --to=html5 -o out.html --metadata title="Faculty Handbook" main.md
+	pandoc --number-sections --toc -s -c pandoc.css --to=html5 -o out.html --metadata title="Faculty Handbook" main.md
 
 .PHONY: clean
 
