@@ -274,18 +274,18 @@ If you are joining as a fresh faculty as an _Assistant Professor_, you are eligi
 Immediately on joining:
 
 1. You have to make a visit to the Administration Section to complete joining formalities. For this purpose you need
-   1. original and copies of all academic certificates from SSC (10th Board) to Ph.D. SSC or HSC certificate which gives your date of birth is very important as the Administration does not accept any other proof of date of birth.
-   2. several passport size photographs for various purposes.
-   3. if you were previously employed, a certificate stating that you have been relieved of your position there.
+   a. original and copies of all academic certificates from SSC (10th Board) to Ph.D. SSC or HSC certificate which gives your date of birth is very important as the Administration does not accept any other proof of date of birth.
+   b. several passport size photographs for various purposes.
+   c. if you were previously employed, a certificate stating that you have been relieved of your position there.
 2. The Administration section will, in turn, give you several letters and forms. Two letters of immediate importance are the ones to (i) Chairman, Accommodation Allotment Committee (AAC), requesting that a quarter be allotted to you and (ii) IIT Hospital, to examine you and certify that you are medically fit.
 3. Take the Accommodation Committee letter to the Estate Office and give it to the person looking after accommodation matters[^accommodation] who will tell you about the possibilities that exist. The _ad-hoc_ provided to you is likely to be either a Vihar House flat or a flatlet in the Staff Hostel. The accommodation is very basic and consists of a one room-kitchen accommodation (Vihar House) or a one Bedroom-Hall-Kitchen (one BHK in Mumbai lingo) in the Staff Hostel Annexe, depending on availability. (If you happen to have joined the Institute directly as a Professor, you will get a C-type quarter - 2 or 3 BHK - as your ad-hoc allotment). Moving to regular accommodation takes time (one to two years at present, but expected to come down to a matter of a few months by mid-2014) and allotment of regular accommodation is done by a seniority rule[^allotmentrules] for accommodation allotment rules and updates.}. The quarters do not come furnished and you will have to furnish it yourself. A home telephone connected to the internal exchange will be provided which does not have outside call facilities. You may decide to get a personal telephone connection either from MTNL or from one of the private  operators. Your quarter also has internet facilities connected to the Institute network.
 4. Retain your accommodation allotment letter in a safe place, as it will serve as proof of address for various purposes; in particular, it will come in useful for applying for a LPG cooking cylinder connection or for getting a Ration Card. While the importance of a Ration Card has now diminished substantially, LPG connection is essential if you plan to cook at home. Take your accommodation allotment letter to Maharashtra Gas Service, which is located in the building known as `Powai Plaza' at the Pizza Hut junction on the main road outside IIT (Adi Shankaracharya Marg). You will have to make some deposits to get a gas connection, which fortunately does not take much time.
 5. The letter to IIT Hospital is to be presented to the Hospital reception, where an appointment will be scheduled for your medical examination.
 6. There are a few other forms to be filled up, viz. an attestation form, a form declaring your dependents, a form for joining the Group Insurance Scheme and exercising your option for joining the Defined Contributory Pension Scheme (DCPS).
-   1. _Group Insurance Scheme_ provides for an insurance cover of Rs. 8 Lakhs during the service period of an employee. A premium of Rs. 800 per month is directly debited from your salary. A part of the premium is invested and is refunded with interest at the time of retirement (or leaving the Institute) while another part pays for the insurance cover. There is no annuity payable for this insurance.
-   2. Faculty joining the service after 1st January, 2004 have to join the _New Pension Scheme_ or NPS, details of which are given further on. For people joining earlier to this date, there was the _Provident Fund (PF) Scheme_ -- compulsory, though called an option because of an option of joining either a Pension scheme (GPF) or a non-pension Contributory PF (CPF).
-   3. _Attestation Form_ is to be filled up so that the Institute can verify that you have not been involved in criminal activities in the past. You will have to provide all addresses where you have resided during the preceding five years. A clearance from the police is mandatory before your services are made permanent (a process termed as confirmation).
-   4. _Dependents:_ You will have to make a declaration of your dependents who will be eligible for various service facilities like Leave Travel Concession, Medical benefits etc. Your spouse is treated as a dependent, whether employed or not. Sons are dependents till the age of 25 or till they start earning, whichever comes first (no age bar for permanently disabled sons). Daughters are considered dependents till they start earning or till they get married, whichever is earlier. You can declare your parents as dependent provided they live with you and do not have independent income (exceeding Rs. 3500 per month) of their own.
+   i. _Group Insurance Scheme_ provides for an insurance cover of Rs. 8 Lakhs during the service period of an employee. A premium of Rs. 800 per month is directly debited from your salary. A part of the premium is invested and is refunded with interest at the time of retirement (or leaving the Institute) while another part pays for the insurance cover. There is no annuity payable for this insurance.
+   ii. Faculty joining the service after 1st January, 2004 have to join the _National Pension Scheme_ or NPS, details of which are given further on. For people joining earlier to this date, there was the _Provident Fund (PF) Scheme_ -- compulsory, though called an option because of an option of joining either a Pension scheme (GPF) or a non-pension Contributory PF (CPF).
+   iii. _Attestation Form_ is to be filled up so that the Institute can verify that you have not been involved in criminal activities in the past. You will have to provide all addresses where you have resided during the preceding five years. A clearance from the police is mandatory before your services are made permanent (a process termed as confirmation).
+   iv. _Dependents:_ You will have to make a declaration of your dependents who will be eligible for various service facilities like Leave Travel Concession, Medical benefits etc. Your spouse is treated as a dependent, whether employed or not. Sons are dependents till the age of 25 or till they start earning, whichever comes first (no age bar for permanently disabled sons). Daughters are considered dependents till they start earning or till they get married, whichever is earlier. You can declare your parents as dependent provided they live with you and do not have independent income (exceeding Rs. 3500 per month) of their own.
 7. Now that you are done with the Administration Section, return to your Department and fill up a joining report form which will be signed by the Head of the Department and sent to the Administration. The Department will provide you with an office space equipped with a telephone (with limited local and STD (long distance) facility) and of course stationeries. A personal desktop computer with internet connection will also come within a few days.
 8. Once the Administration processes your joining report, intimation of your having joined is sent to various sections such as the Library, Security Section, Hospital etc. You and your family members will be photographed and identity cards issued by the Security Section located on the ground floor of the Main Building. For the employee, the identity card doubles as the Library card as well. You will have an _employee salary code_ number which you will need in connection with all payments and financial transactions within the Institute. It is good to memorize this even though you usually have your identity card  handy.
 9. With joining formalities completed, you have to pay attention to other issues, like getting a child admitted to a school. The campus has two schools, one Kendriya Vidyalaya (Central School), affiliated to Central Board of Secondary Education (CBSE) and the other, Campus School, affiliated to the Maharashtra State Board. Campus School is exclusively for the children of IIT employees while in the Kendriya Vidyalaya most of the seats are reserved for them. You are likely to have some anxious moments before your child gets an admission, but eventually it works out. In case of exceptional difficulty in getting admission into the Kendriya Vidyalaya, our Director, who is the Chairman of the Vidyalaya Management Committee always helps out by exercising his discretionary quota. There is also a Professor-in-Charge[^kvprof]. who you may contact for helpful advice in case of difficulties. The Campus School also has a kindergarten school for children above the age of three. For younger kids there is a private creche (Sishu Vihar, currently temporarily located in the Lake side near the main gate of the Institute), and run by an NGO.
@@ -993,7 +993,7 @@ The Institute has two schemes to take care of your and your spouse's medical req
 2. _Post-Retirement Medical Scheme (PRMS):_ The scheme has been introduced to take care of hospitalization needs of the employee and spouse. Employee has to pay a net contribution of Rs. 36,000/- (payable over a maximum 240 installments during the service from salary) to join the scheme. Hospitalization expense in a very large number of hospitals in the country can be reimbursed up to a maximum cumulative limit of Rs. 10 Lakhs for both spouses combined. No medical advance is available under the scheme nor any provision for direct payment to the hospitals exist. The employee has to bear the expenses first and claim for reimbursement from the Institute.  (Joining this scheme is compulsory for all employees who join(ed) the Institute on or after 1st July, 2003).
 
 # Retirement Benefits
-While this chapter was originally written primarily for faculty who joined the Institute before 2004 (or who joined later, but with transfer of previous services rendered in Govt or Institutions like IITs), suitable additions/provisions which apply to faculty who joined on or after 1st January, 2004 (New Pension Scheme) have now been incorporated.
+While this chapter was originally written primarily for faculty who joined the Institute before 2004 (or who joined later, but with transfer of previous services rendered in Govt or Institutions like IITs), suitable additions/provisions which apply to faculty who joined on or after 1st January, 2004 (National Pension Scheme) have now been incorporated.
 
 ## Pension, Gratuity, Commutation of Pension etc.
 What happens after you have served out your active life with the Institute? Most look at the period of retirement with a certain amount of anxiety because they anticipate a sharp drop in income. It is, therefore, prudent to do some planning reasonably early in life, certainly by the time you are approaching 50.
@@ -1134,10 +1134,67 @@ is 20 years
 ## Premature Retirement
 All faculty members who have entered service before attaining the age of 35 years have the option of retiring after attaining the age of 50 years.
 
-## New Pension Scheme (for those who joined the service on or after 1.1.2004)
-The New Pension Scheme (NPS) is applicable for all employees who joined the Institute on or after 1.1.2004. The funds will be managed by the National Security Depository Ltd (NSDL). At present, loans and withdrawals from the fund are not permissible. What follows is the information on NPS for Central Government servants.
+## National Pension Scheme (for those who joined the service on or after 1.1.2004)
+The National Pension Scheme (NPS) is applicable for all employees who
+joined the Institute on or after 1.1.2004. The funds will be managed
+by the National Security Depository Ltd (NSDL). At present, loans and
+withdrawals from the fund are not permissible. What follows is the
+information on NPS for Central Government servants. Note that this is
+a defined contribution scheme, which means that there are is
+no guarantee of returns like in the general provident fund.
 
-Under this scheme, an individual account will be opened in the name of every employee to which the employee will contribute 10% of his emoluments every month. This account number is known as the Permanent Retirement Account  Number (PRAN). This, in turn, will provide you two personal accounts:
+Under this scheme, an individual account will be opened in the name of
+every employee to which the employee will contribute 10% of his
+emoluments every month (matched with an equal amount by the
+employer0. This account number is known as the Permanent Retirement
+Account Number (PRAN). This, in turn, will provide you two personal
+accounts:
 
-1. _A mandatory Tier-I Pension Account:_ You will have to contribute a minimum of 10% of your basic pay plus D.A. to the Tier-I account every month. You will not be able to withdraw from this account till you retire from service.  The Government (the Institute) will contribute to this account 10% of your basic plus D.A. Subject to a ceiling to be decided by the Government, your contribution, along with the contribution by the employer, will be invested by NSDL in debt instruments and stocks (85% fixed income and 15% equity).
-2. _A voluntary Tier- II Savings Account:_ A purely optional savings scheme without any tax benefit, from which withdrawals and loans are permitted. No matching contribution from the employer/Govt will be made. Tier-II is however not yet operational for Government sector.
+1. _A mandatory Tier-I Pension Account:_ You will have to contribute a
+   minimum of 10% of your basic pay plus D.A. to the Tier-I account
+   every month. You will not be able to withdraw from this account
+   till you retire from service.  The Government (the Institute) will
+   contribute to this account 10% of your basic plus D.A. Subject to a
+   ceiling to be decided by the Government, your contribution, along
+   with the contribution by the employer, will be invested by NSDL in
+   debt instruments and stocks (85% fixed income and 15% equity).
+2. _A voluntary Tier- II Savings Account:_ A purely optional savings
+   scheme without any tax benefit, from which withdrawals and loans
+   are permitted. No matching contribution from the employer/Govt will
+   be made. No tax benefits are available for investing in this account.
+
+IIT Bombay is a nodal office for NPS accounts, thereby being able to
+facilitate opening and transferring NPS accounts. New employees should
+be provided the NPS enrolment form by the institute. For those who
+already have an NPS account in the past (government, private, or
+any citizen of India modes) can get their account transferred by
+filling the appropriate forms and handing it to the administration.
+
+### Benefits and restrictions
+The NPS is portable, which means that the account can move with you as
+you move jobs. The key benefit is that the corpus that accrues in the
+Tier-1 account can be used to obtain income and benefits when you
+retire, though there are various conditions that define how
+withdrawals work, including:
+
+  - _Withdrawal on superannuation:_ Assuming that you retire from your
+    job at age 65 (or move on, but keep the account till you turn 60),
+    you can then withdraw 60% of the accumulated corpus as a lumpsum,
+    and the remaining 40% must be converted to an
+    [annuity](https://en.wikipedia.org/wiki/Annuity "Wikipedia article
+    on annuity") that pays you a monthly income. The annuity has to be
+    purchased through an annuity provider, and the actual monthly
+    annuity received depends on various factors, such as your age,
+    market conditions etc. Effective tax assessment year 2019-20, this
+    withdrawal is tax free.
+
+  - _Full withdrawal before superannuation:_ If you withdraw the
+    corpus before you superannuate, then 80% of the corpus has to
+    compulsorily be converted to an annuity. Only the remaining 20% is
+    available as lumpsum.
+	
+  - Since these rules have changed in the recent past, it is best to
+    refer to the [NPS CRA FAQ](https://npscra.nsdl.co.in/nps-faq-withdrawal.php) for accurate information.
+
+Up to date information on NPS and details on accessing your account balance
+online are available at the [NPS CRA website](https://npscra.nsdl.co.in/).
