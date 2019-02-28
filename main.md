@@ -406,12 +406,317 @@ It is possible, as one grows into one's career and gets into the positions of an
 
 The Board of Governors has approved a proposal, based on the above considerations, to implement a process of Annual self assessment for all faculty, beginning 2014. The Institute Faculty Affairs Committee (IFAC), an advisory body to the Dean (FA), has finalized the templates for carrying out this assessment, and the details are available on Dean (FA)'s webpage http://internal.iitb.ac.in/imcwork/faculty/ (also linked from the Institute's main webpage, under 'Internal links').
 
-### Promotion to higher posts
-Till recently, internal candidates could apply for higher posts only when the Insitute issued a call for applications, which happened once every two years. Changes to the promotion process[^promotionprocess] recently approved by the Board make it possible for internal candidates to apply for the next higher post against the open advertisement on the Institute's webpage that is always active, when they satisfy the requirements specified in the advertisement and feel they are ready to go to the next level based on their performance in the present post[^performance]. Such applications will be reviewed first at the Departmental level and then by IFAC, and the shortlisted applications go through a peer review process before being put before a statutorily constituted selection committee chaired by the Director. Details of the new promotion policy are available on the Dean (FA)'s webpage (see under `Internal links' on the Institute's webpage).
+<!-- ### Promotion to higher posts -->
+<!-- Till recently, internal candidates could apply for higher posts only when the Insitute issued a call for applications, which happened once every two years. Changes to the promotion process[^promotionprocess] recently approved by the Board make it possible for internal candidates to apply for the next higher post against the open advertisement on the Institute's webpage that is always active, when they satisfy the requirements specified in the advertisement and feel they are ready to go to the next level based on their performance in the present post[^performance]. Such applications will be reviewed first at the Departmental level and then by IFAC, and the shortlisted applications go through a peer review process before being put before a statutorily constituted selection committee chaired by the Director. Details of the new promotion policy are available on the Dean (FA)'s webpage (see under `Internal links' on the Institute's webpage). -->
 
-[^promotionprocess]: Note that the term 'promotion' is used somewhat loosely here, since any faculty post at any of the IITs may only be filled by fresh selection, and there is no provision for `promotions' as in other organs of the Government.
+<!-- [^promotionprocess]: Note that the term 'promotion' is used somewhat loosely here, since any faculty post at any of the IITs may only be filled by fresh selection, and there is no provision for `promotions' as in other organs of the Government. -->
 
-[^performance]: The performance criteria are fairly clearly spelt out (see the Dean(FA)'s webpage), and it is expected in the course of two to three years that the performance criteria get linked to the annual self-asessments mentioned above.
+<!-- [^performance]: The performance criteria are fairly clearly spelt out (see the Dean(FA)'s webpage), and it is expected in the course of two to three years that the performance criteria get linked to the annual self-asessments mentioned above. -->
+
+## Assessment and Promotion Policies
+
+### Application Process
+
+Faculty assessment for promotion to the next higher positions are done
+twice a year. The schedule of faculty assessment and promotion is
+announced by Dean (Faculty Affairs) after due approval by the
+Director.
+
+The applications are invited from faculty members who satisfy the
+minimum qualifications and experience criteria as per MHRD norms for
+the respective position. These applications are invited typically in
+January and August of each year. The applications received in January
+are processed during February-May time period and the applications
+received in August are processed during September-November time
+period. The application form requires each candidate to furnish
+information during the assessment period (i.e. period being held in
+the current position).
+
+### Experience (Required on the date of application):
+
+_Professor:_ A minimum of ten years teaching/research/professional
+experience of which at least 4 years should be at the level of
+Associate Professor in a research organization or industry as on the
+date of application.  The candidate should have demonstrated
+leadership in research in a specific area of specialization in terms
+of guidance of Ph.D. students, strong record of publications in
+reputed journals and conferences, patents, laboratory/course
+development and/or other recognized relevant professional activities.
+
+
+_Associate Professor:_ A   minimum  of  six years
+teaching/research/professional  experience  of which 3 years should be
+at the level of Assistant Professor Grade I, Senior Scientific
+Officer/Senior Design Engineer in a research organization or
+industry. The candidate should have demonstrated adequate experience
+of independent research in terms of guidance of M.Tech. and
+Ph.D. students, publications in reputed  journals  and  conferences,
+patents,  laboratory/course  development and/or other recognized
+relevant professional activities.
+
+### Short listing Process
+
+The applications submitted by the internal candidates are first
+shortlisted by the respective departments through Department Policy
+Committee (DPC) or Professors' Committee as per the department short
+listing criteria as approved by Institute Faculty Advisory Committee
+(IFAC). The short listing criteria framed by each department ensures
+that (i) the effort put in by the candidate in the current position is
+adequately recognized and (ii) promotion to the next higher position
+in the minimum period (i.e., just after the minimum mandated number of
+years of experience have been completed) requires performance at a
+high level as judged by the standards of the average performance of
+the department or subgroup within the department to which the
+candidate belongs. Each department recognizes contributions of the
+candidate in Research, Teaching and Professional/Department/Institute
+Services. In addition to performance criteria of the department
+approved by the IFAC, guidance of one PhD scholar (in an advanced
+stage of her research) for the Associate Professor's post, or two
+completed PhDs under the candidate's guidance (at least one
+completed + one past the pre-synopsis stage) for the Professor's post
+would normally be considered necessary, and deviations from this norm
+would have to be appropriately justified. In short listing, the
+Department may note, and give due importance to, instances of
+exceptional performance, such as sustained excellence in teaching,
+publications of high impact/ in high impact-factor journals, highly
+successful translation and commercialization of faculty's research.
+
+### IFAC Review
+
+Each application is required to have eight (8) peer reviews. Out of
+these 8, at-most 4 reviewers can be suggested by the candidate while 4
+reviewers would be identified by the department. All applications
+considered by the departments with their recommendations are presented
+to the IFAC by the Heads of the respective departments for
+consideration. IFAC takes into account the short listing done by the
+department and verify that the criteria approved by IFAC have been
+satisfied.
+
+### Peer Review
+Applications approved by IFAC enter into the
+next stage of Peer review. Administration sends the application
+dossiers to the selected academic referees, primarily for their inputs
+on the research carried out by the candidate, as seen by her important
+publications (reprints of such publications may form part of the
+dossier sent). The letters requesting peer input also state in concise
+terms the range of activities considered as important for a faculty
+member in IITB, so that the referees can judge the quantum of research
+output in a proper context.  A minimum of three to four peer reviews
+are considered necessary before a selection committee can be
+constituted.
+
+### Selection Committee and Interview
+
+Dean (FA) recommends to the Director the setting up of a selection
+committee for the candidates of a department with composition as per
+IIT Bombay Statute.  All the applications received by the department,
+the short listing criteria of the department and all candidates'
+considered by the department are placed before the selection committee
+for its consideration and approval.  After the due constitution of the
+statutory selection committees, interview schedules are published by
+the administration and the candidates are invited for personal
+interview. The candidates may be asked to present a seminar based on
+the research performed during assessment period in the
+department. External expert members of the selection committee may be
+invited for the seminar, else the candidates are asked to present a
+research summary during personal interview. The selection committee
+recommends the candidate to be promoted to the suitable position to
+the competent authority.
+
+### Chairman BoG Approval
+
+The selection committee recommendations and decisions are placed
+before the Chairman BoG for approval.  The appointment letters are
+then issued by the Director after necessary approval by the Board and
+following other institute norms and procedures regarding salary and
+other terms etc.
+
+### Institute Faculty Advisory Committee
+
+Institute Faculty Advisory Committee (IFAC) as an advisory body to the
+Dean (FA) on various matters of faculty interest, and matters of
+faculty development.
+
+_IFAC Composition:_ The committee is constituted by the Director and
+chaired by the Dean (FA). IFAC  has Deputy Director (AIA) as a
+permanent invitee. The committee is re-constituted every two years
+with the existing members in each category being replaced by Heads of
+departments not represented in the committee.
+
+_IFAC Role:_ IFAC has the following broad roles. Apart from these
+roles, Director  may request IFAC to consider and make recommendations
+on matters related to faculty affairs.
+
+    1. Consideration of short listing criteria of department for entry level as well as promotion for different faculty positions
+    2. Pre-processing of applications of internal candidates for promotions
+    3. Processing of nominations for Chair Professor positions
+    4. Nominations of faculty members for various national /international awards
+    5. Faculty development and mentorship
+    6. Faculty self-assessment
+
+### Method for Determining Professors to be Moved to HAG scale
+
+1. _Composition of D-HAG Committee:_ Scoring should be done by a
+   committee called D-HAG constituted by Head of Department. The
+   committee is to consist of 3 to 4 members, all of whom must be on
+   HAG scale. In case there are not enough people on HAG scale in a
+   department, faculty on HAG scale from other departments may be
+   inducted into the committee.
+
+2. _Submission of HAG form to D-HAG:_ Heads will be provided a list A
+   of professors on HAG scale as well as those recommended for HAG in
+   earlier years and another list B of professors who have at least
+   six years of experience from the date of joining as professor and
+   thus deemed eligible. Eligible professors in list B will fill up
+   the data in the new HAG form appended below and submit it with
+   their CV to the Convener of the D-HAG.
+
+3. Computation and scrutiny of scores as per the new guidelines: D-HAG
+   is responsible for computing scores for each faculty member who has
+   submitted the form. Score computation is to be done based on the
+   guidelines below. Scores awarded to a faculty member by the D-HAG
+   committee (with category-wise split) must be made available to the
+   faculty member for feedback, before it is sent to IFAC. The
+   Conveners of D-HAG committees will present the cases of professors
+   who qualify for HAG scale in a meeting of IFAC. Justifications for
+   each score, including any additional department policies, and
+   department averages (such as number of courses and publications)
+   must be provided to IFAC. IFAC will release a list of professors
+   recommended for HAG scale.
+
+The list of professors eligible and recommended by IFAC will be
+updated every year. However, once a faculty member is recommended for
+HAG, she/he will continue to remain recommended in future years, and
+need not apply again.
+
+Scores approved by IFAC will be used to create a combined list of
+recommended professors (from current and earlier years) who are not
+yet in HAG scale. In case there are more recommended faculty than
+vacancies, the list is to be sorted by seniority based on date of
+promotion as professor (joining date for those who join directly as
+professor); ties are to be broken by date of birth as per existing
+practise. Vacancies in HAG scale are to be filled as per this
+seniority list.
+
+### Annual performance appraisal
+
+The annual performance appraisal process is in the form of a
+self-assessment. The process should be completed by 31st January of
+every year and the forms will be filled up online by individual
+faculty member. The self-assessment form includes sections on
+Teaching, Research and Administration being mandatory and the sections
+on Professional and Extensional activities being optional. The
+methodology of self-assessment, the manner of quantifying performance
+in various areas, as well as the concept of a single performance index
+that combines performance in different areas, shall be reviewed by
+IFAC at the end of 3 years. At this stage, with appropriate
+modifications introduced as a result of the experience gained, IFAC
+may consider using the cumulative record of self-assessments as a
+basis for shortlisting candidates for selection to higher posts.
+
+## Guidelines for Excellence in Teaching Awards
+
+There are two categories of excellence in teaching awards. A)
+Institute Awards: Fifteen per year; B) Department Awards:
+Approximately Thirty per year. The guidelines for the excellence in
+teaching award are as follow:
+
+    1. Course feedback data for each semester and each of the four
+	categories of courses (B.Tech. common, UG courses, PG courses, 2
+	yr MSc courses) will be examined and, if warranted, transformed to
+	follow a normal distribution using the Box-Cox
+	transformations. The average and standard deviation of each data
+	set (original data in case already normal or transformed data
+	which is normal) will be determined. The average of the particular
+	distribution will be subtracted from a faculty member's score and
+	then divided by the relevant standard deviation. The constant 3
+	will be added to this. This is the normalised score for that
+	faculty member. If, for instance, a faculty member has a score
+	which is three std deviations above the average, his/her
+	normalised score will be 6. Someone with an average score will
+	have a normalised score of 3. A faculty member will get a
+	"normalised" score for each semester that he/she teaches. The
+	average of such scores over several (as required; see below)
+	courses will be computed. A rank list of faculty members will be
+	generated based on the above score.
+
+    2. Fifteen Institute awards will be given each year. They will be
+	given to the top 15 scorers. The rank list will be obtained
+	considering the best 15 scores over the last 10 years for each
+	faculty member.
+
+    3. Department awards will be given (about 30 in the Institute;
+	approx. 2 per faculty strength of 20 in a department). The rank
+	list will be obtained by considering the best 8 scores over the
+	last 5 years for each faculty member in that department.
+
+    4. Academic units with strength significantly less than 20 will be
+	combined with other such units to decide Dept awards.
+
+    5. On getting an Institute award, the faculty member will be
+	ineligible to be considered for the same for the next ten academic
+	years. Further, he/she will be ineligible to be considered for a
+	Dept. award for the next 5 years. On getting a Dept award, the
+	faculty member will be ineligible to be considered for the same
+	for the next five academic years. However, in this period, he/she
+	will be eligible for consideration for an Institute award in case
+	he/she has not been awarded the same in the previous 10 years.
+
+    6. For a given year, if a faculty member is included in the list
+	for Institute awards, he/she will be ineligible for the
+	Dept. award.
+
+## Guidelines for Research Awards
+
+There are six categories of research awards in IIT Bombay, among which
+two are instituted in honour of two former Professors of the institute
+and each of these awards carries a cash incentive of Rs.1.5
+Lakhs. They are
+
+  - Prof. S.C. Bhattacharya Award for Excellence in Pure Sciences
+  - Prof. H.H. Mathur Award for Excellence in Applied Sciences
+
+Earlier recipients of this awards are available at the [IRCC website](http://www.ircc.iitb.ac.in/IRCC-Webpage/rnd/ResearchAwards.jsp?AwardType=NationalInstituteIITB).
+
+Guidelines for nominations for these two awards are:
+  - This is a one-time award given based on research work undertaken at IIT Bombay during the last ten years.
+  - There is no age bar for these awards.
+  - Nomination for the award can be made by any full Professor of the Institute. Self-nomination is not allowed.
+  - Institute functionaries, with the exception of Heads of Academic Units, are not eligible for these awards.
+
+The other categories are (known as IRCC research award):
+
+1. _Research Publication Award (up to 5 awards for the year):_ To
+   recognize original research results which have appeared in peer
+   reviewed publications and/or other forms such as exhibits (e.g.,
+   design, film). Individuals as well as teams can be nominated.
+
+
+2. _Impactful research award (up to 3 awards for the year):_ To
+   recognize "research results which have had a tangible impact on
+   practice" on industry/ government/other stakeholders. Individuals
+   as well as teams can be nominated.
+
+3. _Research dissemination award (up to 2 awards for the year):_ To
+   recognize "outstanding efforts to disseminate their/others'
+   research through monographs/ books/review chapters/review
+   papers". Individuals as well as teams can be nominated.
+
+4. _Early research achiever award (up to 3 awards for the year):_ To
+   recognize young researchers who have already shown their potential
+   for producing outstanding original work. Only individuals can be
+   nominated for this award  - the person being nominated should
+   preferably have completed 2 to 3 years but should not have
+   completed 4 years of service in IIT Bombay and must not be more
+   than 40 years of age. An individual can get this award only once in
+   his/her career.
+
+Each of the IRCC awards will consist of a citation and a cash prize of Rs. 50,000/-
+(Rupees Fifty Thousands only). The cash prize will be given to nominated
+researcher (candidate) at IIT Bombay. In addition, the awardee(s) will
+be invited to submit a research proposal to IRCC for possible funding of
+up to Rs.5,00,000/- (Rupees Five Lakhs only).
+
 
 ## Continuing Education Programmes
 The Institute has an active 'Continuing Education Programme (CEP)', which is managed by the CEP cell. This cell also co-ordinates the 'Quality Improvement Programme', a programme of the Government of India to upgrade the skills of practicing teachers in Engineering colleges in the country. You can offer courses to Industry in specific areas of your expertise, through the CEP cell. Courses to academics are offered under the QIP programme. Details are available on The CEP webpage http://www.iitb.ac.in/~cep/about/index.html .
@@ -431,15 +736,217 @@ The Institute encourages you to capitalize on your research findings which have 
 [^sine]: Details of the vision and mission, as well as the rules and procedures for incubating a company under SINE are available at http://www.sineiitb.org/
 
 
+## Schooling at IIT Bombay
+
+There are three schools on the campus for children: Kendriya Vidyalaya, Campus School and KG Schhol; and a full-fledged child care (day care) and play school, Sishu Vihar.
+
+### Kendriya Vidyalaya (Central School) IIT Powai
+A pioneer in the field of education, KVS has been a pace setting
+institution ever since its inception in 1964. With more than
+1100 Vidyalayas across the Country and the globe, it strives for
+imparting quality education and resurgence of mental and emotional
+aspects of human potential. Kendriya Vidyalaya, Indian Institution of
+Technology (KV IIT), Mumbai has been one of its major wings since 1964
+and has carved a niche for itself with its excellent result in the
+board examinations. KV IIT has 70 experienced, loving and sincere
+teachers, and more than 2000 dedicated students. Information about KV
+IIT are mentioned below:
+
+   - 62 years of pursuing Excellence in Education to nurture young minds towards nation building.
+   - numero uno equity brand in the field of education with its path breaking policies, pace setting activities, exemplary contributions and trailblazing achievements.
+   - Adjudged the 4th in the Country and the First in Maharashtra for its quality standards in education by Times Economic Survey 2017
+   - A Kinetic Value System that kindles values in the Students and Staff through the School Motto of “Enter to learn, Leave to serve”.
+   - At the forefront of India’s pedagogic excellence, the Vidyalaya has to its credit CBSE & KVS Toppers in X& XII.
+   - Carving a niche in quality education. Situated in the sylvan surroundings of IITB, it hosts many Innovations and Pilot study projects of KVS.
+   - Alchemy in action, the school has a stunning record of achievements of students in Sports & Co Curricular activities at the International, National and State Level. Recently school team won 3rd prize at national level by representing Mumbai and Goa region of KVS for the event “Ek Bharat Sresth Bharat” organized by KVS, MHRD at Vigyan Bhavan, New Delhi in Oct 2018.
+   - An eternal saga of passion, perseverance and progress, the school has a commendable percent of staff who have won National & Regional Awards in the field of Education.
+   - National integration, Scientific Temper, Sportsman Spirit, Life Skills, Respect for our Composite and Pluralistic Culture, etc. are imbibed in a natural way with a unique blend of academics and activities .
+   - Broader Outlook, Immense Confidence, Optimism, etc. are the hallmarks of every KVian here, many of our students have participated in Student Exchange Programmes and are pursuing their higher education in Universities abroad.
+   - Innumerable illustrious alumnae rendering yeoman     service all over the world in different spheres is testimony to its glorious golden innings.
+
+### Campus School and Jr. College
+IIT Bombay Campus School and Jr. College was established in 1979 under
+the aegis of the Society. It started with 20 students and a teacher.
+
+In 1982, IIT Bombay brought the school under its wings. Today the
+school has 405 students and 12 primary teachers, 17 TGT and 8 PGT
+(sanctioned teaching staff). Also 8 permanent non-teaching staff.
+
+It has three well-equipped Laboratories and a big library with a
+collection of nearly 12000 books and many periodicals, journals,
+newsletters etc. It has an audio-visual room and Computer lab with
+latest equipment.
+
+Campus school has a huge play ground with a Basketball court.
+
+Since its inception, IIT Bombay Campus School has taken up the
+responsibility of nurturing the young minds of Campus and guiding them
+towards the path of glory.
+
+Students in IIT Bombay campus school come from all possible sections
+of the Society. Many of them also are the first generation learners.
+Coming from a modest background, they reach the top under the able
+guidance of the teachers. School not only provides education but
+takes care of their financial needs too.  Students are offered various
+scholarships and awards; encourage them for achieving academic
+excellence.
+
+IIT Bombay Campus School is run by the school Council, which is
+comprised of the Director of IIT Bombay as Chairman, Associate
+Chairman Prof. Deepankar Choudhury, Convener Academic Policy Committee
+Prof. P. P. Date, Convener of Administrative Policy Committee
+Prof. A. M. Pradeep, three faculty members of IIT Bombay, parents and
+teachers representatives from all the major sections of the school,
+school Principal, Vice-Principal, Primary-in-Charge, external members
+from other nearby schools of repute, Medical doctor, student
+Counsellor, staff representative.
+
+As per the RTE (The Right of Children to free and Compulsory Education
+Act) 2009, school reserves 25% of seats at the entry level for
+children belonging to 'disadvantaged Groups' and Weaker Section. Under
+this act, school has admitted 74 students since A. Y. 2012-13 till
+2017-18.
+
+Here, students are taught not just academics but also the right
+attitude and values. School enhances and reinforces life
+skills. Students are part of CMCA (Children Movement for Civic
+Awareness) Mumbai chapter. CMCA’s interactive and experimental
+learning based curriculum has enabled them to take 'civics' out of the
+text book and into their daily lives and communities. They spread this
+awareness through campaigns like 'SAY NO TO FIRE CRACKERS' during
+Diwali. Students are part of National Cadet Corps( senior and
+Junior). At Primary level, Cubs and Bulbuls squad is being trained
+under the able guidance of Scout master. School has its own Band group
+too. Students of std. VII and VIII are trained for that.
+
+As part of 'SOCIAL RESPONSIBILITY' programme, students frequently
+visit Old Age Home, Orphange. They conduct cultural programme for the
+inmates. Under Personality development programme, students organise
+cleanliness drive (Swatchhata Abhiyan), Anti-Tobacco drive, Beti
+padhao-beti bachao (Educate Girlchild). Students also actively take
+part in helping several NGOs like Dignity Foundation, HelpAge
+Foundation etc.
+
+IIT Bombay Campus school has a strong Alumni base too. The ex-students
+take care of present batch of students by offering scholarships and
+endowments. They express their gratitude towards their alma mater in
+every possible way. IIT Bombay Campus School has completed 38 long
+years of existence in 2017 and hope to continue to serve the community
+for many more years to come.
+
+### KG School
+KG School is located in a quiet corner of the IIT Bombay campus in
+Powai, Mumbai. Kindergarten is exuberant with giggles and chatter of
+the youngest students of IIT Bombay who are three to five years
+old. The school had a modest beginning in 1964 with approximately 50
+students.
+
+Initially it functioned at three locations in the campus: Lakeside,
+Hillside and Central Area of IIT Bombay campus. All classes came under
+one roof when the present building was built in 1979. Administration
+and functioning became smoother and the school has only seen growth
+ever since.
+
+At present, IITB-KG School is having 250 kids, 7 teachers, 14 support
+staff working with the school In Charge. The school runs 5 sections
+each for upper KG (UKG) & lower KG (LKG) in two shifts in the morning
+and afternoon.
+
+ - Morning shift: 9 am to 12 noon (UKG)
+ - Afternoon shift: 1 pm to 3.30 pm (LKG)
+
+Here one can find the happiest faces learning under the care and guidance of the teachers and staff.
+A dedicated team of qualified teachers and staff constantly strive to
+make children comfortable and expose them to the first steps in
+education. The school has evolved by including new teaching methods
+and techniques to make pre-school learning years more fun.
+
+Currently housed in a modern building amidst a green and
+child-friendly ambience, the school has become extremely popular,
+imparting learning in a natural and enjoyable manner.
+
+The school strives to follow play way method, as all teachers are
+graduates with ECCED training. Children enjoy coming to this school
+because of many attractive facilities like very spacious outdoor play
+area, indoor play equipments, educational toys etc.
+
+The school also has separate art and craft room and music room. There
+are many co-curricular activities, festival activities throughout the
+year. In addition, there are few activities where each child takes
+part like sports, annual day, fancy dress. School also organizes trips
+(educational trip, field trip, and picnic).
+
+Academic year of KG school runs from July to next April. The intensive
+learning programme be it curricular and extra-curricular- is reviewed
+annually and new activities are included in each academic year.  The
+school council comprised of the Director of IIT Bombay as Chairman,
+three faculty members of IIT Bombay, parents representatives from each
+section with teacher representatives and external members from nearby
+other schools and a medical doctor continuously monitors the progress
+of the school and suggests further improvements from time to time.
+
+### Shishu Vihar Child Care Centre
+Shishu Vihar is a not-for-profit child care centre, managed by an
+association of parents, catering primarily to the child care needs of
+working parents in IIT Bombay. The Shishu Vihar Management Committee
+(SVMC) is body of IITB Official Representatives and elected member
+parents. SVMC is responsible for the overall policy, human resources,
+and financial management of the centre.
+
+SV has a group of people with backgrounds in education, psychology,
+special needs, child development, early childhood education, and
+curriculum development. Their education and experience not only enable
+themselves to understand the needs of children but also inspires them
+to choose healthy and effective practices in child care.
+
+
+Followings are the slots and programs of Shishu Vihar:
+
+Slots                                    Hours      Timing
+---------------------------------------  ---------  ------------------
+Morning Slot (MS)                        5 hours    8:15 AM to 1:15 PM
+Afternoon Slot (AF)                      5 hours    1:15 PM to 6:15 PM
+3/4 Day Slot (Lower KG School Children)  7.5 hours
+Full Day Slot (FD)                       10 hours   8:15 AM to 6:15 PM
+
+------------------------------------------------------------------------------------
+Programs              Eligibility             Description
+--------------------  ---------------------   --------------------------------------
+Toddler Program (MS)  18 months               A planned program where
+                                              toddlers are stimulated
+                                              through music, rhymes, books and toys.
+
+Play Group (MS)       2 years                 A structured program
+                                              that focuses on Sensory,
+                                              Language and
+											  Social Development. Children
+                                              are motivated to learn
+                                              and explore through
+											  play.
+
+Junior Club (MS)      3 years                 A systematic program
+                                              that uses reasoning,
+                                              math and language skills
+                                              to facilitate thematic
+                                              learning among children.
+
+Day Care (FD/AS)      18 months to 12 years   Children are exposed to
+                                              various activities such
+                                              as art & craft, music,
+                                              storytelling etc. Indoor
+                                              and outdoor play is
+                                              strongly encouraged.
+------------------------------------------------------------------------------------
+
 # Ethics and Code of Conduct
 As a faculty member of a premier Institute of the country, you are always under public scrutiny. It is necessary to maintain a high degree of decorum and integrity at all times. Clearly, it is not possible to give a complete list of what is acceptable and what is not. This section, therefore, deals only with such items as we believe you should be well informed about.
 
 ## Matters of general conduct
 
-1. _Dealing with the Press:_ Much as we like to see our name in print, the only place where your printed name can freely appear without raising eyebrows (or may be raising eyebrows in an agreeable way!) is in a professional journal. You do not need to take any permission to send a technical manuscript for publication. If what you are writing or talking about is of literary, artistic or scientific value only, you may even write to newspapers or periodicals. However, talking to the press (this includes all forms of interaction with print and electronic media) on any other matter  should generally be avoided, and left to functionaries in the main building. If you would like to express your views on an issue, you need to take the Director's permission.
+1. _Dealing with the Press:_ Much as we like to see our name in print, the only place where your printed name can freely appear without raising eyebrows (or may be raising eyebrows in an agreeable way!) is in a professional journal. You do not need to take any permission to send a technical manuscript for publication. If what you are writing or talking about is of literary, artistic or scientific value only, you may even write to newspapers or periodicals. However, talking to the press (this includes all forms of interaction with print and electronic media) on any other matter  should generally be avoided, and left to functionaries in the main building. If you would like to express your views on an issue, you need to take the Director's permission. If you want to have a press coverage of your published scientific article, you need to contact PRO after taking permission from the Director.
 2. Joining a political party or canvassing in an election is banned. (You can, of course, contest an election in a professional body.)
-3. Criticism of the Institute in any mass media (print or electronic) is not permitted. (To give vent to your frustration if any, the Computer Centre of the institute has provided a discussion group called the `discuss-faculty' where you can write and engage your colleagues in a debate on matters about which you feel strongly. This newsgroup is not moderated but it is good to use restrained language).
-3. _Redressal of Grievances:_ If you have a grievance, try to sort it out by meeting the concerned Dean, the Deputy Director or the Director. If you would like to make a written representation, the first course is the Director. If his response leaves you dissatisfied, you may make representation to the Chairman of the Board. Such representation should be through the Director. In extreme cases, you may take your grievance to the Visitor (who is the President of India). However, in all cases, you should go through what is known as proper channel, i.e., route all your representation through HOD, Director and the Chairman, in that order. The forwarding authority does not have the right to stop your representation being forwarded upwards excepting in circumstances such as (i) a similar petition made earlier has been disposed off and no new facts are brought out in the new petition, (ii) your representation is not to the appropriate authority, or (iii) the petition is against a decision which is final by any law or statute. In such cases, the appropriate authority will write you a reply explaining the reasons why your petition may not be forwarded.
+3. Criticism of the Institute in any mass media (print or electronic) is not permitted. (To give vent to your frustration if any, the Computer Centre of the institute has provided a discussion group called the 'discuss-faculty' where you can write and engage your colleagues in a debate on matters about which you feel strongly. This newsgroup is not moderated but it is good to use restrained language).
+3. _Redressal of Grievances:_ Redressal of Grievances: If you have a grievance, try to sort it out by meeting the concerned Dean, the Deputy Director or the Director. If you would like to make a written representation, the first course is the Director. If his response leaves you dissatisfied, you may make representation to the Chairman of the Board. Such representation should be through the Director. In extreme cases, you may take your grievance to the Visitor (who is the President of India). However, in all cases, you should go through what is known as proper channel, i.e., route all your representation through HOD, Director and the Chairman, in that order. The forwarding authority does not have the right to stop your representation being forwarded upwards excepting in circumstances such as (i) a similar petition made earlier has been disposed of and no new facts are brought out in the new petition, (ii) your representation is not to the appropriate authority, or (iii) the petition is against a decision which is final by any law or statute. In such cases, the appropriate authority will write you a reply explaining the reasons why your petition may not be forwarded.
 4. You may, of course, seek to redress grievances in a court of law without any permission. However, it is in good taste to first exhaust all possibilities of finding a solution to  your problems within the internal framework as stated above.
 
 ## Sexual Harassment of women at the workplace
@@ -555,7 +1062,7 @@ In addition, the following scales are applicable as appropriate to faculty:
    service as a Professor. A maximum of 40% of the total number of
    Professors can be placed in this scale. The corresponding Pay Level
    is 15, and the salary range is from Rs. 182,000 to 224,100.
-   
+
 2. _Institute and Endowed Chairs for faculty:_ As a means of
    recognizing outstanding performance, the Institute has several
    Chairs. While most of these are at the Professor's level (about 50
@@ -1288,7 +1795,7 @@ withdrawals work, including:
     corpus before you superannuate, then 80% of the corpus has to
     compulsorily be converted to an annuity. Only the remaining 20% is
     available as lumpsum.
-	
+
   - Since these rules have changed in the recent past, it is best to
     refer to the [NPS CRA FAQ](https://npscra.nsdl.co.in/nps-faq-withdrawal.php) for accurate information.
 
