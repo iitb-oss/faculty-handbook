@@ -42,7 +42,7 @@ administration when the need arises.
 Prof. A. K. Suresh (Dean, Faculty Affairs)
 
 # History
-The Indian Institutes of Technology were established on the recommendation of a Committee headed by Sir Nalini Ranjan Sarkar, a businessman, educationist, industrialist and public figure. The Committee had recommended establishment of Institutes of national importance to be set up in different regions of India. The first of the IITs was set up in Kharagpur (whose other claim to fame is its having the longest railway platform in the world) in the state of West Bengal in 1950 at a site in Hijli village which used to be a Detention Camp. The vision of establishing these Institutes is best stated in the words of India's first Prime Minister Pt. Jawaharlal Nehru in his convocation speech at the Institute:
+The Indian Institutes of Technology (IITs) were established on the recommendation of a Committee headed by Sir Nalini Ranjan Sarkar, a businessman, educationist, industrialist and public figure. The Committee had recommended the establishment of institutes of national importance to be set up in different regions of India. The first of the IITs was set up in Kharagpur (whose other claim to fame is having the longest railway platform in the world) in the state of West Bengal in 1950 at a site in Hijli village which used to be a British-era detention camp. The vision of establishing these Institutes is best stated in the words of India's first Prime Minister Pt. Jawaharlal Nehru in his convocation speech at the Institute:
 
 ![Nehru](Nehru.jpg){width=200px}
 ![Nehru speech](Nehru_speech.jpg){width=200px}
