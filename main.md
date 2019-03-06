@@ -373,6 +373,76 @@ Immediately on joining:
 
 [^kvprof]: Currently, Prof. Virendra Sethi, Centre for Environmental Science and Engineering.
 
+## Off-Campus Housing
+The institute has undergone significant expansion and increase in
+number of students over last decade and a half. The increase in
+student numbers has lead to a commensurate increase in the number of
+faculty members on the campus. Thus, the present dwelling numbers on
+the campus are insufficient. Though, new constructions are underway,
+there is expected to be shortage of housing on campus. In most cases,
+the new faculty may take up an on-campus housing flatlets like the
+Staff Hostel, Vihar House and CSRE D Types. But, occasionally, some
+faculty may want a “proper apartment” owing to family constraints or
+due to non-availability of the flatlets. In such situations, some may
+opt for off-campus housing. These off-campus housing once identified
+and allotted are treated as an extension of the IITB housing. There
+are several considerations to be done when scouting for an
+apartment. The guide lists a few points to be considered when
+considering off-campus housing.
+
+The institute provides Guest House to the new faculty member
+immediately after they join for a period of 30 days. The guest house
+charges are applicable and have to be borne by the faculty if this
+initial period of 30 days is exceeded. It is thus recommended that a
+search for off-campus housing be initiated as soon as the joining
+formalities are completed.
+
+As a first step towards availing off-campus housing one needs to
+identify a suitable apartment. The identification of the apartment
+could be done personally with the help of an agent or by consulting
+websites that offer such solutions. The office of Associate Dean-2
+Infrastructure and Planning (IPS) may be consulted and requested to
+offer help for searching and to identify estate agents that can
+facilitate this search. A list of previously rented or apartments
+newly offered on rent may be already be available with the Office of
+Associate Dean IPS-2. It is advised to check for availability of such
+list with the Associate Dean IPS-2 and its Office.
+
+An off-campus rented apartment requires consideration of the amount of
+rent, brokerage, escalation clause, and issues related to maintenance
+and movement charges. The institute has evolved a policy on the amount
+of rent that can be paid. The decisions regarding the amount of rent,
+brokerage, and escalation clause are usually handled by the Associate
+Dean IPS-2 and its Office. It is recommended to consult the Associate
+Dean IPS-2 and its Office with respect to this, in some cases even
+before the search process is initiated. It is recommended that initial
+negotiated rent is limited to within the stipulated amount. The terms
+and issues regarding the escalation are handled by the Associate Dean
+IPS-2’s office. The maintenance and movement charges are usually
+expected to be borne by the faculty.
+
+The contract or the lease agreement is drawn with IIT Bombay as the
+party and the letter of allotment is then issued by the Accommodation
+Allotment Committee (AAC). The duration of the lease should be
+noticed, since, it may be possible that these rented premises may have
+to occupied for an extended period of time. After moving to the
+apartment the usual day to day maintenance are expected to be handled
+by the individual. It has to be pointed out that there is uncertainty
+and degree of arbitrariness to the entire process due to the
+involvement of external agencies and it is recommended to patiently
+wade through the process.
+
+The institute has rules and regulations regarding allotment and
+entitlement of housing to faculty and staff of the institute. The
+details of these can be found on the Dean IPS website. The off-campus
+housing is treated as transit accommodation provided by IITB. Thus,
+availing the off-campus housing does not affect the entitlement or the
+seniority of the faculty within the ambit of the defined rules. The
+rented premises may have to vacated due to several reasons with the
+happy one being movement to campus. In the event of expiry of the
+lease and/or notice to vacate due to certain situation, the entire
+process may have to be repeated.
+
 ## Regularization/confirmation of service {#regularization}
 Subsequent to the implementation of the 6th Pay Commission orders (effective from 1.1.2006), Institutes such as ours cannot offer a regular faculty position to one with less than 3 years professional/postdoctoral experience (not counting any experience gained during the PhD years). In such cases therefore, the Institute makes an appointment at the Assistant Professor level _Contractual basis_ through its regular selection processes. Such appointees are entitled to all facilities that regular faculty members are. If you are appointed on contractual basis, the administration keeps track of when you complete the requirement of 3 years of experience (the experience gained after the date of PhD defense is counted), and sends a form to your department, that you have to fill for your appointment to be _regularized_. This form, in which you have to provide details of your accomplishments since obtaining the PhD degree, has to be filled and returned with your Head's forwarding comments, to the Dean (FA). In case you have prior experience that the administration is unaware of, that you feel should be counted against the 3 year requirement, you may make a representation through your Head of Department to Dean (FA), together with documentary evidence of the experience you are claiming.
 
@@ -1343,16 +1413,15 @@ the AGP of the faculty member at the time of the operation (it then
 remains unchanged for the entire service).
 
 ## Cumulative Professional Development Allowance (CPDA)
-An allowance of Rs. 3 Lakhs for a block of three years is made
-available to faculty members (including faculty on contractual basis)
-on reimbursable basis to enable presentation of their research work in
-conferences, paying the membership fee of various professional bodies,
-books and contingent expenses. Dean (FA) is the approving authority
-for expenditure under this head. The conference amount is primarily
-intended for international conferences but may be spent for National
-conferences as well if support for the latter cannot be provided by
-the Department. CPDA cannot be utilized during the period in which a
-faculty member may be on lien or extraordinary leave.
+An allowance of INR 3 Lakhs for a block of three years is provided to
+the faculty members (including for those appointed on contractual
+basis). The money can be utilised on reimbursement basis for paying
+the membership fee of various professional bodies, books and
+contingent expenses. The amount though intended majorly for
+international conferences, can be spent for national conferences in
+case department is unable to support. It is to be noted that CPDA
+cannot be utilised by the faculty when he is under any extraordinary
+leave.
 
 ### Rules governing CPDA
 1. Out of the amount of Rs. 3 lakh mentioned above, a minimum of Rs. 2
@@ -1729,6 +1798,7 @@ For those who joined the Institute before 2004, there were two retirement scheme
 ## Encashment of Leave at the time of Superannuation
 A maximum 300 days of earned leave may be accumulated by an employee. All unutilized earned leave up to this maximum duration is encashable at the time of superannuation. In case the amount of earned leave to the credit of the employee is less than 300 at the time of retirement, the shortfall can be made up from the half pay leave to the credit of the employee to the extent of such shortfall. However, the half pay leave will only be cashed at half rate and no commutation is permitted\footnote{For instance if an employee has, at the time of retirement, 200 days of earned leave and 300 days of half-pay leave to his/her credit, encashment will be for 200 full days and 100 half days, the balance of half pay leave will lapse.}. The rate of encashment is the total emoluments (basic + D.A.) per day on the date of retirement assuming a month to consist of 30 days.
 
+<!---
 ## Voluntary Retirement
 The minimum period of service for voluntary retirement with full
 pension (as determined by pay at the time of taking such retirement)
@@ -1736,6 +1806,7 @@ is 20 years
 
 ## Premature Retirement
 All faculty members who have entered service before attaining the age of 35 years have the option of retiring after attaining the age of 50 years.
+--->
 
 ## National Pension Scheme (for those who joined the service on or after 1.1.2004)
 The National Pension Scheme (NPS) is applicable for all employees who
