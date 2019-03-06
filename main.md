@@ -47,13 +47,14 @@ The Indian Institutes of Technology (IITs) were established on the recommendatio
 ![Nehru](Nehru.jpg){width=200px}
 ![Nehru speech](Nehru_speech.jpg){width=200px}
 
-Four more IITs followed in quick succession. IIT Bombay was
-established in 1958, followed by those at Madras (1959), Kanpur (1959)
-and Delhi (1961). Though the names of the cities Bombay and Madras
-were later changed respectively toMumbai and Chennai, the Institutes
-at these two places retain the original names. Thus our Institute is
-IIT Bombay, or in short IITB.  IIT Bombay celebrated its Golden
-Jubilee in 2008.
+Four more IITs followed in quick succession. IIT Bombay (officially
+‘Indian Institute of Technology Bombay’) was established in 1958,
+followed by those at Madras (1959), Kanpur (1959) and Delhi
+(1961). Though the names of the cities Bombay and Madras were later
+changed respectively to Mumbai and Chennai, the Institutes at these
+two places retain the original names. Thus our institute is IIT
+Bombay, or, abbreviated to IITB.  IIT Bombay celebrated its Diamond
+Jubilee in 2018.
 
 In 1994 a sixth IIT was established in Guwahati in the State of
 Assam. Seven years later, in the year 2001, one of the oldest
@@ -65,200 +66,259 @@ Bhubaneswar (Odisha), Gandhinagar (Gujarat), Hyderabad (Andhra
 Pradesh), Indore (Madhya Pradesh), Mandi (Himachal Pradesh), Patna
 (Bihar), Rupnagar (Panjab) and Jodhpur (Rajasthan). In 2012, the
 Institute of Technology of Banaras Hindu University at Varanashi
-(Uttar Pradesh) was conferred the status of an IIT, thus making it the
-latest entrant to the IIT family. There are thus 16 IITs in the
-country at present.
+(Uttar Pradesh) was conferred the status of an IIT. Then, in
+2015-2016, the newest IITs were set up in Tirupati, Goa, Pallakad,
+Bhilai, Dharward and Jammu; at the same time, the Indian School of
+Mines, Dhanbad (Jharkhand) was converted to IIT Dhanbad, making a
+total of 23 at the time of writing.
 
-# Governance Structure
+## Who's who
 
-There are two sacred documents which stipulate the way the Institute
-is to be run. The first one is the _The Institutes of Technology Act, 1961_, passed by the Indian Parliament. The act stipulates that the IITs are
-institutions of national importance and prescribes the broad framework of its governance. The second one is the _Statutes of I.I.T. Bombay_ which gives the detailed rules of governance.
+There are two statutory documents that stipulate the way the Institute is to be run. The first one is [The Institutes of Technology Act, 1961](http://www.iitb.ac.in/sites/default/files/IITsAct_1.pdf), passed by the Indian Parliament. The act stipulates that the IITs are institutions of national importance and prescribes the broad framework of their governance. The second one is the Statutes of I.I.T. Bombay, which gives the detailed [rules of governance](http://www.iitb.ac.in/en/about-iit-bombay/statutes-iit-bombay).
 
-## The Visitor
-Formally, the President of India[^president] is officially the chief of the IITs; (s)he is  called the Visitor of the Institutes. In reality, the Institute does not deal directly with the Visitor, but routes all papers which require her approval through the ministry of Human Resource Development, MHRD for short.
 
-[^president]: Currently, His Excellency Sri Pranab Mukherjee
+### The Visitor
+Formally, the President of India is officially the chief of the IITs; (s)he is  called the Visitor of the Institutes. In reality, the Institute does not deal directly with the Visitor, but routes all paperwork requiring their approval through the Ministry of Human Resource Development, MHRD for short.
 
-## The Council
-At the very top of all the IITs' administration is the IIT
-Council. The Chairman of the Council is the Minister of Human Resource
-Development[^minister], which is the central ministry under which our
-Institute comes. The Council is a very large organization with very
-large number of (ex-officio) members, e.g. the Chairmen and the
-Directors of all IITs, Chairman and Director of IISc, Bangalore,
-Director General of CSIR, Chairman UGC and a few nominated members.
+### The IIT Council
+At the very top of all the IITs' administration is the [IIT
+Council](https://www.iitsystem.ac.in). The Chairman of the Council is
+the Minister of Human Resource Development, which is the central
+ministry under which our Institute comes. The Council is a very large
+organization with very large number of (ex-officio) members, e.g. the
+Chairmen and the Directors of all IITs, Chairman and Director of IISc,
+Bangalore, Director General of CSIR, Chairman UGC and a few nominated
+members.
 
-[^minister]: Currently, Hon'ble Sri Pallam Raju.
-
-# The Board of Governors
+### The Board of Governors
 
 Each IIT has its own Board of Directors, called the Board of Governors
 or BOG. The BOG meets often, at least four times a year. Almost all
 major policy decisions have to be approved by the Board. For instance,
 all appointments, major purchases, constructions etc. require approval
 and authorization of the Board. The meetings of the Board are
-generally spaced every three months. The Chairman of the
-Board\footnote{Currently Dr. Anil Kakodkar, former Chairman of the
-Atomic Energy Commission of India.}  approves items which cannot await
-the next meeting of the Board and such decisions are approved
-_post-facto_ by the BOG.
-
-TODO BOG Chairman picture
+generally spaced every three months. The Chairman of the Board
+approves urgent items that cannot wait for the next Board Meeting;
+these are approved _post facto_ by the BOG.
 
 The Board has 11 members. In addition to the Chairman and the Director
-of the Institute, who are ex-officio members of the Board, one nominee
-each of the governments of the states Maharashtra, Goa and the Union
-Territory of Dadra and Nagar Haveli which comprise the zone in which
-the Institute is situated are members of the Board [^boardmembers].  There are
-four nominees having special knowledge or practical experience in
-respect of education, engineering or science, who are nominated by the
-Council as members of the Board [^boardnominees]. Note that, while there is no nominee of the Government
-in the Board, the provision of the Council nominees has often been
-used to have a Government representation in the Board. The remaining
-two members are nominees of the Senate of IIT Bombay. These members
-are, in practice, recommended by the Senate Nominations Committee
-(SNC)\footnote{The present members under this category are
-Prof. N.B. Ballal (Metallurgical Engineering and Materials Science)
-and Prof. D.K. Sharma (Electrical Engineering).}. The Registrar of the
-Institute is the _ex-officio_ Secretary of the Board of
-Governors.
+of the Institute, who are _ex officio_ members of the Board, one
+nominee each of the governments of the states Maharashtra, Goa and the
+Union Territory of Dadra and Nagar Haveli, which comprise the zone in
+which the Institute is situated, are members of the Board.  There are
+four nominees, having special knowledge or practical experience in
+respect of education, engineering or science, from the IIT Council to
+the Board. The remaining two members are nominees of the Senate of IIT
+Bombay. These members are, in practice, recommended by the Senate
+Nominations Committee. The Registrar of the Institute is the _ex
+officio_ Secretary of the Board of Governors.
 
-[^boardmembers]: These nominees presently are the Secretary, Higher
-and Technical Education of Govt. of Maharashtra, Dr. R.B. Bhatkar from
-Goa and Shri Gyanesh Bharti, Finance Secretary, UT of Dadra and Nagar Haveli.
+Two crucial Institute committees report to the Board. The first of
+these is the _Finance Committee_, which acts as the watchdog of the
+Institute funds. Any proposal, which requires major fund allocation is
+generally routed through the Finance Committee. The Financial Advisor
+to MHRD is a member of the Finance Committee. The second is the
+_Building and Works Committee_, which has the power to recommend all
+major construction projects.
 
-[^boardnominees]: Currently, these nominees
-are: Dr. S.Sivaram (CSIR Bhatnagar Fellow, NCL, Pune), Dr. Ajit Ranade
-(Group Chief Economist, Aditya Birla Centre), Prof Shobho Bhattacharya
-(TIFR Mumbai) and Prof Dinesh Singh (Vice Chancellor, Delhi
-University).
-
-Two powerful committees report to the Board. The
-first of these is the _Finance Committee_, which acts as the
-watchdog of the funds of the Institute. Any proposal, which requires
-major fund allocation is generally routed through the Finance
-Committee. The Financial Advisor to MHRD is a member of the Finance
-Committee. The second is the _Building and Works Committee_,
-which has the power to recommend all major construction projects.
-
-## The Senate
+### The Senate
 
 The Senate is the highest academic body of the Institute, which
 approves courses of study, frames rules of academic programmes,
 conducts evaluations and finally recommends award of degrees to the
-Board of Governors.  All academic programmes are first proposed by the
-departments/other academic units, discussed and recommended by the
-programme committees (PC) of the Senate. Likewise, academic
-performances are evaluated by the individual instructors or boards of
-examiners, scrutinized by the academic performance evaluation
-committees (APEC) of the Senate before being presented for approval to
-the Senate.  \par All Professors of the Institute are _ex-officio_
-members of the Senate. It also has some rotating members from the
-non-professorial faculty and a few members from outside the
-Institute. The Registrar of the Institute is the Secretary of the
-Senate.
+Board of Governors.  For example, any new academic programme or change
+to an existing one have to be first proposed by the department/other
+academic unit to the programme committees (PC) of the Senate where it
+is discussed and approved, possibly with revisions, for final
+presentation to the Senate for approval. Likewise, evaluation
+committees (APEC) of the Senate formally scrutinize academic
+performance evaluated by the individual instructors or boards of
+examiners, before it is presented to the Senate for approval.
 
+All (full) Professors of the Institute are _ex officio_ members of the
+Senate. It also has some rotating members from the non-professorial
+faculty and a few members from outside the Institute. The Registrar of
+the Institute is the Secretary of the Senate.
 
+### Who's who at the institute
+
+<!---
 ## The Director and Other Functionaries
 ![Director](Director.jpg){width=200px}
 Prof. Devang Khakhar
+--->
+The CEO of the Institute is the Director who runs the Institute as per
+the policies decided by the Board. The Director is appointed by the
+Government of India and usually has a tenure of five years, which may
+be extended until (s)he reaches the age of superannuation.
 
-The CEO of the Institute is the Director[^director],  who runs the Institute as per the policies decided by the Board. The Director is appointed by the Government
-of India and usually has a tenure of five years, which may be extended until (s)he reaches the age of superannuation.
-
-### The Deputy Director, Deans and Registrar
 The Director is helped in the administration by what can be termed as
-his cabinet. There are two Deputy Directors, Deputy Director (Academic
-and Infrastructural Affairs or AIA)[^ddaia], and Deputy Director
-(Finance and External Affairs, or FEA[^ddfea], one of who acts as the
-Director whenever the Director is away.
+his cabinet ([more
+details](http://www.iitb.ac.in/en/about-iit-bombay/iit-bombay-functional-organisation)). At
+the time of writing, there are two Deputy Directors, Deputy Director
+(Academic and Infrastructural Affairs or AIA), and Deputy Director
+(Finance and External Affairs, or FEA), one of who serves as Acting
+Director whenever the Director is away.  The powers vested in the
+Director have been delegated, up to certain limits, to various Deans
+in the interest of smooth administration. There are eight (8)
+Deans. They are as follows:
 
-[^director]: Currently Prof Devang V. Khakhar, a Chemical Engineer by profession.
+   1. The _Dean (Faculty Affairs, FA)_ is practically the 'Head of
+   Human Resources' as far as faculty members are concerned. Their job
+   is to look at matters connected with the faculty and their welfare,
+   including recruitment, appraisal, special leaves of absence and
+   exit - for which their office interfaces with the relevant
+   Department. Similarly, they might interface with the offices of
+   other Deans on other matters pertaining to faculty welfare,
+   e.g. with Dean (Infrastructure, Planning & Support, IPS) on
+   housing. That said, the Dean (FA) office is not quite a
+   'single-window' at the time of writing - for example, as a faculty
+   member, one may also need to interact directly with the office of
+   the Dean (IPS) for housing.
 
-[^ddaia]: Currently, Prof Subhasis Choudhuri, Department of Electrical Engineering.
+   2. The _Dean (Alumni Corporate Relations, ACR)_ looks after
+   relations with alumni, and coordinates donations received from
+   alumni, corporate and philanthropic sources ([more
+   details](http://www.iitb.ac.in/alumni/en/content/about-acr-office)). There
+   is also a Development Office under the Dean (ACR) which catalyses
+   the alumni relations.
 
-[^ddfea]: Currently, Prof H.S. Pandalai, Department of Earth Sciences.
+   3. _Dean (Research and Development, R&D)_ leads a large office
+      called the [Industrial Research and Consultancy
+      Center](https://www.ircc.iitb.ac.in/) (IRCC) to take care of
+      sponsored projects and consultancy matters. There is an
+      Associate Dean (R&D) to help the Dean (R&D) discharge their
+      responsibilities. Later sections of this handbook (LINK HERE)
+      will provide more detail on a few R&D related topics.
 
+   4. The _Dean (Academic Programmes, AP)_ leads the [Academic
+      Office](http://www.iitb.ac.in/newacadhome/offdetail.jsp), which
+      is the repository of all records connected with academic
+      performance of students. The Dean (AP) also presides over the
+      undergraduate and postgraduate programme committees (UGPC and
+      PGPC) of the Institute which processes all academic proposals
+      received from academic units such as Departments, Schools and
+      Centres. The Dean (AP) is assisted in his work by an Associate
+      Dean. Later sections of this handbook (LINK HERE) will provide
+      more detail on a few topics related to Academic Programmes.
 
-The powers vested in the Director have been delegated to various functionaries in the interest of smooth administration. Deans have powers of sanctioning within their area of responsibility. There are eight (8) Deans. They are as follows:
+   5. The _Dean (Infrastructure, Planning and Support, IPS)_ looks
+      after all matters connected with creation of new civil
+      infrastructure and maintenance of the existing civil
+      infrastructure and all related facilities, such as roads,
+      electricity and water supply ([more
+      details](http://www.iitb.ac.in/deanpl/)). (S)he is also
+      responsible for all estate related matters, including allotment
+      of accommodation. As such, the Dean (IPS) leads four offices:
+      the Estate Office, which is responsible for civil infrastructure
+      maintenance, the Electrical Maintenance Division, which is
+      responsible for power supply and electrical maintenance
+      (including air conditioners), the Design Cell, which is
+      responsible for interior design and renovation, and the Public
+      Health Office. Two Associate Deans assist the Dean in the
+      discharge of their responsibilities. Associate Dean – II (IPS)
+      also serves as the Chairman, Accommodation Allotment Committee
+      (AAC); i.e. (s)he is directly responsible for Housing related
+      matters. A later sections of this handbook (LINK HERE) will
+      provide more detail on this.
 
-1. _Dean (Faculty Affairs, FA)[^deanfa]._ His primary job is to look at matters connected with the Faculty. He initiates and processes recruitment of the faculty as well.
-1. _Dean (Alumni & Corporate Relations, ACR)[^deanacr]_. He looks after relations with alumni, coordinates donations received from alumni and corporate sources. There is also a Development Office under the Dean (ACR) which catalyses the alumni relations.
-1. _Dean (Research and Development, R&D)[^deanrnd]_ to help the Dean (R&D) discharge his responsibilities. The Institute has a very large establishment called Industrial Research and Consultancy Center (IRCC) to take care of its sponsored projects and consultancy matters. The Dean (R&D) is the chief of this unit. There is an Associate Dean (R&D)[^adeanrnd].
-1. _Dean (Academic Programmes, AP)[^deanap]_. The Academic Office is the repository of all records connected with academic performance of students. The Dean (AP) also presides over the undergraduate and postgraduate programme committees (UGPC and PGPC) of the Institute which processes all academic proposals received from academic units such as Departments, Schools and Centres. As the Academic Office is one with which the faculty has substantial interaction, we will describe this office at length later. Dean (AP) is assisted in his work by an Associate Dean[^adeanap].
-1. _Dean (Infrastructure, Planning and Support, IPS)[^deanip]_. All matters connected with creation of new civil infrastructure and maintenance of the existing civil infrastructure and all related facilities, such as roads, electricity and water supply etc. come under the purview of Dean (IPS). He is also responsible for all estate related matters, including allotment of accommodation. Two Associate Deans[^adeanips]. The latter also serves as the Chairman, Accommodation Allotment Committee (AAC).} assist the Dean in his working.
-1. _Dean (International Relations, IR)[^deanir]_. As the name suggests, this Dean's job is to promote and administer international linkages. The Institute has a very large number of MoUs with many foreign and national institutions. All foreign students in the Institute are required to report to the Dean (IR)'s office for all their interactions with the Institute. Dean (IR)'s office also co-ordinates visits to the Institute by foreign nationals, whether for conference of other types of academic exchanges, including Visiting faculty.
-1. _Dean (Students Affairs, SA)[^deansa]._ Excepting academic matters (which are dealt with by the Dean-AP), all student issues are the responsibility of Dean (SA), who is also responsible for all extra-curricular activities of the students. He also chairs the Disciplinary Action Committee (DAC) to look into infringement of disciplinary rules applicable to the students.  Dean (SA) is assisted in his work by an Associate Dean[^adeansa].
-1. _Dean (Administrative Affairs, AA)[^deanaa]_ Broad policy issues relating to administration, such as management of staff manpower, continuous planning and reworking of administrative workflows, Automation of administrative procedures, etc. come within the purview of this newly created deanship.
+   6. The _Dean (International Relations, IR)_ promotes and
+      administers international linkages (see [International Relations
+      Office](http://www.ir.iitb.ac.in/)). The Institute has a very
+      large number of MoUs with many foreign and national
+      institutions, including for joint/dual degree programmes. All
+      foreign students in the Institute are required to report to the
+      IR office for all their interactions with the Institute. The IR
+      office also co-ordinates visits to the Institute by foreign
+      nationals, whether for conference of other types of academic
+      exchanges, including Visiting faculty. This office also runs
+      foreign language courses for the campus community.
 
-[^deanfa]: Prof A.K. Suresh, Department of Chemical Engineering, the current Dean, has completed his term and will be handing over charge to Prof J.K Verma of the Mathematics department shortly.
+   7. The _Dean (Students Affairs, SA)_ is responsible for student
+      activities and welfare ([more
+      details](https://gymkhana.iitb.ac.in/students/contact.html)),
+      excepting academic matters (which are dealt with by the Dean
+      (AP)). These include hostel, sports and cultural affairs. The
+      Dean (SA) also chairs the Disciplinary Action Committee (DAC) to
+      look into infringement of disciplinary rules applicable to the
+      students.  The Dean (SA) is assisted in their duties by an
+      Associate Dean.
 
-[^deanrnd]: Currently, Prof P.M. Mujumdar, Department of Aerospace Engineering.
+   8. The _Dean (Administrative Affairs, AA)_ deals with broad policy
+      issues relating to administration, such as the management of
+      staff manpower, continuous planning and reworking of
+      administrative workflows, automation of administrative
+      procedures. This is the newest deanship that has been created in
+      the Institute.
 
-[^adeanrnd]: Currently, Prof K.P. Kaliappan, Department of Chemistry.
+Besides the Deans, there are Professors-in-Charge for various functional units. For example:
+ - Computer Centre (https://www.cc.iitb.ac.in) for all data network as well as Institute supercomputer related issues
+ - Continuing Education Programme (http://www.cep.iitb.ac.in/) for coordinating industrial training courses
+ - Society for Innovation and Entrepreneurship for start-up incubation support (http://www.sineiitb.org/sine)
+ - Research Park (http://www.respark.iitb.ac.in/#/home) for engagement with companies on campus
+ - Parimal and Pramod Chaudhari Centre for Learning & Teaching (http://www.ppcclt.iitb.ac.in) for faculty development and effective learning
 
-[^deanacr]: Currently, Prof Ravi Sinha, Department of Civil Engineering.
-
-[^deanap]: Currently, Prof Shiva Prasad, Department of Physics.
-
-[^deanir]: Currently, Prof. R.O. Dusane, Department of Metallurgical Engineering and Materials Science.
-
-[^adeanap]: Currently, Prof P.C. Pandey, Department of Electrical Engineering.
-
-[^deanip]: Currently, Prof N. Venkataramani, Department of Metallurgical Engg and Materials Science.
-
-[^adeanips]: Currently, Prof B.V. Vishwanadham of the Department of
-    Civil Engg. and Prof. Kishore Chatterjee of the Department of
-    Electrical Engineering.
-
-[^deansa]: Currently, Prof. U.A. Yajnik, Department of Physics.
-
-[^adeansa]: Currently, Prof Anindya Datta, Department of Chemistry.
-
-[^deanaa]: Currently, Prof Y. M. Desai, Department of Civil Engineering.
-
-Then there is the _Registrar[^registrar]_, who is officially the custodian of all records and funds received by the Institute. He signs the cheques issued by the Institute and all payments payable to the Institute are paid to the Registrar, IIT Bombay. He is also the Member-Secretary of the Senate and the Secretary of the Board of Governors. He also is the Head of the administration.
-
-[^registrar]: The position is vacant at present, Shri B.S. Punalkar, the previous incumbent, having retired recently. Dr. Indu Saxena, Deputy registrar (Admin) is the Acting Registrar.
+Then there is the Registrar, who is officially the custodian of all
+records and funds received by the Institute. (S)he signs the cheques
+issued by the Institute and all payments payable to the Institute are
+paid to the Registrar, IIT Bombay. (S)he is also the Member-Secretary
+of the Senate and the Secretary of the Board of Governors. (S)he also
+is the Head of the administration.
 
 ## Academic Units & their internal administration
 
 The broad disciplines in which IITB has its teaching and research
-activities are those of Engineering, Science, Management, Design and
-Educational Technology. The academic activities in these areas are
-hosted in 14 Departments, 1 School, 6 Centres and 4 Interdisciplinary
-programmes. By convention, a 'Department' is a unit which offers the
-whole range of academic programmes ranging from undergraduate to
-doctoral degrees and a 'Centre' hosts postgraduate and research
+activities are those of Engineering, Science, Management, Design,
+Educational Technology, Entrepreneurship, and Policy ([more
+details](http://www.iitb.ac.in/en/education/academic-divisions)). Academic
+programmes in these areas are hosted in 15 Departments, 1 School, 7
+Centres and 4 Interdisciplinary programmes. By convention, a
+'Department' is a unit which offers the whole range of academic
+programmes ranging from undergraduate to doctoral degrees and a
+'Centre ' hosts postgraduate and research
 programmes. Interdisciplinary programmes (IDPs) are nucleated by
 faculty coming together from different disciplines to define a common
 research agenda, and over time as the activities take a definite shape
 and build up in strength, such IDPs may become Centres
 themselves. Schools are set up in targeted areas, with significant
-funding from external sources. In addition, there are service centers
-such as the Computer centre, which do not host any academic or
+funding from external sources. In addition, there are service centres
+such as the Computer Centre, which do not host any academic or
 research programmes.
 
 The academic units mentioned above are headed, usually by a faculty
 member of the unit itself, and usually of the rank of Professor. The
 Head of an academic unit has a term of three years. The position is
-similar to what is known as the 'Department Chair' in the West. All
-papers from the Department are routed through the Head. A Head is
-appointed by the Director, generally by seeking a consensus view from
-the departmental faculty.
-
+similar to what is known as the 'Department Chair' in the West. The
+Head is appointed by the Director, generally after seeking the view of
+the departmental faculty. All paperwork from the Department is routed
+through the Head. This includes nearly all official applications
+(e.g., applications for seed funding, for special leave, and so on)
+going from a faculty member to the Institute.
 
 The Head of an academic unit functions with the aid of several
 committees. The largest and most important of these is the
-Departmental faculty itself, which meets as a body at least once every
+departmental faculty itself, which meets as a body at least once every
 semester, and takes major decisions of broad impact. Then there is the
-Departmental Policy Committee (DPC) which meets at least twice every
-semester and takes decisions on issues of a policy nature. The DPC has
-the important role of ensuring continuity in broad policy directions
-and is an elected body with representation of all constituent cadres
-and groups of faculty in the department. The deliberations of these committees, in the form of minutes, is communicated to concerned functionaries in the central administration, who are thus apprised of the issues the departmental faculty are seized of.
-The structure and function of these and other committees were set out in the Report of the Committee for Review of the Academic Bodies (which has come to be known as the CRAB committee report) in 1972 (detailed guidelines in respect of DPC were formulated in 2011).
+Departmental Policy Committee (DPC) meets at least twice every
+semester and has the responsibility of framing policy on matters of
+interest to the Department. The DPC has the important role of ensuring
+continuity in broad policy directions and is an elected body with
+representation of all constituent cadres and groups of faculty in the
+department. In addition to the DPC, there is the Departmental
+Undergraduate Programme Committee (DUGC) and the Departmental
+Postgraduate Programme Committee (DPGC) to decide on matters relating
+the to respective academic programmes, and issues pertaining to
+students therein.
+
+The deliberations of these committees, in the form of minutes, is
+communicated to concerned functionaries in the central administration,
+who are thus apprised of the issues the departmental faculty are
+seized of.
+
+The structure and function of these and other committees were set out
+in the Report of the Committee for Review of the Academic Bodies
+(which has come to be known as the CRAB committee report) in 1972
+(detailed guidelines in respect of DPC were formulated in 2011).
 
 # When You Are New
 Welcome to I.I.T. Bombay's faculty fraternity. The Institute promises you interesting times ahead. Things might look a little difficult at first, particularly if you are arriving from a western country. Things which you took for granted abroad, may not be so simple here. However, we have come a long way from the hard times which greeted new faculty members a couple of decades back. Also, the Institute administration is constantly striving to make the transition smoother, and is open to your suggestions in this area. Here is a quick look at what you need to do on arrival.
