@@ -1004,7 +1004,12 @@ support.
 
 ## Directorship in Companies
 
-The Institute encourages faculty to develop industrial relations and permits employees to be on the Board of Directors of Companies. You must, however, apply to the Director, through the Dean (FA), to obtain permission for this purpose. You may accept a sitting fee given to members of the Board for attending meetings.
+The Institute encourages faculty to develop industrial relations and
+permits employees to be on the Board of Directors of
+companies. However, you are required to obtain the Director’s consent
+before taking up such a position; the application for the same may be
+sent to the Director through the Dean (FA). You may accept a sitting
+fee given to members of the Board for attending meetings.
 
 ## Starting a company based on your research/ technological breakthroughs
 The Institute encourages you to capitalize on your research findings which have an application potential, through starting your own company or enterprise on campus. This requires that permission be obtained by applying to the Director, through the Dean (FA)[^imcwork].  The application process involves, among other things, application of due diligence to ensure there is no conflict of interest involved. A company called the _Society for Innovation and Entrepreneurship (SINE)_[^sine]  has been created for the sole purpose of facilitating the transition from laboratory to marketplace by providing incubation facilities, and is the sole vehicle for translation of research/technological breakthroughs by the Institute's faculty members to commercial enterprises.
