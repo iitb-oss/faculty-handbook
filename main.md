@@ -216,7 +216,7 @@ Deans. They are as follows:
       (including air conditioners), the Design Cell, which is
       responsible for interior design and renovation, and the Public
       Health Office. Two Associate Deans assist the Dean in the
-      discharge of their responsibilities. Associate Dean – II (IPS)
+      discharge of their responsibilities. Associate Dean - II (IPS)
       also serves as the Chairman, Accommodation Allotment Committee
       (AAC); i.e. (s)he is directly responsible for Housing related
       matters. A later sections of this handbook (LINK HERE) will
@@ -321,117 +321,224 @@ in the Report of the Committee for Review of the Academic Bodies
 (detailed guidelines in respect of DPC were formulated in 2011).
 
 # When You Are New
-Welcome to I.I.T. Bombay's faculty fraternity. The Institute promises you interesting times ahead. Things might look a little difficult at first, particularly if you are arriving from a western country. Things which you took for granted abroad, may not be so simple here. However, we have come a long way from the hard times which greeted new faculty members a couple of decades back. Also, the Institute administration is constantly striving to make the transition smoother, and is open to your suggestions in this area. Here is a quick look at what you need to do on arrival.
+Welcome to I.I.T. Bombay's faculty fraternity! The Institute promises
+you interesting times ahead. Setting up home and workplace might
+appear to be a tough proposition at first, particularly if you are
+arriving from a more orderly place (US, Europe, Japan et al.). Things
+you might have taken for granted abroad, may not be so straightforward
+here. The Institute administration is constantly striving to improve
+its systems and processes - in particular, to smoothen the transition
+for new faculty - and is open to your suggestions in this regard. The
+Head of your Department/Centre is officially your liaison with the
+Institute and, as such, may be freely approached for help if you face
+any issues. Also, most senior colleagues would be more than happy to
+guide and help informally - do not hesitate to ask! What follows is a
+quick look at what you need to do just before and after your arrival.
 
-## Formalities before and at the time of joining
 
-First, once you have decided on the dates of your arrival, write an email to your Head of the Department with a copy (cc) to the Dean (FA), requesting her/him to book a room in the Institute Guest House where you can check in on arrival.  You may also request transport to receive you at the Airport.
+First, once you have decided on the dates of your arrival, please
+write an email to your Head of the Department with a copy (cc) to the
+Dean (FA), requesting her/him to book a room in the Institute Guest
+House where you can check in on arrival.  You may also request
+transportation to receive you at the Airport and bring you to campus.
 
+The Institute provides for Relocation Allowance to new faculty ([more
+details](http://www.iitb.ac.in/en/careers/faculty-facilities)). Remember
+to keep your receipts/air-tickets etc. for claiming the
+reimbursement. This holds for all future official travel as well! If
+you accept the relocation allowance, you have to agree to serve the
+Institute for a minimum period of three years. If you leave the
+Institute before this period, the Institute may ask you to return the
+relocation amount paid, either fully or partially.
 
-The Institute provides for _Relocation Allowance_ to new faculty. The cost of travel for the faculty member and family (spouse and dependent children) and transportation of household goods are reimbursable up to a limit of Rs. 50,000/- if you are joining from a place within India, and is Rs. 100,000/- (one Lakh) if coming from abroad. Keep your receipts/air-tickets etc. for claiming the reimbursement. If you accept the relocation allowance, you have to agree to serve the Institute for a minimum period of three years. If you leave the Institute before this period, the Institute may ask you to return the relocation amount paid, either fully or partially.
+If you are joining as a fresh faculty as an Assistant Professor, you
+are eligible to receive the [Young Faculty Award (YFA) endowed by our
+alumni](http://www.iitb.ac.in/alumni/en/contribution-purpose/young-faculty-awards). If
+possible, do spend a few minutes to send a letter of appreciation to
+our Alumni Association - through the Office of the Dean (ACR) - for
+their gift. The paperwork for the YFA requires a legal process called
+franking - you can now get this done in the Administration Section in
+the Main Building itself (until recently, this facility was not
+available on-campus).
 
-If you are joining as a fresh faculty as an _Assistant Professor_, you are eligible to receive the _Young Faculty Award (YFA)_ instituted by our alumni. You will receive Rs. 1 lakh per year for a period of four years. This amount helps you to meet expenditures that you will have to incur to set up a new house and take care of other immediate needs. Do spend a few minutes to send a letter of appreciation to our Alumni Association (through the Office of the Dean (ACR)) for this gesture. The relocation allowance and YFA are admissible to Assistant Professors (contractual basis) also, appointed through statutorily constituted selection committees.
+The relocation allowance and YFA are also admissible to Assistant
+Professors (contractual basis), appointed through statutorily
+constituted selection committees.
+
+The following are the things to do immediately after joining. As you
+embark on the necessary running-around, it might help in some cases to
+call an office before you land up (here, to that end, is a link to the
+[Institute’s telephone
+directory](https://portal.iitb.ac.in/TelephoneDirectory/)).
+
 
 Immediately on joining:
 
-1. You have to make a visit to the Administration Section to complete
-   joining formalities. For this purpose you need
-     a. original and copies of all academic certificates from SSC (10th Board) to Ph.D. SSC or HSC certificate which gives your date of birth is very important as the Administration does not accept any other proof of date of birth.
-	 b. several passport size photographs for various purposes.
-	 c. if you were previously employed, a certificate stating that you have been relieved of your position there.
+1. You have to make a visit to the Administration Section in the Main
+   Building to complete joining formalities. For this purpose you
+   need:
+   a. Original and copies of all academic certificates from SSC (10th
+   Board) to Ph.D. SSC or HSC certificate which gives your date of
+   birth is very important as the Administration does not accept any
+   other proof of date of birth.
+   b. Several passport size photographs for various purposes.
+   c. If you were previously employed, a certificate stating that you
+   have been relieved of your position there.
+
 2. The Administration section will, in turn, give you several letters
-   and forms. Two letters of immediate importance are the ones to (i)
+   and forms. Two letters of immediate importance are the ones to: (i)
    Chairman, Accommodation Allotment Committee (AAC), requesting that
    a quarter be allotted to you and (ii) IIT Hospital, to examine you
    and certify that you are medically fit.
-3. Take the Accommodation Committee letter to the Estate Office and
-   give it to the person looking after accommodation
-   matters[^accommodation] who will tell you about the possibilities
-   that exist. The _ad-hoc_ provided to you is likely to be either a
-   Vihar House flat or a flatlet in the Staff Hostel. The
-   accommodation is very basic and consists of a one room-kitchen
-   accommodation (Vihar House) or a one Bedroom-Hall-Kitchen (one BHK
-   in Mumbai lingo) in the Staff Hostel Annexe, depending on
-   availability. (If you happen to have joined the Institute directly
-   as a Professor, you will get a C-type quarter - 2 or 3 BHK - as
-   your ad-hoc allotment). Moving to regular accommodation takes time
-   (one to two years at present, but expected to come down to a matter
-   of a few months by mid-2020) and allotment of regular accommodation
-   is done by a seniority rule[^allotmentrules]. The quarters do not
-   come furnished and you will have to furnish it yourself. A home
-   telephone connected to the internal exchange will be provided which
-   does not have outside call facilities. You may decide to get a
-   personal telephone connection either from MTNL or from one of the
-   private operators. Your quarter also has internet facilities
-   connected to the Institute network.
-4. Retain your accommodation allotment letter in a safe place, as it
-   will serve as proof of address for various purposes; in particular,
-   it will come in useful for applying for a LPG cooking cylinder
-   connection or for getting a Ration Card. While the importance of a
-   Ration Card has now diminished substantially, LPG connection is
-   essential if you plan to cook at home. Take your accommodation
-   allotment letter to Maharashtra Gas Service, which is located in
-   the building known as 'Powai Plaza' on the main road outside IIT on
-   Adi Shankaracharya Marg (there used to be a at the Pizza Hut at
-   that location in the past, so that location is still referred to as
-   Pizza Hut junction!). You will have to make some deposits to get a
-   gas connection, which fortunately does not take much time.
+
+3. Please take the Accommodation Committee letter to the office of the
+   Associate Dean-II (IPS) where your options for ad hoc accommodation
+   will be explained to you. At the time of writing, most new faculty
+   members spend the first few years in off-campus accommodation. This
+   could be a flat already leased out to IIT, or a flat that you find
+   and get IIT to lease for you; IIT will take care of the rent up to
+   a limit of about 40,000 INR – which should get you a small 2BHK (2
+   bedroom, 1 Hall, 1 Kitchen) flat in the vicinity of Campus. If you
+   are keen to stay on-campus and rather lucky, you may get a Staff
+   Hostel flat/quarter – 1BHK (1 Bedroom, 1 Hall, 1 Kitchen) allotted
+   to you. There may be a trade-off here between the better quality of
+   life if you stay on-campus, and the better quality accommodation
+   that you are likely to get outside. After a few years, you may
+   expect to get a better quality flat on campus allotted to you as
+   ‘regular accommodation’. (If you happen to have joined the
+   Institute directly as a Professor, you will get a C-type quarter -
+   2 or 3 BHK - as your ad-hoc allotment). Regular accommodation is
+   done by a seniority rule (for details, please see [Seniority and
+   Allotment
+   Criteria](http://www.iitb.ac.in/deanpl/estOff1.html)). The
+   on-campus quarters do not come furnished and you will have to
+   furnish it yourself. A home telephone connected to the internal
+   exchange will be provided which does not have outside call
+   facilities. You may decide to get a personal telephone connection
+   either from MTNL or from one of the other private operators. Your
+   quarter would also have internet facilities connected to the
+   Institute network. Please retain your accommodation allotment
+   letter in a safe place, as it will serve as proof of address for
+   various purposes; in particular, it will come in useful for
+   applying for a LPG cooking cylinder connection.
+
+4. An LPG connection is essential if you plan to cook at home. The
+   simplest way is to take your accommodation allotment letter to
+   Maharashtra Gas Service, which is located in the building known as
+   'Powai Plaza' on the main road outside IIT (Adi Shankaracharya Marg
+   or Jogeshwari Vikhroli Link Road - JVLR). The gas connection comes
+   in a matter of days, and the hardcopy record thereof can serve as
+   an address proof in most places.
+
 5. The letter to IIT Hospital is to be presented to the Hospital
    reception, where an appointment will be scheduled for your medical
    examination.
+
 6. There are a few other forms to be filled up, viz. an attestation
-   form, a form declaring your dependents, a form for joining the
-   Group Insurance Scheme and exercising your option for joining the
-   Defined Contributory Pension Scheme (DCPS).
+   form, a form declaring your dependents, a form for joining the New
+   Pension Scheme (NPS).
+   a. New faculty have to join the NPS, details of which are given in
+   a later chapter (LINK HERE). (For people joining earlier to this
+   date, there was a Pension scheme or a non-pension Contributory
+   Provident Fund).
 
-   i. _Group Insurance Scheme_ provides for an insurance cover of
-      Rs. 8 Lakhs during the service period of an employee. A premium
-      of Rs. 800 per month is directly debited from your salary. A
-      part of the premium is invested and is refunded with interest at
-      the time of retirement (or leaving the Institute) while another
-      part pays for the insurance cover. There is no annuity payable
-      for this insurance.
+   b. Attestation Form is to be filled up so that the Institute can
+   verify that you have not been involved in criminal activities in
+   the past. You will have to provide all addresses where you have
+   resided during the preceding five years. A clearance from the
+   police is mandatory before your services are made permanent (a
+   process termed as confirmation).
 
-   ii. Faculty joining the service after 1st January, 2004 have to
-       join the _National Pension Scheme_ or NPS, details of which are
-       given further on. For people joining earlier to this date,
-       there was the _Provident Fund (PF) Scheme_ -- compulsory,
-       though called an option because of an option of joining either
-       a Pension scheme (GPF) or a non-pension Contributory PF (CPF).
+   c. You will have to make a declaration of your dependents who will
+   be eligible for various service facilities like Leave Travel
+   Concession, medical benefits etc. Your spouse is treated as a
+   dependent, whether employed elsewhere or not. Sons are dependents
+   till the age of 25 or till they start earning, whichever comes
+   first (no age bar for permanently disabled sons). Daughters are
+   considered dependents till they start earning or till they get
+   married, whichever is earlier. You can declare your parents as
+   dependent provided they live with you and do not have independent
+   income exceeding a certain limit, viz. 3500 INR per month at the
+   time of writing.
 
-   iii. _Attestation Form_ is to be filled up so that the Institute
-       can verify that you have not been involved in criminal
-       activities in the past. You will have to provide all addresses
-       where you have resided during the preceding five years. A
-       clearance from the police is mandatory before your services are
-       made permanent (a process termed as confirmation).
+7. Now that you are done with the Administration Section, please
+   return to your Department and fill up a joining report form which
+   will be signed by the Head of the Department and sent to the
+   Administration. The Department will provide you with an office
+   space equipped with a telephone (with limited local and STD (long
+   distance) facility) and, of course, stationeries. A personal
+   desktop computer with internet connection should also come within a
+   few days.
 
-   iv. _Dependents:_ You will have to make a declaration of your
-       dependents who will be eligible for various service facilities
-       like Leave Travel Concession, Medical benefits etc. Your spouse
-       is treated as a dependent, whether employed or not. Sons are
-       dependents till the age of 25 or till they start earning,
-       whichever comes first (no age bar for permanently disabled
-       sons). Daughters are considered dependents till they start
-       earning or till they get married, whichever is earlier. You can
-       declare your parents as dependent provided they live with you
-       and do not have independent income (exceeding Rs. 3500 per
-       month) of their own.
+8. Once the Administration processes your joining report, intimation
+   of your having joined is sent to various sections such as the
+   Library, Security Section, Hospital etc. You and your family
+   members will be photographed and identity cards issued by the
+   Security Section located on the ground floor of the Main
+   Building. For the employee, the identity card doubles as the
+   Library card as well. You will have an employee salary code number
+   which you will need in connection with all payments and financial
+   transactions within the Institute. It will be useful to memorize
+   this even though you may usually have your identity card  handy.
 
-7. Now that you are done with the Administration Section, return to your Department and fill up a joining report form which will be signed by the Head of the Department and sent to the Administration. The Department will provide you with an office space equipped with a telephone (with limited local and STD (long distance) facility) and of course stationeries. A personal desktop computer with internet connection will also come within a few days.
-8. Once the Administration processes your joining report, intimation of your having joined is sent to various sections such as the Library, Security Section, Hospital etc. You and your family members will be photographed and identity cards issued by the Security Section located on the ground floor of the Main Building. For the employee, the identity card doubles as the Library card as well. You will have an _employee salary code_ number which you will need in connection with all payments and financial transactions within the Institute. It is good to memorize this even though you usually have your identity card  handy.
-9. With joining formalities completed, you have to pay attention to other issues, like getting a child admitted to a school. The campus has two schools, one Kendriya Vidyalaya (Central School), affiliated to Central Board of Secondary Education (CBSE) and the other, Campus School, affiliated to the Maharashtra State Board. Campus School is exclusively for the children of IIT employees while in the Kendriya Vidyalaya most of the seats are reserved for them. You are likely to have some anxious moments before your child gets an admission, but eventually it works out. In case of exceptional difficulty in getting admission into the Kendriya Vidyalaya, our Director, who is the Chairman of the Vidyalaya Management Committee always helps out by exercising his discretionary quota. There is also a Professor-in-Charge[^kvprof]. who you may contact for helpful advice in case of difficulties. The Campus School also has a kindergarten school for children above the age of three. For younger kids there is a private creche (Sishu Vihar, currently temporarily located in the Lake side near the main gate of the Institute), and run by an NGO.
-10. _Ration Card:_ document which was a very precious one in the days of scarcity and non-availability of food grains in open market has lost its pristine glory. As the document still serves some purpose, it is good to acquire one though there is no tearing hurry. To get your ration card you will have to visit the S-ward office near Bhandup post office, fill up a form (in Marathi, but there are good samaritans to help you fill it up) and submit it with some insignificant amount of fees. It is half a day's work for you. Some time later, someone from the ration office will make a visit to verify your claims of residing in Mumbai after which you will have to make a second trip to the same office to collect your card.
-11. You will have to apply for a _Permanent Account Number (PAN)_ which is to be used in all your income tax returns; it is needed also by the banks for large volume transactions. There are many agents (e.g. UTI at Ghatkopar or  in Galleria, Hiranandani Gardens) who will take care of it. You need to provide copies of your photograph and a proof of residential address for the same. While you are at it, it is good to get a PAN for your spouse as well, whether or not the spouse is employed.
-12. _UID Number (or Aadhar Number):_ When you have a bit of time to spare, get a photo identification issued by the Unique Identification Authority of India. Administration will be able to provide you with details of the nearest data collection center at which an application can be lodged (at certain times centers were operated on campus also). It is a good idea to take this for your whole family in one go.
-13. You will need to get a bank account so that your salary can be deposited at the bank. There are branches of two banks on campus, viz. State Bank of India and Canara Bank. Drop in there with your identity proof and a photograph and open a bank account. You may require one of your colleagues holding an account in the same branch to provide an introduction. There are several private banks (HDFC, ICICI, Axis Bank, South Indian Bank), public sector banks (e.g. Oriental Bank of Commerce, Andhra Bank, Vijaya Bank etc.), foreign banks (HSBC) around IIT, particularly in the area known as Hiranandani Gardens.
+9. With joining formalities completed, you have to pay attention to
+   other issues, like getting a child admitted to a school. The campus
+   has two schools, one Kendriya Vidyalaya (Central School),
+   affiliated to the Central Board of Secondary Education (CBSE) and
+   the other, the Campus School, affiliated to the Maharashtra State
+   Board. Campus School is exclusively for the children of IIT
+   employees, while in the Kendriya Vidyalaya most of the seats are
+   reserved for them. You are likely to have some anxious moments
+   before your child gets an admission, but eventually it works
+   out. In the case of exceptional difficulty in getting admission
+   into the Kendriya Vidyalaya, our Director, who is ex-officio the
+   Chairman of the Vidyalaya Management Committee can help out by
+   exercising their discretionary quota. There is also a
+   Professor-in-Charge who you may contact for helpful advice in case
+   of difficulty. The Campus School also has a kindergarten school for
+   children above the age of three. For younger kids there is a
+   private creche (Sishu Vihar, temporarily located at the time of
+   writing in bungalow A-5 in the Lakeside area of Campus near the
+   Main Gate), and run by an NGO. Detailed information on all of the
+   above is provided in later chapters (LINKS HERE).
 
-[^accommodation]: currently, Mr. Unnithan.
+10. You will have to apply for a Permanent Account Number (PAN) which
+    is to be used in all your income tax returns; it is needed also by
+    the banks for large volume transactions. There are many agents
+    (e.g. UTI at Ghatkopar or in Galleria, Hiranandani Gardens) who
+    can take care of it – the Administration Section should be able to
+    guide you. You need to provide copies of your photograph and a
+    proof of residential address for the same. It may also be possible
+    to get it online
+    (https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html). While
+    you are at it, it is good to get a PAN for your spouse as well,
+    whether or not they are employed.
 
-[^allotmentrules]: Refer to  http://www.iitb.ac.in/deanpl/allotment.html for accommodation
-   allotment rules and updates
-
-[^kvprof]: Currently, Prof. Virendra Sethi, Centre for Environmental Science and Engineering.
+11. Among the first things you will want to get is a mobile
+    connectivity. As much for communicating with family, friends,
+    colleagues, and students as for the fact that it is the preferred
+    medium of authentication for many kinds of digital transactions
+    (through a One Time Password, or OTP). The Manager Telephones in
+    the Institute (internal number 8997), who sits next to the
+    Exchange in the Main Building, can help you get a mobile
+    connection.
+	
+12. It may prove very useful to also get an Aadhar card
+    (https://uidai.gov.in/). The Administration Section will be able
+    to provide you with details of the nearest data collection center
+    at which an application can be lodged. It is a good idea to take
+    this for your whole family in one go.
+	
+13. You will need to get a bank account so that your salary can be
+    deposited at the bank. There are branches of two banks on campus,
+    viz. State Bank of India and Canara Bank. Please drop in there
+    with your identity proof and a photograph and open a bank
+    account. You may require one of your colleagues holding an account
+    in the same branch to provide an introduction. There are several
+    private banks (HDFC, ICICI, Axis Bank, South Indian Bank), public
+    sector banks (e.g. Oriental Bank of Commerce, Andhra Bank, Vijaya
+    Bank etc.), and foreign banks (HSBC) around IIT, particularly in
+    the area known as Hiranandani Gardens.
 
 ## Off-Campus Housing
 The institute has undergone significant expansion and increase in
