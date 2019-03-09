@@ -397,10 +397,10 @@ Immediately on joining:
    members spend the first few years in off-campus accommodation. This
    could be a flat already leased out to IIT, or a flat that you find
    and get IIT to lease for you; IIT will take care of the rent up to
-   a limit of about 40,000 INR – which should get you a small 2BHK (2
+   a limit of about 40,000 INR - which should get you a small 2BHK (2
    bedroom, 1 Hall, 1 Kitchen) flat in the vicinity of Campus. If you
    are keen to stay on-campus and rather lucky, you may get a Staff
-   Hostel flat/quarter – 1BHK (1 Bedroom, 1 Hall, 1 Kitchen) allotted
+   Hostel flat/quarter - 1BHK (1 Bedroom, 1 Hall, 1 Kitchen) allotted
    to you. There may be a trade-off here between the better quality of
    life if you stay on-campus, and the better quality accommodation
    that you are likely to get outside. After a few years, you may
@@ -506,7 +506,7 @@ Immediately on joining:
     is to be used in all your income tax returns; it is needed also by
     the banks for large volume transactions. There are many agents
     (e.g. UTI at Ghatkopar or in Galleria, Hiranandani Gardens) who
-    can take care of it – the Administration Section should be able to
+    can take care of it - the Administration Section should be able to
     guide you. You need to provide copies of your photograph and a
     proof of residential address for the same. It may also be possible
     to get it online
@@ -522,13 +522,13 @@ Immediately on joining:
     the Institute (internal number 8997), who sits next to the
     Exchange in the Main Building, can help you get a mobile
     connection.
-	
+
 12. It may prove very useful to also get an Aadhar card
     (https://uidai.gov.in/). The Administration Section will be able
     to provide you with details of the nearest data collection center
     at which an application can be lodged. It is a good idea to take
     this for your whole family in one go.
-	
+
 13. You will need to get a bank account so that your salary can be
     deposited at the bank. There are branches of two banks on campus,
     viz. State Bank of India and Canara Bank. Please drop in there
@@ -540,83 +540,103 @@ Immediately on joining:
     Bank etc.), and foreign banks (HSBC) around IIT, particularly in
     the area known as Hiranandani Gardens.
 
-## Off-Campus Housing
-The institute has undergone significant expansion and increase in
-number of students over last decade and a half. The increase in
-student numbers has lead to a commensurate increase in the number of
-faculty members on the campus. Thus, the present dwelling numbers on
-the campus are insufficient. Though, new constructions are underway,
-there is expected to be shortage of housing on campus. In most cases,
-the new faculty may take up an on-campus housing flatlets like the
-Staff Hostel, Vihar House and CSRE D Types. But, occasionally, some
-faculty may want a “proper apartment” owing to family constraints or
-due to non-availability of the flatlets. In such situations, some may
-opt for off-campus housing. These off-campus housing once identified
-and allotted are treated as an extension of the IITB housing. There
-are several considerations to be done when scouting for an
-apartment. The guide lists a few points to be considered when
-considering off-campus housing.
+## Regularization/Confirmation of Service
 
-The institute provides Guest House to the new faculty member
-immediately after they join for a period of 30 days. The guest house
-charges are applicable and have to be borne by the faculty if this
-initial period of 30 days is exceeded. It is thus recommended that a
-search for off-campus housing be initiated as soon as the joining
-formalities are completed.
+Under the current norms (viz. 7th Pay Commission rules as outlined
+[here](https://mhrd.gov.in/sites/upload_files/mhrd/files/7th%20CPC%20Order%20CFTIs.pdf),
+in particular 1(b)), IITs cannot offer a confirmed faculty position to
+one with less than 3 years professional/postdoctoral experience (not
+counting any experience gained during the PhD years). In such cases,
+the Institute makes an appointment at the Assistant Professor Grade-II
+through its regular selection process. Such appointees are entitled to
+all facilities that regular faculty members are. If you are appointed
+at this level, the administration keeps track of when you complete the
+requirement of 3 years of experience (the experience gained after the
+date of PhD defence is counted), and sends a form to your department,
+that you have to fill for your appointment to be regularized. This
+form, in which you have to provide details of your accomplishments
+since obtaining the PhD degree, has to be filled out and returned with
+your Head's forwarding comments, to the Dean (FA). In case you have
+prior experience that the administration is unaware of, that you feel
+should be counted against the 3-year requirement, you may make a
+representation through your Head of Department to Dean (FA), together
+with documentary evidence of the experience you are claiming.
 
-As a first step towards availing off-campus housing one needs to
-identify a suitable apartment. The identification of the apartment
-could be done personally with the help of an agent or by consulting
-websites that offer such solutions. The office of Associate Dean-2
-Infrastructure and Planning (IPS) may be consulted and requested to
-offer help for searching and to identify estate agents that can
-facilitate this search. A list of previously rented or apartments
-newly offered on rent may be already be available with the Office of
-Associate Dean IPS-2. It is advised to check for availability of such
-list with the Associate Dean IPS-2 and its Office.
+A faculty member recruited to any cadre is placed on probation for a
+period of 1 year. At the end of this period, administration requires
+you to fill a form (on your accomplishments during the probation year)
+and return to Dean (FA) through the Head of your Department for
+confirmation of your appointment.
 
-An off-campus rented apartment requires consideration of the amount of
-rent, brokerage, escalation clause, and issues related to maintenance
-and movement charges. The institute has evolved a policy on the amount
-of rent that can be paid. The decisions regarding the amount of rent,
-brokerage, and escalation clause are usually handled by the Associate
-Dean IPS-2 and its Office. It is recommended to consult the Associate
-Dean IPS-2 and its Office with respect to this, in some cases even
-before the search process is initiated. It is recommended that initial
-negotiated rent is limited to within the stipulated amount. The terms
-and issues regarding the escalation are handled by the Associate Dean
-IPS-2’s office. The maintenance and movement charges are usually
-expected to be borne by the faculty.
+## Life in Powai and beyond
 
-The contract or the lease agreement is drawn with IIT Bombay as the
-party and the letter of allotment is then issued by the Accommodation
-Allotment Committee (AAC). The duration of the lease should be
-noticed, since, it may be possible that these rented premises may have
-to occupied for an extended period of time. After moving to the
-apartment the usual day to day maintenance are expected to be handled
-by the individual. It has to be pointed out that there is uncertainty
-and degree of arbitrariness to the entire process due to the
-involvement of external agencies and it is recommended to patiently
-wade through the process.
+(This section has external links for your information. IITB cannot take any responsibility for these.)
 
-The institute has rules and regulations regarding allotment and
-entitlement of housing to faculty and staff of the institute. The
-details of these can be found on the Dean IPS website. The off-campus
-housing is treated as transit accommodation provided by IITB. Thus,
-availing the off-campus housing does not affect the entitlement or the
-seniority of the faculty within the ambit of the defined rules. The
-rented premises may have to vacated due to several reasons with the
-happy one being movement to campus. In the event of expiry of the
-lease and/or notice to vacate due to certain situation, the entire
-process may have to be repeated.
+The city of Mumbai offers a wealth of cultural and entertainment resources to its residents, befitting a global metropolis. This includes famous places of worship, ancient historical caves, several art and science museums, many theatres for plays and musical performances, restaurants/cafes featuring cuisines from around the world, amusement parks for children and adults, and one of the few national parks inside a big city anywhere in the world (from where we get periodic Campus visits by leopards!). Some of the attractions are listed [here](https://www.makemytrip.com/travel-guide/mumbai/places-to-visit.html ).
 
-## Regularization/confirmation of service {#regularization}
-Subsequent to the implementation of the 6th Pay Commission orders (effective from 1.1.2006), Institutes such as ours cannot offer a regular faculty position to one with less than 3 years professional/postdoctoral experience (not counting any experience gained during the PhD years). In such cases therefore, the Institute makes an appointment at the Assistant Professor level _Contractual basis_ through its regular selection processes. Such appointees are entitled to all facilities that regular faculty members are. If you are appointed on contractual basis, the administration keeps track of when you complete the requirement of 3 years of experience (the experience gained after the date of PhD defense is counted), and sends a form to your department, that you have to fill for your appointment to be _regularized_. This form, in which you have to provide details of your accomplishments since obtaining the PhD degree, has to be filled and returned with your Head's forwarding comments, to the Dean (FA). In case you have prior experience that the administration is unaware of, that you feel should be counted against the 3 year requirement, you may make a representation through your Head of Department to Dean (FA), together with documentary evidence of the experience you are claiming.
+One caveat is that traffic outside of campus may be a nightmare, especially during office commuting hours (and even more so during the very long monsoon season), so one may be well-advised to venture out on weekends. In many situations, the well-developed train network may get you to your destination with more certainty. A lot of hope rests on the upcoming metro network - whose construction, however, has only added to traffic woes right now. [Here is the dream anyway](https://en.wikipedia.org/wiki/Mumbai_Metro).
 
-A faculty member recruited to any cadre is placed on _probation_ a period of 1 year. At the end of this period, administration requires you to fill a form (on your accomplishments during the probation year) and return to Dean (FA) through the Head of your Department for _confirmation_ of your appointment.
+Powai and neighbouring areas beyond the Campus, particularly
+Hiranandani Gardens, have evolved into a bustling and 'happening' part
+of Mumbai especially with regard to restaurants, cafes, pubs etc. (It
+is also generally well-provisioned, in terms of everything from
+doctors and chemists to yoga and arts classes - however, one does not
+need to leave Campus for most of these!)
 
-## Should you decide to leave...
-While we sincerely hope that you will find this Institute and its environment comfortable to live and exciting for your academic pursuits, and that you will be with us till you retire at the age of 65, in case you decide to leave us on resignation for any reason, you may do so giving a three months' written notice. In principle, the Institute may terminate the service of any employee by giving a three months' notice or salary in lieu thereof along with sufficient reason justifying such termination. During the period of probation, however, the Institute needs to give only a month's notice for termination and no reason may be given for such act. You may also opt for 'voluntary retirement' from the service of the Institute by giving a three months' notice after having served the Institute for a minimum period of 20 years. Voluntary retirement is discussed in the section under pension.
+You can get information about all of these at [https://powai.info/](https://powai.info/).
+
+Powai has its own ‘newspaper’ (!), which you can access at the [Voice
+of Powai website](http://voiceofpowai.blogspot.com/).
+
+Here are a few other links/apps that may be useful:
+   1. For online booking of movies, plays etc. - [https://in.bookmyshow.com/mumbai](https://in.bookmyshow.com/mumbai)
+
+   2. For restaurant information - [Zomato
+      Mumbai](https://www.zomato.com/mumbai) (for online food
+      ordering, there are several mobile apps like Swiggy, Zomato,
+      Uber Eats, Food Panda, and so on)
+
+   3. For grocery shopping - Bigbasket or similar apps (You can
+      arrange with most local vendors, even small shops, to take
+      orders over phone and deliver to your home if that is your
+      preference - this includes chemist, grocer, greengrocer,
+      etc. Alternatively, if you yearn for the feel of the bazaar,
+      then there is the IIT Market - paradoxically, outside IIT - and
+      other markets in neighbouring areas. Of course, there is also a
+      small shopping enclave in Campus near the ‘Market Gate’ or
+      'Y-point Gate'.
+
+   4. For home services - Urbanclap or similar apps (offering services
+      ranging from carpentry to personal grooming, and - relevant if
+      you are living off-campus - plumber and electrician).
+
+   5. For driver services - DriveU or similar apps; and of course, the
+      Ola (an IITB startup!) or Uber app for cab hailing (this does
+      not need to said, but please refrain from driving a car or
+      riding a bike if inebriated - one, the Mumbai police is very
+      vigilant, and two, good faculty are more difficult to find than
+      you might think).
+
+For domestic staff services (cleaning, cooking etc.) you can usually
+get tips from neighbours or - if you are living off-campus - the
+security personnel in your apartment complex.
+
+## Should you choose to leave
+
+While we sincerely hope that you will find the Institute and its
+environment comfortable to live in and stimulating for your academic
+pursuits, and that you will be with us until you retire (the age
+whereof is 65 years, at the time of writing), should you decide to
+resign and leave beforehand for any reason, you may do so giving a
+three months' written notice. In principle, the Institute may
+terminate the service of any employee by giving a three months' notice
+or salary in lieu thereof along with sufficient reason justifying such
+termination. During the period of probation, however, the Institute
+needs to give only a month's notice for termination and no reason may
+be given for such act. You may also opt for `voluntary retirement'
+from the service of the Institute by giving a three months' notice
+after having served the Institute for a minimum period of 20
+years. Voluntary retirement is discussed in a later section (LINK HERE).
 
 # You as a Faculty Member
 For most faculty members joining this Institute, this will be the first 'job', at least in an academic set-up. Since, in such a set up, it is largely up to the individual to plan out her activities and career, it is but natural that one is a little apprehensive as to how to manage one's time in the initial years. While there are always some senior faculty and elder statesmen in the department who will guide you in this respect, the following sections give some idea of what is expected of you, and introduce you to the various Institute-supported activities that you will probably get involved in as a faculty member.
@@ -960,6 +980,27 @@ The Institute has an active 'Continuing Education Programme (CEP)', which is man
 
 ## Consultancy
 The Institute has rather liberal rules on consultancy, in order to facilitate the interaction of its faculty members with industry. All your consultancy work must be processed through the Institute (Dean R&D). The Dean (R&D)'s website may be consulted in regard to the process to be followed when you would like to take up a consultancy assignment, as well as for details of how any revenue from such activity is to be shared between the Institute and the consultant.
+
+## Research and Development Fund (RDF) and Department Development Fund (DDF) rules
+
+IRCC, the office of the Dean R&D, incentivizes faculty to pursue
+extramural R&D funding by ploughing a portion (15% at the time of
+writing) of the overheads from sponsored projects back into the
+Principal Investigators’ Research Development Fund (RDF); unspent
+funds in research or consulting projects may also be moved into the
+RDF account at the time of closing, with the requisite
+approvals. Thus, there is an RDF account for every faculty member in
+the IRCC website (Drona), which practically runs like an open-ended
+project account. Details are available
+[here](https://drona.ircc.iitb.ac.in/home/faculty/rdf).
+
+IRCC ploughs back another percentage (again, 15% at the time of
+writing) of the overheads from sponsored projects back into a
+Departmental Development Fund (DDF). The funds therein are intended to
+be utilized by the Head for departmental needs, usually in the nature
+of Consumables, Maintenance, and Travel – these could range from
+teaching lab consumables and maintenance to student conference travel
+support.
 
 ## Directorship in Companies
 
@@ -1963,7 +2004,19 @@ For those who joined the Institute before 2004, there were two retirement scheme
 [^commutation]: The factor reduces if you make the offer later, becoming 7.431,7.262, 7.083 and 6.897 if the age on your next birthday at the time of making the offer is respectively 67,68, 69 and 70. The factor for a person whose age next birthday is 65 is 7.731.
 
 ## Encashment of Leave at the time of Superannuation
-A maximum 300 days of earned leave may be accumulated by an employee. All unutilized earned leave up to this maximum duration is encashable at the time of superannuation. In case the amount of earned leave to the credit of the employee is less than 300 at the time of retirement, the shortfall can be made up from the half pay leave to the credit of the employee to the extent of such shortfall. However, the half pay leave will only be cashed at half rate and no commutation is permitted\footnote{For instance if an employee has, at the time of retirement, 200 days of earned leave and 300 days of half-pay leave to his/her credit, encashment will be for 200 full days and 100 half days, the balance of half pay leave will lapse.}. The rate of encashment is the total emoluments (basic + D.A.) per day on the date of retirement assuming a month to consist of 30 days.
+A maximum 300 days of earned leave may be accumulated by an
+employee. All unutilized earned leave up to this maximum duration is
+encashable at the time of superannuation. In case the amount of earned
+leave to the credit of the employee is less than 300 at the time of
+retirement, the shortfall can be made up from the half pay leave to
+the credit of the employee to the extent of such shortfall. However,
+the half pay leave will only be cashed at half rate and no commutation
+is permitted (for instance, if an employee has, at the time of
+retirement, 200 days of earned leave and 300 days of half-pay leave to
+his/her credit, encashment will be for 200 full days and 100 half
+days, the balance of half pay leave will lapse). The rate of
+encashment is the total emoluments (basic + D.A.) per day on the date
+of retirement assuming a month to consist of 30 days.
 
 <!---
 ## Voluntary Retirement
@@ -1976,13 +2029,18 @@ All faculty members who have entered service before attaining the age of 35 year
 --->
 
 ## National Pension Scheme (for those who joined the service on or after 1.1.2004)
-The National Pension Scheme (NPS) is applicable for all employees who
-joined the Institute on or after 1.1.2004. The funds will be managed
-by the National Security Depository Ltd (NSDL). At present, loans and
-withdrawals from the fund are not permissible. What follows is the
-information on NPS for Central Government servants. Note that this is
-a defined contribution scheme, which means that there are is
-no guarantee of returns like in the general provident fund.
+The [National Pension Scheme
+(NPS)](https://enps.nsdl.com/eNPS/NationalPensionSystem.html) is
+applicable for all employees who joined the Institute on or after
+1.1.2004. The funds are managed by the National Security Depository
+Ltd (NSDL). In particular, contributions into the NPS are eligible for
+tax benefits as mentioned at the [NPS CRA
+website](https://www.npscra.nsdl.co.in/tax-benefits-under-nps.php). At
+present, loans and withdrawals from the fund are not permissible. What
+follows is the information on NPS for Central Government
+servants. Note that this is a defined contribution scheme, which means
+that there are is no guarantee of returns like in the general
+provident fund.
 
 Under this scheme, an individual account will be opened in the name of
 every employee to which the employee will contribute 10% of his
