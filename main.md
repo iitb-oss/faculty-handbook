@@ -638,8 +638,16 @@ from the service of the Institute by giving a three months' notice
 after having served the Institute for a minimum period of 20
 years. Voluntary retirement is discussed in a later section (LINK HERE).
 
-# You as a Faculty Member
-For most faculty members joining this Institute, this will be the first 'job', at least in an academic set-up. Since, in such a set up, it is largely up to the individual to plan out her activities and career, it is but natural that one is a little apprehensive as to how to manage one's time in the initial years. While there are always some senior faculty and elder statesmen in the department who will guide you in this respect, the following sections give some idea of what is expected of you, and introduce you to the various Institute-supported activities that you will probably get involved in as a faculty member.
+# Overall responsibilities
+For most faculty members joining this Institute, this will be the
+first 'job', at least in an academic set-up. Since, in such a set up,
+it is largely up to the individual to plan out her activities and
+career, it is but natural that one is a little apprehensive as to how
+to manage one’s time in the initial years. While there are always some
+senior faculty and elder statesmen in the department who will guide
+you in this respect, the following sections give some idea of what is
+expected of you, and introduce you to the various Institute-supported
+activities that you will probably get involved in as a faculty member.
 
 ## What the Institute expects of you
 When you join as an Assistant Professor, In order to assist you to settle in and get your research under way quickly and efficiently, the Institute and the department extend certain facilities. These are:
@@ -661,7 +669,9 @@ The three main areas in which faculty members contribute to the Institute are Te
 
 It is possible, as one grows into one's career and gets into the positions of an Associate Professor and Professor, that these profiles may change somewhat: teaching may become easier, one may get more involved with departmental and Institute's administration, etc.  The Institute therefore recognizes that these weightages may change  at these levels, at the choice of the faculty member.
 
+<!---
 The Board of Governors has approved a proposal, based on the above considerations, to implement a process of Annual self assessment for all faculty, beginning 2014. The Institute Faculty Affairs Committee (IFAC), an advisory body to the Dean (FA), has finalized the templates for carrying out this assessment, and the details are available on Dean (FA)'s webpage http://internal.iitb.ac.in/imcwork/faculty/ (also linked from the Institute's main webpage, under 'Internal links').
+--->
 
 <!-- ### Promotion to higher posts -->
 <!-- Till recently, internal candidates could apply for higher posts only when the Insitute issued a call for applications, which happened once every two years. Changes to the promotion process[^promotionprocess] recently approved by the Board make it possible for internal candidates to apply for the next higher post against the open advertisement on the Institute's webpage that is always active, when they satisfy the requirements specified in the advertisement and feel they are ready to go to the next level based on their performance in the present post[^performance]. Such applications will be reviewed first at the Departmental level and then by IFAC, and the shortlisted applications go through a peer review process before being put before a statutorily constituted selection committee chaired by the Director. Details of the new promotion policy are available on the Dean (FA)'s webpage (see under `Internal links' on the Institute's webpage). -->
@@ -669,6 +679,143 @@ The Board of Governors has approved a proposal, based on the above consideration
 <!-- [^promotionprocess]: Note that the term 'promotion' is used somewhat loosely here, since any faculty post at any of the IITs may only be filled by fresh selection, and there is no provision for `promotions' as in other organs of the Government. -->
 
 <!-- [^performance]: The performance criteria are fairly clearly spelt out (see the Dean(FA)'s webpage), and it is expected in the course of two to three years that the performance criteria get linked to the annual self-asessments mentioned above. -->
+
+## Academic Rules
+As a core activity (along with research), teaching involves delivery
+of courses (and performance of associated activities such as
+evaluation) as part of the Institute’s academic programmes. The rules
+governing various aspects of administration and conduct of the
+academic programmes are determined by the Senate. IIT Bombay prides
+itself on a flexible curriculum for its programmes, which gives each
+student ample opportunity to pursue her academic interests
+irrespective of the discipline to which she belongs.
+
+### Proposing a new course
+As a faculty member, you can propose new courses as electives in your
+area of expertise. Such courses go through a process of approval,
+first at the departmental level, then at the level of the appropriate
+Program committee (PC) of the Senate, and finally at the Senate.
+
+### Evaluation Scheme at IITB
+IITB follows a credit system for its educational programmes, in which
+the credits assigned to an academic activity are indicative of the
+quantum of work involved in that activity. Thus, the credits for a
+course, for example, depend on the number of Lectures per week (2
+credits per lecture hour), the number of Tutorials per week (2 credits
+per tutorial hour) and the number of Practicals or Laboratory hours
+per week (1 credit per hour). Most theory courses are worth 6 credits
+and are made up of 2 lecture hours and a tutorial hour per week (i.e.,
+a 2-1-0-6 structure). Credits are also assigned to activities such as
+seminars and projects. The assessment of a student’s performance in a
+course is by continuous evaluation through the duration of the course,
+and the Instructor has considerable freedom in deciding the components
+of evaluation and their relative weights.
+
+Typical components are assignments, tests and other activities such as
+course projects which run through the semester, a mid-semester
+examination (typically worth 30% towards the final grade) and the
+end-semester examination (typically work 50%). The final percentage
+marks obtained by a student are converted to a letter grade, usually
+based on the performance of the student relative to the class (the
+conversion can also be on an absolute basis, for example if the
+student strength is very small for a course). These and other details
+are available on the [Academic office webpage](http://www.iitb.ac.in/acad/index.html).
+
+
+Instructors are expected to make known the evaluation methodology at
+the beginning of the course, and also make available the corrected
+answer scripts for every assignment, quiz or examination (including
+the end-semester exam) for the students’ inspection. The instructor
+gets a feedback on the effectiveness of her teaching through a system
+of on-line course evaluation by students, which happens at the end of
+the teaching semester.
+
+## Research Funding
+Research funding could be one of the following three types
+   1. (Institute) Seed Grant
+   2. (External) Sponsored Research Project
+   3. (External) Consultancy Project
+
+### Seed Grant
+
+IIT Bombay, through Industrial Research and Consultancy Centre (IRCC), offers seed grant to new faculty members to encourage and facilitate their research activities at the Institute. Details of this grant are as follows:
+   1. Faculty member should request for seed grant within 6 months from the date of joining in the Institute.
+   2. The duration of the seed grant project will be not more than 3 years and will be closed after that.
+   3. Seed grant proposal should highlight the objectives, expected outcome, time frame, budget with appropriate justification (especially for equipment) and other relevant details. Specify the equipment proposed to be procured under the seed grant.
+   4. Seed grant consists of a base amount up to Rs. 7/- lakhs (Rs. seven lakhs) that can be apportioned under EQP (equipment), CON (consumables) and CTE (contingency) budget heads. Reallocation of funds between different budget heads is allowed. Expenditure permitted / not permitted from the seed grant (base amount):
+     a) Procurement of small equipment, consumable and other contingent expenditure is allowed.
+     b) Procurement of a laptop or a hand-held device (iPad, Tablets, etc.) is allowed. However, purchase of laptop / hand-held devices should normally be from CPDA or from allocations made by the academic unit. Such a purchase from the seed grant is allowed only with a self-declaration from the faculty to the effect that the purchase is made from only one of the sources (in the first three years).
+     c) Travel within India using seed grant is allowed only for the concerned faculty member to defend research proposals and with prior permission of the Dean (R&D).
+     d) Seed grant cannot be used for international travel, holding workshops or conferences, hiring administrative or project assistants or attendants, payment of honoraria, office furniture, air-conditioners, etc.
+   5. An additional Rs. 13 lakhs (Rs. thirteen lakhs) will be provided, if needed, for purchase of (basic) equipment. Reallocation of this amount to other budget heads is not allowed.
+   6. Faculty members needing additional funding should seek the same from the concerned Academic Unit, which could review the request and provide support from its own funds such as DDF as per its own policies / guidelines.
+   7. Equipment grant may be augmented by up to Rs. 1 crore subject to the following:
+
+     a)  This augmentation is to be used exclusively to procure major equipment / facility of a specialized nature, if required for the proposed research work. It is NOT meant as a general grant to be used over time for miscellaneous EQP purchases; these should be procured out of the 13 or 20 lakhs (basic equipment + part or whole of base amount).
+     b) Faculty member must have submitted at least one research proposal to an external agency for funding. If need be, Institute will give a letter of ‘additional financial support’ to be used while seeking funding from external agencies.
+     c) Request for additional support will be evaluated by a committee consisting of the Associate Dean (R&D), Head of the Academic Unit and at least one faculty member conversant with the research topic of the faculty member seeking funding.
+     d) Faculty member must give an undertaking that the equipment will be made available to other users in the Institute. Potential users of the equipment and the extent to which the equipment will be made available to other users must be included in the proposal seeking additional funding.
+     e) Purchase of equipment with this additional amount must be initiated within 3 months of the date of approval of the grant.
+     f) Request for the augmented funds may be made anytime within the first two years of the Seed Grant project, so that the total period of Seed Grant support remains 3 years.
+     g) Annual maintenance for 3-5 years must be built into the purchase.
+     h) This augmented funds cannot be utilized to setup individual
+     high-performance computing facilities. This augmented support is meant to
+     - Supplement any shortfall in the equipment grant from external agencies
+     - Enhance capability of the equipment / facility proposed in the project
+     - Support additional accessories to the equipment funded by external agencies
+
+   8. Proposals, duly complete in all respects, must be submitted online on DRONA (http://drona.ircc.iitb.ac.in). There is no need to send a hard copy of the proposal.
+   9.  Completion Report: A project completion report highlighting the utilization of seed grant and the manner in which the seed grant helped the faculty to ‘seed’ his/her research must be submitted to the Dean (R&D) while closing the project. In case the faculty member received augmented EQP grants, the report should also include the following:
+     - How the facility supported research of other users and the utilization data
+     - Research plans / targets for further utilization of the special equipment / facility in the next few years
+     - Plans for further R&D projects to be proposed to fully utilize the potential of the equipment / facility.
+   10. Institute will make an annual budget for seed grants. Source of
+       funds can be either MHRD grants or IRCC funds. Disbursals of
+       seed grants will be subject to availability of funds under this
+       budget.
+
+### Sponsored Research Project
+Initiation of Sponsored Research Projects
+Sponsored research projects may be initiated by submitting project
+proposals to various/appropriate funding agency. The project proposals
+should be submitted in a suitable format given by the concerned
+funding agency.
+
+Some of the sponsoring agencies and their URLs are given below:
+
+  - [All India Council for  Technical Education (AICTE)](www.aicte.ernet.in/)
+  - [Aeronautics Research  & Development Board (ARDB)](www.drdo.org/boards/ardb/index.htm)
+  - [Board of Research in  Nuclear Sciences (BRNS)](www.barc.ernet.in/webpages/brns/brns1.html)
+  - [Central Board of Irrigation and Power (CBIP)](www.cbip.org/)
+  - [Central Mine Planning  and Design Institute (CMPDI)](www.cmpdi.nic.in/)
+  - [Department of Science and Technology  (DST)](dst.gov.in/) (SERC, FIST, FAST track)
+  - [Department of  Biotechnology (DBT)](dbtindia.nic.in/index.asp)
+  - [Indian Council for  Medical Research (ICMR)](www.icmr.nic.in/)
+  - [Indo-French Centre for  the Promotion of Advanced Research (IFCPAR)](www.cefipra.org/home.htm)
+  - [Indian National Science  Academy (INSA)](http://insaindia.org/index.php)
+  - [Indian Space Research Organization (ISRO)](www.isro.org/)
+  - [Ministry of  Electronics & IT (MeitY)](www.meity.gov.in/)
+  - [Department of Telecommunications (DoT)](www.dot.gov.in)
+  - [Ministry of Human  Resource Development (MHRD)](www.education.nic.in/)
+  - [Naval Research  Board  (NRB)](http://nrbdrdo.res.in/)
+
+Agencies which can be approached for travel grants for attending conference / seminar / workshop etc. are
+
+  - AICTE
+  - DST
+  - CSIR
+  - INSA
+  - UGC
+
+Project proposals, duly completed in all respects, will have to be
+submitted online by logging in through your LDAP login id.
+
+This will automatically be routed through the concerned Head /
+Convener of the Academic Unit to Dean(R&D).
+
+After the proposal is approved online by the Dean(R&D), IRCC will
+issue the "Endorsement of the Institution" letter which will have to
+be submitted by the PI to the funding agency.
 
 ## Assessment and Promotion Policies
 
@@ -1219,169 +1366,26 @@ The Institute encourages you to capitalize on your research findings which have 
 
 ## Schooling at IIT Bombay
 
-There are three schools on the campus for children: Kendriya Vidyalaya, Campus School and KG Schhol; and a full-fledged child care (day care) and play school, Sishu Vihar.
+There are three schools on the campus for children: Kendriya Vidyalaya, Campus School, and KG School; plus a full-fledged child care (day care) and play school, Sishu Vihar. The Campus School also has a kindergarten school for children above the age of three. For younger kids there is a private creche (Sishu Vihar, temporarily located at the time of writing in bungalow A-5 in the Lakeside area of Campus near the Main Gate), and run by an NGO.
 
 ### Kendriya Vidyalaya (Central School) IIT Powai
-A pioneer in the field of education, KVS has been a pace setting
-institution ever since its inception in 1964. With more than
-1100 Vidyalayas across the Country and the globe, it strives for
-imparting quality education and resurgence of mental and emotional
-aspects of human potential. Kendriya Vidyalaya, Indian Institution of
-Technology (KV IIT), Mumbai has been one of its major wings since 1964
-and has carved a niche for itself with its excellent result in the
-board examinations. KV IIT has 70 experienced, loving and sincere
-teachers, and more than 2000 dedicated students. Information about KV
-IIT are mentioned below:
+This is part of the Kendriya Vidyalaya Sanghatan (KVS) network and is usually ranked among the top government day (i.e. not boarding) schools in India. It has classes I through XII, and is affiliated to the Central Board of Secondary Education (CBSE). Most of the seats here are reserved for the children of IIT employees; with a small fraction reserved for other Central Government organizations. You might have some anxious moments before your child gets admission, but eventually it works out, in almost all cases. In case of exceptional difficulty in getting admission into the Kendriya Vidyalaya, our Director, who is ex-officio the Chairman of the Vidyalaya Management Committee can help out by exercising their discretionary quota. There is also a Professor-in-Charge who you may contact for helpful advice in case of difficulty. More details about KV IIT Bombay may be found on [its webpage](http://www.kviitmumbai.com/English-Homepage).
 
-   - 62 years of pursuing Excellence in Education to nurture young minds towards nation building.
-   - numero uno equity brand in the field of education with its path breaking policies, pace setting activities, exemplary contributions and trailblazing achievements.
-   - Adjudged the 4th in the Country and the First in Maharashtra for its quality standards in education by Times Economic Survey 2017
-   - A Kinetic Value System that kindles values in the Students and Staff through the School Motto of “Enter to learn, Leave to serve”.
-   - At the forefront of India’s pedagogic excellence, the Vidyalaya has to its credit CBSE & KVS Toppers in X& XII.
-   - Carving a niche in quality education. Situated in the sylvan surroundings of IITB, it hosts many Innovations and Pilot study projects of KVS.
-   - Alchemy in action, the school has a stunning record of achievements of students in Sports & Co Curricular activities at the International, National and State Level. Recently school team won 3rd prize at national level by representing Mumbai and Goa region of KVS for the event “Ek Bharat Sresth Bharat” organized by KVS, MHRD at Vigyan Bhavan, New Delhi in Oct 2018.
-   - An eternal saga of passion, perseverance and progress, the school has a commendable percent of staff who have won National & Regional Awards in the field of Education.
-   - National integration, Scientific Temper, Sportsman Spirit, Life Skills, Respect for our Composite and Pluralistic Culture, etc. are imbibed in a natural way with a unique blend of academics and activities .
-   - Broader Outlook, Immense Confidence, Optimism, etc. are the hallmarks of every KVian here, many of our students have participated in Student Exchange Programmes and are pursuing their higher education in Universities abroad.
-   - Innumerable illustrious alumnae rendering yeoman     service all over the world in different spheres is testimony to its glorious golden innings.
 
 ### Campus School and Jr. College
-IIT Bombay Campus School and Jr. College was established in 1979 under
-the aegis of the Society. It started with 20 students and a teacher.
-
-In 1982, IIT Bombay brought the school under its wings. Today the
-school has 405 students and 12 primary teachers, 17 TGT and 8 PGT
-(sanctioned teaching staff). Also 8 permanent non-teaching staff.
-
-It has three well-equipped Laboratories and a big library with a
-collection of nearly 12000 books and many periodicals, journals,
-newsletters etc. It has an audio-visual room and Computer lab with
-latest equipment.
-
-Campus school has a huge play ground with a Basketball court.
-
-Since its inception, IIT Bombay Campus School has taken up the
-responsibility of nurturing the young minds of Campus and guiding them
-towards the path of glory.
-
-Students in IIT Bombay campus school come from all possible sections
-of the Society. Many of them also are the first generation learners.
-Coming from a modest background, they reach the top under the able
-guidance of the teachers. School not only provides education but
-takes care of their financial needs too.  Students are offered various
-scholarships and awards; encourage them for achieving academic
-excellence.
-
-IIT Bombay Campus School is run by the school Council, which is
-comprised of the Director of IIT Bombay as Chairman, Associate
-Chairman Prof. Deepankar Choudhury, Convener Academic Policy Committee
-Prof. P. P. Date, Convener of Administrative Policy Committee
-Prof. A. M. Pradeep, three faculty members of IIT Bombay, parents and
-teachers representatives from all the major sections of the school,
-school Principal, Vice-Principal, Primary-in-Charge, external members
-from other nearby schools of repute, Medical doctor, student
-Counsellor, staff representative.
-
-As per the RTE (The Right of Children to free and Compulsory Education
-Act) 2009, school reserves 25% of seats at the entry level for
-children belonging to 'disadvantaged Groups' and Weaker Section. Under
-this act, school has admitted 74 students since A. Y. 2012-13 till
-2017-18.
-
-Here, students are taught not just academics but also the right
-attitude and values. School enhances and reinforces life
-skills. Students are part of CMCA (Children Movement for Civic
-Awareness) Mumbai chapter. CMCA’s interactive and experimental
-learning based curriculum has enabled them to take 'civics' out of the
-text book and into their daily lives and communities. They spread this
-awareness through campaigns like 'SAY NO TO FIRE CRACKERS' during
-Diwali. Students are part of National Cadet Corps( senior and
-Junior). At Primary level, Cubs and Bulbuls squad is being trained
-under the able guidance of Scout master. School has its own Band group
-too. Students of std. VII and VIII are trained for that.
-
-As part of 'SOCIAL RESPONSIBILITY' programme, students frequently
-visit Old Age Home, Orphange. They conduct cultural programme for the
-inmates. Under Personality development programme, students organise
-cleanliness drive (Swatchhata Abhiyan), Anti-Tobacco drive, Beti
-padhao-beti bachao (Educate Girlchild). Students also actively take
-part in helping several NGOs like Dignity Foundation, HelpAge
-Foundation etc.
-
-IIT Bombay Campus school has a strong Alumni base too. The ex-students
-take care of present batch of students by offering scholarships and
-endowments. They express their gratitude towards their alma mater in
-every possible way. IIT Bombay Campus School has completed 38 long
-years of existence in 2017 and hope to continue to serve the community
-for many more years to come.
+The IIT Campus School and Jr. College has classes I through XII, and is affiliated to the Maharashtra State Board. It is exclusively for the children of IIT employees. Here, the IITB Director is the Chairman of the School Council, and IIT faculty serve as Associate Chairman and Conveners of Administrative and Academic policy. More details about the Campus School are available [here](http://www.iitcampusschoolmumbai.in/).
 
 ### KG School
-KG School is located in a quiet corner of the IIT Bombay campus in
-Powai, Mumbai. Kindergarten is exuberant with giggles and chatter of
-the youngest students of IIT Bombay who are three to five years
-old. The school had a modest beginning in 1964 with approximately 50
-students.
+The Kindergarten (KG) School comprising two classes (Lower KG and Upper KG) and two shifts, is for children from three to five years of age. Details of Admissions, Facilities, etc. about the KG School may be found [here](http://home.iitb.ac.in/~kgschool/index.html).
 
-Initially it functioned at three locations in the campus: Lakeside,
-Hillside and Central Area of IIT Bombay campus. All classes came under
-one roof when the present building was built in 1979. Administration
-and functioning became smoother and the school has only seen growth
-ever since.
-
-At present, IITB-KG School is having 250 kids, 7 teachers, 14 support
-staff working with the school In Charge. The school runs 5 sections
-each for upper KG (UKG) & lower KG (LKG) in two shifts in the morning
-and afternoon.
-
- - Morning shift: 9 am to 12 noon (UKG)
- - Afternoon shift: 1 pm to 3.30 pm (LKG)
-
-Here one can find the happiest faces learning under the care and guidance of the teachers and staff.
-A dedicated team of qualified teachers and staff constantly strive to
-make children comfortable and expose them to the first steps in
-education. The school has evolved by including new teaching methods
-and techniques to make pre-school learning years more fun.
-
-Currently housed in a modern building amidst a green and
-child-friendly ambience, the school has become extremely popular,
-imparting learning in a natural and enjoyable manner.
-
-The school strives to follow play way method, as all teachers are
-graduates with ECCED training. Children enjoy coming to this school
-because of many attractive facilities like very spacious outdoor play
-area, indoor play equipments, educational toys etc.
-
-The school also has separate art and craft room and music room. There
-are many co-curricular activities, festival activities throughout the
-year. In addition, there are few activities where each child takes
-part like sports, annual day, fancy dress. School also organizes trips
-(educational trip, field trip, and picnic).
-
-Academic year of KG school runs from July to next April. The intensive
-learning programme be it curricular and extra-curricular- is reviewed
-annually and new activities are included in each academic year.  The
-school council comprised of the Director of IIT Bombay as Chairman,
-three faculty members of IIT Bombay, parents representatives from each
-section with teacher representatives and external members from nearby
-other schools and a medical doctor continuously monitors the progress
-of the school and suggests further improvements from time to time.
 
 ### Shishu Vihar Child Care Centre
-Shishu Vihar is a not-for-profit child care centre, managed by an
-association of parents, catering primarily to the child care needs of
-working parents in IIT Bombay. The Shishu Vihar Management Committee
-(SVMC) is body of IITB Official Representatives and elected member
-parents. SVMC is responsible for the overall policy, human resources,
-and financial management of the centre.
+Shishu Vihar is a not-for-profit child care centre, managed by an association of parents, catering primarily to the child care needs of working parents in IIT Bombay. The Shishu Vihar Management Committee (SVMC) is body of IITB Official Representatives and elected member parents. SVMC is responsible for the overall policy, human resources, and financial management of the centre.
 
-SV has a group of people with backgrounds in education, psychology,
-special needs, child development, early childhood education, and
-curriculum development. Their education and experience not only enable
-themselves to understand the needs of children but also inspires them
-to choose healthy and effective practices in child care.
+SV has a group of people with backgrounds in education, psychology, special needs, child development, early childhood education, and curriculum development. Their education and experience not only enable themselves to understand the needs of children but also inspires them to choose healthy and effective practices in child care.
 
+At the time of writing, Shishu Vihar is located in bungalow A-5 in the Lakeside area of Campus near the Main Gate; the following are its time slots and programs.
 
-Followings are the slots and programs of Shishu Vihar:
 
 Slots                                    Hours      Timing
 ---------------------------------------  ---------  ------------------
@@ -1418,6 +1422,8 @@ Day Care (FD/AS)      18 months to 12 years   Children are exposed to
                                               and outdoor play is
                                               strongly encouraged.
 ------------------------------------------------------------------------------------
+
+Some more details about Shishu Vihar may be found [here](https://www.facebook.com/pg/Sishu-Vihar-441328895915841/about/).
 
 # Ethics and Code of Conduct
 As a faculty member of a premier Institute of the country, you are always under public scrutiny. It is necessary to maintain a high degree of decorum and integrity at all times. Clearly, it is not possible to give a complete list of what is acceptable and what is not. This section, therefore, deals only with such items as we believe you should be well informed about.
