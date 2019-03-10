@@ -1025,50 +1025,51 @@ Institute Awards: Fifteen per year; B) Department Awards:
 Approximately Thirty per year. The guidelines for the excellence in
 teaching award are as follow:
 
-    1. Course feedback data for each semester and each of the four
-	categories of courses (B.Tech. common, UG courses, PG courses, 2
-	yr MSc courses) will be examined and, if warranted, transformed to
-	follow a normal distribution using the Box-Cox
-	transformations. The average and standard deviation of each data
-	set (original data in case already normal or transformed data
-	which is normal) will be determined. The average of the particular
-	distribution will be subtracted from a faculty member's score and
-	then divided by the relevant standard deviation. The constant 3
-	will be added to this. This is the normalised score for that
-	faculty member. If, for instance, a faculty member has a score
-	which is three std deviations above the average, his/her
-	normalised score will be 6. Someone with an average score will
-	have a normalised score of 3. A faculty member will get a
-	"normalised" score for each semester that he/she teaches. The
-	average of such scores over several (as required; see below)
-	courses will be computed. A rank list of faculty members will be
-	generated based on the above score.
+   1. Course feedback data for each semester and each of the four
+	  categories of courses (B.Tech. common, UG courses, PG courses, 2
+	  yr MSc courses) will be examined and, if warranted, transformed
+	  to follow a normal distribution using the Box-Cox
+	  transformations. The average and standard deviation of each data
+	  set (original data in case already normal or transformed data
+	  which is normal) will be determined. The average of the
+	  particular distribution will be subtracted from a faculty
+	  member's score and then divided by the relevant standard
+	  deviation. The constant 3 will be added to this. This is the
+	  normalised score for that faculty member. If, for instance, a
+	  faculty member has a score which is three std deviations above
+	  the average, his/her normalised score will be 6. Someone with an
+	  average score will have a normalised score of 3. A faculty
+	  member will get a "normalised" score for each semester that
+	  he/she teaches. The average of such scores over several (as
+	  required; see below) courses will be computed. A rank list of
+	  faculty members will be generated based on the above score.
 
-    2. Fifteen Institute awards will be given each year. They will be
-	given to the top 15 scorers. The rank list will be obtained
-	considering the best 15 scores over the last 10 years for each
-	faculty member.
+   2. Fifteen Institute awards will be given each year. They will be
+      given to the top 15 scorers. The rank list will be obtained
+      considering the best 15 scores over the last 10 years for each
+      faculty member.
 
-    3. Department awards will be given (about 30 in the Institute;
-	approx. 2 per faculty strength of 20 in a department). The rank
-	list will be obtained by considering the best 8 scores over the
-	last 5 years for each faculty member in that department.
+   3. Department awards will be given (about 30 in the Institute;
+	  approx. 2 per faculty strength of 20 in a department). The rank
+	  list will be obtained by considering the best 8 scores over the
+	  last 5 years for each faculty member in that department.
 
-    4. Academic units with strength significantly less than 20 will be
-	combined with other such units to decide Dept awards.
+   4. Academic units with strength significantly less than 20 will be
+      combined with other such units to decide Dept awards.
 
-    5. On getting an Institute award, the faculty member will be
-	ineligible to be considered for the same for the next ten academic
-	years. Further, he/she will be ineligible to be considered for a
-	Dept. award for the next 5 years. On getting a Dept award, the
-	faculty member will be ineligible to be considered for the same
-	for the next five academic years. However, in this period, he/she
-	will be eligible for consideration for an Institute award in case
-	he/she has not been awarded the same in the previous 10 years.
+   5. On getting an Institute award, the faculty member will be
+	  ineligible to be considered for the same for the next ten
+	  academic years. Further, he/she will be ineligible to be
+	  considered for a Dept. award for the next 5 years. On getting a
+	  Dept award, the faculty member will be ineligible to be
+	  considered for the same for the next five academic
+	  years. However, in this period, he/she will be eligible for
+	  consideration for an Institute award in case he/she has not been
+	  awarded the same in the previous 10 years.
 
-    6. For a given year, if a faculty member is included in the list
-	for Institute awards, he/she will be ineligible for the
-	Dept. award.
+   6. For a given year, if a faculty member is included in the list
+	  for Institute awards, he/she will be ineligible for the
+	  Dept. award.
 
 ## Guidelines for Research Awards
 
