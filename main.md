@@ -1181,7 +1181,7 @@ Consultancy and related services offered will be divided mainly into two categor
 	- Calibration
     - Testing of industrial products/samples
 
-### Capital Equipment on Consultancy Projects:
+### Capital Equipment on Consultancy Projects
 Since there are no overheads on the purchase of capital equipment in
 consultancy projects, it has been decided that only major equipment
 purchase should be allocated under this head, which would have a
