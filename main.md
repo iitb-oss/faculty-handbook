@@ -1637,46 +1637,135 @@ cannot be utilised by the faculty when he is under any extraordinary
 leave.
 
 ### Rules governing CPDA
-1. Out of the amount of Rs. 3 lakh mentioned above, a minimum of Rs. 2
-   Lakhs is earmarked for presenting papers at conferences and a
-   maximum Rs. 1 Lakh can be spent towards membership of professional
-   bodies, contingent expenses (includes purchase of books,
-   stationeries, computers and related items, electronic devices for
-   professional use)[^splitnote]. This implies that expenses towards
-   attending conferences can be more than Rs. 2 Lakhs with a
-   corresponding reduction in the allocation for other
-   expenses. Acceptance of a paper is a requirement for approval of
-   expenses towards conferences. Expenses for a conference includes
-   cost of travel (by Air India), local transport, overseas medical
-   insurance, cost of visa, registration fee and living expenses @ US
-   \$ 250 per day for the period of conference and two additional days
-   (for travel) preceding/succeeding the conference, subject to a
-   maximum of (5+2) days.  If this amount falls short of what the
-   actual expense turns out to be, you may supplement this from other
-   sources (projects, travel grants from organizations like DST etc).
+The CPDA is an MHRD provision under which The Institute provides
+faculty at all levels with some level of support for travel (including
+international) and contingency expenses. At the time of writing, the
+allowance amounts to 3 lakhs INR for a block period of 3 years; these
+numbers, if/when revised, should be visible in the [faculty
+recruitment
+advertisement](http://www.iitb.ac.in/en/careers/faculty-recruitment).
 
-2. The contingent expenses provided above cannot be spent in one
-   go. Out of the maximum allocation of Rs. 1 lakh in the block of
-   three years, an amount up to Rs. 33,000 can be spent in the year
-   one, a further Rs. 33000 plus the unused portion of the first year's
-   allocation in year two and the entire unspent balance out of the
-   total allocation in the last year.
+The CPDA funds are primarily intended to support travel to
+international conferences. Please note that most government-supported
+projects do not allow travel funds to be used for international
+travel. So, unless you have less-restricted funds such as in your RDF
+account, or from an industry R&D project or consulting project, this
+might be a bottleneck for attending international conferences – and
+that is where the CPDA helps. That said, CPDA funds can be spent for
+national conference travel; though, for reasons mentioned above, it
+would be judicious to use other funds for this. CPDA funds can also be
+utilised on reimbursement basis for paying the membership fee of
+various professional bodies, books and contingent expenses. It is to
+be noted that CPDA cannot be utilised by the faculty when (s)he is on
+any Extraordinary Leave.
 
-3. If one has used up the conference grants as mentioned above, but
-   has a paper accepted in a prestigious conference falling within the
-   same block, the Institute has made a provision for granting upto an
-   additional Rs. 1 lakh from its own funds.
+Out of INR 3 lakhs, a minimum of Rs 2 Lakhs is earmarked for
+presenting papers at conferences and a maximum Rs 1 Lakh can be spent
+towards membership of professional bodies, contingent expenses
+(includes purchase of books, stationeries, computers and related
+items, electronic devices for professional use). Expenses for a
+conference includes cost of travel (by Air India), local transport,
+overseas medical insurance, cost of visa, registration fee and living
+expenses @ US $ 250 per day for the period of conference and two
+additional days (for travel) preceding/succeeding the conference,
+subject to a maximum of (5+2) days. On account of shortage of funds,
+the supplementary amount can be utilised from project, travel grants
+from DST etc.
 
-4. _Use of CPDA for National Conferences:_ Generally, a faculty member
-   can expect approval for attending one national conference every
-   year. The funds come out of departmental grants and HoD is the
-   approving authority. HoDs are authorized to sanction rail fare and
-   Apex airfare on Air India, beyond which Director's sanction is
-   required. If the department finds itself unable to support such
-   expenditure, a faculty member can use CPDA for presenting papers at
-   national conferences also.
+Out of the maximum allocation of contingency fund of INR 1 lakh in the block of three years, an amount up to INR 33,000 can be spent in the year one, a further INR 33000 plus the unused portion of the first year’s allocation in year two and the entire unspent balance out of the total allocation in the last year.
 
-[^splitnote]: The split can be changed to 1.5 lakh each for conferences and contingency provided the latter can be justified on the basis of rare and expensive books.
+Availability of 1 lakh contingency fund is divided as follows:
+    a. Up to Rs. 33,000/- available in first year
+    b. Upsent from(a) + Rs. 33,000/- available in second year
+    c. Upsent from(a) + (b) + Rs. 34,000/- available in third year
+
+In case the faculty has a paper accepted in a prestigious conference
+falling within same block, the Institute has made a provision for
+granting upto an additional Rs. 1 lakh from its own funds.
+
+### Rules for using CPDA for National Conferences
+The funds for conference participation can be utilised for
+international conferences primarily, and can also be used for
+participation in National Conferences, if support for the latter
+cannot be provided by the department. Acceptance of a paper for
+presentation is necessary for approval of conference-related
+expenditure.
+
+The Department Head has the authorisation for approving a faculty's
+travel fare (rail and Apex Air India) for a national conference, which
+is expected to get approved at the rate of one per year. However, in
+case of departmental failure in delivering support, CPDA can also be
+used for presenting papers in national conferences also.
+
+### Seeking the various funds
+Rs. 50,000/- will be made available to the faculty members, for the
+block period. This amount can be spent on reimbursement basis on
+production of receipts, towards membership fee of professional bodies,
+contingency expenditure in addition to conference expenses. This
+amount can also be utilised against any valid expenditure that has
+been incurred in connection with participation in international
+conferences, over and above the Rs. 1 lakh limit previously
+prevailing, if such has been the case. Such amounts may have been
+spent from RDF or one’s personal funds abd can now be transferred to
+RDF/ reimbursed as the case may be, subject to the Rs. 50,000/- limit.
+
+  -  CPDA for both i.e. Rs. 2,00,000/- for Conference and
+     Rs. 1,00,000/- for contingency shall be made available for the
+     use of Faculty on quarterly basis depending upon the date of
+     joining of the concerned faculty during the CPDA block year.
+  - If Rs. 2 lakhs- CPDA conference funds are not used for the conference, up to 50,000 can be availed for expenses towards books.
+  - CPDA will now be available to Faculty members on contract basis also.
+  - CPDA will not be available to the Faculty members who will proceed
+    on the lien and EOL (During the period of lien or EOL).
+
+The daily allowance provided to Faculty Members for participation in International conferences are as follows:
+
+---------------------------------------------------------------
+Country/ Region               Per Diem (USD) Hotel charges per day (USD)
+----------------------------- -------------- ---------------------------
+Outside India for Conferences $115           Up to $ 135/-; amount
+or Seminars                                  payable at actuals
+
+Outside India for Faculty     $115           Would be reimbursed on
+and Staff Members sent                       actual expenditure incurred
+by the Institute on                          (with bill/receipt) with
+assignments or as a                          special approval of director.
+part of delegation
+on Government work.
+---------------------------------------------------------------
+
+If the full hospitality has been provided (boarding and lodging) by
+the organizers only per diem of 25% of the rates mentioned in the
+table above, i.e. $28.75.
+
+In no case conference expenditure can be more than Rs. 2 lakh with
+corresponding reduction of 1 lakh allocated for contingency
+expenditure.
+
+In no case can conference expenditure be more than Rs. 2 lakh, with a
+corresponding reduction of 1 lakh allocated for contingency
+expenditure.
+
+------------------------------------------------------------------------------------------
+Funds and Limits      Utilization                   Per year basis   Approval chain
+--------------------  ---------------------------   --------------   ---------------------
+MHRD CPDA Conference  1. International conference   Can use whole    Conference: Faculty
+Funds (2 Lakhs)       2. National conference        amount at a      -> HoD -> AR (Admin)
+                      3. Upto 50,000 for books      time or in       -> Dean (FA)
+                                                    parts            Books: Faculty
+													                 -> AR (Admin)
+
+CPDA Contingency      Books, electronic items,      33k: 1st year    Contingency: Faculty
+Funds (2 Lakhs)       secretarial work              33k: 2nd year    -> AR (Admin)
+                      stationery, conference        34k: 3rd year    -> Dean (FA)
+                      visits                        (Can use larger  Conference: Faculty
+													amounts with     -> HoD -> Dean (FA)
+                                                    Dean (FA)
+													approval)
+
+------------------------------------------------------------------------------------------
+Table: Process of Approval
+
 
 ## Loans
 The Institute provides loans for purchase of a car, motorcycle,
