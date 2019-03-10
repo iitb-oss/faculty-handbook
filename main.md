@@ -976,10 +976,208 @@ up to Rs.5,00,000/- (Rupees Five Lakhs only).
 
 
 ## Continuing Education Programmes
-The Institute has an active 'Continuing Education Programme (CEP)', which is managed by the CEP cell. This cell also co-ordinates the 'Quality Improvement Programme', a programme of the Government of India to upgrade the skills of practicing teachers in Engineering colleges in the country. You can offer courses to Industry in specific areas of your expertise, through the CEP cell. Courses to academics are offered under the QIP programme. Details are available on The CEP webpage http://www.iitb.ac.in/~cep/about/index.html .
+The Institute has an active 'Continuing Education Programme (CEP)', which is managed by the CEP cell. This cell also co-ordinates the 'Quality Improvement Programme', a programme of the Government of India to upgrade the skills of practicing teachers in Engineering colleges in the country. You can offer courses to Industry in specific areas of your expertise, through the CEP cell. Courses to academics are offered under the QIP programme. Details are available on the [CEP webpage](http://www.iitb.ac.in/~cep/about/index.html).
 
 ## Consultancy
-The Institute has rather liberal rules on consultancy, in order to facilitate the interaction of its faculty members with industry. All your consultancy work must be processed through the Institute (Dean R&D). The Dean (R&D)'s website may be consulted in regard to the process to be followed when you would like to take up a consultancy assignment, as well as for details of how any revenue from such activity is to be shared between the Institute and the consultant.
+The Institute has rather liberal rules on consultancy, in order to
+facilitate the interaction of its faculty members with industry. All
+your consultancy work must be processed through the Institute (Dean
+R&D). The rules thereof are summarized
+[here](https://drona.ircc.iitb.ac.in/home/projects/consultancy-projects).
+
+IIT Bombay offers Consultancy Services to Industries, Service Sector,
+Govt. Departments and other National and International agencies in
+niche areas of expertise available in the Institute. The service
+offered shall be along the lines of 'Professional Services' and will
+hence carry with them obligations and ethical requirements associated
+with such services as indicated in the standard terms and conditions
+of IIT Bombay.
+
+
+The request can be to solve for almost any type of problem / need in
+almost every discipline of engineering, technology and science. The
+Institute through its Faculty / Scientist / Technical Staff can handle
+such external requests of the industry/agency that can come under the
+term consultancy in its broadest sense. Since these services are along
+the lines of 'Professional Services', offered at the request of a
+client for solving their issues and problems pertaining to the above,
+a fee is charged for undertaking such projects.
+
+### Types of Consultancy Projects
+Each project shall be undertaken either under
+
+- Standard Terms and Conditions (Appendix 1)
+- Specific research agreement or Memorandum of Understanding
+  describing the details of contract.
+
+In the former case, the work is taken up in good faith between the
+consultant and the client, the obligations and responsibilities of both parties being limited by the standard terms and conditions. The latter case refers to projects that usually involve non-disclosure agreements, detailed negotiations of contract terms and signing of contracts in the form of agreement or MOU.
+
+Consultancy and related services offered will be divided mainly into two categories:
+ - *Category E*: Expert Advice and Development Projects:- This type of project will be Expertise intensive and based on the expertise of the Consultant. For example
+
+   - Analytical studies Cause - and - remedy studies
+   - Simulation/ modeling/ optimization
+   - Design of systems/components/processes
+   - Development of industrial products/systems
+   - Development of systems software/application software for offline/online applications.
+   - Development of laboratories
+   - Human Resource development programmes
+   - Recruitment/entrance examinations
+   - Validation of designs/drawings
+   - Retainership of faculty in advisory capacity over specified periods
+
+  - *Category T*: Testing Projects:- This type of project will be
+    Infrastructure intensive and will be based on extensive usage of
+    the institute infrastructure. For example
+	- Calibration
+    - Testing of industrial products/samples
+
+### Capital Equipment on Consultancy Projects:
+Since there are no overheads on the purchase of capital equipment in
+consultancy projects, it has been decided that only major equipment
+purchase should be allocated under this head, which would have a
+minimum value of Rs.1 lakh, procured through a purchase order.
+
+*Eligibility*: Consultancy and related assignments can be taken up by
+full time faculty and Core Research Scientists and Engineers of
+Departments / Centres / Schools / IDPs.
+
+### General Consultancy Rules
+Consultancy work taken up by Consultants is subject to the following
+limits:
+
+   1. The time spent on consultancy and related assignments shall be
+      limited to the equivalent of 52 working days in a year,
+      preferably at the rate of one working day per week. In addition,
+      Consultants may be permitted to utilize, on an average one non
+      working day per week.
+
+   2. Consultancy assignments may be taken up and implemented, within
+      the constraints indicated above, provided they do not have any
+      adverse impact on the ongoing academic, research and related
+      activities.
+
+   3. The services of permanent employees of the Institute may be
+      utilized for the execution of the consultancy projects provided
+      it does not affect their primary functions and responsibilities
+      to the Institute.
+
+   4. Students who are willing to work on consultancy projects may be
+      permitted as per Institute norms to do so provided it does not
+      affect their academic commitments and performance. Such work by
+      students may be compensated by suitable honoraria.
+
+   5. Travel out of the campus on account of consultancy activities
+      should be undertaken with intimation to the Head of the
+      Department / Centre / School / IDP. In case of Heads of these
+      entities, intimations should be sent to the Director.
+
+   6. Consultancy projects are normally initiated by requests /
+      enquiries from the industry directly to the Institute or by
+      discussion between the industry and the Consultants.
+
+   7. When the enquiry is directly received by the Institute, the work
+      will be assigned to specific consultants or groups of
+      consultants depending on their expertise, and existing
+      commitments, by the Dean R&D.
+
+   8. In the event of a client preferring the services of a specific
+      consultant, the assignment may normally be assigned to the
+      identified person. All acceptance letters will be sent by the
+      Dean (R&D).
+
+   9. Consultancy project proposals (prepared in response to a
+      client’s request) are to be approved by the Dean (R&D) who may
+      examine the scope of the work and cost estimates. It is
+      essential to discuss proposed work plans with a client vis-a-vis
+      the scope, in order to obtain clarity before the consultant
+      prepares the cost estimates.
+
+   10. In extreme emergencies, a consultant may take up an assignment
+       with intimation to the Dean (R&D), and then seek approval, for
+       tasks entailing total charges not more than Rs.50,000/- or, two
+       days of faculty time, and payments are made immediately, well
+       before submission of any formal report.
+
+   11. The charges, once finalized, will not be negotiable. However,
+       if the scope is altered, a fresh estimate may be considered.
+
+   12. The minimum charges applicable in respect of consultancy jobs
+       will be Rs.10,000 excluding any applicable tax.
+
+   13. It is desirable that Preliminary Diagnostic Discussions / Site
+       Visits, leading to the generation of consultancy proposals may
+       be charged at a minimum rate of Rs.5,000/- (or US$200 or
+       equivalent in the case of international assignments) per day or
+       part thereof, in addition to travel and incidental expenses as
+       applicable.
+
+   14. Consultant should be aware of the potential for the generation
+       of Intellectual Property during the execution of projects. The
+       Intellectual Property Policy of the Institute will govern all
+       decision and actions concerning the generation, handling,
+       protection and commercialization of the Intellectual Property.
+
+   15. The services of external consultants (especially retired
+       Faculty / Research Scientists / Research Engineers) may be
+       utilised to a limited extent in order to provide comprehensive
+       services to clients. The consultant fees payable to External
+       Consultants may not, normally, exceed 40% of the total project
+       cost.
+
+   16. The charges for any assignment are normally payable in
+       advance. However, exceptions may be made in respect of
+       assignments involving charges exceeding Rs.1,00,000/- and with
+       implementation periods exceeding 3 months, and a payment
+       schedule linked to milestones can be worked out.
+
+
+### Costing of Consultancy Projects
+ 1. Consultant Fees (CF): This will include charges for the time of the Institute and External Consultants. The CF is limited to 20% of the project cost for Category T (testing projects) jobs.
+ 2. Charges for Personnel engaged in Technical Services (CPTS) are charges payable to the permanent employees of the Institute for their effort in the execution of the project. The CPTS is limited to 30% of the project cost for Category T jobs.
+ 3. Project Staff Salaries (PSS): This refers to the salaries payable to temporary staff employed specifically for the project. The project shall also provide for 30% of PSS as House Rent Allowance (HRA).
+ 4. Operational Expenses (OE): These include expenses incurred on consumables, contingencies, travel and daily allowance, honoraria for students and all other expenses related to the consultancy project.
+ 5. Overheads (OH): Overheads will be charged at the rate of 20% of PSS, and OE (see 8.3 and 9.4 above) as applicable.
+ 6. Capital Equipment (CE): This will include charges for the purchase of specific equipment for implementation of consultancy projects. No overheads are charged on this.
+ 7. Service tax and other taxes as applicable shall be provided for in the project cost.
+
+### Applying and Approval for undertaking Consultancy Projects
+Once a consultancy project request is directed to PI the following steps are to be followed:
+
+ 1. A PI needs to login to the Drona system using his own LDAP
+    (Lightweight Directory Access Protocol) Login name and Password.
+
+ 2. The Project request directed to you are visible as 'Consultancy
+    Project Assigned to me' on the screen
+
+ 3. The Request sent by the party can be seen by clicking on the
+    Letter Description
+
+ 4. If the PI wants to apply for a particular project, he must click
+    the "Apply" button on the bottom of the screen
+
+ 5. There are two categories of consultancy projects, viz Testing and
+    Expertise, for Cost Estimate Form Click here.
+
+ 6. When the project application is made, it is forwarded to the
+    deptartment HOD for approval. The PI can see the status of his
+    application in Project Details.
+
+ 7. All the actions taken on your request will be informed to you by email.
+
+The process for approval is as follows:
+
+![Process of approval for consultancy projects](process.png){width=300px}
+
+
+### Disbursement
+The disbursement of CF and CPTS will entail a deduction of 30% as the
+Institute share for Consultant’s (or CPTS) earnings. This deduction
+will be on the actual amount disbursed to CF (CPTS).
+
+Note: Earnings for Technology Transfer, Revenue Sharing and Royalty
+will be governed by the Intellectual Property Policy of the Institute.
 
 ## Research and Development Fund (RDF) and Department Development Fund (DDF) rules
 
@@ -1765,6 +1963,91 @@ Funds (2 Lakhs)       secretarial work              33k: 2nd year    -> AR (Admi
 
 ------------------------------------------------------------------------------------------
 Table: Process of Approval
+
+## IRCC International Travel Patent and Publication (IR-ITPP) grant
+IRCC provides support for international travel, international patenting charges and publication hrough its ITPP scheme, which is over and above the CPDA. Details may be found [here](https://drona.ircc.iitb.ac.in/home/faculty/iritpp).
+
+### Overview
+The salient features of IR-ITPP grants are as follows:
+A grant of Rs. 3 (Three) lakhs will be provided from IRCC to all faculty members, to be spent over a block of three year period (which is concurrent with the CPDA block period) for the following activities:
+
+- Support for international travel related expenses (IR-IT) – only after the CPDA is exhausted
+- matching costs for international patenting activities and (IR-IP)
+- costs for publications related activities (IR-P)
+
+### General guidelines
+a. This is provided to all regular / contract faculty members through
+a separate project code at IRCC for individual faculty and is
+implemented online.
+
+b. This amount is available for a block period of three years.
+
+c. Any unspent amount at the end of a block period will lapse and a
+new block will begin thereafter.
+
+d. This amount may be utilised for any or all of the three purposes as
+mentioned above, within the limit of the said amount of Rs.3 lakhs
+that is the grant may be used for any of the components IR-IT, IR-IP
+or IR-P, fully or partially in any combination.
+
+e. Expenditure above three lakhs within the block period have to be
+met by sources other than IRCC fund.
+
+f. The excess expenditure, if any, is not permitted to be met from
+next block grant.
+
+g. Settlement in respect of all three activities should be completed
+within one month of incurring such expenditure.
+
+h. If any new faculty member joins during a given three year block
+period, the grant eligibility will be:
+   - For service period of 2 years and above: Rs. 3 lakhs
+   - For service period of more than 1 year but less than 2 years: Rs. 2 lakhs
+   - For service period of 1 year and less: Rs. 1 lakh
+   - The details of the use of the grant for the three activities are given below.
+
+### International travel related support (IR-IT)
+
+The IR-IT component in the block grant may be used for the following:
+    a. Attending conferences to present faculty research (oral presentation)
+    b. Conducting specialised experimental research work in major research facilities abroad, if unavailable nationally (TA/DA only). Charges for usage of such facilities, if applicable, should be met from other sources.
+    c. Chairing a session in international meetings
+    d. Contribution towards travel awards such as INSA grants
+    e. Giving invited talks and initiating or continuing on-going collaborative research work, where partial support towards the visit is made available by the host institution (such as local travel / hospitality, partial travel support etc.)
+    f. Attending specialised workshops based on invitation and partial support by the organisers
+
+*Guidelines for implementation*:
+The grant use is subject to the following:
+    a. The grant is available only for faculty member for his/her travel and not for students or project staff
+    b. All Institute terms and conditions of international travel (CPDA norms), such as air carrier, TA/DA rules, class eligibility, etc., will be followed for the IR-IT related activities.
+    c. A request by faculty for support related to international travel should be sent to Dean R&D, with recommendation by Heads of the respective academic entities.
+    d. Prior permission from Dean (FA) / Director should be obtained for the international travel. A copy of the approval letter and conference related documents should be made available to Dean R&D office.
+    e. The component of the Institute CPDA grant for international travel for the applicable block period should have been utilised first, before utilising the IR-IT grant. When the available CPDA fund is not sufficient to cover the visit, then it can be combined with IR-IT fund / other sources such as project fund/ RDF.
+    f. While claiming the IR-IT grant component, a self-declaration shall be made by the faculty member that the international travel component of the CPDA fund has already been utilised.
+    g. Administrative order for the travel will be issued by Registrar as per existing procedure. If Institute CPDA is used in combination with any funds managed at IRCC (including the new IR-IT scheme, RDF, project fund, etc.), then the claim should be submitted to Main Accounts as per usual practice.
+
+### International patenting activities (IR-IP)
+The IR-IP component of the block grant may be used for defraying 50%
+costs of international patenting expenditure.
+
+Guidelines:
+    a. Faculty may use the IR-IP grant for defraying 50% of international patenting cost with the balance 50% being provided by IRCC fund. Such costs may include Government fee, professional fee, translation fee and other costs, as per bills received and approved.
+    b. The international patenting will include all activities related to PCT filing and foreign country filing.
+    c. At any time in the block period, if the balance in the IR-ITPP grant is not sufficient for patenting contribution, such excess amount will be paid by IRCC as an advance against the next block grant. The amount available for other activities under IR-ITPP scheme in the next block grant will therefore stand reduced by such amount.
+    d. Faculty members may continue to bear the patenting cost through RDF / project funds in conjunction with the IR-IP component as per their choice.
+    e. In view of this support, IRCC will not consider any other requests for defraying international patenting expenses beyond 50% from IRCC fund.
+
+### Publication related activities (IR-P)
+
+The IR-P component of the block grant may be used for the following:
+    a. For publishing faculty research in good journals, where special circumstances require page charges to be paid.
+    b. For publishing with colour pages or other such special printing requirements
+    c. To a very limited extent, for publishing in SCI/Web of Science Indexed open access journals
+Guidelines:
+    a. A request by faculty for support related to any publication should be recommended by Heads of the respective academic entities with a strong justification for such requests.
+    b. Support for publications will be based on ‘essentiality’ of the need and subject to approval by Dean R&D.
+    c. Such support shall not be given for papers being published in open access journals even if they are SCI / Web of Science indexed unless there is a very strong certification of good quality of the journal, by the Academic entity.
+    d. It is desirable that part of the costs for publications as above is claimed from other sources such as projects / RDF / DDF and part from the IR-P component of the block grant.
 
 
 ## Loans
