@@ -1476,6 +1476,7 @@ internal website of the Institute http://ep.iitb.ac.in .
 
 ## Components of salary
 The salary that you get has several components.
+
 1. _Pay Level:_ Since many readers are likely to be familiar with the
    provisions of the 6th Pay Commission, and new readers are likely to
    join directly under 7th Pay Commission rules, we outline the pay
@@ -1541,6 +1542,7 @@ The Institute website (see 'Recruitment' link) carries the minimum eligibility c
   will be directly placed at an AGP Pay Level 11.
 
 In addition, the following scales are applicable as appropriate to faculty:
+
 1. _Professor (HAG Scale):_ From August 18, 2009, a senior cadre of
    Professors has been created. This scale pay for this cadre is known
    as HAG (Higher Administrative Grade, the name being a carry-over
@@ -1607,27 +1609,28 @@ increment in January of the following year.  If the employee is on
 leave, other than casual leave, on the first day of July, the
 increment is given from the day when the employee rejoins the duty.
 
-Pay Level     10      11       12       13A1     13A2      14      14A      15
----------   ------- -------- -------- -------- -------- -------- -------- --------
-   1        57700   68900    101500   131400   139600   144200   159100   182200
-   2        59400   71000    104500   135300   143800   148500   163900   187700
-   3        61200   73100    107600   139400   148100   153000   168800   193300
-   4        63000   75300    110800   143600   152500   157600   173900   199100
-   5        64900   77600    114100   147900   157100   162300   179100   205100
-   6        66800   79900    117500   152300   161800   167200   184500   211300
-   7        68800   82300    121000   156900   166700   172200   190000   217600
-   8        70900   84800    124600   161600   171700   177400   195700   224100
-   9        73000   87300    128300   166400   176900   182700   201600
-   10       75200   89900    132100   171400   182200   188200   207600
-   11       77500   92600    136100   176500   187700   193800   213800
-   12       79800   95400    140200   181800   193300   199600   220200
-   13       82200   98300    144400   187300   199100   205600
-   14       84700   101200   148700   192900   205100   211800
-   15       87200   104200   153200   198700   211300
-   16       89800   107300   157800   204700
-   17       92500   110500   162500
-   18       95300   113800   167400
-   19       98200   117200
+*Level $\rightarrow$*     10      11       12       13A1     13A2      14      14A      15
+----------              ------- -------- -------- -------- -------- -------- -------- --------
+*Cell $\downarrow$*
+   1                    57700   68900    101500   131400   139600   144200   159100   182200
+   2                    59400   71000    104500   135300   143800   148500   163900   187700
+   3                    61200   73100    107600   139400   148100   153000   168800   193300
+   4                    63000   75300    110800   143600   152500   157600   173900   199100
+   5                    64900   77600    114100   147900   157100   162300   179100   205100
+   6                    66800   79900    117500   152300   161800   167200   184500   211300
+   7                    68800   82300    121000   156900   166700   172200   190000   217600
+   8                    70900   84800    124600   161600   171700   177400   195700   224100
+   9                    73000   87300    128300   166400   176900   182700   201600
+   10                   75200   89900    132100   171400   182200   188200   207600
+   11                   77500   92600    136100   176500   187700   193800   213800
+   12                   79800   95400    140200   181800   193300   199600   220200
+   13                   82200   98300    144400   187300   199100   205600
+   14                   84700   101200   148700   192900   205100   211800
+   15                   87200   104200   153200   198700   211300
+   16                   89800   107300   157800   204700
+   17                   92500   110500   162500
+   18                   95300   113800   167400
+   19                   98200   117200
 
 Table:  7th Commission Pay Matrix
 
