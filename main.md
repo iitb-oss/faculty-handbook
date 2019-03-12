@@ -256,7 +256,7 @@ Besides the Deans, there are Professors-in-Charge for various functional units. 
  - Continuing Education Programme (http://www.cep.iitb.ac.in/) for coordinating industrial training courses
  - Society for Innovation and Entrepreneurship for start-up incubation support (http://www.sineiitb.org/sine)
  - Research Park (http://www.respark.iitb.ac.in/#/home) for engagement with companies on campus
- - Parimal and Pramod Chaudhari Centre for Learning & Teaching (http://www.ppcclt.iitb.ac.in) for faculty development and effective learning
+ - [Parimal and Pramod Chaudhari Centre for Learning & Teaching](http://www.ppcclt.iitb.ac.in) for faculty development and effective learning
 
 Then there is the Registrar, who is officially the custodian of all
 records and funds received by the Institute. (S)he signs the cheques
@@ -871,9 +871,9 @@ The following services for specific activities managed by ASC are available thro
   - https://support.iitb.ac.in is the complaints ticketing portal for maintenance related services.
   - https://surveys.iitb.ac.in is a self-service portal used for creating your own surveys and content sharing pages.
   - https://portal.iitb.ac.in/IRBS is the interface to book classrooms and view room occupancy/availability.
-  - https://portal.iitb.ac.in/VRP is a portal used for submitting/tracking ERP related service requests 
+  - https://portal.iitb.ac.in/VRP is a portal used for submitting/tracking ERP related service requests
 
-### Resources for ERP support: 
+### Resources for ERP support:
   - **Department storekeeper**: For any problem related to purchase and payments from institute funds.
   - **Departmental ERP helpdesk stationed in each department**: For
     any problem related to purchase from project funds, payment of
@@ -893,7 +893,7 @@ portal](https://ASC.iitb.ac.in). Departmental ERP helpdesk should be
 approached for additional training.
 
 **Step-1:** Make sure you have all basic requirements in place:
-  - Get LDAP ID 
+  - Get LDAP ID
   - Apply for SAP user license.
 
 You are provided:
@@ -918,11 +918,52 @@ definitions:
     requisition(ME51N, ME52N, ME53N, ME54N), create/release Purchase
     order(ME21N, ME22N, ME23N, ME29N), Goods receipt note (MIGO),
     invoice parking (MIR7), project fund and expenditure details
-    (CJI3, S_PLN_16000269) and vendor payment reports(FBL1N). 
-	
+    (CJI3, S_PLN_16000269) and vendor payment reports(FBL1N).
+
 **Step-3**: Learn how to use above transaction screens. Read up user
 manuals available on ASC home page, take help from departmental ERP
 help cell and attend periodic training workshops conducted by ASC.
+
+## Lab Space Allotment
+
+As a new faculty (and if you need lab space), this is likely to be one
+of the more frustrating things you might have to negotiate at IIT
+Bombay. Because of various factors, IIT Bombay has seen very healthy
+growth in the last couple of decades in terms of student, faculty and
+staff (especially temporary staff on R&D project payroll)
+numbers. Because of other some other factors, the creation of living
+and working spaces for them on campus has not quite kept pace. This
+situation is unlikely to change in the near future.
+
+Here are a few tips that might help:
+ 1. For individual lab space, your resource person is the Head of your
+    Department/Centre/School. You would be well-advised to start
+    talking to them about your requirements when you have accepted the
+    job offer and are planning your move. This might reduce your wait
+    time after you join. Now, despite their best intentions, the Head
+    might not be able to satisfy your requirements quickly enough - it
+    may help everyone, yourself included, to exercise some patience,
+    even as you press for what you need in order to be productive
+    here.
+ 2. After you have been allocated lab space, it will take time to get
+    it prepared and facilitated. This will need your involvement. You
+    may talk to the Head about the funding required (again, might be a
+    good idea to start the discussion in advance), getting civil,
+    air-conditioning, interior work done through Estate Office,
+    Electrical Maintenance Division and Design Cell respectively, and
+    so on. Senior faculty should also be able to informally mentor you
+    on getting these jobs done efficiently.
+ 3. Please talk to the Head, and find out yourself, about existing
+    facilities on campus that might help you get started with
+    something quickly.
+ 4. You may also consider building shared labs with other faculty in
+    similar areas. That might help to reduce the resources required
+    (including space), get you a partner to share in the effort, and
+    thereby move things faster.
+
+Please consider volunteering to help your Head on resource planning so
+these issues become progressively easier for future colleagues who
+come after you.
 
 ## Assessment and Promotion Policies
 
@@ -1124,6 +1165,73 @@ IFAC at the end of 3 years. At this stage, with appropriate
 modifications introduced as a result of the experience gained, IFAC
 may consider using the cumulative record of self-assessments as a
 basis for shortlisting candidates for selection to higher posts.
+
+## Resources for Teaching
+
+Teaching is considered to be an important component of faculty
+activities. That said, most new faculty come in with strong research
+experience, but modest teaching experience, if any. It helps that most
+new faculty are given about a semester off from teaching in the
+beginning - this is often departmental policy; in some cases, there
+may not be a choice if the faculty member joins after a semester has
+started. Here are a few tips to help with teaching, and preparing for
+it.
+
+ 1. When you are assigned a course to teach, you can look at the
+    Academic section of the ASC website
+    (https://asc.iitb.ac.in/acadmenu/index.jsp) for course details
+    such as syllabus and textbooks, as well as timing and venue.
+ 2. You may talk to the Head and ask for the previous instructors
+    (this information is also available on ASC). That is assuming this
+    is an existing course, not a new one you are starting (the
+    procedure for starting a new course is described in Sec. 4.2 <link
+    here>). Senior faculty members who have taught the course may be
+    able to help you with teaching material such as slides, homework
+    problems, recommendations for textbooks, capable teaching
+    assistants (TAs) and so forth.
+ 3. A recent alumni supported initiative, called the Parimal and
+    Pramod Chaudhari Centre for Learning and Teaching (CLT), now
+    provides a plethora of resources for teaching, drawing on internal
+    and external expertise and experience. These include:
+
+	  a. (Annual) Faculty Development Workshops
+	  b. TLC Café – featuring training sessions for faculty on
+	  effective teaching
+	  c. Community of Practice (CoP) platform for sharing best teaching practices
+      d. Active learning classroom (under construction at the time of
+	  writing). Please check out the [PPCCLT
+	  website](http://www.ppcclt.iitb.ac.in) for more details. They
+	  welcome and need faculty involvement to be effective, so please
+	  consider it.
+
+ 4. There are several resources available to you to prepare video lectures (getting your regular lectures recorded, or, recording in a studio), and put them online if you desire. These include:
+
+     a. Centre for Distance Engineering Education Programme (CDEEP) –
+      which helps to prepare video lectures. Details are available on
+      their [website](http://www.cdeep.iitb.ac.in/). Please look in
+      the Related Projects section, for information on
+      pedagogy-related projects, usually MHRD-supported, like TEQIP,
+      GIAN, and NMEICT.
+
+     b. [NPTEL](http://www.cdeep.iitb.ac.in/NPTEL2) - a nationwide
+      program supported by MHRD for high-quality content development
+      in science/technology and dissemination through Massive Open
+      Online Courses (MOOCs), with facility for testing and
+      certification.
+
+     c. [IITBx](https://www.iitbombayx.in/) – this is an online platform
+      for MOOCs, specializing in hybrid MOOCs that feature flipped
+      classrooms, live interaction and so forth; in addition to more
+      academic content, it provides skills training, teachers
+      training, and lifelong learning type content.
+
+ 5. IIT Bombay is one of the few institutes in the country to have an
+    academic program in Education Technology. Faculty here pursue
+    research in technology-enhanced learning, pedagogical tools and
+    strategies. If you are interested in exploring new
+    technologies/methodologies in your class, they might be happy to
+    collaborate with you. Details about this Inter-Disciplinary
+    Programme is available [here](http://www.et.iitb.ac.in/).
 
 ## Guidelines for Excellence in Teaching Awards
 
@@ -1544,16 +1652,51 @@ As a faculty member of a premier Institute of the country, you are always under 
 3. _Redressal of Grievances:_ Redressal of Grievances: If you have a grievance, try to sort it out by meeting the concerned Dean, the Deputy Director or the Director. If you would like to make a written representation, the first course is the Director. If his response leaves you dissatisfied, you may make representation to the Chairman of the Board. Such representation should be through the Director. In extreme cases, you may take your grievance to the Visitor (who is the President of India). However, in all cases, you should go through what is known as proper channel, i.e., route all your representation through HOD, Director and the Chairman, in that order. The forwarding authority does not have the right to stop your representation being forwarded upwards excepting in circumstances such as (i) a similar petition made earlier has been disposed of and no new facts are brought out in the new petition, (ii) your representation is not to the appropriate authority, or (iii) the petition is against a decision which is final by any law or statute. In such cases, the appropriate authority will write you a reply explaining the reasons why your petition may not be forwarded.
 4. You may, of course, seek to redress grievances in a court of law without any permission. However, it is in good taste to first exhaust all possibilities of finding a solution to  your problems within the internal framework as stated above.
 
-## Sexual Harassment of women at the workplace
-This section is primarily meant for male faculty. As a teacher you would interact with a lot of female students. Likewise you would interact with female colleagues and other staff. Your behaviour in all such interactions must be impeccable. The Supreme Court of India defines sexual harassment as unwelcome sexual behaviour, whether directly or by implication, such as through
+## Sexual Harassment and Gender Cell
 
-1. physical contact and advances.
-2. demand or request for sexual favours.
-3. sexually colored remarks (this includes colored jokes in a mixed company, or a class room, or even within hearing distance of a female member of the community).
-4. showing pornography.
-5. any other unwelcome physical, verbal or non-verbal conduct of sexual nature.
+(This section is primarily meant for male faculty. Indian law only
+recognizes the possibility of male perpetrators and female victims of
+sexual harassment. IIT Bombay policy is broader in that it also
+recognizes the possibility of male victims belonging to sexual
+minorities.)
 
-Except where such an act amounts to a specified offence under the Indian Penal Code (which then has to be dealt with by the Police under applicable law), a victim of sexual harassment (or one who perceives sexual harassment to oneself) may lodge a complaint to the Director, Deputy Director or to the Dean (FA). Students can take their complaint to the Dean (SA). Any employee or student can approach the _Womens' Cell_ constituted by the Institute, either for advice or for redressal. An inquiry by the Womens' Cell has the status of an official inquiry under the Civil Service Rules, and employees have to co-operate with the Cell in its investigations.
+As a teacher you would interact with a lot of female
+students. Likewise, you would interact with female colleagues and
+other staff. In many cases, you would have a supervisory role in the
+interaction. Your behaviour in all such interactions must be
+impeccable. Please remember that they have a right to a place of work
+or study where they do not face sexual harassment in any form - and
+you have a responsibility to provide it.  The Supreme Court of India
+defines sexual harassment as unwelcome sexual behaviour, whether
+directly or by implication, such as through:
+
+ - physical contact and advances
+ - demand or request for sexual favours
+ - sexually colored remarks (this includes colored jokes in a mixed
+   company, or a class room, or even within hearing distance of a
+   female member of the community)
+ - showing pornography
+ - any other unwelcome physical, verbal or non-verbal conduct of sexual nature.
+
+Except where an act amounts to a specified offence under the Indian
+Penal Code (which then has to be dealt with by the Police under
+applicable law), a victim of sexual harassment (or one who perceives
+sexual harassment to oneself) may lodge a complaint to the Director,
+Deputy Director or to the Dean (FA). Students can take their complaint
+to the Dean (SA).
+
+Any employee or student can approach the Gender Cell (earlier called
+the Women’s Cell) constituted by the Institute, either for advice or
+for redress. The Gender Cell investigates sexual harassment complaints
+through its Internal Complaints Committee. An inquiry by the Gender
+Cell has the status of an official inquiry under the Civil Service
+Rules, and employees have to co-operate with the Cell in its
+investigations. More details about the Gender Cell may be found
+[here](http://www.gendercell.iitb.ac.in/); links to the IITB policy
+document, the Sexual Harassment at the Workplace Act, and a government
+handbook on sexual harassment, are given
+[here](http://www.gendercell.iitb.ac.in/en/internal/internal-complaints-committee).
+
 
 ## Plagiarism
 Being an Institute of excellence, the Institute takes a very serious view of any act of plagiarism. While the penal codes are silent on it, there are guidelines issued by National Academies on what constitutes plagiarism. In technical publications, all joint authors are responsible equally for any offence of plagiarism. Punishment can be severe, including termination of service.
@@ -1790,6 +1933,70 @@ When you receive your salary slip, you will find some deductions as well. The pr
 
 4. License Fee and utility charges for your quarter in the campus.
 
+## Travel Entitlement Rules
+
+While you travel on duty, your TA/DA entitlement is governed by your
+salary level.  At the time of writing, that is given by the pay levels
+as defined by the 7th Pay Commission (P.C.). Most of what is given in
+this section corresponds to the 6th P.C. because the details of the
+entitlements under the 7th P.C. are not completely available yet. They
+will be updated here as they become available. Until then, please ask
+the Dean FA office if you have questions.
+
+According to 6th P.C. rules, all Professors (including those on HAG
+scale) are entitled to travel by business class while traveling by air
+– unless austerity measures are in force (please ask Dean FA!). All
+other faculty members are entitled to travel in Economy class (with
+7th Pay Commission rules, it is not clear whether this also applies to
+Assistant Professors in Grade-II; please ask Dean FA). Currently, if
+you are using Government funds (this includes CPDA and government
+ministry-funded projects), then in most cases you have to travel by
+Air India (AI) only. Please note that this applies even if AI is a
+more expensive option; timing, however, might be a viable reason. The
+procedure for seeking permission to fly non-AI is given on [this
+government
+website](https://mhrd.gov.in/delegation-power-financial-advisor-accord-exemption-air-travel-airlines-other-air-india-individual
+). In practice, it is usually less onerous, especially so for domestic
+work-related (not LTC) travel. Please be guided by the Dean FA on
+this.
+
+In any event, please remember to submit your TA bill along with
+boarding passes and e-ticket copy  (please contact Accounts section
+for business class international travel).
+
+For road travel: if you travel by your own car or unmetered taxi (in
+places where metered taxies are not available), you could claim up to
+Rs 16/- per kilometre.
+
+Under the 6th P.C., there is no daily allowance for domestic
+travel. Instead, the reimbursement will be on actuals supported by
+bills and payment proof thereof (e.g. credit card receipt or account
+statement). For this purpose, Professors (including those on HAG
+scale) will be eligible for reimbursement for hotel
+accommodation/guest house for an amount up to 5000 INR per day;
+reimbursement of AC taxi up to 50 km for local travel and
+reimbursement of food bills not exceeding 500 INR per day. The rates
+for other faculty are 3000 INR for Hotel, non-AC taxi up to 50 km, and
+Rs 300/- for food bill (with 7th Pay Commission rules, it is not clear
+whether this also applies to Assistant Professors in Grade-II; please
+ask Dean FA).
+
+However, one had the option of being governed by the 5th P.C. rules
+for calculation of daily allowance. Such an option could be exercised
+for the entire duration of a given tour and not for parts of a
+tour. In such a case, all faculty will be eligible to draw daily
+allowance appropriate to pre-revised scale of Rs 16,400/- and
+above. This is only useful when you would like to claim a daily
+allowance without submitting detailed expenditure receipts.
+
+For International Conferences and for faculty members visiting  abroad
+on Institute's work, a per diem of 115 USD is payable. In addition,
+hotel expenses at actuals subject to a maximum of 135 USD is payable,
+supported by bills and receipts, is payable for conferences. For
+official visits, all actual expenses, as may be approved by the
+Director are payable, if per diem is not claimed.  Where full
+hospitality is provided abroad by hosts, only 25% per diem, i.e. 28.75
+USD is allowed.
 
 ## Leave Travel Concession (LTC)
 Once every two years, you are eligible for a paid travel to your home
