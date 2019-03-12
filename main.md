@@ -817,6 +817,113 @@ After the proposal is approved online by the Dean(R&D), IRCC will
 issue the "Endorsement of the Institution" letter which will have to
 be submitted by the PI to the funding agency.
 
+## ERP-SAP Activities
+IIT Bombay has recently deployed leading Enterprise Resource Planning
+software (ERP) from SAP which provides IT enabled platform for
+managing business processes such as purchase, payment, payroll, HR
+actions as well as estate management. Student lifecycle management,
+currently handled through the homegrown software created by
+Application Software Center (ASC) is slated to move on ERP platform
+in 2020. Several other home grown and open source legacy IT systems
+continue to handle key business processes.
+
+Currently, following IT systems are available to faculty members:
+
+  - [ASC](https://asc.iitb.ac.in) is the home grown system for
+    managing academic processes. Faculty members use this interface
+    for viewing academic programs, courses, bulletin and students
+    related information. The ASC portal allows online submission of
+    course grades and viewing past grading statistics. Access to ASC
+    is available through your LDAP credentials. Helpdesk e-mail is
+    [asc.help@iitb.ac.in](mailto:asc.help@iitb.ac.in).
+  - [Drona](https://drona.iitb.ac.in) is the homegrown IT system which
+    is used for submitting sponsored and consultancy project proposals
+    and managing all project related activities. Drona is integrated
+    with ERP and is independently managed by IRCC. Access to Drona is
+    available through LDAP credentials.
+  - [Employee Self Service Portal](https://ep.iitb.ac.in) is the SAP
+    portal to view and manage all personal actions such as leave,
+    salary, staff assessment and various HR actions. This portal is
+    currently undergoing enhancements. When fully deployed, the portal
+    shall allow 40 different actions including 'application and
+    settlement' of advances, loans, CPDA, LTC, TA and IR-ITTP
+    payments. The EP portal requires allocation of user license as
+    well as a SAP user ID which is same as your employee code. Online
+    application form is available on ASC portal for requesting new SAP
+    user id.  Helpdesk:
+    [helpdesk.hcm@iitb.ac.in](mailto:helpdesk.hcm@iitb.ac.in).
+  - [ERP portal](https://erp.iitb.ac.in) is available to faculty
+    members for managing all purchase and payment activities. This
+    portal allows execution of a variety of transactions and allows
+    faculty members to view status of purchases, payments as well as
+    fund availability in personal projects. ERP portal is accessible
+    through your SAP login credentials. Several ERP support services
+    are available post login on ASC portal through series of
+    interfaces at ASC $\rightarrow$ ERP Master data
+    $\rightarrow$. Helpdesks:
+    [helpdesk.basis@iitb.ac.in](mailto:helpdesk.basis@iitb.ac.in) ,
+    [EDP@iitb.ac.in](mailto:EDP@iitb.ac.in).
+  - Teaching and learning management is handled through the open
+    source portal (https://moodle.iitb.ac.in) which is integrated with
+    ERP servers. Helpdesk: [moodle.help@iitb.ac.in](mailto:moodle.help@iitb.ac.in).
+
+The following services for specific activities managed by ASC are available through LDAP login:
+  - https://support.iitb.ac.in is the complaints ticketing portal for maintenance related services.
+  - https://surveys.iitb.ac.in is a self-service portal used for creating your own surveys and content sharing pages.
+  - https://portal.iitb.ac.in/IRBS is the interface to book classrooms and view room occupancy/availability.
+  - https://portal.iitb.ac.in/VRP is a portal used for submitting/tracking ERP related service requests 
+
+### Resources for ERP support: 
+  - **Department storekeeper**: For any problem related to purchase and payments from institute funds.
+  - **Departmental ERP helpdesk stationed in each department**: For
+    any problem related to purchase from project funds, payment of
+    honorarium to students and finding out project balances.
+  - [helpdesk.basis@iitb.ac.in](mailto:helpdesk.basis@iitb.ac.in): For
+    ERP password not working, problems with authorization for carrying
+    out ERP transactions.
+  - [Helpdesk.hcm@iitb.ac.in](mailto:Helpdesk.hcm@iitb.ac.in): For
+    problems with leave application or any other issue on ESS portal.
+  - All services provided by ASC: [asc.help@iitb.ac.in](mailto:asc.help@iitb.ac.in).
+
+### Using SAP ERP
+ESS interfaces mostly comprise online forms. However, ERP.iitb.ac.in
+users need some amount of training for carrying out ERP purchase and
+payment transactions. Limited documentation is available on [ASC
+portal](https://ASC.iitb.ac.in). Departmental ERP helpdesk should be
+approached for additional training.
+
+**Step-1:** Make sure you have all basic requirements in place:
+  - Get LDAP ID 
+  - Apply for SAP user license.
+
+You are provided:
+  - User ID
+  - Password
+  - Purchasing group
+
+Learn:
+  - ERP fundamentals
+  - Common SAP Transaction codes
+
+**Step-2**: Familiarize yourself with important business terms and
+definitions:
+
+  - Business related: Equipment, Consumable, Asset, Purchase
+    requisition (PR), Purchase Order (PO), Request for Quotation
+    (RFQ), Goods Receipt Note (GRN), Invoice parking
+  - SAP related terms: MM, SRM, FI, HCM, WBS, Cost Center, Commitment
+    items, and sponsored class.
+  - Common SAP transaction codes: Payment to vendor/reimbursement to
+    self(FV60), Student payments(FV75), Create/release purchase
+    requisition(ME51N, ME52N, ME53N, ME54N), create/release Purchase
+    order(ME21N, ME22N, ME23N, ME29N), Goods receipt note (MIGO),
+    invoice parking (MIR7), project fund and expenditure details
+    (CJI3, S_PLN_16000269) and vendor payment reports(FBL1N). 
+	
+**Step-3**: Learn how to use above transaction screens. Read up user
+manuals available on ASC home page, take help from departmental ERP
+help cell and attend periodic training workshops conducted by ASC.
+
 ## Assessment and Promotion Policies
 
 ### Application Process
