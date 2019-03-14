@@ -738,7 +738,11 @@ Research funding could be one of the following three types
 
 ### Seed Grant
 
-IIT Bombay, through Industrial Research and Consultancy Centre (IRCC), offers seed grant to new faculty members to encourage and facilitate their research activities at the Institute. Details of this grant are as follows:
+IIT Bombay, through Industrial Research and Consultancy Centre (IRCC),
+offers seed grant to new faculty members to encourage and facilitate
+their research activities at the Institute. Details of this grant are
+as follows:
+
    1. Faculty member should request for seed grant within 6 months from the date of joining in the Institute.
    2. The duration of the seed grant project will be not more than 3 years and will be closed after that.
    3. Seed grant proposal should highlight the objectives, expected outcome, time frame, budget with appropriate justification (especially for equipment) and other relevant details. Specify the equipment proposed to be procured under the seed grant.
@@ -750,19 +754,18 @@ IIT Bombay, through Industrial Research and Consultancy Centre (IRCC), offers se
    5. An additional Rs. 13 lakhs (Rs. thirteen lakhs) will be provided, if needed, for purchase of (basic) equipment. Reallocation of this amount to other budget heads is not allowed.
    6. Faculty members needing additional funding should seek the same from the concerned Academic Unit, which could review the request and provide support from its own funds such as DDF as per its own policies / guidelines.
    7. Equipment grant may be augmented by up to Rs. 1 crore subject to the following:
-
-     a)  This augmentation is to be used exclusively to procure major equipment / facility of a specialized nature, if required for the proposed research work. It is NOT meant as a general grant to be used over time for miscellaneous EQP purchases; these should be procured out of the 13 or 20 lakhs (basic equipment + part or whole of base amount).
-     b) Faculty member must have submitted at least one research proposal to an external agency for funding. If need be, Institute will give a letter of ‘additional financial support’ to be used while seeking funding from external agencies.
-     c) Request for additional support will be evaluated by a committee consisting of the Associate Dean (R&D), Head of the Academic Unit and at least one faculty member conversant with the research topic of the faculty member seeking funding.
-     d) Faculty member must give an undertaking that the equipment will be made available to other users in the Institute. Potential users of the equipment and the extent to which the equipment will be made available to other users must be included in the proposal seeking additional funding.
-     e) Purchase of equipment with this additional amount must be initiated within 3 months of the date of approval of the grant.
-     f) Request for the augmented funds may be made anytime within the first two years of the Seed Grant project, so that the total period of Seed Grant support remains 3 years.
-     g) Annual maintenance for 3-5 years must be built into the purchase.
-     h) This augmented funds cannot be utilized to setup individual
-     high-performance computing facilities. This augmented support is meant to
-     - Supplement any shortfall in the equipment grant from external agencies
-     - Enhance capability of the equipment / facility proposed in the project
-     - Support additional accessories to the equipment funded by external agencies
+      a)  This augmentation is to be used exclusively to procure major equipment / facility of a specialized nature, if required for the proposed research work. It is NOT meant as a general grant to be used over time for miscellaneous EQP purchases; these should be procured out of the 13 or 20 lakhs (basic equipment + part or whole of base amount).
+      b) Faculty member must have submitted at least one research proposal to an external agency for funding. If need be, Institute will give a letter of ‘additional financial support’ to be used while seeking funding from external agencies.
+      c) Request for additional support will be evaluated by a committee consisting of the Associate Dean (R&D), Head of the Academic Unit and at least one faculty member conversant with the research topic of the faculty member seeking funding.
+      d) Faculty member must give an undertaking that the equipment will be made available to other users in the Institute. Potential users of the equipment and the extent to which the equipment will be made available to other users must be included in the proposal seeking additional funding.
+      e) Purchase of equipment with this additional amount must be initiated within 3 months of the date of approval of the grant.
+      f) Request for the augmented funds may be made anytime within the first two years of the Seed Grant project, so that the total period of Seed Grant support remains 3 years.
+      g) Annual maintenance for 3-5 years must be built into the purchase.
+      h) This augmented funds cannot be utilized to setup individual
+         high-performance computing facilities. This augmented support is meant to
+         - Supplement any shortfall in the equipment grant from external agencies
+		 - Enhance capability of the equipment / facility proposed in the project
+		 - Support additional accessories to the equipment funded by external agencies
 
    8. Proposals, duly complete in all respects, must be submitted online on DRONA (http://drona.ircc.iitb.ac.in). There is no need to send a hard copy of the proposal.
    9.  Completion Report: A project completion report highlighting the utilization of seed grant and the manner in which the seed grant helped the faculty to ‘seed’ his/her research must be submitted to the Dean (R&D) while closing the project. In case the faculty member received augmented EQP grants, the report should also include the following:
@@ -863,15 +866,16 @@ Currently, following IT systems are available to faculty members:
     $\rightarrow$. Helpdesks:
     [helpdesk.basis@iitb.ac.in](mailto:helpdesk.basis@iitb.ac.in) ,
     [EDP@iitb.ac.in](mailto:EDP@iitb.ac.in).
-  - Teaching and learning management is handled through the open
-    source portal (https://moodle.iitb.ac.in) which is integrated with
+  - Teaching and learning management is handled through the [Moodle open
+    source portal](https://moodle.iitb.ac.in) which is integrated with
     ERP servers. Helpdesk: [moodle.help@iitb.ac.in](mailto:moodle.help@iitb.ac.in).
 
 The following services for specific activities managed by ASC are available through LDAP login:
-  - https://support.iitb.ac.in is the complaints ticketing portal for maintenance related services.
-  - https://surveys.iitb.ac.in is a self-service portal used for creating your own surveys and content sharing pages.
-  - https://portal.iitb.ac.in/IRBS is the interface to book classrooms and view room occupancy/availability.
-  - https://portal.iitb.ac.in/VRP is a portal used for submitting/tracking ERP related service requests
+
+ - [https://support.iitb.ac.in](https://support.iitb.ac.in) is the complaints ticketing portal for maintenance related services.
+ - [https://surveys.iitb.ac.in](https://surveys.iitb.ac.in) is a self-service portal used for creating your own surveys and content sharing pages.
+ - [https://portal.iitb.ac.in/IRBS](https://portal.iitb.ac.in/IRBS) is the interface to book classrooms and view room occupancy/availability.
+ - [https://portal.iitb.ac.in/VRP](https://portal.iitb.ac.in/VRP) is a portal used for submitting/tracking ERP related service requests
 
 ### Resources for ERP support:
   - **Department storekeeper**: For any problem related to purchase and payments from institute funds.
