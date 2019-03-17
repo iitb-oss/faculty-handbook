@@ -2057,17 +2057,18 @@ When you receive your salary slip, you will find some deductions as well. The pr
    cumbersome, it is actually fairly straightforward. There are some
    minor problems, which a more experienced colleague of yours will be
    able to help out with. You will need to complete a one-time
-   registration process at http://www.incometaxindiaefiling.gov.in
-   . Your PAN number will be your user-id. You can view your tax
-   credit (form 26AS) once you login (you will also be able to see it
-   at your net banking website). Download the appropriate ITR form
-   (usually, ITR-1 or ITR-2), fill up an Excel or Java based form, and
-   submit. (Though many in the Institute hate it, e-filing is smooth
-   on a Microsoft platform. The Java program works effectively as
-   well).  On successful submission of your return, the system will
-   generate an acknowledgement (called ITR-V). Take a print out of
-   this acknowledgement, sign it and send it to the address mentioned
-   in this form by ordinary post or speed post and you are done.
+   registration process at the [Income Tax e-Filing
+   website](http://www.incometaxindiaefiling.gov.in). Your PAN number
+   will be your user-id. You can view your tax credit (form 26AS) once
+   you login (you will also be able to see it at your net banking
+   website). Download the appropriate ITR form (usually, ITR-1 or
+   ITR-2), fill up an Excel or Java based form, and submit. (Though
+   many in the Institute hate it, e-filing is smooth on a Microsoft
+   platform. The Java program works effectively as well).  On
+   successful submission of your return, the system will generate an
+   acknowledgement (called ITR-V). Take a print out of this
+   acknowledgement, sign it and send it to the address mentioned in
+   this form by ordinary post or speed post and you are done.
    (Incidentally ITR-V is password protected with a long 18 digit
    password consisting of your pan number in lower case followed by
    your date of birth in ddmmyyyy format.) You can get all the
@@ -2594,6 +2595,124 @@ payable, if per diem is not claimed.  Where full hospitality is
 provided abroad by hosts, only 25% per diem, i.e. US \$28.75 is
 allowable.
 
+## Obtaining authorizations and certificates
+You might find yourself needing various kind of certificates to be
+submitted for obtaining documents, such as PAN Card from Income Tax
+Department / their authorized delegated firm, Indian Passport from
+Passport Office, Voter ID card from Election Commission etc. The
+procedure for requesting these certificates may be categorized it into
+two:
+
+  a. Where the faculty member may directly write to the concerned
+  section of Administration (AR-Admin 1/Establishment Section ) for
+  issuance of certificate. The application can be made on plain paper
+  directly to the Administration, addressed to the Registrar / Deputy
+  Registrar / Assistant Registrar: 
+
+   1. Address Proof
+   2. for obtaining Domicile certificate
+   3. Opening of Bank Account
+   4. Identity Certificate – for obtaining fresh passport (for self and spouse)
+   5. NOC – for renewal of Passport
+   6. NOC – for children above 18 years
+   7. Tatkal passport (for self and dependent)
+   8. For obtaining Ration Card
+   9. For obtaining PAN Card
+   10. For obtaining Housing Loan from Bank
+   11. LIC Policy
+   12. KG School Admission for grandchildren – Children should be in the Service record. 
+      (On roll and Retired employees) 	
+   13. KV School Admission for grandchildren – Children should be in the Service record. 
+      (On roll and Retired employees)
+   14. Senior Citizen		
+   15. Octroi exemption
+   16. Other purpose
+
+  b. Where the faculty member may directly write to the concerned
+  section of Administration (AR-Admin). In these cases, the
+  application should be addressed to the Dean (Faculty Affairs), and
+  forwarded on plain paper through Head:
+
+   1. NOC - for test / interview
+   2. NOC - for VISA ( for attending conference)
+   3. NOC - for VISA (Personal visit): should also apply through ERP Portal
+   4. Experience Certificate after resignation or termination: If
+      resignation / termination letter is forwarded through proper
+      channel and all closing formalities are completed, a formal
+      request letter from applicant is enough.
+   5. Vigilance Certificate: Request should be forwarded through HoD 
+
+## General Financial Rules
+The General Financial Rules (GFR) are a set of rules to be followed in
+the government department for incurring expenditure and payment of
+public money. These are detailed in the [Department of Expenditure
+(Ministry of Finance)
+webpage](https://doe.gov.in/order-circular/general-financial-rules2017-0). The
+salient features are outlined below. As a faculty member at IIT
+Bombay, it would be useful to be cognisant of these as you get into
+receiving and spending money, particularly from government sources,
+for your research programme, or for department/institute purposes.
+
+
+As per GFR 2017, all money received by or on behalf of the government
+either as dues of government or for deposits, remittances or otherwise
+shall be brought into government account without delay. 
+
+They stipulate that no authority may incur any expenditure or enter
+into any liability involving expenditure or transfer of money or
+investment or deposit from public fund unless the same has been
+sanctioned by competent authority. Any expenditure incurred for any
+kind of activity (like conference expenditure, training expenditure,
+purchase, Leave Travel Concession, medical bills etc.) only to be
+incurred with the prior approval of the competent authority. Financial
+power of the Institute has been delegated to various Institute
+functionaries with the approval of the BoG. The approval to that
+effect is basically obtained accordingly as delegated by BoG.
+
+They address budget formulation and implementation; including how the
+budget is presented to Parliament and finally comes to the user
+department (including IITB).
+
+The GFR describe how to purchase goods (items), the different modes of
+purchase like Single Tender Enquiry, Limited Tender Enquiry &
+Advertised Tender Enquiry procurement, along with local purchase
+committee based on market survey. 
+	
+The GFR prescribe how to purchase high value plant, machinery etc. of
+a complex and technical nature under two bids systems i.e. technical
+bid and financial bid it’s also talk about vendor registration, rate
+contract, contents of biding document, Earnest Money Deposit, and
+performance guarantee. It emphasises transparency, competition,
+fairness and elimination of arbitrariness in the procurement process
+to attract the best bidder. The Code of Integrity while pursuing
+procurement process is defined, which seeks to make the public
+procurement system efficient, economical and accountable.
+
+GFR 2017 also describes Works, Grants-in-aid and Loans apart from
+Inventory Management and Contract Management. Works mean new
+construction, site preparation, additions and alterations to existing
+works, special repairs to newly purchase or previously abandoned
+buildings or structures including remodelling or replacement. At IITB,
+these are done by the office of the Dean IPS. So the various Do’s and
+Don’ts for "Works" are given in GFR 2017 under "Works" head.
+
+Inventory Management contains the basic rules applicable to all
+Ministry or Departments regarding inventory Management. This addresses
+receipt of goods and materials from Private suppliers, issue of goods
+within Department/Institutes, Buffer Stock, Physical Verification of
+Assets and Library books, Disposal of goods etc. They may be be viewed
+under “Inventory Management” section of the GFR-2017.
+
+Contract Management talks about the general principles of a contract
+and its terms. These are outlined below.
+
+1. Implementation of the contract should be strictly monitored and notices issued promptly whenever a breach of provisions occurs. 
+
+2. Proper procedure for safe custody and monitoring of Bank Guarantees or other Instruments should be laid down. Monitoring should include a monthly review of all Bank Guarantees or other instruments expiring after three months, along with a review of the progress of supply or work. Extensions of Bank Guarantees or other instruments, where warranted, should be sought immediately. 
+
+3. Wherever disputes arise during  implementation of a contract, legal advice should be sought before initiating action to refer the dispute to conciliation and/or arbitration as provided in the contract or to file a suit where the contract does not include an arbitration clause. The draft of the plaint for arbitration should be got vetted by obtaining legal and financial advice. Documents to be filed in the matter of resolution of dispute, if any, should be carefully scrutinized before filing to safeguard government interest. 
+
+
 # Leave and Vacation
 During the period of service, an employee is eligible for various
 forms of leave. Technically, no leave is a matter of right and has to
@@ -2728,7 +2847,48 @@ For reimbursement, separate forms for OPD (inclusive of cost of medicine purchas
 The Institute has two schemes to take care of your and your spouse's medical requirements after retirement. Both the schemes are contributory.
 
 1. _Contributory Medical Scheme (CMS):_ The scheme entitles you and your spouse to avail of OPD treatment in the IIT Hospital. You have to pay a one time Rs. 8000/- to join the scheme. All OPD facilities of the IIT Hospital (consultancy, diagnostic tests etc.) can be availed by employee and his/her spouse. Medicines available at the Pharmacy are also given to CMS members without charge. However, no indoor hospitalization is possible and no reimbursement of any kind is provided.
-2. _Post-Retirement Medical Scheme (PRMS):_ The scheme has been introduced to take care of hospitalization needs of the employee and spouse. Employee has to pay a net contribution of Rs. 36,000/- (payable over a maximum 240 installments during the service from salary) to join the scheme. Hospitalization expense in a very large number of hospitals in the country can be reimbursed up to a maximum cumulative limit of Rs. 10 Lakhs for both spouses combined. No medical advance is available under the scheme nor any provision for direct payment to the hospitals exist. The employee has to bear the expenses first and claim for reimbursement from the Institute.  (Joining this scheme is compulsory for all employees who join(ed) the Institute on or after 1st July, 2003).
+2. _Post-Retirement Medical Scheme (PRMS):_ Under this scheme, there are two types of medical benefits provided to IITB employees. These are:
+ a) In-service medical benefits
+ b) Out-service medical benefits
+
+In-service medical benefits are those given to Institute employee
+during their active service at the Institute. Here, the Institute
+employee, if eligible, can take the facility of the Institute Hospital
+for various purposes as available & further can be referred to
+Institute empanelled hospital on the recommendation of the CMO/MO/SMO,
+wherein the expenditure incurred is reimbursed as per Institute
+rules. More details are available here: LINK HERE.
+	
+Out-service medical benefits afforded after retirement comprise the
+Post-Retirement Medical Scheme. Further, there are two types of scheme
+for retirees.
+
+ a. Old PRMS
+ b. New PRMS
+
+The Old PRMS is for those who retired prior to 11-Mar-2015. Those who
+join/joined the Institute’s service on or after that date are/shall be
+governed by New PRMS which is/will be a part of the service condition
+on joining the Institute.
+
+Therefore, all those who were on roll of the Institute on 11th march,
+2015, as permanent employees were entitled to join the scheme on
+exercising an option in this regard within three months of adoption of
+the scheme by the Board of governors, whereas for those who join the
+Institute / confirmed after that date the scheme is mandatory. 
+
+Under this scheme, a monthly subscription is to be paid by all the
+members of the scheme based on their pay scales to avail the benefits
+of this scheme post retirement. To summarise, it is a cover of medical
+treatment on hospitalization up to a limit. It does not cover
+out-patient expenses, only expenses on admission to a (empanelled)
+hospital. A maximum of 50% of the eligible cover can be availed as
+claim in the first 5 years after retirement from the Institute.
+
+
+The amount of contribution, Sum Assured, how the Sum Assured grows
+with time, Recognised Hospitals, and so on, are detailed in [this
+webpage](https://www.iitb.ac.in/en/about-iitbombay/new-post-retirement-medical-scheme-2015-onwards).
 
 # Retirement Benefits
 While this chapter was originally written primarily for faculty who joined the Institute before 2004 (or who joined later, but with transfer of previous services rendered in Govt or Institutions like IITs), suitable additions/provisions which apply to faculty who joined on or after 1st January, 2004 (National Pension Scheme) have now been incorporated.
