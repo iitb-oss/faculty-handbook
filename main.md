@@ -669,6 +669,123 @@ The three main areas in which faculty members contribute to the Institute are Te
 
 It is possible, as one grows into one's career and gets into the positions of an Associate Professor and Professor, that these profiles may change somewhat: teaching may become easier, one may get more involved with departmental and Institute's administration, etc.  The Institute therefore recognizes that these weightages may change  at these levels, at the choice of the faculty member.
 
+The different responsibilities are listed below:
+
+1. **Regular faculty**:
+   - *Appointment details*: Full time permanent appointment including professors (these are made through a selection committee or through invitation by BOG).
+   - *R&D activities*:
+     - Eligible for one time seed grant, can take up all R&D Projects which includes consultancy
+	 - Can promote companies in SINE
+	 - Can be Director of companies as per Institute norms
+   - *Academic activities*: Can guide students, and participate in all academic activities of the institute.
+   - *Administration related activities*: Any admin work as delegated by Institute/department from time to time.
+
+2. **Assistant Professor (Grade-1)**:
+   - *Appointment details*: Equivalent to regular faculty; appointed thus because they are short of the 3-year post-PhD experience required for appointment as regular Asst Prof; likely to be regularized when this requirement is met.
+   - *R&D activities*:
+     - Eligible for one time seed grant, can take up all R&D Projects which includes consultancy.
+	 - Can promote companies in SINE.
+ 	 - Can be Director of companies as per Institute norms.
+   - *Academic activities*: Can guide students, and participate in all academic activities of the institute.
+   - *Administration related activities*: Any admin work as delegated by Institute/department from time to time.
+
+3. **On contract (on scale) and Distinguished Professor**:
+   - *Appointment details*: Appointed (through a recommendation by Institute Standing Committee for faculty appointment) for specific duration and may/may not be considered for regularisation (includes faculty on exchange from other IITs).
+   - *R&D activities*: Same as #1, except that
+	 - They are not eligible for Seed Grant
+	 - They may be PIs, but a Co-PI who has to give a declaration that
+       he/she will take responsibility of the project deliverables is mandatory.
+   - *Academic activities*: Can be Guides, but with a mandatory Co-Guide, depending on the duration of the appointment; Co-guide has to give declaration to take responsibility of the students.
+   - *Administration related activities*:
+     - Cannot be members of any statutory committees or of any
+       department committees appointed by the Director (such as DPC,
+       DUGC, DPGC, Search committees, etc.).
+	 - Will have to hand over lab space to HoD (applicable only to IITB faculty).
+
+4. **Emeritus Fellow (on contract but not on scale)**:
+   - *Appointment details*: Appointment of retired faculty for a period of two-three years. Not to be treated as regular faculty. (The terms of appointment will be included in their appointment letter)
+   - *R&D activities*: Same as #3
+   - *Academic activities*: Same as #3. In addition, they will be invited to the senate.
+   - *Administration related activities*: Same as #3.
+
+5. **Emeritus Professor**:
+   - *Appointment details*: Honorary Position given to faculty for their contribution to the institute. Only titular appointments.
+   - *R&D activities*:
+      - May be only mentors for R&D projects and not Investigators.
+	  - Could be taken as external consultants in projects undertaken by other regular faculty.
+   - *Academic activities*:
+     - Cannot be Guides/ Co-Guides for students.
+     - Cannot be members of RPC.
+     - Can be external Co-guies, subject to prior approval of Dean (AP).
+   - *Administration related activities*: No administrative activities allowed.
+
+6. **Emeritus Scientist**:
+   - *Appointment details*: Retired professionals carrying out
+     specific R&D projects funded by government agencies, at the
+     Institute (Institute’s offer will be for a visiting honorary
+     position, based on a recommendation by the standing Institute
+     Standing Committee but the salary/fellowship will come from the
+     project/scheme).
+   - *R&D activities*:
+     - Will be able to operate only their projects.
+     - All such applications will need to be routed through Dean (FA).
+     - IRCC will implement the project as per norms.
+     - Not eligible to submit new projects through IRCC.
+     - No RDF accrual from overheads, only to IRCC and to DDF.
+   - *Academic activities*: Same as #5.
+   - *Administration related activities*: Same as #5.
+
+7. **Visiting Faculty**:
+   - *Appointment details*: Visit the Institute for a duration ranging from a few weeks to three years on a continued basis: such faculty would have a permanent position elsewhere in academia, industry or other organizations.
+Visit the Institute on a part time basis, generally for teaching (up to four days a week).
+   - *R&D activities*:
+      - Cannot be Pls or Co-PIs.
+	  - No financial/administrative powers in projects.
+	  - Can participate only in technical activities of Sponsored projects
+	 - May be retained as external consultant in consultancy projects as per norms.
+	 -  No faculty fee allowed in projects other than through the external consultant mode.
+   - *Academic activities*:
+     - Can be Co-Guides for M.Tech / M.Sc students based on duration of association.
+     - Can be external co-guides for PhD students.
+     - Cannot be members of RPCs.
+   - *Administration related activities*: No administrative activities allowed.
+
+8. **Adjunct Faculty**:
+   - *Appointment details*: Visit the Institute on a part time basis, generally for teaching (up to four days a week).
+   - *R&D activities*:
+      - Can be associated only as an  Investigator and only in Sponsored research projects.
+      - May be retained as external consultant in projects, as per norms.
+      - No faculty fee allowed in projects other than through the external consultant mode.
+   - *Academic activities*: Same as #7.
+   - *Administration related activities*: Same as #7.
+
+9. **Non-faculty Project PIs**:
+   - *Appointment details*:
+     - Temporary research personnel who would like to carry out GoI
+       funded projects at the Institute e.g.: Women Scientist, Fast
+       Track, Ramanujam, Solar science fellowships, INSPIRE, etc.
+	 - Honorary appointment to be made by Institute based on the
+       recommendation of the Institute Standing Committee; the salary
+       will be paid from the projects as applicable.
+   - *R&D activities*: Project proposals will be routed to the Head of
+     the Academic Unit as for review / approval and forwarding by
+     Institute [even though appointment is through Dean (FA)]. IRCC
+     will be responsible only for implementation of these projects.
+   - *Academic activities*: None.
+   - *Administration related activities*: As assigned by the HoD.
+
+10. **Retired Faculty (less than two years from superannuation)**:
+   - *Appointment details*: Regular Faculty who are nearing superannuation
+   - *R&D activities*: Same as #3 except the mandatory Co-PI requirement may be waived depending upon the duration of the project.
+   - *Academic activities*: Same as #3.
+   - *Administration related activities*: Same as #1.
+
+11. **Any other designation/ category**:
+   - *Appointment details*: Appointment will be as per the approval of the Director.
+   - *R&D activities*: All terms will be approved by Director.
+   - *Academic activities*: All terms will be approved by Director.
+   - *Administration related activities*: All terms will be approved by Director.
+
 <!---
 The Board of Governors has approved a proposal, based on the above considerations, to implement a process of Annual self assessment for all faculty, beginning 2014. The Institute Faculty Affairs Committee (IFAC), an advisory body to the Dean (FA), has finalized the templates for carrying out this assessment, and the details are available on Dean (FA)'s webpage http://internal.iitb.ac.in/imcwork/faculty/ (also linked from the Institute's main webpage, under 'Internal links').
 --->
@@ -681,6 +798,12 @@ The Board of Governors has approved a proposal, based on the above consideration
 <!-- [^performance]: The performance criteria are fairly clearly spelt out (see the Dean(FA)'s webpage), and it is expected in the course of two to three years that the performance criteria get linked to the annual self-asessments mentioned above. -->
 
 ## Academic Rules
+As a faculty member, the academic responsibilities include: (i)
+teaching existing courses (ii) starting new courses (iii) evaluating
+student performance in courses (iv) supervising research performed by
+students at various levels, and, (v) evaluating research performed by
+students (supervised by oneself, or colleagues).
+
 As a core activity (along with research), teaching involves delivery
 of courses (and performance of associated activities such as
 evaluation) as part of the Institute’s academic programmes. The rules
@@ -721,7 +844,6 @@ conversion can also be on an absolute basis, for example if the
 student strength is very small for a course). These and other details
 are available on the [Academic office webpage](http://www.iitb.ac.in/acad/index.html).
 
-
 Instructors are expected to make known the evaluation methodology at
 the beginning of the course, and also make available the corrected
 answer scripts for every assignment, quiz or examination (including
@@ -729,6 +851,37 @@ the end-semester exam) for the students’ inspection. The instructor
 gets a feedback on the effectiveness of her teaching through a system
 of on-line course evaluation by students, which happens at the end of
 the teaching semester.
+
+### PhD supervision
+Apart from teaching and instructing courses, you are also expected to do fair amount of supervision at UG/PG and PhD level. While basic rules for guidance varies across departments, the PhD supervision entails certain basic criteria.
+
+1. Only full time faculty are entitled to undertake PhD supervision.
+2. At any given time, the number of Institute research scholars (TAs
+   and/or RAs) working   with under your supervision  shall   not
+   exceed   FIVE.  The   DPGC/PGC   of  the academic   unit   can
+   decide   on   the   total   number   of   research   students   of
+   all categories working with him/her.
+
+3. As a supervisor, you are expected to supervise the student till satisfactory results are achieved.
+4. A supervisor must keep a check that the students being supervised deliver the Annual Progress Seminar (APS) every twelve months after joining the program. The APS report must contain information describing the research that has been performed in the completed year and submit it to the Research Program Committee. The student must then deliver an open seminar in which all interested members of the department are free to attend, where he/she will be examined by the RPC. The objective of the seminar is to provide feedback about the research completed by the student in the past year and provide suggestions for continuing and refining his/her research. With the progress of a student's PhD, the work presented is expected to evolve from a thorough understanding of fundamental concepts and reported literature to an in-depth solution to a novel research problem. The RPC lays emphasis on publications in reputed international journals, and also encourages the student to present his/her work in international conferences and workshops.
+5. You can also serve as co-supervisor if any student chooses to do
+   so.
+6. If you are going on long leave, such as lien/sabbatical
+   leave/special leave etc., you must propose an alternate arrangement
+   to carry out academic activities of the student under his/her
+   supervision.
+
+   a) Whenever a Supervisor leaves the Institute permanently or temporarily for a period greater than or equal to one year, the DPGCs/IDPCs/PGCs shall provide new supervisor(s) for the students being supervised by him/ her  before his/her departure.
+   b) Whenever a Supervisor leaves the Institute temporarily for a period less than   one   year,   the   DPGCs/IDPCs/PGC   shall   make   an   alternate arrangement for the guidance of his/her students.
+   c) The   DPGC/   IDPC/   PGC   may   consider   continuation   of   the   original Supervisor on his/her return to the Institute, as Co-­Supervisor of his/her students depending on the period for which he/she has supervised the Ph.D. Programmes of the students concerned.
+   d) Any such arrangements made shall be forwarded to PGAPEC for prior  approval.
+7. Change of supervisor is generally not advised and should be sought
+   as a last resort. Under   exceptional circumstances if a student
+   chooses to terminate the relationship then it will only be
+   permitted on recommendation of the DPGC/IDPC/PGCA. Every effort
+   should be made to allow a fair transition for both the faculty and
+   the concerned student.
+
 
 ## Research Funding
 Research funding could be one of the following three types
@@ -849,7 +1002,7 @@ Currently, following IT systems are available to faculty members:
     salary, staff assessment and various HR actions. This portal is
     currently undergoing enhancements. When fully deployed, the portal
     shall allow 40 different actions including 'application and
-    settlement' of advances, loans, CPDA, LTC, TA and IR-ITTP
+    settlement' of advances, loans, CPDA, LTC, TA and IR-ITPP
     payments. The EP portal requires allocation of user license as
     well as a SAP user ID which is same as your employee code. Online
     application form is available on ASC portal for requesting new SAP
@@ -1512,7 +1665,7 @@ limits:
 ### Applying and Approval for undertaking Consultancy Projects
 Once a consultancy project request is directed to PI the following steps are to be followed:
 
- 1. A PI needs to login to the Drona system using his own LDAP
+ 1. A PI needs to login to the Drona system using his own [LDAP](http://shodh.ircc.iitb.ac.in/ircc)
     (Lightweight Directory Access Protocol) Login name and Password.
 
  2. The Project request directed to you are visible as 'Consultancy
@@ -1525,7 +1678,7 @@ Once a consultancy project request is directed to PI the following steps are to 
     the "Apply" button on the bottom of the screen
 
  5. There are two categories of consultancy projects, viz Testing and
-    Expertise, for Cost Estimate Form Click here.
+    Expertise. For Cost Estimate Form, click as appropriate.
 
  6. When the project application is made, it is forwarded to the
     deptartment HOD for approval. The PI can see the status of his
