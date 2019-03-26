@@ -41,7 +41,7 @@ administration when the need arises.
 
 Prof. A. K. Suresh (Dean, Faculty Affairs)
 
-# History
+# The Institute
 The Indian Institutes of Technology (IITs) were established on the recommendation of a Committee headed by Sir Nalini Ranjan Sarkar, a businessman, educationist, industrialist and public figure. The Committee had recommended the establishment of institutes of national importance to be set up in different regions of India. The first of the IITs was set up in Kharagpur (whose other claim to fame is having the longest railway platform in the world) in the state of West Bengal in 1950 at a site in Hijli village which used to be a British-era detention camp. The vision of establishing these Institutes is best stated in the words of India's first Prime Minister Pt. Jawaharlal Nehru in his convocation speech at the Institute:
 
 ![Nehru](Nehru.jpg){width=200px}
@@ -320,7 +320,7 @@ in the Report of the Committee for Review of the Academic Bodies
 (which has come to be known as the CRAB committee report) in 1972
 (detailed guidelines in respect of DPC were formulated in 2011).
 
-# When You Are New
+# When You Join
 Welcome to I.I.T. Bombay's faculty fraternity! The Institute promises
 you interesting times ahead. Setting up home and workplace might
 appear to be a tough proposition at first, particularly if you are
@@ -638,7 +638,8 @@ from the service of the Institute by giving a three months' notice
 after having served the Institute for a minimum period of 20
 years. Voluntary retirement is discussed in a later section (LINK HERE).
 
-# Salary, Allowances and Other Benefits
+# Rules & Regulations
+## Rules for salary, allowances etc.
 Your salary is paid directly to your bank account on the last day of
 the month. The _Financial Year_ for tax purposes is from April 1st of
 a given year to March 31st of the following year. The income tax uses
@@ -654,7 +655,7 @@ internal website of the Institute http://ep.iitb.ac.in .
     financial year is 2018-19, while the assessment year for this
     period would be 2019-20.
 
-## Components of salary
+### Components of salary
 The salary that you get has several components.
 
 1. _Pay Level:_ Since many readers are likely to be familiar with the
@@ -775,7 +776,7 @@ In addition, the following scales are applicable as appropriate to faculty:
 
 [^danote]: Currently (from July 2011), the Dearness Allowance is 90% of basic pay. The next increase in the Dearness allowance will be from Jan 2014.
 
-## Annual Increment
+### Annual Increment
 Every year employees are given an increment in their salary. The pay
 in the pay band increases to an amount that is the next cell in the
 Pay Matrix (corresponding to an approximately 3% increase in salary).
@@ -814,7 +815,7 @@ increment is given from the day when the employee rejoins the duty.
 
 Table:  7th Commission Pay Matrix
 
-## Deductions
+### Deductions
 When you receive your salary slip, you will find some deductions as well. The primary deductions are:
 
 1. _Income Tax:_ Income tax rates are as per finance bill passed by
@@ -863,7 +864,7 @@ When you receive your salary slip, you will find some deductions as well. The pr
 
 4. License Fee and utility charges for your quarter in the campus.
 
-## Travel Entitlement Rules
+### Travel Entitlement Rules
 
 While you travel on duty, your TA/DA entitlement is governed by your
 salary level.  At the time of writing, that is given by the pay levels
@@ -928,7 +929,7 @@ Director are payable, if per diem is not claimed.  Where full
 hospitality is provided abroad by hosts, only 25% per diem, i.e. 28.75
 USD is allowed.
 
-## Leave Travel Concession (LTC)
+### Leave Travel Concession (LTC)
 Once every two years, you are eligible for a paid travel to your home
 town. For the purpose of LTC, block years are defined for two years
 starting January 1st of an even year (e.g. 2012) to December 31st of
@@ -945,7 +946,7 @@ India (including home town) in the other two-year block. The four-year
 block also has a grace period of one year, i.e. the 2010-13 block must
 be utilized (i.e. outward journey commenced) before 31.12.2014.
 
-### Eligibility
+#### Eligibility
 You must have had one year service in the block to be eligible for LTC
 in the block, i.e. those appointed up to 31.12.12 are eligible for LTC
 in the block year 2012-13 but those appointed after this day are not
@@ -963,7 +964,7 @@ parents. If you take LTC for spouse under your LTC entitlement, he/she
 cannot independently claim LTC for self. Each spouse can declare
 separate ``Home Town" and take LTC for their respective hometowns.
 
-### Special provision for New Appointees
+#### Special provision for New Appointees
 
 Fresh appointees are eligible for LTC once every year for two blocks
 of four years each. This means that during the first eight years of
@@ -975,7 +976,7 @@ the block 2012-2013. In the next block, i.e. 2014-2017 (s)he can avail
 three home towns and one anywhere in India and so on till (s)he
 completes eight years of service.)
 
-### Encashment of Leave for LTC
+#### Encashment of Leave for LTC
 Normally, Government employees cannot encash their accumulated earned
 leave excepting at the time of retirement. However, at the time of
 taking LTC an employee is permitted to encash up to 10 days of
@@ -987,7 +988,7 @@ for the purpose of LTC will not have any bearing on the maximum number
 of days (300) for which earned leave can be cashed at the time of
 retirement.
 
-### Travel Eligibility
+#### Travel Eligibility
 The employee and all dependents are eligible to travel by
 air[^airindia].  if the AGP of the employee is Rs. 5400/- and
 above. They are also eligible to travel by AC-First Class if traveling
@@ -1016,7 +1017,7 @@ same logic, at IITB, faculty members are strongly advised to travel
 only by economy class irrespective of eligibility, even when on
 official travel.
 
-### LTC Advance
+#### LTC Advance
 90% of the estimated cost of journey can be taken as an advance, only
 where the journey is expected to be completed by all persons
 travelling (including the return journey) within 90 days of taking the
@@ -1037,7 +1038,7 @@ prior intimation (with the destination specified) to
 administration. Submit the final LTC claim as soon as the return
 journey is completed.
 
-## Telephone Expense Reimbursement
+### Telephone Expense Reimbursement
 
 A faculty member is entitled to reimbursement of telephone (landline
 at home and/or mobile connection) expenses up to Rs. 18,000/-
@@ -1057,7 +1058,7 @@ customary to submit consolidated claim either annually or
 semi-annually. As it is a reimbursement, no tax liability is due on
 this amount.
 
-## Children's Education Allowance
+### Children's Education Allowance
 Expense incurred in putting up to two children through school (from
 nursery to twelfth class) can be reimbursed subject to an annual
 ceiling of Rs. 15,000. Allowed expenses which can be claimed under this
@@ -1069,7 +1070,7 @@ rate of Rs. 3750 per quarter or for the full amount in the last quarter
 of the financial year. The quantum of reimbursement for disabled
 children is twice this amount.
 
-## Family Planning Allowance
+### Family Planning Allowance
 If an employee or the spouse has undergone a sterilization operation
 (subject to some conditions) and have no more than two surviving
 children, he/she will be eligible for a special allowance which varies
@@ -1568,6 +1569,75 @@ A faculty member may request for keeping lien on his/her post for accepting a jo
 3. The employee should continue to pay his/her own contribution to CPF/GPF during the period of lien. Such contribution should be remitted to the Institute every month or before 31st March of every financial year.
 4. The employee has to pay the leave salary contribution. When an employee pays the leave salary contribution, the Institute leave account of the employee is credited or debited when the employee takes leave in his host organization. The leave salary contribution to be paid is roughly 11% of the pay drawn from the host organization (or the pay that the employee would have drawn, had he/she not gone on lien.) The payment of leave salary contribution may be waived by the Director on request in which case the leave account of the employee remains frozen during period of lien.
 5. Keeping your Accommodation during Lien: The institute generally permits a faculty member to retain the quarter allotted for a period of one year only during the lien period. The license fee payable during this period will be the same as the employee normally pays. The Director may permit a faculty to keep the quarter during the second year of lien, but on an enhanced license fee which is four times the normal license fee. The employee has to arrange to pay the bills received from the Estate Office towards license fee and other utility charges every month.
+
+## Ethics and Code of Conduct
+As a faculty member of a premier Institute of the country, you are always under public scrutiny. It is necessary to maintain a high degree of decorum and integrity at all times. Clearly, it is not possible to give a complete list of what is acceptable and what is not. This section, therefore, deals only with such items as we believe you should be well informed about.
+
+### Matters of general conduct
+
+1. _Dealing with the Press:_ Much as we like to see our name in print, the only place where your printed name can freely appear without raising eyebrows (or may be raising eyebrows in an agreeable way!) is in a professional journal. You do not need to take any permission to send a technical manuscript for publication. If what you are writing or talking about is of literary, artistic or scientific value only, you may even write to newspapers or periodicals. However, talking to the press (this includes all forms of interaction with print and electronic media) on any other matter  should generally be avoided, and left to functionaries in the main building. If you would like to express your views on an issue, you need to take the Director's permission. If you want to have a press coverage of your published scientific article, you need to contact PRO after taking permission from the Director.
+2. Joining a political party or canvassing in an election is banned. (You can, of course, contest an election in a professional body.)
+3. Criticism of the Institute in any mass media (print or electronic) is not permitted. (To give vent to your frustration if any, the Computer Centre of the institute has provided a discussion group called the 'discuss-faculty' where you can write and engage your colleagues in a debate on matters about which you feel strongly. This newsgroup is not moderated but it is good to use restrained language).
+3. _Redressal of Grievances:_ Redressal of Grievances: If you have a grievance, try to sort it out by meeting the concerned Dean, the Deputy Director or the Director. If you would like to make a written representation, the first course is the Director. If his response leaves you dissatisfied, you may make representation to the Chairman of the Board. Such representation should be through the Director. In extreme cases, you may take your grievance to the Visitor (who is the President of India). However, in all cases, you should go through what is known as proper channel, i.e., route all your representation through HOD, Director and the Chairman, in that order. The forwarding authority does not have the right to stop your representation being forwarded upwards excepting in circumstances such as (i) a similar petition made earlier has been disposed of and no new facts are brought out in the new petition, (ii) your representation is not to the appropriate authority, or (iii) the petition is against a decision which is final by any law or statute. In such cases, the appropriate authority will write you a reply explaining the reasons why your petition may not be forwarded.
+4. You may, of course, seek to redress grievances in a court of law without any permission. However, it is in good taste to first exhaust all possibilities of finding a solution to  your problems within the internal framework as stated above.
+
+### Sexual Harassment and Gender Cell
+
+(This section is primarily meant for male faculty. Indian law only
+recognizes the possibility of male perpetrators and female victims of
+sexual harassment. IIT Bombay policy is broader in that it also
+recognizes the possibility of male victims belonging to sexual
+minorities.)
+
+As a teacher you would interact with a lot of female
+students. Likewise, you would interact with female colleagues and
+other staff. In many cases, you would have a supervisory role in the
+interaction. Your behaviour in all such interactions must be
+impeccable. Please remember that they have a right to a place of work
+or study where they do not face sexual harassment in any form - and
+you have a responsibility to provide it.  The Supreme Court of India
+defines sexual harassment as unwelcome sexual behaviour, whether
+directly or by implication, such as through:
+
+ - physical contact and advances
+ - demand or request for sexual favours
+ - sexually colored remarks (this includes colored jokes in a mixed
+   company, or a class room, or even within hearing distance of a
+   female member of the community)
+ - showing pornography
+ - any other unwelcome physical, verbal or non-verbal conduct of sexual nature.
+
+Except where an act amounts to a specified offence under the Indian
+Penal Code (which then has to be dealt with by the Police under
+applicable law), a victim of sexual harassment (or one who perceives
+sexual harassment to oneself) may lodge a complaint to the Director,
+Deputy Director or to the Dean (FA). Students can take their complaint
+to the Dean (SA).
+
+Any employee or student can approach the Gender Cell (earlier called
+the Women’s Cell) constituted by the Institute, either for advice or
+for redress. The Gender Cell investigates sexual harassment complaints
+through its Internal Complaints Committee. An inquiry by the Gender
+Cell has the status of an official inquiry under the Civil Service
+Rules, and employees have to co-operate with the Cell in its
+investigations. More details about the Gender Cell may be found
+[here](http://www.gendercell.iitb.ac.in/); links to the IITB policy
+document, the Sexual Harassment at the Workplace Act, and a government
+handbook on sexual harassment, are given
+[here](http://www.gendercell.iitb.ac.in/en/internal/internal-complaints-committee).
+
+
+### Plagiarism
+Being an Institute of excellence, the Institute takes a very serious view of any act of plagiarism. While the penal codes are silent on it, there are guidelines issued by National Academies on what constitutes plagiarism. In technical publications, all joint authors are responsible equally for any offence of plagiarism. Punishment can be severe, including termination of service.
+
+### Consultancy ethics
+Private consultancy is a serious breach of the code of conduct. Similarly, you should not take up remunerative assignments outside the Institute without explicit permission from the Institute. You may not, however, accept assignments in a Tutorial organization either as a consultant or for direct teaching.
+
+
+## Right to Information
+In 2005, the Indian Parliament enacted a legislation known as the _Right to Information (RTI) Act_, which empowers a citizen to get any information from the Government or from any publicly funded institution. Exceptions are few and an educational institute does not qualify for exemption. This requires faculty members to be extra careful. For instance, any one can ask for the marking scheme adopted while awarding grades or, for that matter, a copy of the mark sheets of all students in a course. A query from the Institute's Public Information Officer[^pio]  must be answered within a stipulated time limit. Details of RTI is available on IITB's website. (Incidentally, you can also take advantage of this act to elicit information from the Institute functionaries if you have not succeeded in doing so by gentle persuasion!)
+
+[^pio]: Currently, Dr. Indu Saxena, Deputy Registrar (Administration)
 
 # The Institute's Hopes and Expectations
 For most faculty members joining this Institute, this will be the
@@ -2667,150 +2737,94 @@ The Institute encourages you to capitalize on your research findings which have 
 
 [^sine]: Details of the vision and mission, as well as the rules and procedures for incubating a company under SINE are available at http://www.sineiitb.org/
 
+# Benefits
 
-## Schooling at IIT Bombay
+## Housing
+TODO
 
-There are three schools on the campus for children: Kendriya Vidyalaya, Campus School, and KG School; plus a full-fledged child care (day care) and play school, Sishu Vihar. The Campus School also has a kindergarten school for children above the age of three. For younger kids there is a private creche (Sishu Vihar, temporarily located at the time of writing in bungalow A-5 in the Lakeside area of Campus near the Main Gate), and run by an NGO.
+The institute has undergone significant expansion and increase in
+number of students over last decade and a half. The increase in
+student numbers has lead to a commensurate increase in the number of
+faculty members on the campus. Thus, the present dwelling numbers on
+the campus are insufficient. Though, new constructions are underway,
+there is expected to be shortage of housing on campus. In most cases,
+the new faculty may take up an on-campus housing flatlets like the
+Staff Hostel, Vihar House and CSRE D Types. But, occasionally, some
+faculty may want a “proper apartment” owing to family constraints or
+due to non-availability of the flatlets. In such situations, some may
+opt for off-campus housing. These off-campus housing once identified
+and allotted are treated as an extension of the IITB housing. There
+are several considerations to be done when scouting for an
+apartment. The guide lists a few points to be considered when
+considering off-campus housing.
 
-### Kendriya Vidyalaya (Central School) IIT Powai
-This is part of the Kendriya Vidyalaya Sanghatan (KVS) network and is usually ranked among the top government day (i.e. not boarding) schools in India. It has classes I through XII, and is affiliated to the Central Board of Secondary Education (CBSE). Most of the seats here are reserved for the children of IIT employees; with a small fraction reserved for other Central Government organizations. You might have some anxious moments before your child gets admission, but eventually it works out, in almost all cases. In case of exceptional difficulty in getting admission into the Kendriya Vidyalaya, our Director, who is ex-officio the Chairman of the Vidyalaya Management Committee can help out by exercising their discretionary quota. There is also a Professor-in-Charge who you may contact for helpful advice in case of difficulty. More details about KV IIT Bombay may be found on [its webpage](http://www.kviitmumbai.com/English-Homepage).
+The institute provides Guest House to the new faculty member
+immediately after they join for a period of 30 days. The guest house
+charges are applicable and have to be borne by the faculty if this
+initial period of 30 days is exceeded. It is thus recommended that a
+search for off-campus housing be initiated as soon as the joining
+formalities are completed.
 
+As a first step towards availing off-campus housing one needs to
+identify a suitable apartment. The identification of the apartment
+could be done personally with the help of an agent or by consulting
+websites that offer such solutions. The office of Associate Dean-2
+Infrastructure and Planning (IPS) may be consulted and requested to
+offer help for searching and to identify estate agents that can
+facilitate this search. A list of previously rented or apartments
+newly offered on rent may be already be available with the Office of
+Associate Dean IPS-2. It is advised to check for availability of such
+list with the Associate Dean IPS-2 and its Office.
 
-### Campus School and Jr. College
-The IIT Campus School and Jr. College has classes I through XII, and is affiliated to the Maharashtra State Board. It is exclusively for the children of IIT employees. Here, the IITB Director is the Chairman of the School Council, and IIT faculty serve as Associate Chairman and Conveners of Administrative and Academic policy. More details about the Campus School are available [here](http://www.iitcampusschoolmumbai.in/).
+An off-campus rented apartment requires consideration of the amount of
+rent, brokerage, escalation clause, and issues related to maintenance
+and movement charges. The institute has evolved a policy on the amount
+of rent that can be paid. The decisions regarding the amount of rent,
+brokerage, and escalation clause are usually handled by the Associate
+Dean IPS-2 and its Office. It is recommended to consult the Associate
+Dean IPS-2 and its Office with respect to this, in some cases even
+before the search process is initiated. It is recommended that initial
+negotiated rent is limited to within the stipulated amount. The terms
+and issues regarding the escalation are handled by the Associate Dean
+IPS-2’s office. The maintenance and movement charges are usually
+expected to be borne by the faculty. 
 
-### KG School
-The Kindergarten (KG) School comprising two classes (Lower KG and Upper KG) and two shifts, is for children from three to five years of age. Details of Admissions, Facilities, etc. about the KG School may be found [here](http://home.iitb.ac.in/~kgschool/index.html).
+The contract or the lease agreement is drawn with IIT Bombay as the
+party and the letter of allotment is then issued by the Accommodation
+Allotment Committee (AAC). The duration of the lease should be
+noticed, since, it may be possible that these rented premises may have
+to occupied for an extended period of time. After moving to the
+apartment the usual day to day maintenance are expected to be handled
+by the individual. It has to be pointed out that there is uncertainty
+and degree of arbitrariness to the entire process due to the
+involvement of external agencies and it is recommended to patiently
+wade through the process.
 
+The institute has rules and regulations regarding allotment and
+entitlement of housing to faculty and staff of the institute. The
+details of these can be found on the Dean IPS website. The off-campus
+housing is treated as transit accommodation provided by IITB. Thus,
+availing the off-campus housing does not affect the entitlement or the
+seniority of the faculty within the ambit of the defined rules. The
+rented premises may have to vacated due to several reasons with the
+happy one being movement to campus. In the event of expiry of the
+lease and/or notice to vacate due to certain situation, the entire
+process may have to be repeated.
 
-### Shishu Vihar Child Care Centre
-Shishu Vihar is a not-for-profit child care centre, managed by an association of parents, catering primarily to the child care needs of working parents in IIT Bombay. The Shishu Vihar Management Committee (SVMC) is body of IITB Official Representatives and elected member parents. SVMC is responsible for the overall policy, human resources, and financial management of the centre.
-
-SV has a group of people with backgrounds in education, psychology, special needs, child development, early childhood education, and curriculum development. Their education and experience not only enable themselves to understand the needs of children but also inspires them to choose healthy and effective practices in child care.
-
-At the time of writing, Shishu Vihar is located in bungalow A-5 in the Lakeside area of Campus near the Main Gate; the following are its time slots and programs.
-
-
-Slots                                    Hours      Timing
----------------------------------------  ---------  ------------------
-Morning Slot (MS)                        5 hours    8:15 AM to 1:15 PM
-Afternoon Slot (AF)                      5 hours    1:15 PM to 6:15 PM
-3/4 Day Slot (Lower KG School Children)  7.5 hours
-Full Day Slot (FD)                       10 hours   8:15 AM to 6:15 PM
-
-------------------------------------------------------------------------------------
-Programs              Eligibility             Description
---------------------  ---------------------   --------------------------------------
-Toddler Program (MS)  18 months               A planned program where
-                                              toddlers are stimulated
-                                              through music, rhymes, books and toys.
-
-Play Group (MS)       2 years                 A structured program
-                                              that focuses on Sensory,
-                                              Language and
-											  Social Development. Children
-                                              are motivated to learn
-                                              and explore through
-											  play.
-
-Junior Club (MS)      3 years                 A systematic program
-                                              that uses reasoning,
-                                              math and language skills
-                                              to facilitate thematic
-                                              learning among children.
-
-Day Care (FD/AS)      18 months to 12 years   Children are exposed to
-                                              various activities such
-                                              as art & craft, music,
-                                              storytelling etc. Indoor
-                                              and outdoor play is
-                                              strongly encouraged.
-------------------------------------------------------------------------------------
-
-Some more details about Shishu Vihar may be found [here](https://www.facebook.com/pg/Sishu-Vihar-441328895915841/about/).
-
-# Ethics and Code of Conduct
-As a faculty member of a premier Institute of the country, you are always under public scrutiny. It is necessary to maintain a high degree of decorum and integrity at all times. Clearly, it is not possible to give a complete list of what is acceptable and what is not. This section, therefore, deals only with such items as we believe you should be well informed about.
-
-## Matters of general conduct
-
-1. _Dealing with the Press:_ Much as we like to see our name in print, the only place where your printed name can freely appear without raising eyebrows (or may be raising eyebrows in an agreeable way!) is in a professional journal. You do not need to take any permission to send a technical manuscript for publication. If what you are writing or talking about is of literary, artistic or scientific value only, you may even write to newspapers or periodicals. However, talking to the press (this includes all forms of interaction with print and electronic media) on any other matter  should generally be avoided, and left to functionaries in the main building. If you would like to express your views on an issue, you need to take the Director's permission. If you want to have a press coverage of your published scientific article, you need to contact PRO after taking permission from the Director.
-2. Joining a political party or canvassing in an election is banned. (You can, of course, contest an election in a professional body.)
-3. Criticism of the Institute in any mass media (print or electronic) is not permitted. (To give vent to your frustration if any, the Computer Centre of the institute has provided a discussion group called the 'discuss-faculty' where you can write and engage your colleagues in a debate on matters about which you feel strongly. This newsgroup is not moderated but it is good to use restrained language).
-3. _Redressal of Grievances:_ Redressal of Grievances: If you have a grievance, try to sort it out by meeting the concerned Dean, the Deputy Director or the Director. If you would like to make a written representation, the first course is the Director. If his response leaves you dissatisfied, you may make representation to the Chairman of the Board. Such representation should be through the Director. In extreme cases, you may take your grievance to the Visitor (who is the President of India). However, in all cases, you should go through what is known as proper channel, i.e., route all your representation through HOD, Director and the Chairman, in that order. The forwarding authority does not have the right to stop your representation being forwarded upwards excepting in circumstances such as (i) a similar petition made earlier has been disposed of and no new facts are brought out in the new petition, (ii) your representation is not to the appropriate authority, or (iii) the petition is against a decision which is final by any law or statute. In such cases, the appropriate authority will write you a reply explaining the reasons why your petition may not be forwarded.
-4. You may, of course, seek to redress grievances in a court of law without any permission. However, it is in good taste to first exhaust all possibilities of finding a solution to  your problems within the internal framework as stated above.
-
-## Sexual Harassment and Gender Cell
-
-(This section is primarily meant for male faculty. Indian law only
-recognizes the possibility of male perpetrators and female victims of
-sexual harassment. IIT Bombay policy is broader in that it also
-recognizes the possibility of male victims belonging to sexual
-minorities.)
-
-As a teacher you would interact with a lot of female
-students. Likewise, you would interact with female colleagues and
-other staff. In many cases, you would have a supervisory role in the
-interaction. Your behaviour in all such interactions must be
-impeccable. Please remember that they have a right to a place of work
-or study where they do not face sexual harassment in any form - and
-you have a responsibility to provide it.  The Supreme Court of India
-defines sexual harassment as unwelcome sexual behaviour, whether
-directly or by implication, such as through:
-
- - physical contact and advances
- - demand or request for sexual favours
- - sexually colored remarks (this includes colored jokes in a mixed
-   company, or a class room, or even within hearing distance of a
-   female member of the community)
- - showing pornography
- - any other unwelcome physical, verbal or non-verbal conduct of sexual nature.
-
-Except where an act amounts to a specified offence under the Indian
-Penal Code (which then has to be dealt with by the Police under
-applicable law), a victim of sexual harassment (or one who perceives
-sexual harassment to oneself) may lodge a complaint to the Director,
-Deputy Director or to the Dean (FA). Students can take their complaint
-to the Dean (SA).
-
-Any employee or student can approach the Gender Cell (earlier called
-the Women’s Cell) constituted by the Institute, either for advice or
-for redress. The Gender Cell investigates sexual harassment complaints
-through its Internal Complaints Committee. An inquiry by the Gender
-Cell has the status of an official inquiry under the Civil Service
-Rules, and employees have to co-operate with the Cell in its
-investigations. More details about the Gender Cell may be found
-[here](http://www.gendercell.iitb.ac.in/); links to the IITB policy
-document, the Sexual Harassment at the Workplace Act, and a government
-handbook on sexual harassment, are given
-[here](http://www.gendercell.iitb.ac.in/en/internal/internal-complaints-committee).
-
-
-## Plagiarism
-Being an Institute of excellence, the Institute takes a very serious view of any act of plagiarism. While the penal codes are silent on it, there are guidelines issued by National Academies on what constitutes plagiarism. In technical publications, all joint authors are responsible equally for any offence of plagiarism. Punishment can be severe, including termination of service.
-
-## Consultancy ethics
-Private consultancy is a serious breach of the code of conduct. Similarly, you should not take up remunerative assignments outside the Institute without explicit permission from the Institute. You may not, however, accept assignments in a Tutorial organization either as a consultant or for direct teaching.
-
-# Right to Information
-In 2005, the Indian Parliament enacted a legislation known as the _Right to Information (RTI) Act_, which empowers a citizen to get any information from the Government or from any publicly funded institution. Exceptions are few and an educational institute does not qualify for exemption. This requires faculty members to be extra careful. For instance, any one can ask for the marking scheme adopted while awarding grades or, for that matter, a copy of the mark sheets of all students in a course. A query from the Institute's Public Information Officer[^pio]  must be answered within a stipulated time limit. Details of RTI is available on IITB's website. (Incidentally, you can also take advantage of this act to elicit information from the Institute functionaries if you have not succeeded in doing so by gentle persuasion!)
-
-[^pio]: Currently, Dr. Indu Saxena, Deputy Registrar (Administration)
-
-# Medical Facilities
+## Medical Facilities
 During the period of service, a staff member and his dependents (the term _dependent_ is clearly defined in the Service Rules, see Chapter 3) are provided medical facilities at the IIT Hospital, and whenever required, at various hospitals in the city which are empanelled by the Institute. Medical facility for employee and spouse is also available after retirement on a contributory basis (see the section on PRMS below).
 
-## IIT Hospital
+### IIT Hospital
 The Institute has a reasonably well-equipped Hospital with both in-patient and out-patient facilities. In addition to several full time doctors, there are several visiting specialists who attend the Hospital on certain days and are available for consultation. The Hospital also provides for dental care as well as for homoeopathic medicine. Basic diagnostic facilities are provided at the Institute Hospital. These include pathology, X-Rays, Sonography, ECG etc. The Hospital also has a physiotherapy section. The Hospital administration is headed by a Chief Medical Officer (CMO)[^cmo]. A Committee known as the "Hosptial and Health Advisory Committee (HHAC)" headed by a Professor of the Institute acts as a general policy watchdog for the Hospital and related issues[^hhacchair]. This Committee reviews Hospital policies from time to time and recommends measures that need to be taken to improve Hospital services. All major reimbursement claims are also recommended for approval by this committee.
 
 [^cmo]: Currently, Dr. Nisha Shah.
 
 [^hhacchair]: The current Chairperson of the Health Advisory committee is Prof. Rinti Banerjee from the Department of BioScience and BioEngineering.
 
-## Your medical file
+### Your medical file
 The Hospital maintains a family file for every employee, which is available in the outer office. For an outpatient (OPD) consultation, the file has to be presented at the Hospital reception, who will print out a blank prescription slip. Before your face becomes familiar with the Hospital staff, you may be asked for your identity card, which also spells out your medical entitlement. Please do not take offence on such request.  The slip along with the file is to be taken to the doctor who you wish to see. Each visit to the doctor costs you _one rupee_ which is directly debited from the salary.
 
-## Healthcare
+### Healthcare
 For regular medical officers (doctors) of the Hospital, there is no system of taking appointment. For visiting specialists, one has to take an appointment. Some of the specialists will only give appointment when recommended by a regular medical officer. For scheduling an appointment, you have to contact the reception.
 
 Any medicine prescribed by the doctor on duty can be obtained from the Pharmacy attached to the Hospital. If a prescribed medicine is not available, one has to take a separate prescription for the same to purchase it from the market. The Institute reimburses the cost of medicines purchased from outside which could not be supplied from the Institute Pharmacy. Similarly, cost of consultation, pathological or radiological investigations carried out outside the IIT Hospital on recommendation of the Institute doctors are also reimbursable.  In some cases, only 80% of the cost is reimbursable. There are some fine prints to reimbursement rules (for instance, cost of spectacles or contact  lenses or the cost of dental treatment in an outside clinic or hospital etc. are not reimbursable even when recommended by a medical officer of the  Hospital). See the Hospital website http://www.iitb.ac.in/hospital/ for details.
@@ -2890,16 +2904,78 @@ The amount of contribution, Sum Assured, how the Sum Assured grows
 with time, Recognised Hospitals, and so on, are detailed in [this
 webpage](https://www.iitb.ac.in/en/about-iitbombay/new-post-retirement-medical-scheme-2015-onwards).
 
-# Retirement Benefits
+## Schooling at IIT Bombay
+
+There are three schools on the campus for children: Kendriya Vidyalaya, Campus School, and KG School; plus a full-fledged child care (day care) and play school, Sishu Vihar. The Campus School also has a kindergarten school for children above the age of three. For younger kids there is a private creche (Sishu Vihar, temporarily located at the time of writing in bungalow A-5 in the Lakeside area of Campus near the Main Gate), and run by an NGO.
+
+### Kendriya Vidyalaya (Central School) IIT Powai
+This is part of the Kendriya Vidyalaya Sanghatan (KVS) network and is usually ranked among the top government day (i.e. not boarding) schools in India. It has classes I through XII, and is affiliated to the Central Board of Secondary Education (CBSE). Most of the seats here are reserved for the children of IIT employees; with a small fraction reserved for other Central Government organizations. You might have some anxious moments before your child gets admission, but eventually it works out, in almost all cases. In case of exceptional difficulty in getting admission into the Kendriya Vidyalaya, our Director, who is ex-officio the Chairman of the Vidyalaya Management Committee can help out by exercising their discretionary quota. There is also a Professor-in-Charge who you may contact for helpful advice in case of difficulty. More details about KV IIT Bombay may be found on [its webpage](http://www.kviitmumbai.com/English-Homepage).
+
+
+### Campus School and Jr. College
+The IIT Campus School and Jr. College has classes I through XII, and is affiliated to the Maharashtra State Board. It is exclusively for the children of IIT employees. Here, the IITB Director is the Chairman of the School Council, and IIT faculty serve as Associate Chairman and Conveners of Administrative and Academic policy. More details about the Campus School are available [here](http://www.iitcampusschoolmumbai.in/).
+
+### KG School
+The Kindergarten (KG) School comprising two classes (Lower KG and Upper KG) and two shifts, is for children from three to five years of age. Details of Admissions, Facilities, etc. about the KG School may be found [here](http://home.iitb.ac.in/~kgschool/index.html).
+
+
+### Shishu Vihar Child Care Centre
+Shishu Vihar is a not-for-profit child care centre, managed by an association of parents, catering primarily to the child care needs of working parents in IIT Bombay. The Shishu Vihar Management Committee (SVMC) is body of IITB Official Representatives and elected member parents. SVMC is responsible for the overall policy, human resources, and financial management of the centre.
+
+SV has a group of people with backgrounds in education, psychology, special needs, child development, early childhood education, and curriculum development. Their education and experience not only enable themselves to understand the needs of children but also inspires them to choose healthy and effective practices in child care.
+
+At the time of writing, Shishu Vihar is located in bungalow A-5 in the Lakeside area of Campus near the Main Gate; the following are its time slots and programs.
+
+
+Slots                                    Hours      Timing
+---------------------------------------  ---------  ------------------
+Morning Slot (MS)                        5 hours    8:15 AM to 1:15 PM
+Afternoon Slot (AF)                      5 hours    1:15 PM to 6:15 PM
+3/4 Day Slot (Lower KG School Children)  7.5 hours
+Full Day Slot (FD)                       10 hours   8:15 AM to 6:15 PM
+
+------------------------------------------------------------------------------------
+Programs              Eligibility             Description
+--------------------  ---------------------   --------------------------------------
+Toddler Program (MS)  18 months               A planned program where
+                                              toddlers are stimulated
+                                              through music, rhymes, books and toys.
+
+Play Group (MS)       2 years                 A structured program
+                                              that focuses on Sensory,
+                                              Language and
+											  Social Development. Children
+                                              are motivated to learn
+                                              and explore through
+											  play.
+
+Junior Club (MS)      3 years                 A systematic program
+                                              that uses reasoning,
+                                              math and language skills
+                                              to facilitate thematic
+                                              learning among children.
+
+Day Care (FD/AS)      18 months to 12 years   Children are exposed to
+                                              various activities such
+                                              as art & craft, music,
+                                              storytelling etc. Indoor
+                                              and outdoor play is
+                                              strongly encouraged.
+------------------------------------------------------------------------------------
+
+Some more details about Shishu Vihar may be found [here](https://www.facebook.com/pg/Sishu-Vihar-441328895915841/about/).
+
+
+## Retirement Benefits
 While this chapter was originally written primarily for faculty who joined the Institute before 2004 (or who joined later, but with transfer of previous services rendered in Govt or Institutions like IITs), suitable additions/provisions which apply to faculty who joined on or after 1st January, 2004 (National Pension Scheme) have now been incorporated.
 
-## Pension, Gratuity, Commutation of Pension etc.
+### Pension, Gratuity, Commutation of Pension etc.
 What happens after you have served out your active life with the Institute? Most look at the period of retirement with a certain amount of anxiety because they anticipate a sharp drop in income. It is, therefore, prudent to do some planning reasonably early in life, certainly by the time you are approaching 50.
 
-## Superannuation
+### Superannuation
 This is the term used for official termination of your regular appointment. It happens on the last day of the month in which you complete 65 years of age, if your birthday is from 2nd$ to the last day of the month and on the last day of the preceding month if your birthday is the first day of the month. Usually, the Director offers you a cup of tea and hands over a few retirement cheques on this day.
 
-## Re-employment
+### Re-employment
 Faculty members are usually reappointed till the last day of June
 (i.e., end of the academic year) in the year they complete 65, based
 on a recommendation from the department. (Further extensions are
@@ -2915,7 +2991,7 @@ re-employment. As per Govt. of India rules, you will continue to be
 eligible for LTC provided there is no break between the regular
 appointment and the re-employment.
 
-## Retirement schemes
+### Retirement schemes
 For those who joined the Institute before 2004, there were two retirement schemes to choose from (unfortunately, of late the ministry is not allowing a change of option), _viz._ Contributory Provident Fund-cum-gratuity Scheme (CPF) and General Provident Fund-cum-Pension-cum-gratuity Scheme (GPF). The salient features of these schemes are as follows.
 
 1. _GPF:_ If you have chosen this scheme, you are eligible to draw a pension throughout your remaining life at a rate to be shown below. Further, after your death, your spouse will be eligible for a _family pension_ too.
@@ -3021,7 +3097,7 @@ For those who joined the Institute before 2004, there were two retirement scheme
 
 [^commutation]: The factor reduces if you make the offer later, becoming 7.431,7.262, 7.083 and 6.897 if the age on your next birthday at the time of making the offer is respectively 67,68, 69 and 70. The factor for a person whose age next birthday is 65 is 7.731.
 
-## Encashment of Leave at the time of Superannuation
+### Encashment of Leave at the time of Superannuation
 A maximum 300 days of earned leave may be accumulated by an
 employee. All unutilized earned leave up to this maximum duration is
 encashable at the time of superannuation. In case the amount of earned
@@ -3046,7 +3122,7 @@ is 20 years
 All faculty members who have entered service before attaining the age of 35 years have the option of retiring after attaining the age of 50 years.
 --->
 
-## National Pension Scheme (for those who joined the service on or after 1.1.2004)
+### National Pension Scheme (for those who joined the service on or after 1.1.2004)
 The [National Pension Scheme
 (NPS)](https://enps.nsdl.com/eNPS/NationalPensionSystem.html) is
 applicable for all employees who joined the Institute on or after
@@ -3087,7 +3163,7 @@ already have an NPS account in the past (government, private, or
 any citizen of India modes) can get their account transferred by
 filling the appropriate forms and handing it to the administration.
 
-### Benefits and restrictions
+#### Benefits and restrictions
 The NPS is portable, which means that the account can move with you as
 you move jobs. The key benefit is that the corpus that accrues in the
 Tier-1 account can be used to obtain income and benefits when you
