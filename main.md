@@ -638,7 +638,938 @@ from the service of the Institute by giving a three months' notice
 after having served the Institute for a minimum period of 20
 years. Voluntary retirement is discussed in a later section (LINK HERE).
 
-# Overall responsibilities
+# Salary, Allowances and Other Benefits
+Your salary is paid directly to your bank account on the last day of
+the month. The _Financial Year_ for tax purposes is from April 1st of
+a given year to March 31st of the following year. The income tax uses
+_assessment year_ for submission of Income Tax Returns, which is the
+financial year in which the return is filed[^taxyear]. The salary is
+made available to every employee around the end of the month in their
+SAP login, and it provides showing details of earnings and deductions
+and the net pay that will be paid to the bank account of the
+employee. The salary slip of every employee is uploaded in the
+internal website of the Institute http://ep.iitb.ac.in .
+
+[^taxyear]: As an example, at the time of writing (February 2019), the
+    financial year is 2018-19, while the assessment year for this
+    period would be 2019-20.
+
+## Components of salary
+The salary that you get has several components.
+
+1. _Pay Level:_ Since many readers are likely to be familiar with the
+   provisions of the 6th Pay Commission, and new readers are likely to
+   join directly under 7th Pay Commission rules, we outline the pay
+   scales with reference to the 7th Pay Commission.
+
+   What used to be the _Band Pay and Academic Grade Pay (AGP)_ in the
+   6th Pay Commission has been replaced, after implementation of the
+   7th pay commission's provisions, by an amount defined by a _Pay
+   Level_. The position to which you are appointed (or move to after
+   selection to a higher post) defines the salary. All Government
+   servants in India are placed in one of these _pay levels_.  Faculty
+   members in Institutes such as IITs are placed in one of the
+   following pay levels:
+
+   - *Pay Level 10*: Salary range 57,000 to Rs. 98,200 (without D.A.)
+   - *Pay Level 11*: Salary range Rs. 68,900 to Rs. 117,200 (without D.A.)
+   - *Pay Level 12*: Salary range Rs. 101,500 to Rs. 167,400 (without D.A.)
+   - *Pay Level 13A1*: Salary range Rs. 131,400 to Rs. 204,700 (without D.A.)
+   - *Pay Level 13A2*: Salary range Rs. 139,600 to Rs. 211,300 (without D.A.)
+   - *Pay Level 14A*: Salary range Rs. 144,200 to Rs. 211,800 (without D.A.)
+   - *Pay Level 15*: Salary range Rs. 182,200 to Rs. 224,100 (without D.A.)
+
+   Your salary within the pay band is fixed at the time of your
+   appointment and increases every year by an _increment_, as defined
+   in the 7th Pay Commission Pay Matrix. The various cadres, processes
+   for selections, and salary scales (i.e., Pay Levels as listed
+   above) for the faculty are as follows. Note that they are
+   automatically moved to the higher levels as they gain experience
+   through their career.
+
+   - _Assistant Professor:_ Assistant Professors fall into the
+     following levels, based on their experience:
+	 - _0 to 1 year of post-PhD experience (contractual basis):_ Pay Level 10
+	 - _1 to 3 years of post-PhD experience (contractual basis):_ Pay Level 11
+	 - _3 years or more of post-PhD experience:_ Pay Level 12
+	 - _After 3 years in Pay Level 12_: Pay Level 13A1
+
+	 If you have joined IIT after having served for some time as
+	 Assistant Professor in another IIT or a central University or
+	 NIT, your previous experience will be counted for movement to
+	 PB4.
+
+	 As mentioned earlier, selected candidates with less than the
+	 requisite experience as specified in the advertisement may be
+	 taken as _Assistant Professor (Contractual basis)_ in Pay Level
+	 10 or 11 (the selection committees can give one or two increments
+	 over and above this, based on the credentials and experience of
+	 the candidate)[^gradeexample]. While, technically,
+	 appointment to this position does not automatically imply
+	 ultimate absorption in the IIT, we have adopted a system of
+	 internal assessment as explained in section 3 of Chapter 2 for
+	 regularization of such positions.
+
+   - _Associate Professor:_  Pay Level 13A2
+
+   - _Professor:_ Pay Level 14A
+
+The Institute website (see 'Recruitment' link) carries the minimum eligibility criteria for all the above positions.
+
+[^gradeexample]: Thus, a fresh PhD will be appointed in Pay Level 10,
+  which will be upgraded to Pay Level 11 after 1
+  year of experience. Candidates with more than a year's experience
+  will be directly placed at an AGP Pay Level 11.
+
+In addition, the following scales are applicable as appropriate to faculty:
+
+1. _Professor (HAG Scale):_ From August 18, 2009, a senior cadre of
+   Professors has been created. This scale pay for this cadre is known
+   as HAG (Higher Administrative Grade, the name being a carry-over
+   from administrative services for which the scale was in existence
+   earlier). The minimum eligibility for this scale is six years of
+   service as a Professor. A maximum of 40% of the total number of
+   Professors can be placed in this scale. The corresponding Pay Level
+   is 15, and the salary range is from Rs. 182,000 to 224,100.
+
+2. _Institute and Endowed Chairs for faculty:_ As a means of
+   recognizing outstanding performance, the Institute has several
+   Chairs. While most of these are at the Professor's level (about 50
+   in the Institute), there are a few at other levels also.  Funding
+   for several of these comes from endowments, and is managed by the
+   Dean (ACR)'s office, which also takes an active role in raising
+   funds for further chairs. The selection to these chairs is carried
+   out by Dean (FA). Each chair is given for a period of 3 years, and
+   the chair is re-advertised at the end of that period. Faculty who
+   hold chairs receive some financial and academic perks in addition
+   to their salaries. Details are available on the Dean (FA)'s webpage.
+
+3. _Dearness Allowance:_ A component termed as Dearness Allowance to
+   take care of rising prices due to inflation is also a part of your
+   pay packet. The rate of Dearness Allowance is revised by the
+   Government every January and July based on consumer price indices,
+   the rate hike has been typically 3% to 10% on the last few
+   occasions[^danote].
+
+4. _House Rent Allowance (HRA):_ If you do not stay in
+   Institute-provided accommodation, you will also receive House Rent
+   Allowance (HRA) which is 30% of your basic pay. The allowance is
+   payable even when you stay in an accommodation owned by
+   you. (Interestingly, if both spouses are employees of the
+   Institute, both can claim HRA if the accommodation is rented or is
+   owned. However, if the spouse has a Government accommodation, HRA
+   cannot be claimed by either). HRA is taxable. If, however, you live
+   in a rented accommodation, the HRA that you receive may be fully or
+   partially exempt from income tax. The amount of exemption that can
+   be claimed is the least amount out of the following three: (i) the
+   HRA received, (ii) rent that you actually paid over and above 10%
+   of your basic pay and (iii) 50% of your basic salary.
+
+5. _Transport Allowance:_ All employees, irrespective of whether they
+   live within the campus or commute from outside, are eligible to
+   receive a transport allowance. For those in the faculty cadre, the
+   rate of transport allowance is Rs. 3,200 per month. In addition, the
+   Dearness Allowance at prevailing rate is payable on this amount as
+   well. (Note: The transport allowance payable to the blind or
+   orthopedically handicapped employees is double this rate).
+
+[^danote]: Currently (from July 2011), the Dearness Allowance is 90% of basic pay. The next increase in the Dearness allowance will be from Jan 2014.
+
+## Annual Increment
+Every year employees are given an increment in their salary. The pay
+in the pay band increases to an amount that is the next cell in the
+Pay Matrix (corresponding to an approximately 3% increase in salary).
+The yearly increment is given from the first day of January or July of
+every year. However, the first increment can be availed only after
+completing six months in a given pay. This means that, if you are
+appointed between July and 1st January, (of the following year), you
+are eligible for an increment in the following July but if the date of
+appointment is between 2nd January to June, you will get the first
+increment in January of the following year.  If the employee is on
+leave, other than casual leave, on the first day of July, the
+increment is given from the day when the employee rejoins the duty.
+
+*Level $\rightarrow$*     10      11       12       13A1     13A2      14      14A      15
+----------              ------- -------- -------- -------- -------- -------- -------- --------
+*Cell $\downarrow$*
+   1                    57700   68900    101500   131400   139600   144200   159100   182200
+   2                    59400   71000    104500   135300   143800   148500   163900   187700
+   3                    61200   73100    107600   139400   148100   153000   168800   193300
+   4                    63000   75300    110800   143600   152500   157600   173900   199100
+   5                    64900   77600    114100   147900   157100   162300   179100   205100
+   6                    66800   79900    117500   152300   161800   167200   184500   211300
+   7                    68800   82300    121000   156900   166700   172200   190000   217600
+   8                    70900   84800    124600   161600   171700   177400   195700   224100
+   9                    73000   87300    128300   166400   176900   182700   201600
+   10                   75200   89900    132100   171400   182200   188200   207600
+   11                   77500   92600    136100   176500   187700   193800   213800
+   12                   79800   95400    140200   181800   193300   199600   220200
+   13                   82200   98300    144400   187300   199100   205600
+   14                   84700   101200   148700   192900   205100   211800
+   15                   87200   104200   153200   198700   211300
+   16                   89800   107300   157800   204700
+   17                   92500   110500   162500
+   18                   95300   113800   167400
+   19                   98200   117200
+
+Table:  7th Commission Pay Matrix
+
+## Deductions
+When you receive your salary slip, you will find some deductions as well. The primary deductions are:
+
+1. _Income Tax:_ Income tax rates are as per finance bill passed by
+   the Parliament every year. It is possible to minimize your tax
+   liability through some tax shelters. Almost every Department has a
+   local expert on such matters for advising you on this. Filing an
+   income tax return every year is compulsory. Unless the last date is
+   extended, returns have to be filed by 31st July following the
+   financial year for which the return is being filed. From the
+   assessment year 2013-14 e-filing of your income tax return is
+   mandatory. While initially you may find the process a bit
+   cumbersome, it is actually fairly straightforward. There are some
+   minor problems, which a more experienced colleague of yours will be
+   able to help out with. You will need to complete a one-time
+   registration process at the [Income Tax e-Filing
+   website](http://www.incometaxindiaefiling.gov.in). Your PAN number
+   will be your user-id. You can view your tax credit (form 26AS) once
+   you login (you will also be able to see it at your net banking
+   website). Download the appropriate ITR form (usually, ITR-1 or
+   ITR-2), fill up an Excel or Java based form, and submit. (Though
+   many in the Institute hate it, e-filing is smooth on a Microsoft
+   platform. The Java program works effectively as well).  On
+   successful submission of your return, the system will generate an
+   acknowledgement (called ITR-V). Take a print out of this
+   acknowledgement, sign it and send it to the address mentioned in
+   this form by ordinary post or speed post and you are done.
+   (Incidentally ITR-V is password protected with a long 18 digit
+   password consisting of your pan number in lower case followed by
+   your date of birth in ddmmyyyy format.) You can get all the
+   necessary information from the Income Tax Department website
+   http://incometaxindia.gov.in .
+
+   From the financial year (2011-12), you are not required to file
+   your return if your taxable income does not exceed Rs. 5 Lakhs and
+   your income from interests from bank deposits does not exceed Rs.
+   10,000 during the financial year. However, in such a case you must
+   inform the Accounts Section of the Institute, of details of income
+   from bank deposits. Note that if you have income from sources other
+   than from the Institute and the bank deposits, or if you are
+   expecting a refund of income tax, you have to file a return.
+
+
+2. _Profession Tax:_ Currently Rs. 2,500/- per year.
+
+3. Contribution to CPF/GPF/NPS.
+
+4. License Fee and utility charges for your quarter in the campus.
+
+## Travel Entitlement Rules
+
+While you travel on duty, your TA/DA entitlement is governed by your
+salary level.  At the time of writing, that is given by the pay levels
+as defined by the 7th Pay Commission (P.C.). Most of what is given in
+this section corresponds to the 6th P.C. because the details of the
+entitlements under the 7th P.C. are not completely available yet. They
+will be updated here as they become available. Until then, please ask
+the Dean FA office if you have questions.
+
+According to 6th P.C. rules, all Professors (including those on HAG
+scale) are entitled to travel by business class while traveling by air
+– unless austerity measures are in force (please ask Dean FA!). All
+other faculty members are entitled to travel in Economy class (with
+7th Pay Commission rules, it is not clear whether this also applies to
+Assistant Professors in Grade-II; please ask Dean FA). Currently, if
+you are using Government funds (this includes CPDA and government
+ministry-funded projects), then in most cases you have to travel by
+Air India (AI) only. Please note that this applies even if AI is a
+more expensive option; timing, however, might be a viable reason. The
+procedure for seeking permission to fly non-AI is given on [this
+government
+website](https://mhrd.gov.in/delegation-power-financial-advisor-accord-exemption-air-travel-airlines-other-air-india-individual
+). In practice, it is usually less onerous, especially so for domestic
+work-related (not LTC) travel. Please be guided by the Dean FA on
+this.
+
+In any event, please remember to submit your TA bill along with
+boarding passes and e-ticket copy  (please contact Accounts section
+for business class international travel).
+
+For road travel: if you travel by your own car or unmetered taxi (in
+places where metered taxies are not available), you could claim up to
+Rs 16/- per kilometre.
+
+Under the 6th P.C., there is no daily allowance for domestic
+travel. Instead, the reimbursement will be on actuals supported by
+bills and payment proof thereof (e.g. credit card receipt or account
+statement). For this purpose, Professors (including those on HAG
+scale) will be eligible for reimbursement for hotel
+accommodation/guest house for an amount up to 5000 INR per day;
+reimbursement of AC taxi up to 50 km for local travel and
+reimbursement of food bills not exceeding 500 INR per day. The rates
+for other faculty are 3000 INR for Hotel, non-AC taxi up to 50 km, and
+Rs 300/- for food bill (with 7th Pay Commission rules, it is not clear
+whether this also applies to Assistant Professors in Grade-II; please
+ask Dean FA).
+
+However, one had the option of being governed by the 5th P.C. rules
+for calculation of daily allowance. Such an option could be exercised
+for the entire duration of a given tour and not for parts of a
+tour. In such a case, all faculty will be eligible to draw daily
+allowance appropriate to pre-revised scale of Rs 16,400/- and
+above. This is only useful when you would like to claim a daily
+allowance without submitting detailed expenditure receipts.
+
+For International Conferences and for faculty members visiting  abroad
+on Institute's work, a per diem of 115 USD is payable. In addition,
+hotel expenses at actuals subject to a maximum of 135 USD is payable,
+supported by bills and receipts, is payable for conferences. For
+official visits, all actual expenses, as may be approved by the
+Director are payable, if per diem is not claimed.  Where full
+hospitality is provided abroad by hosts, only 25% per diem, i.e. 28.75
+USD is allowed.
+
+## Leave Travel Concession (LTC)
+Once every two years, you are eligible for a paid travel to your home
+town. For the purpose of LTC, block years are defined for two years
+starting January 1st of an even year (e.g. 2012) to December 31st of
+an odd year. If you do not avail LTC during this block year it
+generally lapses. However, it has been the practice of the Government
+to allow for a grace year, i.e. LTC for the block year 2012-13 can be
+availed (i.e. outward journey commenced) up to 31st December 2014.
+
+Two of the above blocks are combined together to define a four year
+block, e.g., the block 2010-11 and the next block 2012-13 define a
+four year block 2010-2013. In this four year block, one can take LTC
+for home town in one two-year block and another LTC to anywhere in
+India (including home town) in the other two-year block. The four-year
+block also has a grace period of one year, i.e. the 2010-13 block must
+be utilized (i.e. outward journey commenced) before 31.12.2014.
+
+### Eligibility
+You must have had one year service in the block to be eligible for LTC
+in the block, i.e. those appointed up to 31.12.12 are eligible for LTC
+in the block year 2012-13 but those appointed after this day are not
+eligible.
+
+All the declared dependents are eligible for LTC and the travel need
+not be taken up together. All return journeys must be completed within
+six months of outward journey.
+
+If both the spouses are working for the Institute, they can claim LTC
+separately only if the declared dependents are different, i.e. if the
+wife has declared her parents to be dependent on her, she can claim
+for them separately. The children can avail LTC only from one of the
+parents. If you take LTC for spouse under your LTC entitlement, he/she
+cannot independently claim LTC for self. Each spouse can declare
+separate ``Home Town" and take LTC for their respective hometowns.
+
+### Special provision for New Appointees
+
+Fresh appointees are eligible for LTC once every year for two blocks
+of four years each. This means that during the first eight years of
+service an employee can avail one LTC every year. The definition of
+the Block years remain the same. (Illustration: Suppose an employee
+joined in 2011. (S)he can take one year LTC for home town in 2012 and
+2013 or (s)he may avail one hometown and one anywhere in India LTC in
+the block 2012-2013. In the next block, i.e. 2014-2017 (s)he can avail
+three home towns and one anywhere in India and so on till (s)he
+completes eight years of service.)
+
+### Encashment of Leave for LTC
+Normally, Government employees cannot encash their accumulated earned
+leave excepting at the time of retirement. However, at the time of
+taking LTC an employee is permitted to encash up to 10 days of
+accumulated earned leave subject to the condition that such encashment
+will not exceed sixty days during the entire career of an employee. If
+both husband and wife are employees, each can encash such earned leave
+even when they are traveling together.  The encashment of earned leave
+for the purpose of LTC will not have any bearing on the maximum number
+of days (300) for which earned leave can be cashed at the time of
+retirement.
+
+### Travel Eligibility
+The employee and all dependents are eligible to travel by
+air[^airindia].  if the AGP of the employee is Rs. 5400/- and
+above. They are also eligible to travel by AC-First Class if traveling
+by train (provided the AGP is Rs. 7600 or higher). Those with AGP of
+Rs. 10,000 and above (and those who are in HAG scale) can travel in
+Business/Club class by Air while those below can only avail economy
+class[^economyclass].  Please note that no taxi or road mileage is
+admissible to reach the airport/railway station or for internal travel
+to destination except where road travel is done by buses run by
+Govt. organizations (for which you will have to produce the
+tickets). LTC rules are strictly observed and it is necessary to
+attach Xerox copies of your tickets along with your claim (In case of
+Air travel Boarding Passes must be retained and produced along with
+e-tickets; production of an e-ticket without the boarding passes is
+not acceptable as proof of travel. (For journeys which involve water
+transport, detailed rules are available which may be checked with the
+administration).
+
+[^airindia]: At present, for all official purposes, travel is
+permitted only by Air India. Waivers can only be granted (on a
+case-by-case basis, by the Ministry of Civil Aviation (MCA).
+
+[^economyclass]: As what is (hopefully a temporary) austerity measure,
+business class travel is presently suspended for LTC. Extending the
+same logic, at IITB, faculty members are strongly advised to travel
+only by economy class irrespective of eligibility, even when on
+official travel.
+
+### LTC Advance
+90% of the estimated cost of journey can be taken as an advance, only
+where the journey is expected to be completed by all persons
+travelling (including the return journey) within 90 days of taking the
+advance. In case the expected date of completion is more than 90 days,
+please draw advance only for outward journey.
+
+When LTC advance is drawn and the tickets purchased for an amount
+lower than the advance drawn, the excess amount should be refunded to
+the Institute immediately. If this is not done penal interest on the
+excess amount is charged, which cannot be waived by authorities.
+
+The employee must take formal leave for availing LTC for self. You
+cannot avail LTC using only the officially closed days. The leave can
+be even a casual leave, in which case it is convenient to enclose a
+xerox copy of your casual leave card along with the final LTC
+claim. Faculty members can avail LTC during vacation also, but with
+prior intimation (with the destination specified) to
+administration. Submit the final LTC claim as soon as the return
+journey is completed.
+
+## Telephone Expense Reimbursement
+
+A faculty member is entitled to reimbursement of telephone (landline
+at home and/or mobile connection) expenses up to Rs. 18,000/-
+(Rs. 21,600/- for a Professor) per financial year. The amount includes
+an amount of Rs. 4800/- towards internet connection at home. Since
+internet connections for all campus residence are provided by the
+Institute, the amount is accordingly reduced for campus residents. For
+those not staying on campus (including those staying in
+Institute-leased accommodation off campus) the full amount is
+available for reimbursement provided they have supporting evidence for
+internet connection at home.
+
+To claim this, telephone bills (including mobile bills and bills for
+internet charges) should be submitted to the accounts section. Though
+bills can be submitted as and when the faculty desires, it is
+customary to submit consolidated claim either annually or
+semi-annually. As it is a reimbursement, no tax liability is due on
+this amount.
+
+## Children's Education Allowance
+Expense incurred in putting up to two children through school (from
+nursery to twelfth class) can be reimbursed subject to an annual
+ceiling of Rs. 15,000. Allowed expenses which can be claimed under this
+head include tuition fee, admission fee, laboratory fee, special fee
+charged for electronics, agriculture, sports fee, Library fee, cost of
+purchase on set of text books and note books, two sets of uniforms
+(including one pair of shoes) etc. Reimbursement can be claimed at the
+rate of Rs. 3750 per quarter or for the full amount in the last quarter
+of the financial year. The quantum of reimbursement for disabled
+children is twice this amount.
+
+## Family Planning Allowance
+If an employee or the spouse has undergone a sterilization operation
+(subject to some conditions) and have no more than two surviving
+children, he/she will be eligible for a special allowance which varies
+between Rs. 800 to Rs. 1000 per month for a faculty member depending on
+the AGP of the faculty member at the time of the operation (it then
+remains unchanged for the entire service).
+
+## Cumulative Professional Development Allowance (CPDA)
+An allowance of INR 3 Lakhs for a block of three years is provided to
+the faculty members (including for those appointed on contractual
+basis). The money can be utilised on reimbursement basis for paying
+the membership fee of various professional bodies, books and
+contingent expenses. The amount though intended majorly for
+international conferences, can be spent for national conferences in
+case department is unable to support. It is to be noted that CPDA
+cannot be utilised by the faculty when he is under any extraordinary
+leave.
+
+### Rules governing CPDA
+The CPDA is an MHRD provision under which The Institute provides
+faculty at all levels with some level of support for travel (including
+international) and contingency expenses. At the time of writing, the
+allowance amounts to 3 lakhs INR for a block period of 3 years; these
+numbers, if/when revised, should be visible in the [faculty
+recruitment
+advertisement](http://www.iitb.ac.in/en/careers/faculty-recruitment).
+
+The CPDA funds are primarily intended to support travel to
+international conferences. Please note that most government-supported
+projects do not allow travel funds to be used for international
+travel. So, unless you have less-restricted funds such as in your RDF
+account, or from an industry R&D project or consulting project, this
+might be a bottleneck for attending international conferences – and
+that is where the CPDA helps. That said, CPDA funds can be spent for
+national conference travel; though, for reasons mentioned above, it
+would be judicious to use other funds for this. CPDA funds can also be
+utilised on reimbursement basis for paying the membership fee of
+various professional bodies, books and contingent expenses. It is to
+be noted that CPDA cannot be utilised by the faculty when (s)he is on
+any Extraordinary Leave.
+
+Out of INR 3 lakhs, a minimum of Rs 2 Lakhs is earmarked for
+presenting papers at conferences and a maximum Rs 1 Lakh can be spent
+towards membership of professional bodies, contingent expenses
+(includes purchase of books, stationeries, computers and related
+items, electronic devices for professional use). Expenses for a
+conference includes cost of travel (by Air India), local transport,
+overseas medical insurance, cost of visa, registration fee and living
+expenses @ US $ 250 per day for the period of conference and two
+additional days (for travel) preceding/succeeding the conference,
+subject to a maximum of (5+2) days. On account of shortage of funds,
+the supplementary amount can be utilised from project, travel grants
+from DST etc.
+
+Out of the maximum allocation of contingency fund of INR 1 lakh in the block of three years, an amount up to INR 33,000 can be spent in the year one, a further INR 33000 plus the unused portion of the first year’s allocation in year two and the entire unspent balance out of the total allocation in the last year.
+
+Availability of 1 lakh contingency fund is divided as follows:
+    a. Up to Rs. 33,000/- available in first year
+    b. Upsent from(a) + Rs. 33,000/- available in second year
+    c. Upsent from(a) + (b) + Rs. 34,000/- available in third year
+
+In case the faculty has a paper accepted in a prestigious conference
+falling within same block, the Institute has made a provision for
+granting upto an additional Rs. 1 lakh from its own funds.
+
+### Rules for using CPDA for National Conferences
+The funds for conference participation can be utilised for
+international conferences primarily, and can also be used for
+participation in National Conferences, if support for the latter
+cannot be provided by the department. Acceptance of a paper for
+presentation is necessary for approval of conference-related
+expenditure.
+
+The Department Head has the authorisation for approving a faculty's
+travel fare (rail and Apex Air India) for a national conference, which
+is expected to get approved at the rate of one per year. However, in
+case of departmental failure in delivering support, CPDA can also be
+used for presenting papers in national conferences also.
+
+### Seeking the various funds
+Rs. 50,000/- will be made available to the faculty members, for the
+block period. This amount can be spent on reimbursement basis on
+production of receipts, towards membership fee of professional bodies,
+contingency expenditure in addition to conference expenses. This
+amount can also be utilised against any valid expenditure that has
+been incurred in connection with participation in international
+conferences, over and above the Rs. 1 lakh limit previously
+prevailing, if such has been the case. Such amounts may have been
+spent from RDF or one’s personal funds abd can now be transferred to
+RDF/ reimbursed as the case may be, subject to the Rs. 50,000/- limit.
+
+  -  CPDA for both i.e. Rs. 2,00,000/- for Conference and
+     Rs. 1,00,000/- for contingency shall be made available for the
+     use of Faculty on quarterly basis depending upon the date of
+     joining of the concerned faculty during the CPDA block year.
+  - If Rs. 2 lakhs- CPDA conference funds are not used for the conference, up to 50,000 can be availed for expenses towards books.
+  - CPDA will now be available to Faculty members on contract basis also.
+  - CPDA will not be available to the Faculty members who will proceed
+    on the lien and EOL (During the period of lien or EOL).
+
+The daily allowance provided to Faculty Members for participation in International conferences are as follows:
+
+---------------------------------------------------------------
+Country/ Region               Per Diem (USD) Hotel charges per day (USD)
+----------------------------- -------------- ---------------------------
+Outside India for Conferences $115           Up to $ 135/-; amount
+or Seminars                                  payable at actuals
+
+Outside India for Faculty     $115           Would be reimbursed on
+and Staff Members sent                       actual expenditure incurred
+by the Institute on                          (with bill/receipt) with
+assignments or as a                          special approval of director.
+part of delegation
+on Government work.
+---------------------------------------------------------------
+
+If the full hospitality has been provided (boarding and lodging) by
+the organizers only per diem of 25% of the rates mentioned in the
+table above, i.e. $28.75.
+
+In no case conference expenditure can be more than Rs. 2 lakh with
+corresponding reduction of 1 lakh allocated for contingency
+expenditure.
+
+In no case can conference expenditure be more than Rs. 2 lakh, with a
+corresponding reduction of 1 lakh allocated for contingency
+expenditure.
+
+------------------------------------------------------------------------------------------
+Funds and Limits      Utilization                   Per year basis   Approval chain
+--------------------  ---------------------------   --------------   ---------------------
+MHRD CPDA Conference  1. International conference   Can use whole    Conference: Faculty
+Funds (2 Lakhs)       2. National conference        amount at a      -> HoD -> AR (Admin)
+                      3. Upto 50,000 for books      time or in       -> Dean (FA)
+                                                    parts            Books: Faculty
+													                 -> AR (Admin)
+
+CPDA Contingency      Books, electronic items,      33k: 1st year    Contingency: Faculty
+Funds (2 Lakhs)       secretarial work              33k: 2nd year    -> AR (Admin)
+                      stationery, conference        34k: 3rd year    -> Dean (FA)
+                      visits                        (Can use larger  Conference: Faculty
+													amounts with     -> HoD -> Dean (FA)
+                                                    Dean (FA)
+													approval)
+
+------------------------------------------------------------------------------------------
+Table: Process of Approval
+
+## IRCC International Travel Patent and Publication (IR-ITPP) grant
+IRCC provides support for international travel, international patenting charges and publication hrough its ITPP scheme, which is over and above the CPDA. Details may be found [here](https://drona.ircc.iitb.ac.in/home/faculty/iritpp).
+
+### Overview
+The salient features of IR-ITPP grants are as follows:
+A grant of Rs. 3 (Three) lakhs will be provided from IRCC to all faculty members, to be spent over a block of three year period (which is concurrent with the CPDA block period) for the following activities:
+
+- Support for international travel related expenses (IR-IT) – only after the CPDA is exhausted
+- matching costs for international patenting activities and (IR-IP)
+- costs for publications related activities (IR-P)
+
+### General guidelines
+a. This is provided to all regular / contract faculty members through
+a separate project code at IRCC for individual faculty and is
+implemented online.
+
+b. This amount is available for a block period of three years.
+
+c. Any unspent amount at the end of a block period will lapse and a
+new block will begin thereafter.
+
+d. This amount may be utilised for any or all of the three purposes as
+mentioned above, within the limit of the said amount of Rs.3 lakhs
+that is the grant may be used for any of the components IR-IT, IR-IP
+or IR-P, fully or partially in any combination.
+
+e. Expenditure above three lakhs within the block period have to be
+met by sources other than IRCC fund.
+
+f. The excess expenditure, if any, is not permitted to be met from
+next block grant.
+
+g. Settlement in respect of all three activities should be completed
+within one month of incurring such expenditure.
+
+h. If any new faculty member joins during a given three year block
+period, the grant eligibility will be:
+   - For service period of 2 years and above: Rs. 3 lakhs
+   - For service period of more than 1 year but less than 2 years: Rs. 2 lakhs
+   - For service period of 1 year and less: Rs. 1 lakh
+   - The details of the use of the grant for the three activities are given below.
+
+### International travel related support (IR-IT)
+
+The IR-IT component in the block grant may be used for the following:
+    a. Attending conferences to present faculty research (oral presentation)
+    b. Conducting specialised experimental research work in major research facilities abroad, if unavailable nationally (TA/DA only). Charges for usage of such facilities, if applicable, should be met from other sources.
+    c. Chairing a session in international meetings
+    d. Contribution towards travel awards such as INSA grants
+    e. Giving invited talks and initiating or continuing on-going collaborative research work, where partial support towards the visit is made available by the host institution (such as local travel / hospitality, partial travel support etc.)
+    f. Attending specialised workshops based on invitation and partial support by the organisers
+
+*Guidelines for implementation*:
+The grant use is subject to the following:
+    a. The grant is available only for faculty member for his/her travel and not for students or project staff
+    b. All Institute terms and conditions of international travel (CPDA norms), such as air carrier, TA/DA rules, class eligibility, etc., will be followed for the IR-IT related activities.
+    c. A request by faculty for support related to international travel should be sent to Dean R&D, with recommendation by Heads of the respective academic entities.
+    d. Prior permission from Dean (FA) / Director should be obtained for the international travel. A copy of the approval letter and conference related documents should be made available to Dean R&D office.
+    e. The component of the Institute CPDA grant for international travel for the applicable block period should have been utilised first, before utilising the IR-IT grant. When the available CPDA fund is not sufficient to cover the visit, then it can be combined with IR-IT fund / other sources such as project fund/ RDF.
+    f. While claiming the IR-IT grant component, a self-declaration shall be made by the faculty member that the international travel component of the CPDA fund has already been utilised.
+    g. Administrative order for the travel will be issued by Registrar as per existing procedure. If Institute CPDA is used in combination with any funds managed at IRCC (including the new IR-IT scheme, RDF, project fund, etc.), then the claim should be submitted to Main Accounts as per usual practice.
+
+### International patenting activities (IR-IP)
+The IR-IP component of the block grant may be used for defraying 50%
+costs of international patenting expenditure.
+
+Guidelines:
+    a. Faculty may use the IR-IP grant for defraying 50% of international patenting cost with the balance 50% being provided by IRCC fund. Such costs may include Government fee, professional fee, translation fee and other costs, as per bills received and approved.
+    b. The international patenting will include all activities related to PCT filing and foreign country filing.
+    c. At any time in the block period, if the balance in the IR-ITPP grant is not sufficient for patenting contribution, such excess amount will be paid by IRCC as an advance against the next block grant. The amount available for other activities under IR-ITPP scheme in the next block grant will therefore stand reduced by such amount.
+    d. Faculty members may continue to bear the patenting cost through RDF / project funds in conjunction with the IR-IP component as per their choice.
+    e. In view of this support, IRCC will not consider any other requests for defraying international patenting expenses beyond 50% from IRCC fund.
+
+### Publication related activities (IR-P)
+
+The IR-P component of the block grant may be used for the following:
+    a. For publishing faculty research in good journals, where special circumstances require page charges to be paid.
+    b. For publishing with colour pages or other such special printing requirements
+    c. To a very limited extent, for publishing in SCI/Web of Science Indexed open access journals
+Guidelines:
+    a. A request by faculty for support related to any publication should be recommended by Heads of the respective academic entities with a strong justification for such requests.
+    b. Support for publications will be based on ‘essentiality’ of the need and subject to approval by Dean R&D.
+    c. Such support shall not be given for papers being published in open access journals even if they are SCI / Web of Science indexed unless there is a very strong certification of good quality of the journal, by the Academic entity.
+    d. It is desirable that part of the costs for publications as above is claimed from other sources such as projects / RDF / DDF and part from the IR-P component of the block grant.
+
+
+## Loans
+The Institute provides loans for purchase of a car, motorcycle,
+scooter or a personal computer. These loans bear interest.  The
+Institute also has provision for a loan for buying a flat or building
+a house. Details of these may be ascertained from the Administration.
+
+## Entitlement for work related travel
+While you travel on duty, your TA/DA entitlement is governed by your
+grade pay (AGP) alone.  According to the new rules, all Professors
+(including those on HAG scale) are entitled to travel by business
+class while traveling by Air. All other faculty members are entitled
+to travel in Economy class[^airindiarule] (see however,
+austerity-related policy described in the footnote to the section on
+_Travel eligibility_).  For all faculty (except Assistant Professors
+on contractual basis[^railonly]), AC First class travel is permitted
+in train travel.  Please remember to submit your TA bill along with
+boarding passes and e-ticket copy.  (This is also Government of
+India's policy on International travel but please contact Accounts
+section for business class International travel).
+
+[^airindiarule]: Currently, if you are using Government funds, you have to travel by Air India only.
+
+[^railonly]: For these faculty the entitlement is limited to 2$^{nd}$ AC class by rail.
+
+For road travel, Professors may use AC taxies while for all others
+ordinary taxi is permitted. All faculty are entitled to travel by any
+type of public bus including Air-conditioned buses. If you travel by
+your own car or taxi (in places where metered taxies are not
+available), you could claim up to Rs. 16/- per kilometer.
+
+### Daily allowance
+
+As per new rules, the concept of daily allowance during tour is
+discontinued. Instead, the reimbursement will be on actuals supported
+by vouchers.  For this purpose, Professors (including those on HAG
+scale) will be eligible for reimbursement for Hotel
+accommodation/Guest House for an amount up to Rs. 5,000/- per day;
+reimbursement of AC taxi up to 50 km for local travel and
+reimbursement of food bills not exceeding Rs. 500/- per day. The rates
+for other faculty are Rs. 3000/- for Hotel, non-AC taxi up to 50 km,
+and Rs. 300/- for food bill. For Assistant Professors on contractual
+basis, whose grade pay is below Rs. 8000/-, the limits are Rs. 1500/-
+per day towards accommodation, taxi charges of Rs. 150/- per day for
+local travel, and Rs. 200/- per day for food bill.
+
+However, if you so desire, for calculation of daily allowance, you
+could opt to be governed by rules which existed before revision of pay
+scale as well. Such an option can be exercised for the entire duration
+of a given tour and not for parts of a tour. In such a case, all
+faculty will be eligible to draw daily allowance appropriate to
+pre-revised scale of Rs. 16,400/- and above. This is only useful when
+you would like to claim a daily allowance without submitting detailed
+expenditure receipts.
+
+For International Conferences and for faculty members visiting abroad
+on Institute's work, a per diem of US \$115 is payable. In addition,
+Hotel expenses at actuals subject to a maximum of US \$135, supported
+by bills and receipts, is payable for conferences. For official
+visits, all actual expenses, as may be approved by the Director is
+payable, if per diem is not claimed.  Where full hospitality is
+provided abroad by hosts, only 25% per diem, i.e. US \$28.75 is
+allowable.
+
+## Obtaining authorizations and certificates
+You might find yourself needing various kind of certificates to be
+submitted for obtaining documents, such as PAN Card from Income Tax
+Department / their authorized delegated firm, Indian Passport from
+Passport Office, Voter ID card from Election Commission etc. The
+procedure for requesting these certificates may be categorized it into
+two:
+
+  a. Where the faculty member may directly write to the concerned
+  section of Administration (AR-Admin 1/Establishment Section ) for
+  issuance of certificate. The application can be made on plain paper
+  directly to the Administration, addressed to the Registrar / Deputy
+  Registrar / Assistant Registrar: 
+
+   1. Address Proof
+   2. for obtaining Domicile certificate
+   3. Opening of Bank Account
+   4. Identity Certificate – for obtaining fresh passport (for self and spouse)
+   5. NOC – for renewal of Passport
+   6. NOC – for children above 18 years
+   7. Tatkal passport (for self and dependent)
+   8. For obtaining Ration Card
+   9. For obtaining PAN Card
+   10. For obtaining Housing Loan from Bank
+   11. LIC Policy
+   12. KG School Admission for grandchildren – Children should be in the Service record. 
+      (On roll and Retired employees) 	
+   13. KV School Admission for grandchildren – Children should be in the Service record. 
+      (On roll and Retired employees)
+   14. Senior Citizen		
+   15. Octroi exemption
+   16. Other purpose
+
+  b. Where the faculty member may directly write to the concerned
+  section of Administration (AR-Admin). In these cases, the
+  application should be addressed to the Dean (Faculty Affairs), and
+  forwarded on plain paper through Head:
+
+   1. NOC - for test / interview
+   2. NOC - for VISA ( for attending conference)
+   3. NOC - for VISA (Personal visit): should also apply through ERP Portal
+   4. Experience Certificate after resignation or termination: If
+      resignation / termination letter is forwarded through proper
+      channel and all closing formalities are completed, a formal
+      request letter from applicant is enough.
+   5. Vigilance Certificate: Request should be forwarded through HoD 
+
+## General Financial Rules
+The General Financial Rules (GFR) are a set of rules to be followed in
+the government department for incurring expenditure and payment of
+public money. These are detailed in the [Department of Expenditure
+(Ministry of Finance)
+webpage](https://doe.gov.in/order-circular/general-financial-rules2017-0). The
+salient features are outlined below. As a faculty member at IIT
+Bombay, it would be useful to be cognisant of these as you get into
+receiving and spending money, particularly from government sources,
+for your research programme, or for department/institute purposes.
+
+
+As per GFR 2017, all money received by or on behalf of the government
+either as dues of government or for deposits, remittances or otherwise
+shall be brought into government account without delay. 
+
+They stipulate that no authority may incur any expenditure or enter
+into any liability involving expenditure or transfer of money or
+investment or deposit from public fund unless the same has been
+sanctioned by competent authority. Any expenditure incurred for any
+kind of activity (like conference expenditure, training expenditure,
+purchase, Leave Travel Concession, medical bills etc.) only to be
+incurred with the prior approval of the competent authority. Financial
+power of the Institute has been delegated to various Institute
+functionaries with the approval of the BoG. The approval to that
+effect is basically obtained accordingly as delegated by BoG.
+
+They address budget formulation and implementation; including how the
+budget is presented to Parliament and finally comes to the user
+department (including IITB).
+
+The GFR describe how to purchase goods (items), the different modes of
+purchase like Single Tender Enquiry, Limited Tender Enquiry &
+Advertised Tender Enquiry procurement, along with local purchase
+committee based on market survey. 
+	
+The GFR prescribe how to purchase high value plant, machinery etc. of
+a complex and technical nature under two bids systems i.e. technical
+bid and financial bid it’s also talk about vendor registration, rate
+contract, contents of biding document, Earnest Money Deposit, and
+performance guarantee. It emphasises transparency, competition,
+fairness and elimination of arbitrariness in the procurement process
+to attract the best bidder. The Code of Integrity while pursuing
+procurement process is defined, which seeks to make the public
+procurement system efficient, economical and accountable.
+
+GFR 2017 also describes Works, Grants-in-aid and Loans apart from
+Inventory Management and Contract Management. Works mean new
+construction, site preparation, additions and alterations to existing
+works, special repairs to newly purchase or previously abandoned
+buildings or structures including remodelling or replacement. At IITB,
+these are done by the office of the Dean IPS. So the various Do’s and
+Don’ts for "Works" are given in GFR 2017 under "Works" head.
+
+Inventory Management contains the basic rules applicable to all
+Ministry or Departments regarding inventory Management. This addresses
+receipt of goods and materials from Private suppliers, issue of goods
+within Department/Institutes, Buffer Stock, Physical Verification of
+Assets and Library books, Disposal of goods etc. They may be be viewed
+under “Inventory Management” section of the GFR-2017.
+
+Contract Management talks about the general principles of a contract
+and its terms. These are outlined below.
+
+1. Implementation of the contract should be strictly monitored and notices issued promptly whenever a breach of provisions occurs. 
+
+2. Proper procedure for safe custody and monitoring of Bank Guarantees or other Instruments should be laid down. Monitoring should include a monthly review of all Bank Guarantees or other instruments expiring after three months, along with a review of the progress of supply or work. Extensions of Bank Guarantees or other instruments, where warranted, should be sought immediately. 
+
+3. Wherever disputes arise during  implementation of a contract, legal advice should be sought before initiating action to refer the dispute to conciliation and/or arbitration as provided in the contract or to file a suit where the contract does not include an arbitration clause. The draft of the plaint for arbitration should be got vetted by obtaining legal and financial advice. Documents to be filed in the matter of resolution of dispute, if any, should be carefully scrutinized before filing to safeguard government interest. 
+
+
+## Leave and Vacation
+During the period of service, an employee is eligible for various
+forms of leave. Technically, no leave is a matter of right and has to
+be sanctioned by the competent authority, which in the case of faculty
+members, is the Director of the Institute. However, except under
+unusual circumstances (for instance, if a group of employees wish to
+take mass casual leave to register protest against something) and
+discipline related cases, leave is generally not refused. However,
+Departments may sometimes have reasons for not recommending sanction
+of leave in case your services are required for any purpose.  The
+following are general guidelines and are not exhaustive.  For complete
+information, faculty members should refer to the Institute's statutes
+or consult the Administration section of the Institute.
+
+### Casual Leave
+As the name suggests, this form of leave is to meet casual requirements of an individual.
+
+1. At present the number of days for which casual leave can be taken is eight per year. For the purpose of casual leave, the year is a calendar year, i.e., from January to December. However, the maximum period for which casual leave can be taken is not more than 5 days at a time. Saturdays/ Sundays and holidays may be prefixed or suffixed to casual leave and will not count towards casual leave. For those who join in the middle of a calendar year, proportionate amount of casual leave is allowed. Casual leave can even be taken for half a day, i.e. morning session or afternoon session.
+2. Casual leave cannot be appended to any other form of leave other than vacation.
+3. Unutilized casual leave expires on 31st December every year and is not carried over.
+4. Generally, no reason has to be given for going on casual leave. Every Department maintains a card for each employee and the employee has to fill in the date on which the leave is to be taken and sign.  The sanctioning power for casual leave is vested in the Head of the Department of the employee. Strictly speaking, one has to take an advance sanction for casual leave as well. However, in case of unforeseen circumstances one can fill up the card post-facto. It is a good practice to keep the Head or at least one of your colleagues informed of such an absence.
+
+### Special Casual Leave
+Special casual leave for a period not exceeding 15 days in a year may be granted to a faculty member for legitimate academic/administrative absence, for instance, for attending conferences, undertaking examinership in an university, etc. (Special casual leave of varying duration is also available for undergoing operations required for family planning purposes. Administration section should be consulted for details.)
+
+### Vacation
+Vacation is special, and is available only to the faculty members of the Institute.
+
+1. A faculty member is entitled to  60 days of vacation during the year. The year for the purpose of vacation is the academic year, i.e. from 1 July to 30 June of the following year. A faculty member joining the Institute any time during the first semester (July-November) is eligible for full vacation while those joining in the second semester (January-April) will be entitled to 30 days of vacation in the year of joining.
+2. The conventional vacation period comprises the months of May, June and December. However, the Institute announces the exact dates every year depending on its academic schedule.
+3. No separate application is made for availing vacation. Each faculty member has to provide his/her vacation plans by filling up certain details in a common form made available in the Departments.
+4. If a faculty member does not avail the full 60 days vacation in any academic year, 50% of unavailed vacation is converted to Earned Leave and is credited to the earned leave account of the faculty member on 1st July of the next academic year. Thus if a faculty avails of a total of x days of vacation during the vacation period, (60-x)/2 days of earned leave is credited to his/her earned leave account.
+
+### Earned Leave
+Earned leave, unlike vacation, can be availed any time during the year with prior sanction. Unlike non-academic staff, the only way in which a faculty accumulates earned leave is by virtue of not having availed the entitled vacation in a given academic year. Half of the unutilized vacation is credited as earned leave on July 1st every year.
+
+1. Earned leave can be accumulated up to a maximum of 300 days. The unutilized amount of earned leave can be encashed only at the time of superannuation from service. However, A limited number of days of earned leave can be cashed at the time of availing LTC. Such encashment will not exceed 10 days in each instance with a cumulative maximum of 60 days during the entire span of service.
+2. Overflowing of Earned Leave: Half of unutilized vacation is credited as earned leave on July 1st, even when a faculty has already accumulated 300 days of earned leave in his account. This overflowing earned leave must be availed during the same academic year after which it lapses.
+3. Earned leave can be combined with all types of leave other than casual leave.
+
+### Half-Pay Leave and Commuted Leave
+An employee is entitled to 20 days of half-pay leave for every completed year of service. As the name suggests, the employee will be paid half the salary during such leave period.
+
+1. Half-pay leave is credited in advance on January 1st and July 1st every year by calculating the expected period of service of an employee during the following six months. (The credit given is 5/3 days for every month expected to be completed.)
+2. Half pay leave can be availed for personal reasons or for medical purposes.
+3. An employee can avail half-pay leave even when he/she has earned leave to his/her credit.
+4. When a half-pay leave is sought to be availed for employee's medical requirement, an employee may opt to avail Commuted Leave by surrendering two days of half pay leave for every day of leave required. In such a case, the employee draws full salary.
+5.  Leave can be commuted for non-medical purposes  (i) by women employees, for a maximum of 60 days, if taken in continuity of a maternity leave or when she adopts a child less than one year old (ii) for pursuing a course of study for a total period not exceeding 90 days during entire service.
+
+### Maternity and Paternity Leaves
+1. Maternity leave with full pay for a maximum of 180 days at each instance can be availed by female employees with less than two surviving children. Leave of any kind due and admissible (including commuted leave for a period not exceeding 60 days and leave not due) can be granted in continuation with maternity leave for a maximum period of two years.
+2. Paternity leave of 15 days can be granted to a male employee with less than two surviving children during the confinement of his wife for childbirth. Such leave can be taken in the period up to 15 days before delivery and 6 months after the delivery.
+
+### Child Care Leave
+A child care leave to facilitate women employees to take care of their two eldest surviving children below the age of 18 years at the time of need (such as sickness, examination etc.)  for a period not exceeding two years (730 days)  during the entire period of service may be granted. Such leave must be pre-approved by the authorities.  It can be availed for not less than 15 days at a time, and on not more than three occasions in a year. During the period of such leave, the employee is eligible to draw salary received by her immediately before proceeding on such leave.
+
+### Special Leave & Sabbatical Leave
+During the entire period of service, a faculty member is permitted to avail long leaves for a total duration not exceeding three years for academic purposes. The two primary categories of such leave with full pay are Special Leave and Sabbatical Leave. Applications should be forwarded through the Head of the Department to the Dean (FA) who makes suitable recommendation to the Director (the approving authority). All such applications must be forwarded with recommendation from the Head of the Department. The Department must be satisfied that the academic programmes of the Department will not be adversely affected by granting of such leave and also make alternative arrangements for taking care of students who may be working under the concerned faculty member. Further, the faculty member is also required to make arrangements for ongoing projects, and such arrangement must be intimated to the Dean (R&D) in a form available with the IRCC.
+
+1. Special leave is generally granted to faculty members to accept academic assignments abroad for availing scholarships and fellowships such as Humboldt Foundation fellowship, Boyscast fellowship, Commonwealth fellowship etc. The faculty member must have put in at least 3 years of service and should have  applied  for such fellowships through proper channel(i.e., the applications should have been forwarded by the Institute). During the special leave, the faculty draws full salary in the Institute in addition to the fellowship amounts.
+2. Sabbatical leave is granted for accepting temporary academic assignments in Indian or foreign universities or research institutions, availing fellowships, writing a book etc. The faculty member should have put in a minimum of six years of service in the Institute for availing a one year sabbatical. The Dean (FA)  may recommend a shorter and proportionate amount  of sabbatical for a faculty  who falls short of the minimum requirement. For a subsequent sabbatical, there must be a gap of at least 3 years for a one semester sabbatical and six years for a two semesters sabbatical.
+2. The Institute requires a bond to be executed by the faculty members proceeding on a sabbatical, undertaking to serve the Institute for a minimum period of three years on return from sabbatical (the period of bond is two years for a one semester sabbatical). If the faculty member resigns before completion of the bond period, he/she will be required to refund the salary paid by the Institute during the sabbatical period.
+3. As a policy, the Institute does not extend a sabbatical. However, a faculty member may request for appending a maximum of 4 months of earned leave to the sabbatical. In case the faculty does not join back the duty after this period, the entire period of sabbatical will be considered as leave without pay or adjusted fully or partially against leave due to the faculty.
+
+### Extraordinary Leave
+Leave without pay, which does not normally count towards increment or
+other service and retirement benefits may be granted to a faculty
+member at the Director's discretion when no other form of leave is
+available to the employee, or, when in spite of leave being available,
+the employee specifically desires for the same.
+
+### Leave not due
+Leave not due, at half-pay salary may be granted to an employee who has no leave to his/her credit. Such leave will be adjusted against half-pay leave that may accrue at future date.
+
+### Lien
+
+A faculty member may request for keeping lien on his/her post for accepting a job either in India or abroad. Such jobs may be for assignments in private or public sector undertakings. (The Govt. of India terminology for such lien is Foreign Service, which is used whenever a Govt. servant takes up an assignment in a non-Government organization.). To be eligible for lien a faculty member must have put in at least 5 years of service after confirmation. The period of lien can be one year at a stretch or two years if the period of service is over 10 years. (Lien period can be for a period of Five years for those appointed as Directors or CEOs in a Government organization or a PSU.)
+
+1.  The employee has to sign an agreement on a stamp paper with the Institute before proceeding on lien.
+2. No salary is paid to the employee from the Institute while on lien. However, the service during period of lien qualifies for retirement benefit. The employee (or his employer during the lien period) pays a contribution towards pension-cum gratuity benefit determined by the Institute as per standard Government calculation, an amount which depends also on the length of service rendered in the Institute. This contribution must be received by the Institute by 31$^{st}$ March every year, or if the employee so desires, every month. It must be emphasized that when the Institute sanctions a lien to the employee, it does not enter into an agreement with his/her temporary employer and the responsibility of remitting all amounts payable to the Institute lies with the employee only.
+3. The employee should continue to pay his/her own contribution to CPF/GPF during the period of lien. Such contribution should be remitted to the Institute every month or before 31st March of every financial year.
+4. The employee has to pay the leave salary contribution. When an employee pays the leave salary contribution, the Institute leave account of the employee is credited or debited when the employee takes leave in his host organization. The leave salary contribution to be paid is roughly 11% of the pay drawn from the host organization (or the pay that the employee would have drawn, had he/she not gone on lien.) The payment of leave salary contribution may be waived by the Director on request in which case the leave account of the employee remains frozen during period of lien.
+5. Keeping your Accommodation during Lien: The institute generally permits a faculty member to retain the quarter allotted for a period of one year only during the lien period. The license fee payable during this period will be the same as the employee normally pays. The Director may permit a faculty to keep the quarter during the second year of lien, but on an enhanced license fee which is four times the normal license fee. The employee has to arrange to pay the bills received from the Estate Office towards license fee and other utility charges every month.
+
+# The Institute's Hopes and Expectations
 For most faculty members joining this Institute, this will be the
 first 'job', at least in an academic set-up. Since, in such a set up,
 it is largely up to the individual to plan out her activities and
@@ -1865,937 +2796,6 @@ Private consultancy is a serious breach of the code of conduct. Similarly, you s
 In 2005, the Indian Parliament enacted a legislation known as the _Right to Information (RTI) Act_, which empowers a citizen to get any information from the Government or from any publicly funded institution. Exceptions are few and an educational institute does not qualify for exemption. This requires faculty members to be extra careful. For instance, any one can ask for the marking scheme adopted while awarding grades or, for that matter, a copy of the mark sheets of all students in a course. A query from the Institute's Public Information Officer[^pio]  must be answered within a stipulated time limit. Details of RTI is available on IITB's website. (Incidentally, you can also take advantage of this act to elicit information from the Institute functionaries if you have not succeeded in doing so by gentle persuasion!)
 
 [^pio]: Currently, Dr. Indu Saxena, Deputy Registrar (Administration)
-
-# Salary, Allowances and Other Benefits
-Your salary is paid directly to your bank account on the last day of
-the month. The _Financial Year_ for tax purposes is from April 1st of
-a given year to March 31st of the following year. The income tax uses
-_assessment year_ for submission of Income Tax Returns, which is the
-financial year in which the return is filed[^taxyear]. The salary is
-made available to every employee around the end of the month in their
-SAP login, and it provides showing details of earnings and deductions
-and the net pay that will be paid to the bank account of the
-employee. The salary slip of every employee is uploaded in the
-internal website of the Institute http://ep.iitb.ac.in .
-
-[^taxyear]: As an example, at the time of writing (February 2019), the
-    financial year is 2018-19, while the assessment year for this
-    period would be 2019-20.
-
-## Components of salary
-The salary that you get has several components.
-
-1. _Pay Level:_ Since many readers are likely to be familiar with the
-   provisions of the 6th Pay Commission, and new readers are likely to
-   join directly under 7th Pay Commission rules, we outline the pay
-   scales with reference to the 7th Pay Commission.
-
-   What used to be the _Band Pay and Academic Grade Pay (AGP)_ in the
-   6th Pay Commission has been replaced, after implementation of the
-   7th pay commission's provisions, by an amount defined by a _Pay
-   Level_. The position to which you are appointed (or move to after
-   selection to a higher post) defines the salary. All Government
-   servants in India are placed in one of these _pay levels_.  Faculty
-   members in Institutes such as IITs are placed in one of the
-   following pay levels:
-
-   - *Pay Level 10*: Salary range 57,000 to Rs. 98,200 (without D.A.)
-   - *Pay Level 11*: Salary range Rs. 68,900 to Rs. 117,200 (without D.A.)
-   - *Pay Level 12*: Salary range Rs. 101,500 to Rs. 167,400 (without D.A.)
-   - *Pay Level 13A1*: Salary range Rs. 131,400 to Rs. 204,700 (without D.A.)
-   - *Pay Level 13A2*: Salary range Rs. 139,600 to Rs. 211,300 (without D.A.)
-   - *Pay Level 14A*: Salary range Rs. 144,200 to Rs. 211,800 (without D.A.)
-   - *Pay Level 15*: Salary range Rs. 182,200 to Rs. 224,100 (without D.A.)
-
-   Your salary within the pay band is fixed at the time of your
-   appointment and increases every year by an _increment_, as defined
-   in the 7th Pay Commission Pay Matrix. The various cadres, processes
-   for selections, and salary scales (i.e., Pay Levels as listed
-   above) for the faculty are as follows. Note that they are
-   automatically moved to the higher levels as they gain experience
-   through their career.
-
-   - _Assistant Professor:_ Assistant Professors fall into the
-     following levels, based on their experience:
-	 - _0 to 1 year of post-PhD experience (contractual basis):_ Pay Level 10
-	 - _1 to 3 years of post-PhD experience (contractual basis):_ Pay Level 11
-	 - _3 years or more of post-PhD experience:_ Pay Level 12
-	 - _After 3 years in Pay Level 12_: Pay Level 13A1
-
-	 If you have joined IIT after having served for some time as
-	 Assistant Professor in another IIT or a central University or
-	 NIT, your previous experience will be counted for movement to
-	 PB4.
-
-	 As mentioned earlier, selected candidates with less than the
-	 requisite experience as specified in the advertisement may be
-	 taken as _Assistant Professor (Contractual basis)_ in Pay Level
-	 10 or 11 (the selection committees can give one or two increments
-	 over and above this, based on the credentials and experience of
-	 the candidate)[^gradeexample]. While, technically,
-	 appointment to this position does not automatically imply
-	 ultimate absorption in the IIT, we have adopted a system of
-	 internal assessment as explained in section 3 of Chapter 2 for
-	 regularization of such positions.
-
-   - _Associate Professor:_  Pay Level 13A2
-
-   - _Professor:_ Pay Level 14A
-
-The Institute website (see 'Recruitment' link) carries the minimum eligibility criteria for all the above positions.
-
-[^gradeexample]: Thus, a fresh PhD will be appointed in Pay Level 10,
-  which will be upgraded to Pay Level 11 after 1
-  year of experience. Candidates with more than a year's experience
-  will be directly placed at an AGP Pay Level 11.
-
-In addition, the following scales are applicable as appropriate to faculty:
-
-1. _Professor (HAG Scale):_ From August 18, 2009, a senior cadre of
-   Professors has been created. This scale pay for this cadre is known
-   as HAG (Higher Administrative Grade, the name being a carry-over
-   from administrative services for which the scale was in existence
-   earlier). The minimum eligibility for this scale is six years of
-   service as a Professor. A maximum of 40% of the total number of
-   Professors can be placed in this scale. The corresponding Pay Level
-   is 15, and the salary range is from Rs. 182,000 to 224,100.
-
-2. _Institute and Endowed Chairs for faculty:_ As a means of
-   recognizing outstanding performance, the Institute has several
-   Chairs. While most of these are at the Professor's level (about 50
-   in the Institute), there are a few at other levels also.  Funding
-   for several of these comes from endowments, and is managed by the
-   Dean (ACR)'s office, which also takes an active role in raising
-   funds for further chairs. The selection to these chairs is carried
-   out by Dean (FA). Each chair is given for a period of 3 years, and
-   the chair is re-advertised at the end of that period. Faculty who
-   hold chairs receive some financial and academic perks in addition
-   to their salaries. Details are available on the Dean (FA)'s webpage.
-
-3. _Dearness Allowance:_ A component termed as Dearness Allowance to
-   take care of rising prices due to inflation is also a part of your
-   pay packet. The rate of Dearness Allowance is revised by the
-   Government every January and July based on consumer price indices,
-   the rate hike has been typically 3% to 10% on the last few
-   occasions[^danote].
-
-4. _House Rent Allowance (HRA):_ If you do not stay in
-   Institute-provided accommodation, you will also receive House Rent
-   Allowance (HRA) which is 30% of your basic pay. The allowance is
-   payable even when you stay in an accommodation owned by
-   you. (Interestingly, if both spouses are employees of the
-   Institute, both can claim HRA if the accommodation is rented or is
-   owned. However, if the spouse has a Government accommodation, HRA
-   cannot be claimed by either). HRA is taxable. If, however, you live
-   in a rented accommodation, the HRA that you receive may be fully or
-   partially exempt from income tax. The amount of exemption that can
-   be claimed is the least amount out of the following three: (i) the
-   HRA received, (ii) rent that you actually paid over and above 10%
-   of your basic pay and (iii) 50% of your basic salary.
-
-5. _Transport Allowance:_ All employees, irrespective of whether they
-   live within the campus or commute from outside, are eligible to
-   receive a transport allowance. For those in the faculty cadre, the
-   rate of transport allowance is Rs. 3,200 per month. In addition, the
-   Dearness Allowance at prevailing rate is payable on this amount as
-   well. (Note: The transport allowance payable to the blind or
-   orthopedically handicapped employees is double this rate).
-
-[^danote]: Currently (from July 2011), the Dearness Allowance is 90% of basic pay. The next increase in the Dearness allowance will be from Jan 2014.
-
-## Annual Increment
-Every year employees are given an increment in their salary. The pay
-in the pay band increases to an amount that is the next cell in the
-Pay Matrix (corresponding to an approximately 3% increase in salary).
-The yearly increment is given from the first day of January or July of
-every year. However, the first increment can be availed only after
-completing six months in a given pay. This means that, if you are
-appointed between July and 1st January, (of the following year), you
-are eligible for an increment in the following July but if the date of
-appointment is between 2nd January to June, you will get the first
-increment in January of the following year.  If the employee is on
-leave, other than casual leave, on the first day of July, the
-increment is given from the day when the employee rejoins the duty.
-
-*Level $\rightarrow$*     10      11       12       13A1     13A2      14      14A      15
-----------              ------- -------- -------- -------- -------- -------- -------- --------
-*Cell $\downarrow$*
-   1                    57700   68900    101500   131400   139600   144200   159100   182200
-   2                    59400   71000    104500   135300   143800   148500   163900   187700
-   3                    61200   73100    107600   139400   148100   153000   168800   193300
-   4                    63000   75300    110800   143600   152500   157600   173900   199100
-   5                    64900   77600    114100   147900   157100   162300   179100   205100
-   6                    66800   79900    117500   152300   161800   167200   184500   211300
-   7                    68800   82300    121000   156900   166700   172200   190000   217600
-   8                    70900   84800    124600   161600   171700   177400   195700   224100
-   9                    73000   87300    128300   166400   176900   182700   201600
-   10                   75200   89900    132100   171400   182200   188200   207600
-   11                   77500   92600    136100   176500   187700   193800   213800
-   12                   79800   95400    140200   181800   193300   199600   220200
-   13                   82200   98300    144400   187300   199100   205600
-   14                   84700   101200   148700   192900   205100   211800
-   15                   87200   104200   153200   198700   211300
-   16                   89800   107300   157800   204700
-   17                   92500   110500   162500
-   18                   95300   113800   167400
-   19                   98200   117200
-
-Table:  7th Commission Pay Matrix
-
-## Deductions
-When you receive your salary slip, you will find some deductions as well. The primary deductions are:
-
-1. _Income Tax:_ Income tax rates are as per finance bill passed by
-   the Parliament every year. It is possible to minimize your tax
-   liability through some tax shelters. Almost every Department has a
-   local expert on such matters for advising you on this. Filing an
-   income tax return every year is compulsory. Unless the last date is
-   extended, returns have to be filed by 31st July following the
-   financial year for which the return is being filed. From the
-   assessment year 2013-14 e-filing of your income tax return is
-   mandatory. While initially you may find the process a bit
-   cumbersome, it is actually fairly straightforward. There are some
-   minor problems, which a more experienced colleague of yours will be
-   able to help out with. You will need to complete a one-time
-   registration process at the [Income Tax e-Filing
-   website](http://www.incometaxindiaefiling.gov.in). Your PAN number
-   will be your user-id. You can view your tax credit (form 26AS) once
-   you login (you will also be able to see it at your net banking
-   website). Download the appropriate ITR form (usually, ITR-1 or
-   ITR-2), fill up an Excel or Java based form, and submit. (Though
-   many in the Institute hate it, e-filing is smooth on a Microsoft
-   platform. The Java program works effectively as well).  On
-   successful submission of your return, the system will generate an
-   acknowledgement (called ITR-V). Take a print out of this
-   acknowledgement, sign it and send it to the address mentioned in
-   this form by ordinary post or speed post and you are done.
-   (Incidentally ITR-V is password protected with a long 18 digit
-   password consisting of your pan number in lower case followed by
-   your date of birth in ddmmyyyy format.) You can get all the
-   necessary information from the Income Tax Department website
-   http://incometaxindia.gov.in .
-
-   From the financial year (2011-12), you are not required to file
-   your return if your taxable income does not exceed Rs. 5 Lakhs and
-   your income from interests from bank deposits does not exceed Rs.
-   10,000 during the financial year. However, in such a case you must
-   inform the Accounts Section of the Institute, of details of income
-   from bank deposits. Note that if you have income from sources other
-   than from the Institute and the bank deposits, or if you are
-   expecting a refund of income tax, you have to file a return.
-
-
-2. _Profession Tax:_ Currently Rs. 2,500/- per year.
-
-3. Contribution to CPF/GPF/NPS.
-
-4. License Fee and utility charges for your quarter in the campus.
-
-## Travel Entitlement Rules
-
-While you travel on duty, your TA/DA entitlement is governed by your
-salary level.  At the time of writing, that is given by the pay levels
-as defined by the 7th Pay Commission (P.C.). Most of what is given in
-this section corresponds to the 6th P.C. because the details of the
-entitlements under the 7th P.C. are not completely available yet. They
-will be updated here as they become available. Until then, please ask
-the Dean FA office if you have questions.
-
-According to 6th P.C. rules, all Professors (including those on HAG
-scale) are entitled to travel by business class while traveling by air
-– unless austerity measures are in force (please ask Dean FA!). All
-other faculty members are entitled to travel in Economy class (with
-7th Pay Commission rules, it is not clear whether this also applies to
-Assistant Professors in Grade-II; please ask Dean FA). Currently, if
-you are using Government funds (this includes CPDA and government
-ministry-funded projects), then in most cases you have to travel by
-Air India (AI) only. Please note that this applies even if AI is a
-more expensive option; timing, however, might be a viable reason. The
-procedure for seeking permission to fly non-AI is given on [this
-government
-website](https://mhrd.gov.in/delegation-power-financial-advisor-accord-exemption-air-travel-airlines-other-air-india-individual
-). In practice, it is usually less onerous, especially so for domestic
-work-related (not LTC) travel. Please be guided by the Dean FA on
-this.
-
-In any event, please remember to submit your TA bill along with
-boarding passes and e-ticket copy  (please contact Accounts section
-for business class international travel).
-
-For road travel: if you travel by your own car or unmetered taxi (in
-places where metered taxies are not available), you could claim up to
-Rs 16/- per kilometre.
-
-Under the 6th P.C., there is no daily allowance for domestic
-travel. Instead, the reimbursement will be on actuals supported by
-bills and payment proof thereof (e.g. credit card receipt or account
-statement). For this purpose, Professors (including those on HAG
-scale) will be eligible for reimbursement for hotel
-accommodation/guest house for an amount up to 5000 INR per day;
-reimbursement of AC taxi up to 50 km for local travel and
-reimbursement of food bills not exceeding 500 INR per day. The rates
-for other faculty are 3000 INR for Hotel, non-AC taxi up to 50 km, and
-Rs 300/- for food bill (with 7th Pay Commission rules, it is not clear
-whether this also applies to Assistant Professors in Grade-II; please
-ask Dean FA).
-
-However, one had the option of being governed by the 5th P.C. rules
-for calculation of daily allowance. Such an option could be exercised
-for the entire duration of a given tour and not for parts of a
-tour. In such a case, all faculty will be eligible to draw daily
-allowance appropriate to pre-revised scale of Rs 16,400/- and
-above. This is only useful when you would like to claim a daily
-allowance without submitting detailed expenditure receipts.
-
-For International Conferences and for faculty members visiting  abroad
-on Institute's work, a per diem of 115 USD is payable. In addition,
-hotel expenses at actuals subject to a maximum of 135 USD is payable,
-supported by bills and receipts, is payable for conferences. For
-official visits, all actual expenses, as may be approved by the
-Director are payable, if per diem is not claimed.  Where full
-hospitality is provided abroad by hosts, only 25% per diem, i.e. 28.75
-USD is allowed.
-
-## Leave Travel Concession (LTC)
-Once every two years, you are eligible for a paid travel to your home
-town. For the purpose of LTC, block years are defined for two years
-starting January 1st of an even year (e.g. 2012) to December 31st of
-an odd year. If you do not avail LTC during this block year it
-generally lapses. However, it has been the practice of the Government
-to allow for a grace year, i.e. LTC for the block year 2012-13 can be
-availed (i.e. outward journey commenced) up to 31st December 2014.
-
-Two of the above blocks are combined together to define a four year
-block, e.g., the block 2010-11 and the next block 2012-13 define a
-four year block 2010-2013. In this four year block, one can take LTC
-for home town in one two-year block and another LTC to anywhere in
-India (including home town) in the other two-year block. The four-year
-block also has a grace period of one year, i.e. the 2010-13 block must
-be utilized (i.e. outward journey commenced) before 31.12.2014.
-
-### Eligibility
-You must have had one year service in the block to be eligible for LTC
-in the block, i.e. those appointed up to 31.12.12 are eligible for LTC
-in the block year 2012-13 but those appointed after this day are not
-eligible.
-
-All the declared dependents are eligible for LTC and the travel need
-not be taken up together. All return journeys must be completed within
-six months of outward journey.
-
-If both the spouses are working for the Institute, they can claim LTC
-separately only if the declared dependents are different, i.e. if the
-wife has declared her parents to be dependent on her, she can claim
-for them separately. The children can avail LTC only from one of the
-parents. If you take LTC for spouse under your LTC entitlement, he/she
-cannot independently claim LTC for self. Each spouse can declare
-separate ``Home Town" and take LTC for their respective hometowns.
-
-### Special provision for New Appointees
-
-Fresh appointees are eligible for LTC once every year for two blocks
-of four years each. This means that during the first eight years of
-service an employee can avail one LTC every year. The definition of
-the Block years remain the same. (Illustration: Suppose an employee
-joined in 2011. (S)he can take one year LTC for home town in 2012 and
-2013 or (s)he may avail one hometown and one anywhere in India LTC in
-the block 2012-2013. In the next block, i.e. 2014-2017 (s)he can avail
-three home towns and one anywhere in India and so on till (s)he
-completes eight years of service.)
-
-### Encashment of Leave for LTC
-Normally, Government employees cannot encash their accumulated earned
-leave excepting at the time of retirement. However, at the time of
-taking LTC an employee is permitted to encash up to 10 days of
-accumulated earned leave subject to the condition that such encashment
-will not exceed sixty days during the entire career of an employee. If
-both husband and wife are employees, each can encash such earned leave
-even when they are traveling together.  The encashment of earned leave
-for the purpose of LTC will not have any bearing on the maximum number
-of days (300) for which earned leave can be cashed at the time of
-retirement.
-
-### Travel Eligibility
-The employee and all dependents are eligible to travel by
-air[^airindia].  if the AGP of the employee is Rs. 5400/- and
-above. They are also eligible to travel by AC-First Class if traveling
-by train (provided the AGP is Rs. 7600 or higher). Those with AGP of
-Rs. 10,000 and above (and those who are in HAG scale) can travel in
-Business/Club class by Air while those below can only avail economy
-class[^economyclass].  Please note that no taxi or road mileage is
-admissible to reach the airport/railway station or for internal travel
-to destination except where road travel is done by buses run by
-Govt. organizations (for which you will have to produce the
-tickets). LTC rules are strictly observed and it is necessary to
-attach Xerox copies of your tickets along with your claim (In case of
-Air travel Boarding Passes must be retained and produced along with
-e-tickets; production of an e-ticket without the boarding passes is
-not acceptable as proof of travel. (For journeys which involve water
-transport, detailed rules are available which may be checked with the
-administration).
-
-[^airindia]: At present, for all official purposes, travel is
-permitted only by Air India. Waivers can only be granted (on a
-case-by-case basis, by the Ministry of Civil Aviation (MCA).
-
-[^economyclass]: As what is (hopefully a temporary) austerity measure,
-business class travel is presently suspended for LTC. Extending the
-same logic, at IITB, faculty members are strongly advised to travel
-only by economy class irrespective of eligibility, even when on
-official travel.
-
-### LTC Advance
-90% of the estimated cost of journey can be taken as an advance, only
-where the journey is expected to be completed by all persons
-travelling (including the return journey) within 90 days of taking the
-advance. In case the expected date of completion is more than 90 days,
-please draw advance only for outward journey.
-
-When LTC advance is drawn and the tickets purchased for an amount
-lower than the advance drawn, the excess amount should be refunded to
-the Institute immediately. If this is not done penal interest on the
-excess amount is charged, which cannot be waived by authorities.
-
-The employee must take formal leave for availing LTC for self. You
-cannot avail LTC using only the officially closed days. The leave can
-be even a casual leave, in which case it is convenient to enclose a
-xerox copy of your casual leave card along with the final LTC
-claim. Faculty members can avail LTC during vacation also, but with
-prior intimation (with the destination specified) to
-administration. Submit the final LTC claim as soon as the return
-journey is completed.
-
-## Telephone Expense Reimbursement
-
-A faculty member is entitled to reimbursement of telephone (landline
-at home and/or mobile connection) expenses up to Rs. 18,000/-
-(Rs. 21,600/- for a Professor) per financial year. The amount includes
-an amount of Rs. 4800/- towards internet connection at home. Since
-internet connections for all campus residence are provided by the
-Institute, the amount is accordingly reduced for campus residents. For
-those not staying on campus (including those staying in
-Institute-leased accommodation off campus) the full amount is
-available for reimbursement provided they have supporting evidence for
-internet connection at home.
-
-To claim this, telephone bills (including mobile bills and bills for
-internet charges) should be submitted to the accounts section. Though
-bills can be submitted as and when the faculty desires, it is
-customary to submit consolidated claim either annually or
-semi-annually. As it is a reimbursement, no tax liability is due on
-this amount.
-
-## Children's Education Allowance
-Expense incurred in putting up to two children through school (from
-nursery to twelfth class) can be reimbursed subject to an annual
-ceiling of Rs. 15,000. Allowed expenses which can be claimed under this
-head include tuition fee, admission fee, laboratory fee, special fee
-charged for electronics, agriculture, sports fee, Library fee, cost of
-purchase on set of text books and note books, two sets of uniforms
-(including one pair of shoes) etc. Reimbursement can be claimed at the
-rate of Rs. 3750 per quarter or for the full amount in the last quarter
-of the financial year. The quantum of reimbursement for disabled
-children is twice this amount.
-
-## Family Planning Allowance
-If an employee or the spouse has undergone a sterilization operation
-(subject to some conditions) and have no more than two surviving
-children, he/she will be eligible for a special allowance which varies
-between Rs. 800 to Rs. 1000 per month for a faculty member depending on
-the AGP of the faculty member at the time of the operation (it then
-remains unchanged for the entire service).
-
-## Cumulative Professional Development Allowance (CPDA)
-An allowance of INR 3 Lakhs for a block of three years is provided to
-the faculty members (including for those appointed on contractual
-basis). The money can be utilised on reimbursement basis for paying
-the membership fee of various professional bodies, books and
-contingent expenses. The amount though intended majorly for
-international conferences, can be spent for national conferences in
-case department is unable to support. It is to be noted that CPDA
-cannot be utilised by the faculty when he is under any extraordinary
-leave.
-
-### Rules governing CPDA
-The CPDA is an MHRD provision under which The Institute provides
-faculty at all levels with some level of support for travel (including
-international) and contingency expenses. At the time of writing, the
-allowance amounts to 3 lakhs INR for a block period of 3 years; these
-numbers, if/when revised, should be visible in the [faculty
-recruitment
-advertisement](http://www.iitb.ac.in/en/careers/faculty-recruitment).
-
-The CPDA funds are primarily intended to support travel to
-international conferences. Please note that most government-supported
-projects do not allow travel funds to be used for international
-travel. So, unless you have less-restricted funds such as in your RDF
-account, or from an industry R&D project or consulting project, this
-might be a bottleneck for attending international conferences – and
-that is where the CPDA helps. That said, CPDA funds can be spent for
-national conference travel; though, for reasons mentioned above, it
-would be judicious to use other funds for this. CPDA funds can also be
-utilised on reimbursement basis for paying the membership fee of
-various professional bodies, books and contingent expenses. It is to
-be noted that CPDA cannot be utilised by the faculty when (s)he is on
-any Extraordinary Leave.
-
-Out of INR 3 lakhs, a minimum of Rs 2 Lakhs is earmarked for
-presenting papers at conferences and a maximum Rs 1 Lakh can be spent
-towards membership of professional bodies, contingent expenses
-(includes purchase of books, stationeries, computers and related
-items, electronic devices for professional use). Expenses for a
-conference includes cost of travel (by Air India), local transport,
-overseas medical insurance, cost of visa, registration fee and living
-expenses @ US $ 250 per day for the period of conference and two
-additional days (for travel) preceding/succeeding the conference,
-subject to a maximum of (5+2) days. On account of shortage of funds,
-the supplementary amount can be utilised from project, travel grants
-from DST etc.
-
-Out of the maximum allocation of contingency fund of INR 1 lakh in the block of three years, an amount up to INR 33,000 can be spent in the year one, a further INR 33000 plus the unused portion of the first year’s allocation in year two and the entire unspent balance out of the total allocation in the last year.
-
-Availability of 1 lakh contingency fund is divided as follows:
-    a. Up to Rs. 33,000/- available in first year
-    b. Upsent from(a) + Rs. 33,000/- available in second year
-    c. Upsent from(a) + (b) + Rs. 34,000/- available in third year
-
-In case the faculty has a paper accepted in a prestigious conference
-falling within same block, the Institute has made a provision for
-granting upto an additional Rs. 1 lakh from its own funds.
-
-### Rules for using CPDA for National Conferences
-The funds for conference participation can be utilised for
-international conferences primarily, and can also be used for
-participation in National Conferences, if support for the latter
-cannot be provided by the department. Acceptance of a paper for
-presentation is necessary for approval of conference-related
-expenditure.
-
-The Department Head has the authorisation for approving a faculty's
-travel fare (rail and Apex Air India) for a national conference, which
-is expected to get approved at the rate of one per year. However, in
-case of departmental failure in delivering support, CPDA can also be
-used for presenting papers in national conferences also.
-
-### Seeking the various funds
-Rs. 50,000/- will be made available to the faculty members, for the
-block period. This amount can be spent on reimbursement basis on
-production of receipts, towards membership fee of professional bodies,
-contingency expenditure in addition to conference expenses. This
-amount can also be utilised against any valid expenditure that has
-been incurred in connection with participation in international
-conferences, over and above the Rs. 1 lakh limit previously
-prevailing, if such has been the case. Such amounts may have been
-spent from RDF or one’s personal funds abd can now be transferred to
-RDF/ reimbursed as the case may be, subject to the Rs. 50,000/- limit.
-
-  -  CPDA for both i.e. Rs. 2,00,000/- for Conference and
-     Rs. 1,00,000/- for contingency shall be made available for the
-     use of Faculty on quarterly basis depending upon the date of
-     joining of the concerned faculty during the CPDA block year.
-  - If Rs. 2 lakhs- CPDA conference funds are not used for the conference, up to 50,000 can be availed for expenses towards books.
-  - CPDA will now be available to Faculty members on contract basis also.
-  - CPDA will not be available to the Faculty members who will proceed
-    on the lien and EOL (During the period of lien or EOL).
-
-The daily allowance provided to Faculty Members for participation in International conferences are as follows:
-
----------------------------------------------------------------
-Country/ Region               Per Diem (USD) Hotel charges per day (USD)
------------------------------ -------------- ---------------------------
-Outside India for Conferences $115           Up to $ 135/-; amount
-or Seminars                                  payable at actuals
-
-Outside India for Faculty     $115           Would be reimbursed on
-and Staff Members sent                       actual expenditure incurred
-by the Institute on                          (with bill/receipt) with
-assignments or as a                          special approval of director.
-part of delegation
-on Government work.
----------------------------------------------------------------
-
-If the full hospitality has been provided (boarding and lodging) by
-the organizers only per diem of 25% of the rates mentioned in the
-table above, i.e. $28.75.
-
-In no case conference expenditure can be more than Rs. 2 lakh with
-corresponding reduction of 1 lakh allocated for contingency
-expenditure.
-
-In no case can conference expenditure be more than Rs. 2 lakh, with a
-corresponding reduction of 1 lakh allocated for contingency
-expenditure.
-
-------------------------------------------------------------------------------------------
-Funds and Limits      Utilization                   Per year basis   Approval chain
---------------------  ---------------------------   --------------   ---------------------
-MHRD CPDA Conference  1. International conference   Can use whole    Conference: Faculty
-Funds (2 Lakhs)       2. National conference        amount at a      -> HoD -> AR (Admin)
-                      3. Upto 50,000 for books      time or in       -> Dean (FA)
-                                                    parts            Books: Faculty
-													                 -> AR (Admin)
-
-CPDA Contingency      Books, electronic items,      33k: 1st year    Contingency: Faculty
-Funds (2 Lakhs)       secretarial work              33k: 2nd year    -> AR (Admin)
-                      stationery, conference        34k: 3rd year    -> Dean (FA)
-                      visits                        (Can use larger  Conference: Faculty
-													amounts with     -> HoD -> Dean (FA)
-                                                    Dean (FA)
-													approval)
-
-------------------------------------------------------------------------------------------
-Table: Process of Approval
-
-## IRCC International Travel Patent and Publication (IR-ITPP) grant
-IRCC provides support for international travel, international patenting charges and publication hrough its ITPP scheme, which is over and above the CPDA. Details may be found [here](https://drona.ircc.iitb.ac.in/home/faculty/iritpp).
-
-### Overview
-The salient features of IR-ITPP grants are as follows:
-A grant of Rs. 3 (Three) lakhs will be provided from IRCC to all faculty members, to be spent over a block of three year period (which is concurrent with the CPDA block period) for the following activities:
-
-- Support for international travel related expenses (IR-IT) – only after the CPDA is exhausted
-- matching costs for international patenting activities and (IR-IP)
-- costs for publications related activities (IR-P)
-
-### General guidelines
-a. This is provided to all regular / contract faculty members through
-a separate project code at IRCC for individual faculty and is
-implemented online.
-
-b. This amount is available for a block period of three years.
-
-c. Any unspent amount at the end of a block period will lapse and a
-new block will begin thereafter.
-
-d. This amount may be utilised for any or all of the three purposes as
-mentioned above, within the limit of the said amount of Rs.3 lakhs
-that is the grant may be used for any of the components IR-IT, IR-IP
-or IR-P, fully or partially in any combination.
-
-e. Expenditure above three lakhs within the block period have to be
-met by sources other than IRCC fund.
-
-f. The excess expenditure, if any, is not permitted to be met from
-next block grant.
-
-g. Settlement in respect of all three activities should be completed
-within one month of incurring such expenditure.
-
-h. If any new faculty member joins during a given three year block
-period, the grant eligibility will be:
-   - For service period of 2 years and above: Rs. 3 lakhs
-   - For service period of more than 1 year but less than 2 years: Rs. 2 lakhs
-   - For service period of 1 year and less: Rs. 1 lakh
-   - The details of the use of the grant for the three activities are given below.
-
-### International travel related support (IR-IT)
-
-The IR-IT component in the block grant may be used for the following:
-    a. Attending conferences to present faculty research (oral presentation)
-    b. Conducting specialised experimental research work in major research facilities abroad, if unavailable nationally (TA/DA only). Charges for usage of such facilities, if applicable, should be met from other sources.
-    c. Chairing a session in international meetings
-    d. Contribution towards travel awards such as INSA grants
-    e. Giving invited talks and initiating or continuing on-going collaborative research work, where partial support towards the visit is made available by the host institution (such as local travel / hospitality, partial travel support etc.)
-    f. Attending specialised workshops based on invitation and partial support by the organisers
-
-*Guidelines for implementation*:
-The grant use is subject to the following:
-    a. The grant is available only for faculty member for his/her travel and not for students or project staff
-    b. All Institute terms and conditions of international travel (CPDA norms), such as air carrier, TA/DA rules, class eligibility, etc., will be followed for the IR-IT related activities.
-    c. A request by faculty for support related to international travel should be sent to Dean R&D, with recommendation by Heads of the respective academic entities.
-    d. Prior permission from Dean (FA) / Director should be obtained for the international travel. A copy of the approval letter and conference related documents should be made available to Dean R&D office.
-    e. The component of the Institute CPDA grant for international travel for the applicable block period should have been utilised first, before utilising the IR-IT grant. When the available CPDA fund is not sufficient to cover the visit, then it can be combined with IR-IT fund / other sources such as project fund/ RDF.
-    f. While claiming the IR-IT grant component, a self-declaration shall be made by the faculty member that the international travel component of the CPDA fund has already been utilised.
-    g. Administrative order for the travel will be issued by Registrar as per existing procedure. If Institute CPDA is used in combination with any funds managed at IRCC (including the new IR-IT scheme, RDF, project fund, etc.), then the claim should be submitted to Main Accounts as per usual practice.
-
-### International patenting activities (IR-IP)
-The IR-IP component of the block grant may be used for defraying 50%
-costs of international patenting expenditure.
-
-Guidelines:
-    a. Faculty may use the IR-IP grant for defraying 50% of international patenting cost with the balance 50% being provided by IRCC fund. Such costs may include Government fee, professional fee, translation fee and other costs, as per bills received and approved.
-    b. The international patenting will include all activities related to PCT filing and foreign country filing.
-    c. At any time in the block period, if the balance in the IR-ITPP grant is not sufficient for patenting contribution, such excess amount will be paid by IRCC as an advance against the next block grant. The amount available for other activities under IR-ITPP scheme in the next block grant will therefore stand reduced by such amount.
-    d. Faculty members may continue to bear the patenting cost through RDF / project funds in conjunction with the IR-IP component as per their choice.
-    e. In view of this support, IRCC will not consider any other requests for defraying international patenting expenses beyond 50% from IRCC fund.
-
-### Publication related activities (IR-P)
-
-The IR-P component of the block grant may be used for the following:
-    a. For publishing faculty research in good journals, where special circumstances require page charges to be paid.
-    b. For publishing with colour pages or other such special printing requirements
-    c. To a very limited extent, for publishing in SCI/Web of Science Indexed open access journals
-Guidelines:
-    a. A request by faculty for support related to any publication should be recommended by Heads of the respective academic entities with a strong justification for such requests.
-    b. Support for publications will be based on ‘essentiality’ of the need and subject to approval by Dean R&D.
-    c. Such support shall not be given for papers being published in open access journals even if they are SCI / Web of Science indexed unless there is a very strong certification of good quality of the journal, by the Academic entity.
-    d. It is desirable that part of the costs for publications as above is claimed from other sources such as projects / RDF / DDF and part from the IR-P component of the block grant.
-
-
-## Loans
-The Institute provides loans for purchase of a car, motorcycle,
-scooter or a personal computer. These loans bear interest.  The
-Institute also has provision for a loan for buying a flat or building
-a house. Details of these may be ascertained from the Administration.
-
-## Entitlement for work related travel
-While you travel on duty, your TA/DA entitlement is governed by your
-grade pay (AGP) alone.  According to the new rules, all Professors
-(including those on HAG scale) are entitled to travel by business
-class while traveling by Air. All other faculty members are entitled
-to travel in Economy class[^airindiarule] (see however,
-austerity-related policy described in the footnote to the section on
-_Travel eligibility_).  For all faculty (except Assistant Professors
-on contractual basis[^railonly]), AC First class travel is permitted
-in train travel.  Please remember to submit your TA bill along with
-boarding passes and e-ticket copy.  (This is also Government of
-India's policy on International travel but please contact Accounts
-section for business class International travel).
-
-[^airindiarule]: Currently, if you are using Government funds, you have to travel by Air India only.
-
-[^railonly]: For these faculty the entitlement is limited to 2$^{nd}$ AC class by rail.
-
-For road travel, Professors may use AC taxies while for all others
-ordinary taxi is permitted. All faculty are entitled to travel by any
-type of public bus including Air-conditioned buses. If you travel by
-your own car or taxi (in places where metered taxies are not
-available), you could claim up to Rs. 16/- per kilometer.
-
-### Daily allowance
-
-As per new rules, the concept of daily allowance during tour is
-discontinued. Instead, the reimbursement will be on actuals supported
-by vouchers.  For this purpose, Professors (including those on HAG
-scale) will be eligible for reimbursement for Hotel
-accommodation/Guest House for an amount up to Rs. 5,000/- per day;
-reimbursement of AC taxi up to 50 km for local travel and
-reimbursement of food bills not exceeding Rs. 500/- per day. The rates
-for other faculty are Rs. 3000/- for Hotel, non-AC taxi up to 50 km,
-and Rs. 300/- for food bill. For Assistant Professors on contractual
-basis, whose grade pay is below Rs. 8000/-, the limits are Rs. 1500/-
-per day towards accommodation, taxi charges of Rs. 150/- per day for
-local travel, and Rs. 200/- per day for food bill.
-
-However, if you so desire, for calculation of daily allowance, you
-could opt to be governed by rules which existed before revision of pay
-scale as well. Such an option can be exercised for the entire duration
-of a given tour and not for parts of a tour. In such a case, all
-faculty will be eligible to draw daily allowance appropriate to
-pre-revised scale of Rs. 16,400/- and above. This is only useful when
-you would like to claim a daily allowance without submitting detailed
-expenditure receipts.
-
-For International Conferences and for faculty members visiting abroad
-on Institute's work, a per diem of US \$115 is payable. In addition,
-Hotel expenses at actuals subject to a maximum of US \$135, supported
-by bills and receipts, is payable for conferences. For official
-visits, all actual expenses, as may be approved by the Director is
-payable, if per diem is not claimed.  Where full hospitality is
-provided abroad by hosts, only 25% per diem, i.e. US \$28.75 is
-allowable.
-
-## Obtaining authorizations and certificates
-You might find yourself needing various kind of certificates to be
-submitted for obtaining documents, such as PAN Card from Income Tax
-Department / their authorized delegated firm, Indian Passport from
-Passport Office, Voter ID card from Election Commission etc. The
-procedure for requesting these certificates may be categorized it into
-two:
-
-  a. Where the faculty member may directly write to the concerned
-  section of Administration (AR-Admin 1/Establishment Section ) for
-  issuance of certificate. The application can be made on plain paper
-  directly to the Administration, addressed to the Registrar / Deputy
-  Registrar / Assistant Registrar: 
-
-   1. Address Proof
-   2. for obtaining Domicile certificate
-   3. Opening of Bank Account
-   4. Identity Certificate – for obtaining fresh passport (for self and spouse)
-   5. NOC – for renewal of Passport
-   6. NOC – for children above 18 years
-   7. Tatkal passport (for self and dependent)
-   8. For obtaining Ration Card
-   9. For obtaining PAN Card
-   10. For obtaining Housing Loan from Bank
-   11. LIC Policy
-   12. KG School Admission for grandchildren – Children should be in the Service record. 
-      (On roll and Retired employees) 	
-   13. KV School Admission for grandchildren – Children should be in the Service record. 
-      (On roll and Retired employees)
-   14. Senior Citizen		
-   15. Octroi exemption
-   16. Other purpose
-
-  b. Where the faculty member may directly write to the concerned
-  section of Administration (AR-Admin). In these cases, the
-  application should be addressed to the Dean (Faculty Affairs), and
-  forwarded on plain paper through Head:
-
-   1. NOC - for test / interview
-   2. NOC - for VISA ( for attending conference)
-   3. NOC - for VISA (Personal visit): should also apply through ERP Portal
-   4. Experience Certificate after resignation or termination: If
-      resignation / termination letter is forwarded through proper
-      channel and all closing formalities are completed, a formal
-      request letter from applicant is enough.
-   5. Vigilance Certificate: Request should be forwarded through HoD 
-
-## General Financial Rules
-The General Financial Rules (GFR) are a set of rules to be followed in
-the government department for incurring expenditure and payment of
-public money. These are detailed in the [Department of Expenditure
-(Ministry of Finance)
-webpage](https://doe.gov.in/order-circular/general-financial-rules2017-0). The
-salient features are outlined below. As a faculty member at IIT
-Bombay, it would be useful to be cognisant of these as you get into
-receiving and spending money, particularly from government sources,
-for your research programme, or for department/institute purposes.
-
-
-As per GFR 2017, all money received by or on behalf of the government
-either as dues of government or for deposits, remittances or otherwise
-shall be brought into government account without delay. 
-
-They stipulate that no authority may incur any expenditure or enter
-into any liability involving expenditure or transfer of money or
-investment or deposit from public fund unless the same has been
-sanctioned by competent authority. Any expenditure incurred for any
-kind of activity (like conference expenditure, training expenditure,
-purchase, Leave Travel Concession, medical bills etc.) only to be
-incurred with the prior approval of the competent authority. Financial
-power of the Institute has been delegated to various Institute
-functionaries with the approval of the BoG. The approval to that
-effect is basically obtained accordingly as delegated by BoG.
-
-They address budget formulation and implementation; including how the
-budget is presented to Parliament and finally comes to the user
-department (including IITB).
-
-The GFR describe how to purchase goods (items), the different modes of
-purchase like Single Tender Enquiry, Limited Tender Enquiry &
-Advertised Tender Enquiry procurement, along with local purchase
-committee based on market survey. 
-	
-The GFR prescribe how to purchase high value plant, machinery etc. of
-a complex and technical nature under two bids systems i.e. technical
-bid and financial bid it’s also talk about vendor registration, rate
-contract, contents of biding document, Earnest Money Deposit, and
-performance guarantee. It emphasises transparency, competition,
-fairness and elimination of arbitrariness in the procurement process
-to attract the best bidder. The Code of Integrity while pursuing
-procurement process is defined, which seeks to make the public
-procurement system efficient, economical and accountable.
-
-GFR 2017 also describes Works, Grants-in-aid and Loans apart from
-Inventory Management and Contract Management. Works mean new
-construction, site preparation, additions and alterations to existing
-works, special repairs to newly purchase or previously abandoned
-buildings or structures including remodelling or replacement. At IITB,
-these are done by the office of the Dean IPS. So the various Do’s and
-Don’ts for "Works" are given in GFR 2017 under "Works" head.
-
-Inventory Management contains the basic rules applicable to all
-Ministry or Departments regarding inventory Management. This addresses
-receipt of goods and materials from Private suppliers, issue of goods
-within Department/Institutes, Buffer Stock, Physical Verification of
-Assets and Library books, Disposal of goods etc. They may be be viewed
-under “Inventory Management” section of the GFR-2017.
-
-Contract Management talks about the general principles of a contract
-and its terms. These are outlined below.
-
-1. Implementation of the contract should be strictly monitored and notices issued promptly whenever a breach of provisions occurs. 
-
-2. Proper procedure for safe custody and monitoring of Bank Guarantees or other Instruments should be laid down. Monitoring should include a monthly review of all Bank Guarantees or other instruments expiring after three months, along with a review of the progress of supply or work. Extensions of Bank Guarantees or other instruments, where warranted, should be sought immediately. 
-
-3. Wherever disputes arise during  implementation of a contract, legal advice should be sought before initiating action to refer the dispute to conciliation and/or arbitration as provided in the contract or to file a suit where the contract does not include an arbitration clause. The draft of the plaint for arbitration should be got vetted by obtaining legal and financial advice. Documents to be filed in the matter of resolution of dispute, if any, should be carefully scrutinized before filing to safeguard government interest. 
-
-
-# Leave and Vacation
-During the period of service, an employee is eligible for various
-forms of leave. Technically, no leave is a matter of right and has to
-be sanctioned by the competent authority, which in the case of faculty
-members, is the Director of the Institute. However, except under
-unusual circumstances (for instance, if a group of employees wish to
-take mass casual leave to register protest against something) and
-discipline related cases, leave is generally not refused. However,
-Departments may sometimes have reasons for not recommending sanction
-of leave in case your services are required for any purpose.  The
-following are general guidelines and are not exhaustive.  For complete
-information, faculty members should refer to the Institute's statutes
-or consult the Administration section of the Institute.
-
-## Casual Leave
-As the name suggests, this form of leave is to meet casual requirements of an individual.
-
-1. At present the number of days for which casual leave can be taken is eight per year. For the purpose of casual leave, the year is a calendar year, i.e., from January to December. However, the maximum period for which casual leave can be taken is not more than 5 days at a time. Saturdays/ Sundays and holidays may be prefixed or suffixed to casual leave and will not count towards casual leave. For those who join in the middle of a calendar year, proportionate amount of casual leave is allowed. Casual leave can even be taken for half a day, i.e. morning session or afternoon session.
-2. Casual leave cannot be appended to any other form of leave other than vacation.
-3. Unutilized casual leave expires on 31st December every year and is not carried over.
-4. Generally, no reason has to be given for going on casual leave. Every Department maintains a card for each employee and the employee has to fill in the date on which the leave is to be taken and sign.  The sanctioning power for casual leave is vested in the Head of the Department of the employee. Strictly speaking, one has to take an advance sanction for casual leave as well. However, in case of unforeseen circumstances one can fill up the card post-facto. It is a good practice to keep the Head or at least one of your colleagues informed of such an absence.
-
-## Special Casual Leave
-Special casual leave for a period not exceeding 15 days in a year may be granted to a faculty member for legitimate academic/administrative absence, for instance, for attending conferences, undertaking examinership in an university, etc. (Special casual leave of varying duration is also available for undergoing operations required for family planning purposes. Administration section should be consulted for details.)
-
-## Vacation
-Vacation is special, and is available only to the faculty members of the Institute.
-
-1. A faculty member is entitled to  60 days of vacation during the year. The year for the purpose of vacation is the academic year, i.e. from 1 July to 30 June of the following year. A faculty member joining the Institute any time during the first semester (July-November) is eligible for full vacation while those joining in the second semester (January-April) will be entitled to 30 days of vacation in the year of joining.
-2. The conventional vacation period comprises the months of May, June and December. However, the Institute announces the exact dates every year depending on its academic schedule.
-3. No separate application is made for availing vacation. Each faculty member has to provide his/her vacation plans by filling up certain details in a common form made available in the Departments.
-4. If a faculty member does not avail the full 60 days vacation in any academic year, 50% of unavailed vacation is converted to Earned Leave and is credited to the earned leave account of the faculty member on 1st July of the next academic year. Thus if a faculty avails of a total of x days of vacation during the vacation period, (60-x)/2 days of earned leave is credited to his/her earned leave account.
-
-## Earned Leave
-Earned leave, unlike vacation, can be availed any time during the year with prior sanction. Unlike non-academic staff, the only way in which a faculty accumulates earned leave is by virtue of not having availed the entitled vacation in a given academic year. Half of the unutilized vacation is credited as earned leave on July 1st every year.
-
-1. Earned leave can be accumulated up to a maximum of 300 days. The unutilized amount of earned leave can be encashed only at the time of superannuation from service. However, A limited number of days of earned leave can be cashed at the time of availing LTC. Such encashment will not exceed 10 days in each instance with a cumulative maximum of 60 days during the entire span of service.
-2. Overflowing of Earned Leave: Half of unutilized vacation is credited as earned leave on July 1st, even when a faculty has already accumulated 300 days of earned leave in his account. This overflowing earned leave must be availed during the same academic year after which it lapses.
-3. Earned leave can be combined with all types of leave other than casual leave.
-
-## Half-Pay Leave and Commuted Leave
-An employee is entitled to 20 days of half-pay leave for every completed year of service. As the name suggests, the employee will be paid half the salary during such leave period.
-
-1. Half-pay leave is credited in advance on January 1st and July 1st every year by calculating the expected period of service of an employee during the following six months. (The credit given is 5/3 days for every month expected to be completed.)
-2. Half pay leave can be availed for personal reasons or for medical purposes.
-3. An employee can avail half-pay leave even when he/she has earned leave to his/her credit.
-4. When a half-pay leave is sought to be availed for employee's medical requirement, an employee may opt to avail Commuted Leave by surrendering two days of half pay leave for every day of leave required. In such a case, the employee draws full salary.
-5.  Leave can be commuted for non-medical purposes  (i) by women employees, for a maximum of 60 days, if taken in continuity of a maternity leave or when she adopts a child less than one year old (ii) for pursuing a course of study for a total period not exceeding 90 days during entire service.
-
-## Maternity and Paternity Leaves
-1. Maternity leave with full pay for a maximum of 180 days at each instance can be availed by female employees with less than two surviving children. Leave of any kind due and admissible (including commuted leave for a period not exceeding 60 days and leave not due) can be granted in continuation with maternity leave for a maximum period of two years.
-2. Paternity leave of 15 days can be granted to a male employee with less than two surviving children during the confinement of his wife for childbirth. Such leave can be taken in the period up to 15 days before delivery and 6 months after the delivery.
-
-## Child Care Leave
-A child care leave to facilitate women employees to take care of their two eldest surviving children below the age of 18 years at the time of need (such as sickness, examination etc.)  for a period not exceeding two years (730 days)  during the entire period of service may be granted. Such leave must be pre-approved by the authorities.  It can be availed for not less than 15 days at a time, and on not more than three occasions in a year. During the period of such leave, the employee is eligible to draw salary received by her immediately before proceeding on such leave.
-
-## Special Leave & Sabbatical Leave
-During the entire period of service, a faculty member is permitted to avail long leaves for a total duration not exceeding three years for academic purposes. The two primary categories of such leave with full pay are Special Leave and Sabbatical Leave. Applications should be forwarded through the Head of the Department to the Dean (FA) who makes suitable recommendation to the Director (the approving authority). All such applications must be forwarded with recommendation from the Head of the Department. The Department must be satisfied that the academic programmes of the Department will not be adversely affected by granting of such leave and also make alternative arrangements for taking care of students who may be working under the concerned faculty member. Further, the faculty member is also required to make arrangements for ongoing projects, and such arrangement must be intimated to the Dean (R&D) in a form available with the IRCC.
-
-1. Special leave is generally granted to faculty members to accept academic assignments abroad for availing scholarships and fellowships such as Humboldt Foundation fellowship, Boyscast fellowship, Commonwealth fellowship etc. The faculty member must have put in at least 3 years of service and should have  applied  for such fellowships through proper channel(i.e., the applications should have been forwarded by the Institute). During the special leave, the faculty draws full salary in the Institute in addition to the fellowship amounts.
-2. Sabbatical leave is granted for accepting temporary academic assignments in Indian or foreign universities or research institutions, availing fellowships, writing a book etc. The faculty member should have put in a minimum of six years of service in the Institute for availing a one year sabbatical. The Dean (FA)  may recommend a shorter and proportionate amount  of sabbatical for a faculty  who falls short of the minimum requirement. For a subsequent sabbatical, there must be a gap of at least 3 years for a one semester sabbatical and six years for a two semesters sabbatical.
-2. The Institute requires a bond to be executed by the faculty members proceeding on a sabbatical, undertaking to serve the Institute for a minimum period of three years on return from sabbatical (the period of bond is two years for a one semester sabbatical). If the faculty member resigns before completion of the bond period, he/she will be required to refund the salary paid by the Institute during the sabbatical period.
-3. As a policy, the Institute does not extend a sabbatical. However, a faculty member may request for appending a maximum of 4 months of earned leave to the sabbatical. In case the faculty does not join back the duty after this period, the entire period of sabbatical will be considered as leave without pay or adjusted fully or partially against leave due to the faculty.
-
-## Extraordinary Leave
-Leave without pay, which does not normally count towards increment or
-other service and retirement benefits may be granted to a faculty
-member at the Director's discretion when no other form of leave is
-available to the employee, or, when in spite of leave being available,
-the employee specifically desires for the same.
-
-## Leave not due
-Leave not due, at half-pay salary may be granted to an employee who has no leave to his/her credit. Such leave will be adjusted against half-pay leave that may accrue at future date.
-
-## Lien
-
-A faculty member may request for keeping lien on his/her post for accepting a job either in India or abroad. Such jobs may be for assignments in private or public sector undertakings. (The Govt. of India terminology for such lien is Foreign Service, which is used whenever a Govt. servant takes up an assignment in a non-Government organization.). To be eligible for lien a faculty member must have put in at least 5 years of service after confirmation. The period of lien can be one year at a stretch or two years if the period of service is over 10 years. (Lien period can be for a period of Five years for those appointed as Directors or CEOs in a Government organization or a PSU.)
-
-1.  The employee has to sign an agreement on a stamp paper with the Institute before proceeding on lien.
-2. No salary is paid to the employee from the Institute while on lien. However, the service during period of lien qualifies for retirement benefit. The employee (or his employer during the lien period) pays a contribution towards pension-cum gratuity benefit determined by the Institute as per standard Government calculation, an amount which depends also on the length of service rendered in the Institute. This contribution must be received by the Institute by 31$^{st}$ March every year, or if the employee so desires, every month. It must be emphasized that when the Institute sanctions a lien to the employee, it does not enter into an agreement with his/her temporary employer and the responsibility of remitting all amounts payable to the Institute lies with the employee only.
-3. The employee should continue to pay his/her own contribution to CPF/GPF during the period of lien. Such contribution should be remitted to the Institute every month or before 31st March of every financial year.
-4. The employee has to pay the leave salary contribution. When an employee pays the leave salary contribution, the Institute leave account of the employee is credited or debited when the employee takes leave in his host organization. The leave salary contribution to be paid is roughly 11% of the pay drawn from the host organization (or the pay that the employee would have drawn, had he/she not gone on lien.) The payment of leave salary contribution may be waived by the Director on request in which case the leave account of the employee remains frozen during period of lien.
-5. Keeping your Accommodation during Lien: The institute generally permits a faculty member to retain the quarter allotted for a period of one year only during the lien period. The license fee payable during this period will be the same as the employee normally pays. The Director may permit a faculty to keep the quarter during the second year of lien, but on an enhanced license fee which is four times the normal license fee. The employee has to arrange to pay the bills received from the Estate Office towards license fee and other utility charges every month.
 
 # Medical Facilities
 During the period of service, a staff member and his dependents (the term _dependent_ is clearly defined in the Service Rules, see Chapter 3) are provided medical facilities at the IIT Hospital, and whenever required, at various hospitals in the city which are empanelled by the Institute. Medical facility for employee and spouse is also available after retirement on a contributory basis (see the section on PRMS below).
