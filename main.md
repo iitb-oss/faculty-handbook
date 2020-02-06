@@ -509,8 +509,7 @@ Immediately on joining:
     can take care of it - the Administration Section should be able to
     guide you. You need to provide copies of your photograph and a
     proof of residential address for the same. It may also be possible
-    to get it online
-    (https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html). While
+    to get it online at [this website](https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html). While
     you are at it, it is good to get a PAN for your spouse as well,
     whether or not they are employed.
 
@@ -1681,7 +1680,7 @@ The different responsibilities are listed below:
    - *Academic activities*: Can guide students, and participate in all academic activities of the institute.
    - *Administration related activities*: Any admin work as delegated by Institute/department from time to time.
 
-2. **Assistant Professor (Grade-1)**:
+2. **Assistant Professor (Grade-II)**:
    - *Appointment details*: Equivalent to regular faculty; appointed thus because they are short of the 3-year post-PhD experience required for appointment as regular Asst Prof; likely to be regularized when this requirement is met.
    - *R&D activities*:
      - Eligible for one time seed grant, can take up all R&D Projects which includes consultancy.
@@ -3147,7 +3146,7 @@ accounts:
    minimum of 10% of your basic pay plus D.A. to the Tier-I account
    every month. You will not be able to withdraw from this account
    till you retire from service.  The Government (the Institute) will
-   contribute to this account 10% of your basic plus D.A. Subject to a
+   contribute to this account 14% of your basic plus D.A. Subject to a
    ceiling to be decided by the Government, your contribution, along
    with the contribution by the employer, will be invested by NSDL in
    debt instruments and stocks (85% fixed income and 15% equity).
