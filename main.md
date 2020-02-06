@@ -2,12 +2,12 @@
 title: Faculty Handbook
 numbersections: true
 documentclass: amsbook
-classoptions: 11pt
+classoptions: 10pt
 header-includes:
 - |
   ```{=latex}
   \usepackage{times}
-  \usepackage{geometry}
+  \usepackage[left=0.4in,right=0.4in,top=1in,bottom=1in]{geometry}
   \geometry{a5paper}
   ```
 ---
