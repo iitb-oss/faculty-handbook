@@ -147,6 +147,7 @@ the Institute is the Secretary of the Senate.
 ![Director](Director.jpg){width=200px}
 Prof. Devang Khakhar
 --->
+
 The CEO of the Institute is the Director who runs the Institute as per
 the policies decided by the Board. The Director is appointed by the
 Government of India and usually has a tenure of five years, which may
@@ -252,10 +253,11 @@ Deans. They are as follows:
       the Institute.
 
 Besides the Deans, there are Professors-in-Charge for various functional units. For example:
- - Computer Centre (https://www.cc.iitb.ac.in) for all data network as well as Institute supercomputer related issues
- - Continuing Education Programme (http://www.cep.iitb.ac.in/) for coordinating industrial training courses
- - Society for Innovation and Entrepreneurship for start-up incubation support (http://www.sineiitb.org/sine)
- - Research Park (http://www.respark.iitb.ac.in/#/home) for engagement with companies on campus
+
+ - [Computer Centre](https://www.cc.iitb.ac.in) for all data network as well as Institute supercomputer related issues
+ - [Continuing Education Programme](http://www.cep.iitb.ac.in/) for coordinating industrial training courses
+ - [Society for Innovation and Entrepreneurship](http://www.sineiitb.org/sine) for start-up incubation support
+ - [Research Park](http://www.respark.iitb.ac.in/#/home) for engagement with companies on campus
  - [Parimal and Pramod Chaudhari Centre for Learning & Teaching](http://www.ppcclt.iitb.ac.in) for faculty development and effective learning
 
 Then there is the Registrar, who is officially the custodian of all
