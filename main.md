@@ -65,10 +65,10 @@ IITs from the academic year 2008-2009. These are located in
 Bhubaneswar (Odisha), Gandhinagar (Gujarat), Hyderabad (Andhra
 Pradesh), Indore (Madhya Pradesh), Mandi (Himachal Pradesh), Patna
 (Bihar), Rupnagar (Panjab) and Jodhpur (Rajasthan). In 2012, the
-Institute of Technology of Banaras Hindu University at Varanashi
+Institute of Technology of Banaras Hindu University at Varanasi
 (Uttar Pradesh) was conferred the status of an IIT. Then, in
-2015-2016, the newest IITs were set up in Tirupati, Goa, Pallakad,
-Bhilai, Dharward and Jammu; at the same time, the Indian School of
+2015-2016, the newest IITs were set up in Tirupati, Goa, Palakkad,
+Bhilai, Dharwad and Jammu; at the same time, the Indian School of
 Mines, Dhanbad (Jharkhand) was converted to IIT Dhanbad, making a
 total of 23 at the time of writing.
 
@@ -189,7 +189,7 @@ Deans. They are as follows:
       Center](https://www.ircc.iitb.ac.in/) (IRCC) to take care of
       sponsored projects and consultancy matters. There is an
       Associate Dean (R&D) to help the Dean (R&D) discharge their
-      responsibilities. Later sections of this handbook (LINK HERE)
+      responsibilities. Later sections of this handbook
       will provide more detail on a few R&D related topics.
 
    4. The _Dean (Academic Programmes, AP)_ leads the [Academic
@@ -200,8 +200,8 @@ Deans. They are as follows:
       PGPC) of the Institute which processes all academic proposals
       received from academic units such as Departments, Schools and
       Centres. The Dean (AP) is assisted in his work by an Associate
-      Dean. Later sections of this handbook (LINK HERE) will provide
-      more detail on a few topics related to Academic Programmes.
+      Dean. Later sections of this handbook will provide more detail
+      on a few topics related to Academic Programmes.
 
    5. The _Dean (Infrastructure, Planning and Support, IPS)_ looks
       after all matters connected with creation of new civil
@@ -220,7 +220,7 @@ Deans. They are as follows:
       discharge of their responsibilities. Associate Dean - II (IPS)
       also serves as the Chairman, Accommodation Allotment Committee
       (AAC); i.e. (s)he is directly responsible for Housing related
-      matters. A later sections of this handbook (LINK HERE) will
+      matters. A later sections of this handbook will
       provide more detail on this.
 
    6. The _Dean (International Relations, IR)_ promotes and
@@ -429,7 +429,7 @@ Immediately on joining:
    Maharashtra Gas Service, which is located in the building known as
    'Powai Plaza' on the main road outside IIT (Adi Shankaracharya Marg
    or Jogeshwari Vikhroli Link Road - JVLR). The gas connection comes
-   in a matter of days, and the hardcopy record thereof can serve as
+   in a matter of days, and the hard copy record thereof can serve as
    an address proof in most places.
 
 5. The letter to IIT Hospital is to be presented to the Hospital
@@ -440,7 +440,7 @@ Immediately on joining:
    form, a form declaring your dependents, a form for joining the New
    Pension Scheme (NPS).
    a. New faculty have to join the NPS, details of which are given in
-   a later chapter (LINK HERE). (For people joining earlier to this
+   a later chapter. (For people joining earlier to this
    date, there was a Pension scheme or a non-pension Contributory
    Provident Fund).
 
@@ -468,7 +468,7 @@ Immediately on joining:
    will be signed by the Head of the Department and sent to the
    Administration. The Department will provide you with an office
    space equipped with a telephone (with limited local and STD (long
-   distance) facility) and, of course, stationeries. A personal
+   distance) facility) and, of course, stationery. A personal
    desktop computer with internet connection should also come within a
    few days.
 
@@ -499,10 +499,10 @@ Immediately on joining:
    Professor-in-Charge who you may contact for helpful advice in case
    of difficulty. The Campus School also has a kindergarten school for
    children above the age of three. For younger kids there is a
-   private creche (Sishu Vihar, temporarily located at the time of
+   private creche (Shishu Vihar, temporarily located at the time of
    writing in bungalow A-5 in the Lakeside area of Campus near the
    Main Gate), and run by an NGO. Detailed information on all of the
-   above is provided in later chapters (LINKS HERE).
+   above is provided in later chapters.
 
 10. You will have to apply for a Permanent Account Number (PAN) which
     is to be used in all your income tax returns; it is needed also by
@@ -597,7 +597,7 @@ Here are a few other links/apps that may be useful:
       ordering, there are several mobile apps like Swiggy, Zomato,
       Uber Eats, Food Panda, and so on)
 
-   3. For grocery shopping - Bigbasket or similar apps (You can
+   3. For grocery shopping - Big basket or similar apps (You can
       arrange with most local vendors, even small shops, to take
       orders over phone and deliver to your home if that is your
       preference - this includes chemist, grocer, greengrocer,
@@ -637,7 +637,7 @@ needs to give only a month's notice for termination and no reason may
 be given for such act. You may also opt for `voluntary retirement'
 from the service of the Institute by giving a three months' notice
 after having served the Institute for a minimum period of 20
-years. Voluntary retirement is discussed in a later section (LINK HERE).
+years. Voluntary retirement is discussed in a later section.
 
 # Rules & Regulations
 ## Rules for salary, allowances etc.
@@ -897,7 +897,7 @@ boarding passes and e-ticket copy  (please contact Accounts section
 for business class international travel).
 
 For road travel: if you travel by your own car or unmetered taxi (in
-places where metered taxies are not available), you could claim up to
+places where metered taxis are not available), you could claim up to
 Rs 16/- per kilometre.
 
 Under the 6th P.C., there is no daily allowance for domestic
@@ -1116,7 +1116,7 @@ any Extraordinary Leave.
 Out of INR 3 lakhs, a minimum of Rs 2 Lakhs is earmarked for
 presenting papers at conferences and a maximum Rs 1 Lakh can be spent
 towards membership of professional bodies, contingent expenses
-(includes purchase of books, stationeries, computers and related
+(includes purchase of books, stationery, computers and related
 items, electronic devices for professional use). Expenses for a
 conference includes cost of travel (by Air India), local transport,
 overseas medical insurance, cost of visa, registration fee and living
@@ -1130,12 +1130,12 @@ Out of the maximum allocation of contingency fund of INR 1 lakh in the block of 
 
 Availability of 1 lakh contingency fund is divided as follows:
     a. Up to Rs. 33,000/- available in first year
-    b. Upsent from(a) + Rs. 33,000/- available in second year
-    c. Upsent from(a) + (b) + Rs. 34,000/- available in third year
+    b. Unspent from(a) + Rs. 33,000/- available in second year
+    c. Unspent from(a) + (b) + Rs. 34,000/- available in third year
 
 In case the faculty has a paper accepted in a prestigious conference
 falling within same block, the Institute has made a provision for
-granting upto an additional Rs. 1 lakh from its own funds.
+granting up to an additional Rs. 1 lakh from its own funds.
 
 ### Rules for using CPDA for National Conferences
 The funds for conference participation can be utilised for
@@ -1160,7 +1160,7 @@ amount can also be utilised against any valid expenditure that has
 been incurred in connection with participation in international
 conferences, over and above the Rs. 1 lakh limit previously
 prevailing, if such has been the case. Such amounts may have been
-spent from RDF or one’s personal funds abd can now be transferred to
+spent from RDF or one’s personal funds and can now be transferred to
 RDF/ reimbursed as the case may be, subject to the Rs. 50,000/- limit.
 
   -  CPDA for both i.e. Rs. 2,00,000/- for Conference and
@@ -1205,7 +1205,7 @@ Funds and Limits      Utilization                   Per year basis   Approval ch
 --------------------  ---------------------------   --------------   ---------------------
 MHRD CPDA Conference  1. International conference   Can use whole    Conference: Faculty
 Funds (2 Lakhs)       2. National conference        amount at a      -> HoD -> AR (Admin)
-                      3. Upto 50,000 for books      time or in       -> Dean (FA)
+                      3. Up to 50,000 for books      time or in       -> Dean (FA)
                                                     parts            Books: Faculty
 													                 -> AR (Admin)
 
@@ -1221,7 +1221,7 @@ Funds (2 Lakhs)       secretarial work              33k: 2nd year    -> AR (Admi
 Table: Process of Approval
 
 ## IRCC International Travel Patent and Publication (IR-ITPP) grant
-IRCC provides support for international travel, international patenting charges and publication hrough its ITPP scheme, which is over and above the CPDA. Details may be found [here](https://drona.ircc.iitb.ac.in/home/faculty/iritpp).
+IRCC provides support for international travel, international patenting charges and publication through its ITPP scheme, which is over and above the CPDA. Details may be found [here](https://drona.ircc.iitb.ac.in/home/faculty/iritpp).
 
 ### Overview
 The salient features of IR-ITPP grants are as follows:
@@ -1330,10 +1330,10 @@ section for business class International travel).
 
 [^railonly]: For these faculty the entitlement is limited to 2$^{nd}$ AC class by rail.
 
-For road travel, Professors may use AC taxies while for all others
+For road travel, Professors may use AC taxis while for all others
 ordinary taxi is permitted. All faculty are entitled to travel by any
 type of public bus including Air-conditioned buses. If you travel by
-your own car or taxi (in places where metered taxies are not
+your own car or taxi (in places where metered taxis are not
 available), you could claim up to Rs. 16/- per kilometer.
 
 ### Daily allowance
@@ -1381,7 +1381,7 @@ two:
   section of Administration (AR-Admin 1/Establishment Section ) for
   issuance of certificate. The application can be made on plain paper
   directly to the Administration, addressed to the Registrar / Deputy
-  Registrar / Assistant Registrar: 
+  Registrar / Assistant Registrar:
 
    1. Address Proof
    2. for obtaining Domicile certificate
@@ -1394,11 +1394,11 @@ two:
    9. For obtaining PAN Card
    10. For obtaining Housing Loan from Bank
    11. LIC Policy
-   12. KG School Admission for grandchildren – Children should be in the Service record. 
-      (On roll and Retired employees) 	
-   13. KV School Admission for grandchildren – Children should be in the Service record. 
+   12. KG School Admission for grandchildren – Children should be in the Service record.
       (On roll and Retired employees)
-   14. Senior Citizen		
+   13. KV School Admission for grandchildren – Children should be in the Service record.
+      (On roll and Retired employees)
+   14. Senior Citizen
    15. Octroi exemption
    16. Other purpose
 
@@ -1414,7 +1414,7 @@ two:
       resignation / termination letter is forwarded through proper
       channel and all closing formalities are completed, a formal
       request letter from applicant is enough.
-   5. Vigilance Certificate: Request should be forwarded through HoD 
+   5. Vigilance Certificate: Request should be forwarded through HoD
 
 ## General Financial Rules
 The General Financial Rules (GFR) are a set of rules to be followed in
@@ -1430,7 +1430,7 @@ for your research programme, or for department/institute purposes.
 
 As per GFR 2017, all money received by or on behalf of the government
 either as dues of government or for deposits, remittances or otherwise
-shall be brought into government account without delay. 
+shall be brought into government account without delay.
 
 They stipulate that no authority may incur any expenditure or enter
 into any liability involving expenditure or transfer of money or
@@ -1450,8 +1450,8 @@ department (including IITB).
 The GFR describe how to purchase goods (items), the different modes of
 purchase like Single Tender Enquiry, Limited Tender Enquiry &
 Advertised Tender Enquiry procurement, along with local purchase
-committee based on market survey. 
-	
+committee based on market survey.
+
 The GFR prescribe how to purchase high value plant, machinery etc. of
 a complex and technical nature under two bids systems i.e. technical
 bid and financial bid it’s also talk about vendor registration, rate
@@ -1480,11 +1480,11 @@ under “Inventory Management” section of the GFR-2017.
 Contract Management talks about the general principles of a contract
 and its terms. These are outlined below.
 
-1. Implementation of the contract should be strictly monitored and notices issued promptly whenever a breach of provisions occurs. 
+1. Implementation of the contract should be strictly monitored and notices issued promptly whenever a breach of provisions occurs.
 
-2. Proper procedure for safe custody and monitoring of Bank Guarantees or other Instruments should be laid down. Monitoring should include a monthly review of all Bank Guarantees or other instruments expiring after three months, along with a review of the progress of supply or work. Extensions of Bank Guarantees or other instruments, where warranted, should be sought immediately. 
+2. Proper procedure for safe custody and monitoring of Bank Guarantees or other Instruments should be laid down. Monitoring should include a monthly review of all Bank Guarantees or other instruments expiring after three months, along with a review of the progress of supply or work. Extensions of Bank Guarantees or other instruments, where warranted, should be sought immediately.
 
-3. Wherever disputes arise during  implementation of a contract, legal advice should be sought before initiating action to refer the dispute to conciliation and/or arbitration as provided in the contract or to file a suit where the contract does not include an arbitration clause. The draft of the plaint for arbitration should be got vetted by obtaining legal and financial advice. Documents to be filed in the matter of resolution of dispute, if any, should be carefully scrutinized before filing to safeguard government interest. 
+3. Wherever disputes arise during  implementation of a contract, legal advice should be sought before initiating action to refer the dispute to conciliation and/or arbitration as provided in the contract or to file a suit where the contract does not include an arbitration clause. The draft of the plaint for arbitration should be got vetted by obtaining legal and financial advice. Documents to be filed in the matter of resolution of dispute, if any, should be carefully scrutinized before filing to safeguard government interest.
 
 
 ## Leave and Vacation
@@ -1718,7 +1718,7 @@ The different responsibilities are listed below:
    - *Academic activities*:
      - Cannot be Guides/ Co-Guides for students.
      - Cannot be members of RPC.
-     - Can be external Co-guies, subject to prior approval of Dean (AP).
+     - Can be external Co-guides, subject to prior approval of Dean (AP).
    - *Administration related activities*: No administrative activities allowed.
 
 6. **Emeritus Scientist**:
@@ -1741,7 +1741,7 @@ The different responsibilities are listed below:
    - *Appointment details*: Visit the Institute for a duration ranging from a few weeks to three years on a continued basis: such faculty would have a permanent position elsewhere in academia, industry or other organizations.
 Visit the Institute on a part time basis, generally for teaching (up to four days a week).
    - *R&D activities*:
-      - Cannot be Pls or Co-PIs.
+      - Cannot be PIs or Co-PIs.
 	  - No financial/administrative powers in projects.
 	  - Can participate only in technical activities of Sponsored projects
 	 - May be retained as external consultant in consultancy projects as per norms.
@@ -1765,7 +1765,7 @@ Visit the Institute on a part time basis, generally for teaching (up to four day
    - *Appointment details*:
      - Temporary research personnel who would like to carry out GoI
        funded projects at the Institute e.g.: Women Scientist, Fast
-       Track, Ramanujam, Solar science fellowships, INSPIRE, etc.
+       Track, Ramanujan, Solar science fellowships, INSPIRE, etc.
 	 - Honorary appointment to be made by Institute based on the
        recommendation of the Institute Standing Committee; the salary
        will be paid from the projects as applicable.
@@ -1793,11 +1793,11 @@ The Board of Governors has approved a proposal, based on the above consideration
 --->
 
 <!-- ### Promotion to higher posts -->
-<!-- Till recently, internal candidates could apply for higher posts only when the Insitute issued a call for applications, which happened once every two years. Changes to the promotion process[^promotionprocess] recently approved by the Board make it possible for internal candidates to apply for the next higher post against the open advertisement on the Institute's webpage that is always active, when they satisfy the requirements specified in the advertisement and feel they are ready to go to the next level based on their performance in the present post[^performance]. Such applications will be reviewed first at the Departmental level and then by IFAC, and the shortlisted applications go through a peer review process before being put before a statutorily constituted selection committee chaired by the Director. Details of the new promotion policy are available on the Dean (FA)'s webpage (see under `Internal links' on the Institute's webpage). -->
+<!-- Till recently, internal candidates could apply for higher posts only when the Institute issued a call for applications, which happened once every two years. Changes to the promotion process[^promotionprocess] recently approved by the Board make it possible for internal candidates to apply for the next higher post against the open advertisement on the Institute's webpage that is always active, when they satisfy the requirements specified in the advertisement and feel they are ready to go to the next level based on their performance in the present post[^performance]. Such applications will be reviewed first at the Departmental level and then by IFAC, and the shortlisted applications go through a peer review process before being put before a statutorily constituted selection committee chaired by the Director. Details of the new promotion policy are available on the Dean (FA)'s webpage (see under `Internal links' on the Institute's webpage). -->
 
 <!-- [^promotionprocess]: Note that the term 'promotion' is used somewhat loosely here, since any faculty post at any of the IITs may only be filled by fresh selection, and there is no provision for `promotions' as in other organs of the Government. -->
 
-<!-- [^performance]: The performance criteria are fairly clearly spelt out (see the Dean(FA)'s webpage), and it is expected in the course of two to three years that the performance criteria get linked to the annual self-asessments mentioned above. -->
+<!-- [^performance]: The performance criteria are fairly clearly spelt out (see the Dean(FA)'s webpage), and it is expected in the course of two to three years that the performance criteria get linked to the annual self-assessments mentioned above. -->
 
 ## Academic Rules
 As a faculty member, the academic responsibilities include: (i)
@@ -1979,7 +1979,7 @@ be submitted by the PI to the funding agency.
 IIT Bombay has recently deployed leading Enterprise Resource Planning
 software (ERP) from SAP which provides IT enabled platform for
 managing business processes such as purchase, payment, payroll, HR
-actions as well as estate management. Student lifecycle management,
+actions as well as estate management. Student life cycle management,
 currently handled through the homegrown software created by
 Application Software Center (ASC) is slated to move on ERP platform
 in 2020. Several other home grown and open source legacy IT systems
@@ -2005,7 +2005,7 @@ Currently, following IT systems are available to faculty members:
     currently undergoing enhancements. When fully deployed, the portal
     shall allow 40 different actions including 'application and
     settlement' of advances, loans, CPDA, LTC, TA and IR-ITPP
-    payments. The EP portal requires allocation of user license as
+    payments. The ERP portal requires allocation of user license as
     well as a SAP user ID which is same as your employee code. Online
     application form is available on ASC portal for requesting new SAP
     user id.  Helpdesk:
@@ -2683,7 +2683,7 @@ Once a consultancy project request is directed to PI the following steps are to 
     Expertise. For Cost Estimate Form, click as appropriate.
 
  6. When the project application is made, it is forwarded to the
-    deptartment HOD for approval. The PI can see the status of his
+    department HOD for approval. The PI can see the status of his
     application in Project Details.
 
  7. All the actions taken on your request will be informed to you by email.
@@ -2741,7 +2741,7 @@ The Institute encourages you to capitalize on your research findings which have 
 # Benefits
 
 ## Housing
-TODO
+
 
 The institute has undergone significant expansion and increase in
 number of students over last decade and a half. The increase in
@@ -2788,7 +2788,7 @@ before the search process is initiated. It is recommended that initial
 negotiated rent is limited to within the stipulated amount. The terms
 and issues regarding the escalation are handled by the Associate Dean
 IPS-2’s office. The maintenance and movement charges are usually
-expected to be borne by the faculty. 
+expected to be borne by the faculty.
 
 The contract or the lease agreement is drawn with IIT Bombay as the
 party and the letter of allotment is then issued by the Accommodation
@@ -2816,7 +2816,7 @@ process may have to be repeated.
 During the period of service, a staff member and his dependents (the term _dependent_ is clearly defined in the Service Rules, see Chapter 3) are provided medical facilities at the IIT Hospital, and whenever required, at various hospitals in the city which are empanelled by the Institute. Medical facility for employee and spouse is also available after retirement on a contributory basis (see the section on PRMS below).
 
 ### IIT Hospital
-The Institute has a reasonably well-equipped Hospital with both in-patient and out-patient facilities. In addition to several full time doctors, there are several visiting specialists who attend the Hospital on certain days and are available for consultation. The Hospital also provides for dental care as well as for homoeopathic medicine. Basic diagnostic facilities are provided at the Institute Hospital. These include pathology, X-Rays, Sonography, ECG etc. The Hospital also has a physiotherapy section. The Hospital administration is headed by a Chief Medical Officer (CMO)[^cmo]. A Committee known as the "Hosptial and Health Advisory Committee (HHAC)" headed by a Professor of the Institute acts as a general policy watchdog for the Hospital and related issues[^hhacchair]. This Committee reviews Hospital policies from time to time and recommends measures that need to be taken to improve Hospital services. All major reimbursement claims are also recommended for approval by this committee.
+The Institute has a reasonably well-equipped Hospital with both in-patient and out-patient facilities. In addition to several full time doctors, there are several visiting specialists who attend the Hospital on certain days and are available for consultation. The Hospital also provides for dental care as well as for homeopathic medicine. Basic diagnostic facilities are provided at the Institute Hospital. These include pathology, X-Rays, Sonography, ECG etc. The Hospital also has a physiotherapy section. The Hospital administration is headed by a Chief Medical Officer (CMO)[^cmo]. A Committee known as the "Hospital and Health Advisory Committee (HHAC)" headed by a Professor of the Institute acts as a general policy watchdog for the Hospital and related issues[^hhacchair]. This Committee reviews Hospital policies from time to time and recommends measures that need to be taken to improve Hospital services. All major reimbursement claims are also recommended for approval by this committee.
 
 [^cmo]: Currently, Dr. Nisha Shah.
 
@@ -2852,7 +2852,7 @@ When an employee or a dependent is admitted to an outside hospital, up to 80% of
 
 For the benefit of staff members staying outside the campus (as also for staff on vacation/leave), a list of Medicare Centres/Hospitals[^hosplist]  are approved for OPD treatment. Medicines purchased on prescription by doctors from these hospitals are reimbursed fully. However, further referrals from these hospitals to outside hospitals need to be sanctioned by IIT Hospital.
 
-[^hosplist]: These hospitals, at present, are: Pragati Mitra Mandal (Mulund(W)), Smt. Nand Kunverben Rasiklal Seth Hosp. (Borivli(W)), Maland Jain Yuvak Mandal Med. Relief Centre (Malad(W)), Lions Clinic(Matunga), Vasani Diagnostic Centre(Andheri) and Seth Nanji Gangji Charitable Polyclinic (Dombivali). See the hospital website for up-to-date information.
+[^hosplist]: These hospitals, at present, are: Pragati Mitra Mandal (Mulund(W)), Smt. Nand Kunverben Rasiklal Seth Hosp. (Borivali (W)), Malad Jain Yuvak Mandal Med. Relief Centre (Malad (W)), Lions Clinic (Matunga), Vasani Diagnostic Centre (Andheri) and Seth Nanji Gangji Charitable Polyclinic (Dombivali). See the hospital website for up-to-date information.
 
 For reimbursement, separate forms for OPD (inclusive of cost of medicine purchased from outside) and indoor treatment,  available in the Hospital office[^websiteforms], should be filled up and submitted along with cash memos within three months. Please note that except in case of emergency, no reimbursement is permissible unless the reference was made by the IIT Hospital to the outside hospital.
 
@@ -2872,8 +2872,8 @@ employee, if eligible, can take the facility of the Institute Hospital
 for various purposes as available & further can be referred to
 Institute empanelled hospital on the recommendation of the CMO/MO/SMO,
 wherein the expenditure incurred is reimbursed as per Institute
-rules. More details are available here: LINK HERE.
-	
+rules. More details are available here:
+
 Out-service medical benefits afforded after retirement comprise the
 Post-Retirement Medical Scheme. Further, there are two types of scheme
 for retirees.
@@ -2890,7 +2890,7 @@ Therefore, all those who were on roll of the Institute on 11th march,
 2015, as permanent employees were entitled to join the scheme on
 exercising an option in this regard within three months of adoption of
 the scheme by the Board of governors, whereas for those who join the
-Institute / confirmed after that date the scheme is mandatory. 
+Institute / confirmed after that date the scheme is mandatory.
 
 Under this scheme, a monthly subscription is to be paid by all the
 members of the scheme based on their pay scales to avail the benefits
@@ -2910,7 +2910,7 @@ webpage](https://www.iitb.ac.in/en/about-iitbombay/new-post-retirement-medical-s
 There are three schools on the campus for children: Kendriya Vidyalaya, Campus School, and KG School; plus a full-fledged child care (day care) and play school, Sishu Vihar. The Campus School also has a kindergarten school for children above the age of three. For younger kids there is a private creche (Sishu Vihar, temporarily located at the time of writing in bungalow A-5 in the Lakeside area of Campus near the Main Gate), and run by an NGO.
 
 ### Kendriya Vidyalaya (Central School) IIT Powai
-This is part of the Kendriya Vidyalaya Sanghatan (KVS) network and is usually ranked among the top government day (i.e. not boarding) schools in India. It has classes I through XII, and is affiliated to the Central Board of Secondary Education (CBSE). Most of the seats here are reserved for the children of IIT employees; with a small fraction reserved for other Central Government organizations. You might have some anxious moments before your child gets admission, but eventually it works out, in almost all cases. In case of exceptional difficulty in getting admission into the Kendriya Vidyalaya, our Director, who is ex-officio the Chairman of the Vidyalaya Management Committee can help out by exercising their discretionary quota. There is also a Professor-in-Charge who you may contact for helpful advice in case of difficulty. More details about KV IIT Bombay may be found on [its webpage](http://www.kviitmumbai.com/English-Homepage).
+This is part of the Kendriya Vidyalaya Sangathan (KVS) network and is usually ranked among the top government day (i.e. not boarding) schools in India. It has classes I through XII, and is affiliated to the Central Board of Secondary Education (CBSE). Most of the seats here are reserved for the children of IIT employees; with a small fraction reserved for other Central Government organizations. You might have some anxious moments before your child gets admission, but eventually it works out, in almost all cases. In case of exceptional difficulty in getting admission into the Kendriya Vidyalaya, our Director, who is ex-officio the Chairman of the Vidyalaya Management Committee can help out by exercising their discretionary quota. There is also a Professor-in-Charge who you may contact for helpful advice in case of difficulty. More details about KV IIT Bombay may be found on [its webpage](http://www.kviitmumbai.com/English-Homepage).
 
 
 ### Campus School and Jr. College
@@ -2999,7 +2999,7 @@ For those who joined the Institute before 2004, there were two retirement scheme
    a. _Pension:_ The maximum rate of pension is half the basic pay at
 		the time of retirement, or 50% of the average monthly
 		remuneration drawn during the last ten months of service,
-		whichever is beneficial[^retireavg], along with the applicable rate of D.A. This requires having put in a minimum of 20 years of service, for voluntary retirees, and 10 years of qualifying service for superannuating faculty (the durations not counting extra-ordinary leave or unauthorized absence dies non or periods of suspension which are followed by major penalty).
+		whichever is beneficial[^retireavg], along with the applicable rate of D.A. This requires having put in a minimum of 20 years of service, for voluntary retirees, and 10 years of qualifying service for superannuating faculty (the duration not counting extra-ordinary leave or unauthorized absence dies non or periods of suspension which are followed by major penalty).
     b. _Commutation of Pension:_ It is possible to offer to the
        Institute that a percentage of your pension be commuted,
        i.e. you opt to receive a one time lump-sum amount and a
