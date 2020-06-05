@@ -42,7 +42,7 @@ administration when the need arises.
 Prof. A. K. Suresh (Dean, Faculty Affairs)
 
 # The Institute
-The Indian Institutes of Technology (IITs) were established on the recommendation of a Committee headed by Sir Nalini Ranjan Sarkar, a businessman, educationist, industrialist and public figure. The Committee had recommended the establishment of institutes of national importance to be set up in different regions of India. The first of the IITs was set up in Kharagpur (whose other claim to fame is having the longest railway platform in the world) in the state of West Bengal in 1950 at a site in Hijli village which used to be a British-era detention camp. The vision of establishing these Institutes is best stated in the words of India's first Prime Minister Pt. Jawaharlal Nehru in his convocation speech at the Institute:
+The Indian Institutes of Technology (IITs) were established on the recommendation of a Committee headed by Sir Nalini Ranjan Sarkar, a businessman, educationist, industrialist and public figure. The Committee had recommended the establishment of institutes of national importance to be set up in different regions of India. The first of the IITs was set up in Kharagpur in 1950 at a site in Hijli village which used to be a British-era detention camp. The vision of establishing these Institutes is best stated in the words of India's first Prime Minister Pt. Jawaharlal Nehru in his convocation speech at the Institute:
 
 ![Nehru](Nehru.jpg){width=200px}
 ![Nehru speech](Nehru_speech.jpg){width=200px}
@@ -53,24 +53,23 @@ followed by those at Madras (1959), Kanpur (1959) and Delhi
 (1961). Though the names of the cities Bombay and Madras were later
 changed respectively to Mumbai and Chennai, the Institutes at these
 two places retain the original names. Thus our institute is IIT
-Bombay, or, abbreviated to IITB.  IIT Bombay celebrated its Diamond
-Jubilee in 2018.
+Bombay, or, abbreviated to IITB.  IIT Bombay celebrated its Golden
+Jubilee in 2008 and Diamond Jubilee in 2018.
 
-In 1994 a sixth IIT was established in Guwahati in the State of
-Assam. Seven years later, in the year 2001, one of the oldest
-engineering colleges of the country situated in Roorkee (in the State
-of Uttarakhand) was given the status of an IIT in its 150th
-anniversary year. The Government of India decided to open eight new
-IITs from the academic year 2008-2009. These are located in
-Bhubaneswar (Odisha), Gandhinagar (Gujarat), Hyderabad (Andhra
-Pradesh), Indore (Madhya Pradesh), Mandi (Himachal Pradesh), Patna
-(Bihar), Rupnagar (Panjab) and Jodhpur (Rajasthan). In 2012, the
-Institute of Technology of Banaras Hindu University at Varanasi
-(Uttar Pradesh) was conferred the status of an IIT. Then, in
-2015-2016, the newest IITs were set up in Tirupati, Goa, Palakkad,
-Bhilai, Dharwad and Jammu; at the same time, the Indian School of
-Mines, Dhanbad (Jharkhand) was converted to IIT Dhanbad, making a
-total of 23 at the time of writing.
+In 1994, a sixth IIT was established in Guwahati, Assam. Seven years
+later, in the year 2001, one of the oldest engineering colleges of the
+country situated in Roorkee, Uttarakhand, was given the status of an
+IIT in its 150th anniversary year. The Government of India decided to
+open eight more IITs from the academic year 2008-2009. These are
+located in Bhubaneswar (Odisha), Gandhinagar (Gujarat), Hyderabad
+(Telengana), Indore (Madhya Pradesh), Mandi (Himachal Pradesh), Patna
+(Bihar), Ropar (Punjab) and Jodhpur (Rajasthan). In 2012, the
+Institute of Technology of Banaras Hindu University at Varanasi (Uttar
+Pradesh) was conferred the status of an IIT. Then, in 2015-2016, a few
+more IITs were set up in Tirupati, Goa, Palakkad, Bhilai, Dharwad and
+Jammu; at the same time, the Indian School of Mines, Dhanbad
+(Jharkhand) was converted to IIT Dhanbad, making a total of 23 at the
+time of writing.
 
 ## Who's who
 
@@ -78,14 +77,18 @@ There are two statutory documents that stipulate the way the Institute is to be 
 
 
 ### The Visitor
-Formally, the President of India is officially the chief of the IITs; (s)he is  called the Visitor of the Institutes. In reality, the Institute does not deal directly with the Visitor, but routes all paperwork requiring their approval through the Ministry of Human Resource Development, MHRD for short.
+Formally, the President of India is officially the chief of the IITs;
+(s)he is  called the Visitor of the Institutes. In reality, the
+Institute does not deal directly with the Visitor, but routes all
+paperwork requiring their approval through the Ministry of Human
+Resource Development (MHRD).
 
 ### The IIT Council
 At the very top of all the IITs' administration is the [IIT
 Council](https://www.iitsystem.ac.in). The Chairman of the Council is
 the Minister of Human Resource Development, which is the central
-ministry under which our Institute comes. The Council is a very large
-organization with very large number of (ex-officio) members, e.g. the
+ministry under which our Institute comes. The Council is an
+organization with a large (ex-officio) members, e.g. the
 Chairmen and the Directors of all IITs, Chairman and Director of IISc,
 Bangalore, Director General of CSIR, Chairman UGC and a few nominated
 members.
@@ -93,52 +96,55 @@ members.
 ### The Board of Governors
 
 Each IIT has its own Board of Directors, called the Board of Governors
-or BOG. The BOG meets often, at least four times a year. Almost all
-major policy decisions have to be approved by the Board. For instance,
-all appointments, major purchases, constructions etc. require approval
-and authorization of the Board. The meetings of the Board are
-generally spaced every three months. The Chairman of the Board
-approves urgent items that cannot wait for the next Board Meeting;
-these are approved _post facto_ by the BOG.
+(BOG), which meets, at least four times a year. Almost all major
+policy decisions have to be approved by the Board. For instance, all
+appointments, major purchases, constructions etc. require approval and
+authorization of the Board. The meetings of the Board are generally
+held once in three months. The Chairman of the Board approves urgent
+items that cannot wait for the next Board Meeting; these are approved
+_post facto_ by the BOG.
 
-The Board has 11 members. In addition to the Chairman and the Director
-of the Institute, who are _ex officio_ members of the Board, one
-nominee each of the governments of the states Maharashtra, Goa and the
-Union Territory of Dadra and Nagar Haveli, which comprise the zone in
-which the Institute is situated, are members of the Board.  There are
-four nominees, having special knowledge or practical experience in
-respect of education, engineering or science, from the IIT Council to
-the Board. The remaining two members are nominees of the Senate of IIT
-Bombay. These members are, in practice, recommended by the Senate
-Nominations Committee. The Registrar of the Institute is the _ex
-officio_ Secretary of the Board of Governors.
+The Board has 11 members. In addition to the Chairman (appointed by
+MHRD) and the Director of the Institute, who are _ex officio_ members
+of the Board, one nominee each of the governments of the states
+Maharashtra, Goa and the Union Territory of Dadra and Nagar Haveli,
+which comprise the zone in which the Institute is situated, are
+members of the Board.  There are four nominees, having special
+knowledge or practical experience in respect of education, engineering
+or science, from the IIT Council to the Board. The remaining two
+members are nominees of the Senate of IIT Bombay. These members are,
+in practice, recommended by the Senate Nominations Committee. The
+Registrar of the Institute is the _ex officio_ Secretary of the Board
+of Governors.
 
-Two crucial Institute committees report to the Board. The first of
-these is the _Finance Committee_, which acts as the watchdog of the
-Institute funds. Any proposal, which requires major fund allocation is
-generally routed through the Finance Committee. The Financial Advisor
-to MHRD is a member of the Finance Committee. The second is the
-_Building and Works Committee_, which has the power to recommend all
-major construction projects.
+Two crucial Institute committees, namely the _Finance Committee_ and
+the _Building and Works Committee_ report to the Board. Any proposal,
+which requires major fund allocation is generally routed through the
+Finance Committee, acts as the watchdog of the Institute funds. The
+Financial Advisor to MHRD is a member of the Finance Committee. The
+Building and Works Committee is responsible for all the major
+construction projects in the institute, and has the power to make
+recommendations related to these.
 
 ### The Senate
 
 The Senate is the highest academic body of the Institute, which
 approves courses of study, frames rules of academic programmes,
-conducts evaluations and finally recommends award of degrees to the
-Board of Governors.  For example, any new academic programme or change
-to an existing one have to be first proposed by the department/other
-academic unit to the programme committees (PC) of the Senate where it
-is discussed and approved, possibly with revisions, for final
-presentation to the Senate for approval. Likewise, evaluation
-committees (APEC) of the Senate formally scrutinize academic
-performance evaluated by the individual instructors or boards of
-examiners, before it is presented to the Senate for approval.
+conducts evaluations and finally recommends the award of degrees to
+the Board of Governors.  For example, any new academic programme or
+change to an existing one have to be first proposed by the
+department/other academic unit to the programme committees (PC) of the
+Senate where it is discussed and approved, possibly with revisions,
+for final presentation to the Senate for approval. Likewise,
+evaluation committees (APEC) of the Senate formally scrutinize
+academic performance evaluated by the individual instructors or boards
+of examiners, before it is presented to the Senate for approval.
 
 All (full) Professors of the Institute are _ex officio_ members of the
 Senate. It also has some rotating members from the non-professorial
-faculty and a few members from outside the Institute. The Registrar of
-the Institute is the Secretary of the Senate.
+faculty, student representatives, a few members from outside the
+Institute. The Registrar of the Institute is the Secretary of the
+Senate.
 
 ### Who's who at the institute
 
@@ -148,8 +154,8 @@ the Institute is the Secretary of the Senate.
 Prof. Devang Khakhar
 --->
 
-The CEO of the Institute is the Director who runs the Institute as per
-the policies decided by the Board. The Director is appointed by the
+The Director is the CEO of the Institute and runs the Institute as per
+the policies decided by the Board. He/She Director is appointed by the
 Government of India and usually has a tenure of five years, which may
 be extended until (s)he reaches the age of superannuation.
 
@@ -158,24 +164,24 @@ his cabinet ([more
 details](http://www.iitb.ac.in/en/about-iit-bombay/iit-bombay-functional-organisation)). At
 the time of writing, there are two Deputy Directors, Deputy Director
 (Academic and Infrastructural Affairs or AIA), and Deputy Director
-(Finance and External Affairs, or FEA), one of who serves as Acting
+(Finance and External Affairs, or FEA), one of whom serves as Acting
 Director whenever the Director is away.  The powers vested in the
 Director have been delegated, up to certain limits, to various Deans
 in the interest of smooth administration. There are eight (8)
 Deans. They are as follows:
 
    1. The _Dean (Faculty Affairs, FA)_ is practically the 'Head of
-   Human Resources' as far as faculty members are concerned. Their job
-   is to look at matters connected with the faculty and their welfare,
-   including recruitment, appraisal, special leaves of absence and
-   exit - for which their office interfaces with the relevant
-   Department. Similarly, they might interface with the offices of
-   other Deans on other matters pertaining to faculty welfare,
-   e.g. with Dean (Infrastructure, Planning & Support, IPS) on
-   housing. That said, the Dean (FA) office is not quite a
-   'single-window' at the time of writing - for example, as a faculty
-   member, one may also need to interact directly with the office of
-   the Dean (IPS) for housing.
+   Human Resources' as far as faculty members are concerned. His/her
+   job is to look at matters connected with the faculty (and institute
+   post-doctoral fellows) and their welfare, including recruitment,
+   appraisal, special leaves of absence and retirement - for which
+   his/her office interfaces with the relevant Department. Similarly,
+   they might interface with the offices of other Deans on other
+   matters pertaining to faculty welfare, e.g. with Dean
+   (Infrastructure, Planning & Support, IPS) on housing. That said,
+   the Dean (FA) office is not quite a 'single-window' at the time of
+   writing - for example, as a faculty member, one may also need to
+   interact directly with the office of the Dean (IPS) for housing.
 
    2. The _Dean (Alumni Corporate Relations, ACR)_ looks after
    relations with alumni, and coordinates donations received from
@@ -199,9 +205,9 @@ Deans. They are as follows:
       undergraduate and postgraduate programme committees (UGPC and
       PGPC) of the Institute which processes all academic proposals
       received from academic units such as Departments, Schools and
-      Centres. The Dean (AP) is assisted in his work by an Associate
-      Dean. Later sections of this handbook will provide more detail
-      on a few topics related to Academic Programmes.
+      Centres. The Dean (AP) is assisted in his/her work by an
+      Associate Dean. Later sections of this handbook will provide
+      more detail on a few topics related to Academic Programmes.
 
    5. The _Dean (Infrastructure, Planning and Support, IPS)_ looks
       after all matters connected with creation of new civil
@@ -216,12 +222,12 @@ Deans. They are as follows:
       responsible for power supply and electrical maintenance
       (including air conditioners), the Design Cell, which is
       responsible for interior design and renovation, and the Public
-      Health Office. Two Associate Deans assist the Dean in the
-      discharge of their responsibilities. Associate Dean - II (IPS)
+      Health Office. Two Associate Deans assist the Dean in
+      discharging thse responsibilities. Associate Dean - II (IPS)
       also serves as the Chairman, Accommodation Allotment Committee
       (AAC); i.e. (s)he is directly responsible for Housing related
-      matters. A later sections of this handbook will
-      provide more detail on this.
+      matters. A later section of this handbook will provide more
+      detail on this.
 
    6. The _Dean (International Relations, IR)_ promotes and
       administers international linkages (see [International Relations
@@ -238,7 +244,7 @@ Deans. They are as follows:
    7. The _Dean (Students Affairs, SA)_ is responsible for student
       activities and welfare ([more
       details](https://gymkhana.iitb.ac.in/students/contact.html)),
-      excepting academic matters (which are dealt with by the Dean
+      other than academic matters (which are dealt with by the Dean
       (AP)). These include hostel, sports and cultural affairs. The
       Dean (SA) also chairs the Disciplinary Action Committee (DAC) to
       look into infringement of disciplinary rules applicable to the
@@ -248,7 +254,7 @@ Deans. They are as follows:
    8. The _Dean (Administrative Affairs, AA)_ deals with broad policy
       issues relating to administration, such as the management of
       staff manpower, continuous planning and reworking of
-      administrative workflows, automation of administrative
+      administrative workflows and automation of administrative
       procedures. This is the newest deanship that has been created in
       the Institute.
 
