@@ -264,34 +264,39 @@ Besides the Deans, there are Professors-in-Charge for various functional units. 
  - [Continuing Education Programme](http://www.cep.iitb.ac.in/) for coordinating industrial training courses
  - [Society for Innovation and Entrepreneurship](http://www.sineiitb.org/sine) for start-up incubation support
  - [Research Park](http://www.respark.iitb.ac.in/#/home) for engagement with companies on campus
- - [Parimal and Pramod Chaudhari Centre for Learning & Teaching](http://www.ppcclt.iitb.ac.in) for faculty development and effective learning
+ - [Parimal and Pramod Chaudhari Centre for Learning &
+   Teaching](http://www.ppcclt.iitb.ac.in) for faculty development and
+   effective learning
+   TODO More?
 
 Then there is the Registrar, who is officially the custodian of all
 records and funds received by the Institute. (S)he signs the cheques
 issued by the Institute and all payments payable to the Institute are
 paid to the Registrar, IIT Bombay. (S)he is also the Member-Secretary
-of the Senate and the Secretary of the Board of Governors. (S)he also
-is the Head of the administration.
+of the Senate and the Secretary of the Board of Governors. (S)he is
+also the Head of the administration.
 
 ## Academic Units & their internal administration
 
-The broad disciplines in which IITB has its teaching and research
-activities are those of Engineering, Science, Management, Design,
-Educational Technology, Entrepreneurship, and Policy ([more
+TODO: Check number of departments, centres etc.  The broad disciplines
+in which IITB has its teaching and research activities are those of
+Engineering, Science, Management, Design, Educational Technology,
+Entrepreneurship, and Policy ([more
 details](http://www.iitb.ac.in/en/education/academic-divisions)). Academic
-programmes in these areas are hosted in 15 Departments, 1 School, 7
-Centres and 4 Interdisciplinary programmes. By convention, a
-'Department' is a unit which offers the whole range of academic
-programmes ranging from undergraduate to doctoral degrees and a
-'Centre ' hosts postgraduate and research
-programmes. Interdisciplinary programmes (IDPs) are nucleated by
-faculty coming together from different disciplines to define a common
-research agenda, and over time as the activities take a definite shape
-and build up in strength, such IDPs may become Centres
-themselves. Schools are set up in targeted areas, with significant
-funding from external sources. In addition, there are service centres
-such as the Computer Centre, which do not host any academic or
-research programmes.
+programmes in these areas are hosted in 16 Departments, 1 School, 19
+Centres and 4 Interdisciplinary programmes.
+
+ - A 'Department' is a unit that offers the whole range of academic
+   programmes ranging from undergraduate to doctoral degrees.
+ - A 'Centre ' hosts only postgraduate and research programmes.
+ - Interdisciplinary programmes (IDPs) are nucleated by faculty coming
+   together from different disciplines to define a common research
+   agenda, and over time, as the activities take a definite shape and
+   build up enough strength, such IDPs may become Centres
+   themselves. Schools are set up in targeted areas, with significant
+   funding from external sources.
+ - In addition, there are service centres such as the Computer
+   Centre, which do not host any academic or research programmes.
 
 The academic units mentioned above are headed, usually by a faculty
 member of the unit itself, and usually of the rank of Professor. The
@@ -304,56 +309,58 @@ through the Head. This includes nearly all official applications
 going from a faculty member to the Institute.
 
 The Head of an academic unit functions with the aid of several
-committees. The largest and most important of these is the
-departmental faculty itself, which meets as a body at least once every
-semester, and takes major decisions of broad impact. Then there is the
-Departmental Policy Committee (DPC) meets at least twice every
-semester and has the responsibility of framing policy on matters of
-interest to the Department. The DPC has the important role of ensuring
-continuity in broad policy directions and is an elected body with
-representation of all constituent cadres and groups of faculty in the
-department. In addition to the DPC, there is the Departmental
-Undergraduate Programme Committee (DUGC) and the Departmental
-Postgraduate Programme Committee (DPGC) to decide on matters relating
-the to respective academic programmes, and issues pertaining to
-students therein.
+committees.
+
+  - The largest and most important of these is the departmental
+    faculty itself, which meets at least once every semester for a
+    Faculty Meeting (DFM), and takes major decisions of broad impact.
+  - The Departmental Policy Committee (DPC) meets at least twice every
+    semester and has the responsibility of framing policy on matters
+    of interest to the Department. The DPC has the important role of
+    ensuring continuity in broad policy directions and is an elected
+    body with representation of all constituent cadres and groups of
+    faculty in the department.
+  - The Departmental Undergraduate Programme Committee (DUGC) and the
+    Departmental Postgraduate Programme Committee (DPGC) to decide on
+    matters relating the to respective academic programmes, and issues
+    pertaining to students therein.
 
 The deliberations of these committees, in the form of minutes, is
 communicated to concerned functionaries in the central administration,
-who are thus apprised of the issues the departmental faculty are
-seized of.
+who are updated of the issues of the departmental faculty.
 
 The structure and function of these and other committees were set out
 in the Report of the Committee for Review of the Academic Bodies
-(which has come to be known as the CRAB committee report) in 1972
-(detailed guidelines in respect of DPC were formulated in 2011).
+(which is known as the CRAB committee report) in 1972 (detailed
+guidelines in respect of DPC were formulated in 2011).
 
 # When You Join
 Welcome to I.I.T. Bombay's faculty fraternity! The Institute promises
 you interesting times ahead. Setting up home and workplace might
 appear to be a tough proposition at first, particularly if you are
-arriving from a more orderly place (US, Europe, Japan et al.). Things
+arriving from a more orderly place (US, Europe, Japan etc.). Things
 you might have taken for granted abroad, may not be so straightforward
-here. The Institute administration is constantly striving to improve
-its systems and processes - in particular, to smoothen the transition
-for new faculty - and is open to your suggestions in this regard. The
-Head of your Department/Centre is officially your liaison with the
-Institute and, as such, may be freely approached for help if you face
-any issues. Also, most senior colleagues would be more than happy to
-guide and help informally - do not hesitate to ask! What follows is a
+here. The Institute administration is constantly improving its systems
+and processes - in particular, to smoothen the transition for new
+faculty - and is open to your suggestions in this regard. The Head of
+your Department/Centre is officially your liaison with the Institute
+and, as such, may be freely approached for help if you face any
+issues. Also, most senior colleagues would be more than happy to guide
+and help informally - please do not hesitate to ask! What follows is a
 quick look at what you need to do just before and after your arrival.
 
 
-First, once you have decided on the dates of your arrival, please
-write an email to your Head of the Department with a copy (cc) to the
-Dean (FA), requesting her/him to book a room in the Institute Guest
-House where you can check in on arrival.  You may also request
-transportation to receive you at the Airport and bring you to campus.
+First, once you have decided on the date of your arrival, please write
+an email to your Head of the Department with a copy (cc) to the Dean
+(FA), requesting her/him to book a room in the Institute Guest House,
+where you can check in upon arrival.  You may also request
+transportation to receive you at the Airport and bring you to the
+campus.
 
 The Institute provides for Relocation Allowance to new faculty ([more
-details](http://www.iitb.ac.in/en/careers/faculty-facilities)). Remember
-to keep your receipts/air-tickets etc. for claiming the
-reimbursement. This holds for all future official travel as well! If
+details](http://www.iitb.ac.in/en/careers/faculty-facilities)). Please
+remember to keep your receipts/air-tickets etc. for claiming this
+reimbursement. This applies to all future official travel as well!  If
 you accept the relocation allowance, you have to agree to serve the
 Institute for a minimum period of three years. If you leave the
 Institute before this period, the Institute may ask you to return the
@@ -361,13 +368,12 @@ relocation amount paid, either fully or partially.
 
 If you are joining as a fresh faculty as an Assistant Professor, you
 are eligible to receive the [Young Faculty Award (YFA) endowed by our
-alumni](http://www.iitb.ac.in/alumni/en/contribution-purpose/young-faculty-awards). If
-possible, do spend a few minutes to send a letter of appreciation to
-our Alumni Association - through the Office of the Dean (ACR) - for
-their gift. The paperwork for the YFA requires a legal process called
-franking - you can now get this done in the Administration Section in
-the Main Building itself (until recently, this facility was not
-available on-campus).
+alumni](http://www.iitb.ac.in/alumni/en/contribution-purpose/young-faculty-awards). Please
+do spend a few minutes to send a letter of appreciation to our Alumni
+Association - through the Office of the Dean (ACR) - for their
+gift. The paperwork for the YFA requires a legal process called
+franking - which can be done with the help of the Administration Section in
+the Main Building.
 
 The relocation allowance and YFA are also admissible to Assistant
 Professors (contractual basis), appointed through statutorily
@@ -388,7 +394,7 @@ Immediately on joining:
    a. Original and copies of all academic certificates from SSC (10th
    Board) to Ph.D. SSC or HSC certificate which gives your date of
    birth is very important as the Administration does not accept any
-   other proof of date of birth.
+   other proof for date of birth.
    b. Several passport size photographs for various purposes.
    c. If you were previously employed, a certificate stating that you
    have been relieved of your position there.
@@ -405,15 +411,15 @@ Immediately on joining:
    members spend the first few years in off-campus accommodation. This
    could be a flat already leased out to IIT, or a flat that you find
    and get IIT to lease for you; IIT will take care of the rent up to
-   a limit of about 40,000 INR - which should get you a small 2BHK (2
+   a limit of about Rs. 40,000 - which should get you a small 2BHK (2
    bedroom, 1 Hall, 1 Kitchen) flat in the vicinity of Campus. If you
    are keen to stay on-campus and rather lucky, you may get a Staff
-   Hostel flat/quarter - 1BHK (1 Bedroom, 1 Hall, 1 Kitchen) allotted
+   Hostel flat/quarter - 1 BHK (1 Bedroom, 1 Hall, 1 Kitchen) allotted
    to you. There may be a trade-off here between the better quality of
    life if you stay on-campus, and the better quality accommodation
-   that you are likely to get outside. After a few years, you may
-   expect to get a better quality flat on campus allotted to you as
-   ‘regular accommodation’. (If you happen to have joined the
+   that you are likely to get outside. After a two to three years, you
+   may expect to get a better quality flat on campus allotted to you
+   as ‘regular accommodation’. (If you happen to have joined the
    Institute directly as a Professor, you will get a C-type quarter -
    2 or 3 BHK - as your ad-hoc allotment). Regular accommodation is
    done by a seniority rule (for details, please see [Seniority and
@@ -422,13 +428,14 @@ Immediately on joining:
    on-campus quarters do not come furnished and you will have to
    furnish it yourself. A home telephone connected to the internal
    exchange will be provided which does not have outside call
-   facilities. You may decide to get a personal telephone connection
-   either from MTNL or from one of the other private operators. Your
-   quarter would also have internet facilities connected to the
-   Institute network. Please retain your accommodation allotment
-   letter in a safe place, as it will serve as proof of address for
-   various purposes; in particular, it will come in useful for
-   applying for a LPG cooking cylinder connection.
+   facilities. You may decide to get a personal landline or mobile
+   phone connection either from MTNL or from one of the other private
+   operators. Your quarter would also have internet facilities
+   connected to the Institute network. Please retain your
+   accommodation allotment letter in a safe place, as it will serve as
+   proof of address for various purposes; in particular, it will come
+   in handy for various purposes like applying for a LPG cooking
+   cylinder connection, opening a bank account etc.
 
 4. An LPG connection is essential if you plan to cook at home. The
    simplest way is to take your accommodation allotment letter to
@@ -3198,3 +3205,5 @@ withdrawals work, including:
 
 Up to date information on NPS and details on accessing your account balance
 online are available at the [NPS CRA website](https://npscra.nsdl.co.in/).
+
+Markdown finished at Fri Jun  5 10:44:25
