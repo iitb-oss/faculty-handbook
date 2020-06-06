@@ -2,7 +2,7 @@ image: debian:testing
 
 pages:
   script:
-    - apt update && apt -y install texlive-latex-extra pandoc make
+    - apt update && apt -y install texlive-latex-extra pandoc make texlive-xetex fonts-ubuntu
     - make -B
     - mkdir -p public
     - cp out.pdf out.html *.css *.jpg public
