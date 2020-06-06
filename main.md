@@ -9,6 +9,10 @@ header-includes:
   \usepackage{times}
   \usepackage[left=0.4in,right=0.4in,top=1in,bottom=1in]{geometry}
   \geometry{a5paper}
+  \usepackage{fontspec}
+  \usepackage{newunicodechar}
+  \newfontfamily{\ubuntu}[Scale=0.95]{Ubuntu Light}
+  \newunicodechar{₹}{{\ubuntu ₹\thinspace}}
   ```
 ---
 
@@ -411,7 +415,7 @@ Immediately on joining:
    members spend the first few years in off-campus accommodation. This
    could be a flat already leased out to IIT, or a flat that you find
    and get IIT to lease for you; IIT will take care of the rent up to
-   a limit of about Rs. 40,000 - which should get you a small 2BHK (2
+   a limit of about ₹ 40,000 - which should get you a small 2BHK (2
    bedroom, 1 Hall, 1 Kitchen) flat in the vicinity of Campus. If you
    are keen to stay on-campus and rather lucky, you may get a Staff
    Hostel flat/quarter - 1 BHK (1 Bedroom, 1 Hall, 1 Kitchen) allotted
@@ -442,8 +446,8 @@ Immediately on joining:
    Maharashtra Gas Service, which is located in the building known as
    'Powai Plaza' on the main road outside IIT (Adi Shankaracharya Marg
    or Jogeshwari Vikhroli Link Road - JVLR). The gas connection comes
-   in a matter of days, and the hard copy record thereof can serve as
-   an address proof in most places.
+   in a few days, and the hard copy record thereof can serve as an
+   address proof in most places.
 
 5. The letter to IIT Hospital is to be presented to the Hospital
    reception, where an appointment will be scheduled for your medical
@@ -451,11 +455,15 @@ Immediately on joining:
 
 6. There are a few other forms to be filled up, viz. an attestation
    form, a form declaring your dependents, a form for joining the New
-   Pension Scheme (NPS).
+   Pension Scheme (NPS) and Group Term Scheme Insurance (GTIS).
    a. New faculty have to join the NPS, details of which are given in
    a later chapter. (For people joining earlier to this
    date, there was a Pension scheme or a non-pension Contributory
    Provident Fund).
+
+   b. You also need to join the compulsory Group Term Insurance Scheme
+   (GTIS), and the premium for this will be deducted from the monthly
+   salary.
 
    b. Attestation Form is to be filled up so that the Institute can
    verify that you have not been involved in criminal activities in
@@ -473,17 +481,17 @@ Immediately on joining:
    considered dependents till they start earning or till they get
    married, whichever is earlier. You can declare your parents as
    dependent provided they live with you and do not have independent
-   income exceeding a certain limit, viz. 3500 INR per month at the
-   time of writing.
+   income exceeding a certain limit, viz. (TODO) 3500 INR per month at
+   the time of writing.
 
 7. Now that you are done with the Administration Section, please
    return to your Department and fill up a joining report form which
    will be signed by the Head of the Department and sent to the
    Administration. The Department will provide you with an office
    space equipped with a telephone (with limited local and STD (long
-   distance) facility) and, of course, stationery. A personal
-   desktop computer with internet connection should also come within a
-   few days.
+   distance) facility) and, of course, stationery. A personal desktop
+   computer with internet connection should also arrive within a few
+   days.
 
 8. Once the Administration processes your joining report, intimation
    of your having joined is sent to various sections such as the
@@ -503,19 +511,17 @@ Immediately on joining:
    the other, the Campus School, affiliated to the Maharashtra State
    Board. Campus School is exclusively for the children of IIT
    employees, while in the Kendriya Vidyalaya most of the seats are
-   reserved for them. You are likely to have some anxious moments
-   before your child gets an admission, but eventually it works
-   out. In the case of exceptional difficulty in getting admission
-   into the Kendriya Vidyalaya, our Director, who is ex-officio the
-   Chairman of the Vidyalaya Management Committee can help out by
-   exercising their discretionary quota. There is also a
+   reserved for them. In the case of exceptional difficulty in getting
+   admission into the Kendriya Vidyalaya, our Director, who is
+   ex-officio the Chairman of the Vidyalaya Management Committee can
+   help out by exercising their discretionary quota. There is also a
    Professor-in-Charge who you may contact for helpful advice in case
    of difficulty. The Campus School also has a kindergarten school for
    children above the age of three. For younger kids there is a
-   private creche (Shishu Vihar, temporarily located at the time of
-   writing in bungalow A-5 in the Lakeside area of Campus near the
-   Main Gate), and run by an NGO. Detailed information on all of the
-   above is provided in later chapters.
+   private creche (Shishu Vihar, located at the time of writing in
+   bungalows A-4 and A-5 in the Lakeside area of Campus near the Main
+   Gate), and run by an NGO. Detailed information on all of the above
+   is provided in later chapters.
 
 10. You will have to apply for a Permanent Account Number (PAN) which
     is to be used in all your income tax returns; it is needed also by
@@ -532,9 +538,9 @@ Immediately on joining:
     connectivity. As much for communicating with family, friends,
     colleagues, and students as for the fact that it is the preferred
     medium of authentication for many kinds of digital transactions
-    (through a One Time Password, or OTP). The Manager Telephones in
+    (through a One Time Password, or OTP). The Manager (Telephones) in
     the Institute (internal number 8997), who sits next to the
-    Exchange in the Main Building, can help you get a mobile
+    Exchange in the Main Building, can help you to get a mobile
     connection.
 
 12. It may prove very useful to also get an Aadhar card
@@ -552,7 +558,9 @@ Immediately on joining:
     private banks (HDFC, ICICI, Axis Bank, South Indian Bank), public
     sector banks (e.g. Oriental Bank of Commerce, Andhra Bank, Vijaya
     Bank etc.), and foreign banks (HSBC) around IIT, particularly in
-    the area known as Hiranandani Gardens.
+    the area known as Hiranandani Gardens. Please note that salary is
+    normally credited into either Canara Bank or State Bank of India
+    accounts.
 
 ## Regularization/Confirmation of Service
 
@@ -573,29 +581,47 @@ since obtaining the PhD degree, has to be filled out and returned with
 your Head's forwarding comments, to the Dean (FA). In case you have
 prior experience that the administration is unaware of, that you feel
 should be counted against the 3-year requirement, you may make a
-representation through your Head of Department to Dean (FA), together
-with documentary evidence of the experience you are claiming.
+representation through your Head of Department to Dean (FA), along
+with with documentary evidence of the experience you are claiming.
 
 A faculty member recruited to any cadre is placed on probation for a
 period of 1 year. At the end of this period, administration requires
 you to fill a form (on your accomplishments during the probation year)
-and return to Dean (FA) through the Head of your Department for
-confirmation of your appointment.
+and return the same to Dean (FA) through the Head of your Department
+for confirmation of your appointment.
 
 ## Life in Powai and beyond
 
 (This section has external links for your information. IITB cannot take any responsibility for these.)
 
-The city of Mumbai offers a wealth of cultural and entertainment resources to its residents, befitting a global metropolis. This includes famous places of worship, ancient historical caves, several art and science museums, many theatres for plays and musical performances, restaurants/cafes featuring cuisines from around the world, amusement parks for children and adults, and one of the few national parks inside a big city anywhere in the world (from where we get periodic Campus visits by leopards!). Some of the attractions are listed [here](https://www.makemytrip.com/travel-guide/mumbai/places-to-visit.html ).
+The city of Mumbai offers a wealth of cultural and entertainment
+resources to its residents, befitting a global metropolis. This
+includes famous places of worship, ancient historical caves, several
+art and science museums, many theatres for plays and musical
+performances, restaurants/cafes featuring cuisines from around the
+world, amusement parks for children and adults, and one of the few
+national parks inside a big city anywhere in the world (from where we
+get periodic Campus visits by leopards!). Some of the attractions are
+listed
+[here](https://www.makemytrip.com/travel-guide/mumbai/places-to-visit.html
+).
 
-One caveat is that traffic outside of campus may be a nightmare, especially during office commuting hours (and even more so during the very long monsoon season), so one may be well-advised to venture out on weekends. In many situations, the well-developed train network may get you to your destination with more certainty. A lot of hope rests on the upcoming metro network - whose construction, however, has only added to traffic woes right now. [Here is the dream anyway](https://en.wikipedia.org/wiki/Mumbai_Metro).
+One caveat is that traffic outside of campus may be a nightmare,
+especially during office commuting hours (and even more so during the
+very long monsoon season), so one may be well-advised to venture out
+on weekends. In many situations, the well-developed train network may
+get you to your destination with more certainty. A lot of hope rests
+on the upcoming metro network. Its construction, however, has added to
+traffic woes right now, but upon completion, it will benefit for
+commuters in IITB and the nearby areas. [Here is the dream
+anyway](https://en.wikipedia.org/wiki/Mumbai_Metro).
 
 Powai and neighbouring areas beyond the Campus, particularly
 Hiranandani Gardens, have evolved into a bustling and 'happening' part
-of Mumbai especially with regard to restaurants, cafes, pubs etc. (It
-is also generally well-provisioned, in terms of everything from
-doctors and chemists to yoga and arts classes - however, one does not
-need to leave Campus for most of these!)
+of Mumbai with regard to restaurants, cafes, pubs etc. (It is also
+generally well-provisioned, in terms of everything from doctors and
+chemists to yoga and arts classes - however, one does not need to
+leave Campus for most of these!)
 
 You can get information about all of these at [https://powai.info/](https://powai.info/).
 
@@ -610,7 +636,7 @@ Here are a few other links/apps that may be useful:
       ordering, there are several mobile apps like Swiggy, Zomato,
       Uber Eats, Food Panda, and so on)
 
-   3. For grocery shopping - Big basket or similar apps (You can
+   3. For grocery shopping - Big Basket or similar apps (You can
       arrange with most local vendors, even small shops, to take
       orders over phone and deliver to your home if that is your
       preference - this includes chemist, grocer, greengrocer,
@@ -618,22 +644,19 @@ Here are a few other links/apps that may be useful:
       then there is the IIT Market - paradoxically, outside IIT - and
       other markets in neighbouring areas. Of course, there is also a
       small shopping enclave in Campus near the ‘Market Gate’ or
-      'Y-point Gate'.
+      'Y-point Gate'. D-Mart and Haiko supermarkets are also available
+      within 2 kilometres.
 
    4. For home services - Urbanclap or similar apps (offering services
       ranging from carpentry to personal grooming, and - relevant if
       you are living off-campus - plumber and electrician).
 
    5. For driver services - DriveU or similar apps; and of course, the
-      Ola (an IITB startup!) or Uber app for cab hailing (this does
-      not need to said, but please refrain from driving a car or
-      riding a bike if inebriated - one, the Mumbai police is very
-      vigilant, and two, good faculty are more difficult to find than
-      you might think).
+      Ola (an IITB startup!) or Uber app for cab hailing.
 
-For domestic staff services (cleaning, cooking etc.) you can usually
-get tips from neighbours or - if you are living off-campus - the
-security personnel in your apartment complex.
+   6. For domestic staff services (cleaning, cooking etc.) you can
+      usually get tips from neighbours or - if you are living
+      off-campus - the security personnel in your apartment complex.
 
 ## Should you choose to leave
 
@@ -672,27 +695,28 @@ internal website of the Institute http://ep.iitb.ac.in .
 ### Components of salary
 The salary that you get has several components.
 
-1. _Pay Level:_ Since many readers are likely to be familiar with the
+1. _Pay at Pay Level:_ Since several readers may be familiar with the
    provisions of the 6th Pay Commission, and new readers are likely to
    join directly under 7th Pay Commission rules, we outline the pay
    scales with reference to the 7th Pay Commission.
 
    What used to be the _Band Pay and Academic Grade Pay (AGP)_ in the
    6th Pay Commission has been replaced, after implementation of the
-   7th pay commission's provisions, by an amount defined by a _Pay
-   Level_. The position to which you are appointed (or move to after
-   selection to a higher post) defines the salary. All Government
-   servants in India are placed in one of these _pay levels_.  Faculty
-   members in Institutes such as IITs are placed in one of the
-   following pay levels:
+   7th pay commission's provisions, by an amount defined by a salary
+   at a _Pay Level_. The position to which you are appointed (or move
+   to after selection to a higher post) defines the salary. All
+   Government servants in India are placed in one of these _pay
+   levels_.  Faculty members in Institutes such as IITs are placed in
+   one of the following pay levels. D.A. stands for "Dearness
+   Allowance", described subsequently.
 
-   - *Pay Level 10*: Salary range 57,000 to Rs. 98,200 (without D.A.)
-   - *Pay Level 11*: Salary range Rs. 68,900 to Rs. 117,200 (without D.A.)
-   - *Pay Level 12*: Salary range Rs. 101,500 to Rs. 167,400 (without D.A.)
-   - *Pay Level 13A1*: Salary range Rs. 131,400 to Rs. 204,700 (without D.A.)
-   - *Pay Level 13A2*: Salary range Rs. 139,600 to Rs. 211,300 (without D.A.)
-   - *Pay Level 14A*: Salary range Rs. 144,200 to Rs. 211,800 (without D.A.)
-   - *Pay Level 15*: Salary range Rs. 182,200 to Rs. 224,100 (without D.A.)
+   - *Pay Level 10*: Salary range 57,000 to ₹ 98,200 (plus D.A.)
+   - *Pay Level 11*: Salary range ₹ 68,900 to ₹ 117,200 (plus D.A.)
+   - *Pay Level 12*: Salary range ₹ 101,500 to ₹ 167,400 (plus D.A.)
+   - *Pay Level 13A1*: Salary range ₹ 131,400 to ₹ 204,700 (plus D.A.)
+   - *Pay Level 13A2*: Salary range ₹ 139,600 to ₹ 211,300 (plus D.A.)
+   - *Pay Level 14A*: Salary range ₹ 144,200 to ₹ 211,800 (plus D.A.)
+   - *Pay Level 15*: Salary range ₹ 182,200 to ₹ 224,100 (plus D.A.)
 
    Your salary within the pay band is fixed at the time of your
    appointment and increases every year by an _increment_, as defined
@@ -704,10 +728,13 @@ The salary that you get has several components.
 
    - _Assistant Professor:_ Assistant Professors fall into the
      following levels, based on their experience:
-	 - _0 to 1 year of post-PhD experience (contractual basis):_ Pay Level 10
-	 - _1 to 3 years of post-PhD experience (contractual basis):_ Pay Level 11
-	 - _3 years or more of post-PhD experience:_ Pay Level 12
-	 - _After 3 years in Pay Level 12_: Pay Level 13A1
+	 - _0 to 1 year of post-PhD experience (contractual basis):_ Pay
+Level 10, with starting a salary of ₹ 79,800 plus D.A..
+	 - _1 to 3 years of post-PhD experience (contractual basis):_ Pay
+       Level 11, with a starting salary of ₹ 84,800 plus D.A..
+	 - _3 years or more of post-PhD experience:_ Pay Level 12, with a
+       starting salary of ₹ 87,300 plus D.A.
+	 - _After 3 years in Pay Level 12_: Pay Level 13A1 ₹ 101,500 plus D.A.
 
 	 If you have joined IIT after having served for some time as
 	 Assistant Professor in another IIT or a central University or
@@ -729,25 +756,22 @@ The salary that you get has several components.
 
    - _Professor:_ Pay Level 14A
 
-The Institute website (see 'Recruitment' link) carries the minimum eligibility criteria for all the above positions.
+   The Institute website (see 'Recruitment' link) carries the
+   minimum eligibility criteria for all the above positions.
 
-[^gradeexample]: Thus, a fresh PhD will be appointed in Pay Level 10,
-  which will be upgraded to Pay Level 11 after 1
-  year of experience. Candidates with more than a year's experience
-  will be directly placed at an AGP Pay Level 11.
+   In addition, the following scales are applicable as appropriate to faculty:
 
-In addition, the following scales are applicable as appropriate to faculty:
+   - _Professor (HAG Scale):_ From August 18, 2009, a senior cadre
+   of Professors has been created. This scale pay for this cadre is
+   known as HAG (Higher Administrative Grade, the name being a
+   carry-over from administrative services for which the scale was in
+   existence earlier). The minimum eligibility for this scale is six
+   years of service as a Professor. A maximum of 40% of the total
+   number of Professors can be placed in this scale. The corresponding
+   Pay Level is 15, and the salary range is from ₹ 182,000 to
+   224,100.
 
-1. _Professor (HAG Scale):_ From August 18, 2009, a senior cadre of
-   Professors has been created. This scale pay for this cadre is known
-   as HAG (Higher Administrative Grade, the name being a carry-over
-   from administrative services for which the scale was in existence
-   earlier). The minimum eligibility for this scale is six years of
-   service as a Professor. A maximum of 40% of the total number of
-   Professors can be placed in this scale. The corresponding Pay Level
-   is 15, and the salary range is from Rs. 182,000 to 224,100.
-
-2. _Institute and Endowed Chairs for faculty:_ As a means of
+   - _Institute and Endowed Chairs for faculty:_ As a means of
    recognizing outstanding performance, the Institute has several
    Chairs. While most of these are at the Professor's level (about 50
    in the Institute), there are a few at other levels also.  Funding
@@ -757,14 +781,13 @@ In addition, the following scales are applicable as appropriate to faculty:
    out by Dean (FA). Each chair is given for a period of 3 years, and
    the chair is re-advertised at the end of that period. Faculty who
    hold chairs receive some financial and academic perks in addition
-   to their salaries. Details are available on the Dean (FA)'s webpage.
+   to their salaries. Details are available on the Dean (FA)'s
+   webpage.
 
 3. _Dearness Allowance:_ A component termed as Dearness Allowance to
    take care of rising prices due to inflation is also a part of your
    pay packet. The rate of Dearness Allowance is revised by the
-   Government every January and July based on consumer price indices,
-   the rate hike has been typically 3% to 10% on the last few
-   occasions[^danote].
+   Government every January and July based on consumer price indices.
 
 4. _House Rent Allowance (HRA):_ If you do not stay in
    Institute-provided accommodation, you will also receive House Rent
@@ -783,12 +806,15 @@ In addition, the following scales are applicable as appropriate to faculty:
 5. _Transport Allowance:_ All employees, irrespective of whether they
    live within the campus or commute from outside, are eligible to
    receive a transport allowance. For those in the faculty cadre, the
-   rate of transport allowance is Rs. 3,200 per month. In addition, the
+   rate of transport allowance is ₹ 3,200 per month. In addition, the
    Dearness Allowance at prevailing rate is payable on this amount as
    well. (Note: The transport allowance payable to the blind or
    orthopedically handicapped employees is double this rate).
 
-[^danote]: Currently (from July 2011), the Dearness Allowance is 90% of basic pay. The next increase in the Dearness allowance will be from Jan 2014.
+[^gradeexample]: Thus, a fresh PhD will be appointed in Pay Level 10,
+  which will be upgraded to Pay Level 11 after 1 year of
+  experience. Candidates with more than a year's experience will be
+  directly placed at an AGP Pay Level 11.
 
 ### Annual Increment
 Every year employees are given an increment in their salary. The pay
@@ -863,8 +889,8 @@ When you receive your salary slip, you will find some deductions as well. The pr
    http://incometaxindia.gov.in .
 
    From the financial year (2011-12), you are not required to file
-   your return if your taxable income does not exceed Rs. 5 Lakhs and
-   your income from interests from bank deposits does not exceed Rs.
+   your return if your taxable income does not exceed ₹ 5 Lakhs and
+   your income from interests from bank deposits does not exceed ₹
    10,000 during the financial year. However, in such a case you must
    inform the Accounts Section of the Institute, of details of income
    from bank deposits. Note that if you have income from sources other
@@ -872,7 +898,7 @@ When you receive your salary slip, you will find some deductions as well. The pr
    expecting a refund of income tax, you have to file a return.
 
 
-2. _Profession Tax:_ Currently Rs. 2,500/- per year.
+2. _Profession Tax:_ Currently ₹ 2,500/- per year.
 
 3. Contribution to CPF/GPF/NPS.
 
@@ -911,7 +937,7 @@ for business class international travel).
 
 For road travel: if you travel by your own car or unmetered taxi (in
 places where metered taxis are not available), you could claim up to
-Rs 16/- per kilometre.
+₹ 16/- per kilometre.
 
 Under the 6th P.C., there is no daily allowance for domestic
 travel. Instead, the reimbursement will be on actuals supported by
@@ -922,7 +948,7 @@ accommodation/guest house for an amount up to 5000 INR per day;
 reimbursement of AC taxi up to 50 km for local travel and
 reimbursement of food bills not exceeding 500 INR per day. The rates
 for other faculty are 3000 INR for Hotel, non-AC taxi up to 50 km, and
-Rs 300/- for food bill (with 7th Pay Commission rules, it is not clear
+₹ 300/- for food bill (with 7th Pay Commission rules, it is not clear
 whether this also applies to Assistant Professors in Grade-II; please
 ask Dean FA).
 
@@ -930,7 +956,7 @@ However, one had the option of being governed by the 5th P.C. rules
 for calculation of daily allowance. Such an option could be exercised
 for the entire duration of a given tour and not for parts of a
 tour. In such a case, all faculty will be eligible to draw daily
-allowance appropriate to pre-revised scale of Rs 16,400/- and
+allowance appropriate to pre-revised scale of ₹ 16,400/- and
 above. This is only useful when you would like to claim a daily
 allowance without submitting detailed expenditure receipts.
 
@@ -1004,10 +1030,10 @@ retirement.
 
 #### Travel Eligibility
 The employee and all dependents are eligible to travel by
-air[^airindia].  if the AGP of the employee is Rs. 5400/- and
+air[^airindia].  if the AGP of the employee is ₹ 5400/- and
 above. They are also eligible to travel by AC-First Class if traveling
-by train (provided the AGP is Rs. 7600 or higher). Those with AGP of
-Rs. 10,000 and above (and those who are in HAG scale) can travel in
+by train (provided the AGP is ₹ 7600 or higher). Those with AGP of
+₹ 10,000 and above (and those who are in HAG scale) can travel in
 Business/Club class by Air while those below can only avail economy
 class[^economyclass].  Please note that no taxi or road mileage is
 admissible to reach the airport/railway station or for internal travel
@@ -1055,9 +1081,9 @@ journey is completed.
 ### Telephone Expense Reimbursement
 
 A faculty member is entitled to reimbursement of telephone (landline
-at home and/or mobile connection) expenses up to Rs. 18,000/-
-(Rs. 21,600/- for a Professor) per financial year. The amount includes
-an amount of Rs. 4800/- towards internet connection at home. Since
+at home and/or mobile connection) expenses up to ₹ 18,000/-
+(₹ 21,600/- for a Professor) per financial year. The amount includes
+an amount of ₹ 4800/- towards internet connection at home. Since
 internet connections for all campus residence are provided by the
 Institute, the amount is accordingly reduced for campus residents. For
 those not staying on campus (including those staying in
@@ -1075,12 +1101,12 @@ this amount.
 ### Children's Education Allowance
 Expense incurred in putting up to two children through school (from
 nursery to twelfth class) can be reimbursed subject to an annual
-ceiling of Rs. 15,000. Allowed expenses which can be claimed under this
+ceiling of ₹ 15,000. Allowed expenses which can be claimed under this
 head include tuition fee, admission fee, laboratory fee, special fee
 charged for electronics, agriculture, sports fee, Library fee, cost of
 purchase on set of text books and note books, two sets of uniforms
 (including one pair of shoes) etc. Reimbursement can be claimed at the
-rate of Rs. 3750 per quarter or for the full amount in the last quarter
+rate of ₹ 3750 per quarter or for the full amount in the last quarter
 of the financial year. The quantum of reimbursement for disabled
 children is twice this amount.
 
@@ -1088,7 +1114,7 @@ children is twice this amount.
 If an employee or the spouse has undergone a sterilization operation
 (subject to some conditions) and have no more than two surviving
 children, he/she will be eligible for a special allowance which varies
-between Rs. 800 to Rs. 1000 per month for a faculty member depending on
+between ₹ 800 to ₹ 1000 per month for a faculty member depending on
 the AGP of the faculty member at the time of the operation (it then
 remains unchanged for the entire service).
 
@@ -1126,8 +1152,8 @@ various professional bodies, books and contingent expenses. It is to
 be noted that CPDA cannot be utilised by the faculty when (s)he is on
 any Extraordinary Leave.
 
-Out of INR 3 lakhs, a minimum of Rs 2 Lakhs is earmarked for
-presenting papers at conferences and a maximum Rs 1 Lakh can be spent
+Out of INR 3 lakhs, a minimum of ₹ 2 Lakhs is earmarked for
+presenting papers at conferences and a maximum ₹ 1 Lakh can be spent
 towards membership of professional bodies, contingent expenses
 (includes purchase of books, stationery, computers and related
 items, electronic devices for professional use). Expenses for a
@@ -1142,13 +1168,13 @@ from DST etc.
 Out of the maximum allocation of contingency fund of INR 1 lakh in the block of three years, an amount up to INR 33,000 can be spent in the year one, a further INR 33000 plus the unused portion of the first year’s allocation in year two and the entire unspent balance out of the total allocation in the last year.
 
 Availability of 1 lakh contingency fund is divided as follows:
-    a. Up to Rs. 33,000/- available in first year
-    b. Unspent from(a) + Rs. 33,000/- available in second year
-    c. Unspent from(a) + (b) + Rs. 34,000/- available in third year
+    a. Up to ₹ 33,000/- available in first year
+    b. Unspent from(a) + ₹ 33,000/- available in second year
+    c. Unspent from(a) + (b) + ₹ 34,000/- available in third year
 
 In case the faculty has a paper accepted in a prestigious conference
 falling within same block, the Institute has made a provision for
-granting up to an additional Rs. 1 lakh from its own funds.
+granting up to an additional ₹ 1 lakh from its own funds.
 
 ### Rules for using CPDA for National Conferences
 The funds for conference participation can be utilised for
@@ -1165,22 +1191,22 @@ case of departmental failure in delivering support, CPDA can also be
 used for presenting papers in national conferences also.
 
 ### Seeking the various funds
-Rs. 50,000/- will be made available to the faculty members, for the
+₹ 50,000/- will be made available to the faculty members, for the
 block period. This amount can be spent on reimbursement basis on
 production of receipts, towards membership fee of professional bodies,
 contingency expenditure in addition to conference expenses. This
 amount can also be utilised against any valid expenditure that has
 been incurred in connection with participation in international
-conferences, over and above the Rs. 1 lakh limit previously
+conferences, over and above the ₹ 1 lakh limit previously
 prevailing, if such has been the case. Such amounts may have been
 spent from RDF or one’s personal funds and can now be transferred to
-RDF/ reimbursed as the case may be, subject to the Rs. 50,000/- limit.
+RDF/ reimbursed as the case may be, subject to the ₹ 50,000/- limit.
 
-  -  CPDA for both i.e. Rs. 2,00,000/- for Conference and
-     Rs. 1,00,000/- for contingency shall be made available for the
+  -  CPDA for both i.e. ₹ 2,00,000/- for Conference and
+     ₹ 1,00,000/- for contingency shall be made available for the
      use of Faculty on quarterly basis depending upon the date of
      joining of the concerned faculty during the CPDA block year.
-  - If Rs. 2 lakhs- CPDA conference funds are not used for the conference, up to 50,000 can be availed for expenses towards books.
+  - If ₹ 2 lakhs- CPDA conference funds are not used for the conference, up to 50,000 can be availed for expenses towards books.
   - CPDA will now be available to Faculty members on contract basis also.
   - CPDA will not be available to the Faculty members who will proceed
     on the lien and EOL (During the period of lien or EOL).
@@ -1205,11 +1231,11 @@ If the full hospitality has been provided (boarding and lodging) by
 the organizers only per diem of 25% of the rates mentioned in the
 table above, i.e. $28.75.
 
-In no case conference expenditure can be more than Rs. 2 lakh with
+In no case conference expenditure can be more than ₹ 2 lakh with
 corresponding reduction of 1 lakh allocated for contingency
 expenditure.
 
-In no case can conference expenditure be more than Rs. 2 lakh, with a
+In no case can conference expenditure be more than ₹ 2 lakh, with a
 corresponding reduction of 1 lakh allocated for contingency
 expenditure.
 
@@ -1238,7 +1264,7 @@ IRCC provides support for international travel, international patenting charges 
 
 ### Overview
 The salient features of IR-ITPP grants are as follows:
-A grant of Rs. 3 (Three) lakhs will be provided from IRCC to all faculty members, to be spent over a block of three year period (which is concurrent with the CPDA block period) for the following activities:
+A grant of ₹ 3 (Three) lakhs will be provided from IRCC to all faculty members, to be spent over a block of three year period (which is concurrent with the CPDA block period) for the following activities:
 
 - Support for international travel related expenses (IR-IT) – only after the CPDA is exhausted
 - matching costs for international patenting activities and (IR-IP)
@@ -1255,7 +1281,7 @@ c. Any unspent amount at the end of a block period will lapse and a
 new block will begin thereafter.
 
 d. This amount may be utilised for any or all of the three purposes as
-mentioned above, within the limit of the said amount of Rs.3 lakhs
+mentioned above, within the limit of the said amount of ₹3 lakhs
 that is the grant may be used for any of the components IR-IT, IR-IP
 or IR-P, fully or partially in any combination.
 
@@ -1270,9 +1296,9 @@ within one month of incurring such expenditure.
 
 h. If any new faculty member joins during a given three year block
 period, the grant eligibility will be:
-   - For service period of 2 years and above: Rs. 3 lakhs
-   - For service period of more than 1 year but less than 2 years: Rs. 2 lakhs
-   - For service period of 1 year and less: Rs. 1 lakh
+   - For service period of 2 years and above: ₹ 3 lakhs
+   - For service period of more than 1 year but less than 2 years: ₹ 2 lakhs
+   - For service period of 1 year and less: ₹ 1 lakh
    - The details of the use of the grant for the three activities are given below.
 
 ### International travel related support (IR-IT)
@@ -1347,7 +1373,7 @@ For road travel, Professors may use AC taxis while for all others
 ordinary taxi is permitted. All faculty are entitled to travel by any
 type of public bus including Air-conditioned buses. If you travel by
 your own car or taxi (in places where metered taxis are not
-available), you could claim up to Rs. 16/- per kilometer.
+available), you could claim up to ₹ 16/- per kilometer.
 
 ### Daily allowance
 
@@ -1355,21 +1381,21 @@ As per new rules, the concept of daily allowance during tour is
 discontinued. Instead, the reimbursement will be on actuals supported
 by vouchers.  For this purpose, Professors (including those on HAG
 scale) will be eligible for reimbursement for Hotel
-accommodation/Guest House for an amount up to Rs. 5,000/- per day;
+accommodation/Guest House for an amount up to ₹ 5,000/- per day;
 reimbursement of AC taxi up to 50 km for local travel and
-reimbursement of food bills not exceeding Rs. 500/- per day. The rates
-for other faculty are Rs. 3000/- for Hotel, non-AC taxi up to 50 km,
-and Rs. 300/- for food bill. For Assistant Professors on contractual
-basis, whose grade pay is below Rs. 8000/-, the limits are Rs. 1500/-
-per day towards accommodation, taxi charges of Rs. 150/- per day for
-local travel, and Rs. 200/- per day for food bill.
+reimbursement of food bills not exceeding ₹ 500/- per day. The rates
+for other faculty are ₹ 3000/- for Hotel, non-AC taxi up to 50 km,
+and ₹ 300/- for food bill. For Assistant Professors on contractual
+basis, whose grade pay is below ₹ 8000/-, the limits are ₹ 1500/-
+per day towards accommodation, taxi charges of ₹ 150/- per day for
+local travel, and ₹ 200/- per day for food bill.
 
 However, if you so desire, for calculation of daily allowance, you
 could opt to be governed by rules which existed before revision of pay
 scale as well. Such an option can be exercised for the entire duration
 of a given tour and not for parts of a tour. In such a case, all
 faculty will be eligible to draw daily allowance appropriate to
-pre-revised scale of Rs. 16,400/- and above. This is only useful when
+pre-revised scale of ₹ 16,400/- and above. This is only useful when
 you would like to claim a daily allowance without submitting detailed
 expenditure receipts.
 
@@ -1667,7 +1693,7 @@ activities that you will probably get involved in as a faculty member.
 ## What the Institute expects of you
 When you join as an Assistant Professor, In order to assist you to settle in and get your research under way quickly and efficiently, the Institute and the department extend certain facilities. These are:
 
-1. A seed grant of Rs. 20 lakh plus support for a PhD student in the project mode. Higher seed grant amounts may be considered for equipment intensive research. You need to see the Dean (R&D) regarding this, soon after you join.
+1. A seed grant of ₹ 20 lakh plus support for a PhD student in the project mode. Higher seed grant amounts may be considered for equipment intensive research. You need to see the Dean (R&D) regarding this, soon after you join.
 2. Space: A minimum of a faculty cabin (10 $\times$ 15') and a working space of 300 sq. ft. to be identified before the person joins, and made available on joining.
 3. Reduced teaching load (say a course associateship) in the first semester (unless the faculty member wants to be involved in intensive teaching right from the start). Similarly, administrative load to be kept to a minimum in the initial semester.
 
@@ -1914,14 +1940,14 @@ as follows:
    1. Faculty member should request for seed grant within 6 months from the date of joining in the Institute.
    2. The duration of the seed grant project will be not more than 3 years and will be closed after that.
    3. Seed grant proposal should highlight the objectives, expected outcome, time frame, budget with appropriate justification (especially for equipment) and other relevant details. Specify the equipment proposed to be procured under the seed grant.
-   4. Seed grant consists of a base amount up to Rs. 7/- lakhs (Rs. seven lakhs) that can be apportioned under EQP (equipment), CON (consumables) and CTE (contingency) budget heads. Reallocation of funds between different budget heads is allowed. Expenditure permitted / not permitted from the seed grant (base amount):
+   4. Seed grant consists of a base amount up to ₹ 7/- lakhs (₹ seven lakhs) that can be apportioned under EQP (equipment), CON (consumables) and CTE (contingency) budget heads. Reallocation of funds between different budget heads is allowed. Expenditure permitted / not permitted from the seed grant (base amount):
      a) Procurement of small equipment, consumable and other contingent expenditure is allowed.
      b) Procurement of a laptop or a hand-held device (iPad, Tablets, etc.) is allowed. However, purchase of laptop / hand-held devices should normally be from CPDA or from allocations made by the academic unit. Such a purchase from the seed grant is allowed only with a self-declaration from the faculty to the effect that the purchase is made from only one of the sources (in the first three years).
      c) Travel within India using seed grant is allowed only for the concerned faculty member to defend research proposals and with prior permission of the Dean (R&D).
      d) Seed grant cannot be used for international travel, holding workshops or conferences, hiring administrative or project assistants or attendants, payment of honoraria, office furniture, air-conditioners, etc.
-   5. An additional Rs. 13 lakhs (Rs. thirteen lakhs) will be provided, if needed, for purchase of (basic) equipment. Reallocation of this amount to other budget heads is not allowed.
+   5. An additional ₹ 13 lakhs (₹ thirteen lakhs) will be provided, if needed, for purchase of (basic) equipment. Reallocation of this amount to other budget heads is not allowed.
    6. Faculty members needing additional funding should seek the same from the concerned Academic Unit, which could review the request and provide support from its own funds such as DDF as per its own policies / guidelines.
-   7. Equipment grant may be augmented by up to Rs. 1 crore subject to the following:
+   7. Equipment grant may be augmented by up to ₹ 1 crore subject to the following:
       a)  This augmentation is to be used exclusively to procure major equipment / facility of a specialized nature, if required for the proposed research work. It is NOT meant as a general grant to be used over time for miscellaneous EQP purchases; these should be procured out of the 13 or 20 lakhs (basic equipment + part or whole of base amount).
       b) Faculty member must have submitted at least one research proposal to an external agency for funding. If need be, Institute will give a letter of ‘additional financial support’ to be used while seeking funding from external agencies.
       c) Request for additional support will be evaluated by a committee consisting of the Associate Dean (R&D), Head of the Academic Unit and at least one faculty member conversant with the research topic of the faculty member seeking funding.
@@ -2462,7 +2488,7 @@ teaching award are as follow:
 
 There are six categories of research awards in IIT Bombay, among which
 two are instituted in honour of two former Professors of the institute
-and each of these awards carries a cash incentive of Rs.1.5
+and each of these awards carries a cash incentive of ₹ 1.5
 Lakhs. They are
 
   - Prof. S.C. Bhattacharya Award for Excellence in Pure Sciences
@@ -2503,11 +2529,11 @@ The other categories are (known as IRCC research award):
    than 40 years of age. An individual can get this award only once in
    his/her career.
 
-Each of the IRCC awards will consist of a citation and a cash prize of Rs. 50,000/-
+Each of the IRCC awards will consist of a citation and a cash prize of ₹ 50,000/-
 (Rupees Fifty Thousands only). The cash prize will be given to nominated
 researcher (candidate) at IIT Bombay. In addition, the awardee(s) will
 be invited to submit a research proposal to IRCC for possible funding of
-up to Rs.5,00,000/- (Rupees Five Lakhs only).
+up to ₹5,00,000/- (Rupees Five Lakhs only).
 
 
 ## Continuing Education Programmes
@@ -2572,7 +2598,7 @@ Consultancy and related services offered will be divided mainly into two categor
 Since there are no overheads on the purchase of capital equipment in
 consultancy projects, it has been decided that only major equipment
 purchase should be allocated under this head, which would have a
-minimum value of Rs.1 lakh, procured through a purchase order.
+minimum value of ₹1 lakh, procured through a purchase order.
 
 *Eligibility*: Consultancy and related assignments can be taken up by
 full time faculty and Core Research Scientists and Engineers of
@@ -2631,7 +2657,7 @@ limits:
 
    10. In extreme emergencies, a consultant may take up an assignment
        with intimation to the Dean (R&D), and then seek approval, for
-       tasks entailing total charges not more than Rs.50,000/- or, two
+       tasks entailing total charges not more than ₹50,000/- or, two
        days of faculty time, and payments are made immediately, well
        before submission of any formal report.
 
@@ -2639,11 +2665,11 @@ limits:
        if the scope is altered, a fresh estimate may be considered.
 
    12. The minimum charges applicable in respect of consultancy jobs
-       will be Rs.10,000 excluding any applicable tax.
+       will be ₹10,000 excluding any applicable tax.
 
    13. It is desirable that Preliminary Diagnostic Discussions / Site
        Visits, leading to the generation of consultancy proposals may
-       be charged at a minimum rate of Rs.5,000/- (or US$200 or
+       be charged at a minimum rate of ₹5,000/- (or US$200 or
        equivalent in the case of international assignments) per day or
        part thereof, in addition to travel and incidental expenses as
        applicable.
@@ -2663,7 +2689,7 @@ limits:
 
    16. The charges for any assignment are normally payable in
        advance. However, exceptions may be made in respect of
-       assignments involving charges exceeding Rs.1,00,000/- and with
+       assignments involving charges exceeding ₹1,00,000/- and with
        implementation periods exceeding 3 months, and a payment
        schedule linked to milestones can be worked out.
 
@@ -2858,7 +2884,7 @@ The Institute Hospital provides all major vaccinations for children. It is a goo
 The hospital has an ambulance which works 24 $\times$ 7 for transportation of patients within the campus and for transporting patients to hospitals outside when referred to by IIT Hospital.
 
 ### OPD facilities for visiting parents
-Though they may not be officially your dependents, the Institute offers OPD facilities to visiting parents of the employee and of employee's spouse. This facility is offered for a period of six months on payment of Rs. 1,000/- and for a year on payment of Rs. 2,000/-. They will be treated on 'non-entitled' basis; however, medicines etc. will have to be purchased from outside without any reimbursement.
+Though they may not be officially your dependents, the Institute offers OPD facilities to visiting parents of the employee and of employee's spouse. This facility is offered for a period of six months on payment of ₹ 1,000/- and for a year on payment of ₹ 2,000/-. They will be treated on 'non-entitled' basis; however, medicines etc. will have to be purchased from outside without any reimbursement.
 
 ### Medical advance, reimbursement, etc.
 When an employee or a dependent is admitted to an outside hospital, up to 80% of the estimated cost can be provided as an advance to the employee.
@@ -2874,7 +2900,7 @@ For reimbursement, separate forms for OPD (inclusive of cost of medicine purchas
 ## Healthcare after retirement
 The Institute has two schemes to take care of your and your spouse's medical requirements after retirement. Both the schemes are contributory.
 
-1. _Contributory Medical Scheme (CMS):_ The scheme entitles you and your spouse to avail of OPD treatment in the IIT Hospital. You have to pay a one time Rs. 8000/- to join the scheme. All OPD facilities of the IIT Hospital (consultancy, diagnostic tests etc.) can be availed by employee and his/her spouse. Medicines available at the Pharmacy are also given to CMS members without charge. However, no indoor hospitalization is possible and no reimbursement of any kind is provided.
+1. _Contributory Medical Scheme (CMS):_ The scheme entitles you and your spouse to avail of OPD treatment in the IIT Hospital. You have to pay a one time ₹ 8000/- to join the scheme. All OPD facilities of the IIT Hospital (consultancy, diagnostic tests etc.) can be availed by employee and his/her spouse. Medicines available at the Pharmacy are also given to CMS members without charge. However, no indoor hospitalization is possible and no reimbursement of any kind is provided.
 2. _Post-Retirement Medical Scheme (PRMS):_ Under this scheme, there are two types of medical benefits provided to IITB employees. These are:
  a) In-service medical benefits
  b) Out-service medical benefits
@@ -3025,20 +3051,20 @@ For those who joined the Institute before 2004, there were two retirement scheme
        it works is given below (the example is actually appropriate to
        a Professor retiring at the top of the band):
 
-       Suppose your basic salary was Rs. 77,500/- at the time of
-	   retirement. Your basic pension is Rs. 38,750/- at the time of
+       Suppose your basic salary was ₹ 77,500/- at the time of
+	   retirement. Your basic pension is ₹ 38,750/- at the time of
 	   superannuation (age 66 on your next birthday). You offer to
-	   receive 40% less as monthly pension, i.e. receive Rs. 15,500/-
+	   receive 40% less as monthly pension, i.e. receive ₹ 15,500/-
 	   per month less as basic pension. The amount of lump sum payment
 	   is given by the following formula.  $$ \mbox{Lump sum amount} =
-	   Rs. 15,500 \times12 \times 7.591 = Rs. 14,11,926 $$ The unusual
+	   \text{₹} 15,500 \times12 \times 7.591 = \text{₹} 14,11,926 $$ The unusual
 	   factor 7.591 is a factor representing the number of years the
 	   Government has decided that it is willing to pay you as a lump
 	   sum if your age next birthday is 66 at the time you opt for
 	   commutation[^commutation].  Note that, though your basic
-	   pension will be reduced by Rs. 15,500/- in the above example,
+	   pension will be reduced by ₹ 15,500/- in the above example,
 	   the Dearness Allowance is payable on the regular pension amount
-	   of Rs. 38,500/-. Full pension will be restored to you after 15
+	   of ₹ 38,500/-. Full pension will be restored to you after 15
 	   years of receiving the commutation amount. As you grow older,
 	   till the age of 80, the pension amount changes because the
 	   D.A. changes. However, when you reach the age of 80, the basic
@@ -3093,7 +3119,7 @@ For those who joined the Institute before 2004, there were two retirement scheme
 	 e. _Gratuity:_ A lump sum amount known as gratuity is payable to
            an employee on superannuation. The amount payable is a
            fourth of the emoluments for every completed six months of
-           service, subject to a maximum of Rs. 10 Lakhs. The emolument
+           service, subject to a maximum of ₹ 10 Lakhs. The emolument
            includes basic pay and D.A. drawn by the employee on the
            day of superannuation.
 2. Contributory Provident Fund (CPF): If you have opted for this
