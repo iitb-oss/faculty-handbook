@@ -11,6 +11,8 @@ header-includes:
   \geometry{a5paper}
   \usepackage{fontspec}
   \usepackage{newunicodechar}
+  \setmainfont{Times New Roman}
+  \setsansfont[Scale=MatchLowercase]{Latin Modern Sans}
   \newfontfamily{\ubuntu}[Scale=0.95]{Ubuntu Light}
   \newunicodechar{₹}{{\ubuntu ₹\thinspace}}
   ```
