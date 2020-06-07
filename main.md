@@ -573,24 +573,25 @@ one with less than 3 years professional/postdoctoral experience (not
 counting any experience gained during the PhD years). In such cases,
 the Institute makes an appointment at the Assistant Professor Grade-II
 through its regular selection process. Such appointees are entitled to
-all facilities that regular faculty members are. If you are appointed
-at this level, the administration keeps track of when you complete the
-requirement of 3 years of experience (the experience gained after the
-date of PhD defence is counted), and sends a form to your department,
-that you have to fill for your appointment to be regularized. This
-form, in which you have to provide details of your accomplishments
-since obtaining the PhD degree, has to be filled out and returned with
-your Head's forwarding comments, to the Dean (FA). In case you have
-prior experience that the administration is unaware of, that you feel
-should be counted against the 3-year requirement, you may make a
-representation through your Head of Department to Dean (FA), along
-with with documentary evidence of the experience you are claiming.
+all facilities that regular faculty members may avail. If you are
+appointed at this level, the administration keeps track of when you
+complete the requirement of 3 years of experience (the experience
+gained after the date of PhD defence is counted), and sends a form to
+your department, that you have to fill for your appointment to be
+regularized. This form, in which you have to provide details of your
+accomplishments since obtaining the PhD degree, has to be filled out
+and returned with your Head's forwarding comments, to the Dean
+(FA). In case you have prior experience that the administration is
+unaware of, that you feel should be counted against the 3-year
+requirement, you may make a representation through your Head of
+Department to Dean (FA), along with with documentary evidence of the
+experience you are claiming.
 
 A faculty member recruited to any cadre is placed on probation for a
 period of 1 year. At the end of this period, administration requires
-you to fill a form (on your accomplishments during the probation year)
-and return the same to Dean (FA) through the Head of your Department
-for confirmation of your appointment.
+you to fill another form (on your accomplishments during the probation
+year) and submit the same to Dean (FA) through the Head of your
+Department for confirmation of your appointment.
 
 ## Life in Powai and beyond
 
@@ -683,12 +684,12 @@ Your salary is paid directly to your bank account on the last day of
 the month. The _Financial Year_ for tax purposes is from April 1st of
 a given year to March 31st of the following year. The income tax uses
 _assessment year_ for submission of Income Tax Returns, which is the
-financial year in which the return is filed[^taxyear]. The salary is
-made available to every employee around the end of the month in their
-SAP login, and it provides showing details of earnings and deductions
-and the net pay that will be paid to the bank account of the
-employee. The salary slip of every employee is uploaded in the
-internal website of the Institute http://ep.iitb.ac.in .
+financial year in which the return is filed[^taxyear]. The salary slip
+is made available to every employee around the end of the month in
+their SAP login, and it provides showing details of earnings and
+deductions and the net pay that will be paid to the bank account of
+the employee. The salary slip of every employee is uploaded in the
+internal website of the Institute [http://ep.iitb.ac.in](http://ep.iitb.ac.in).
 
 [^taxyear]: As an example, at the time of writing (February 2019), the
     financial year is 2018-19, while the assessment year for this
@@ -712,7 +713,7 @@ The salary that you get has several components.
    one of the following pay levels. D.A. stands for "Dearness
    Allowance", described subsequently.
 
-   - *Pay Level 10*: Salary range 57,000 to ₹ 98,200 (plus D.A.)
+   - *Pay Level 10*: Salary range ₹ 57,000 to ₹ 98,200 (plus D.A.)
    - *Pay Level 11*: Salary range ₹ 68,900 to ₹ 117,200 (plus D.A.)
    - *Pay Level 12*: Salary range ₹ 101,500 to ₹ 167,400 (plus D.A.)
    - *Pay Level 13A1*: Salary range ₹ 131,400 to ₹ 204,700 (plus D.A.)
@@ -829,7 +830,7 @@ appointed between July and 1st January, (of the following year), you
 are eligible for an increment in the following July but if the date of
 appointment is between 2nd January to June, you will get the first
 increment in January of the following year.  If the employee is on
-leave, other than casual leave, on the first day of July, the
+leave, other than casual leave, on the first day of the increment, the
 increment is given from the day when the employee rejoins the duty.
 
 *Level $\rightarrow$*     10      11       12       13A1     13A2      14      14A      15
@@ -862,13 +863,13 @@ When you receive your salary slip, you will find some deductions as well. The pr
 
 1. _Income Tax:_ Income tax rates are as per finance bill passed by
    the Parliament every year. It is possible to minimize your tax
-   liability through some tax shelters. Almost every Department has a
-   local expert on such matters for advising you on this. Filing an
-   income tax return every year is compulsory. Unless the last date is
-   extended, returns have to be filed by 31st July following the
-   financial year for which the return is being filed. From the
-   assessment year 2013-14 e-filing of your income tax return is
-   mandatory. While initially you may find the process a bit
+   liability through some tax saving mechanisms. Almost every
+   Department has a local expert on such matters for advising you on
+   this. Filing an income tax return every year is compulsory. Unless
+   the last date is extended, returns have to be filed by 31st July
+   following the financial year for which the return is being
+   filed. From the assessment year 2013-14 e-filing of your income tax
+   return is mandatory. While initially you may find the process a bit
    cumbersome, it is actually fairly straightforward. There are some
    minor problems, which a more experienced colleague of yours will be
    able to help out with. You will need to complete a one-time
@@ -888,16 +889,12 @@ When you receive your salary slip, you will find some deductions as well. The pr
    password consisting of your pan number in lower case followed by
    your date of birth in ddmmyyyy format.) You can get all the
    necessary information from the Income Tax Department website
-   http://incometaxindia.gov.in .
+   [http://incometaxindia.gov.in](http://incometaxindia.gov.in).
 
-   From the financial year (2011-12), you are not required to file
-   your return if your taxable income does not exceed ₹ 5 Lakhs and
-   your income from interests from bank deposits does not exceed ₹
-   10,000 during the financial year. However, in such a case you must
-   inform the Accounts Section of the Institute, of details of income
-   from bank deposits. Note that if you have income from sources other
-   than from the Institute and the bank deposits, or if you are
-   expecting a refund of income tax, you have to file a return.
+   Please note that if you have income from sources other than from
+   the Institute and the bank deposits, or if you are expecting a
+   refund of income tax, you have to add these while filing your
+   return.
 
 
 2. _Profession Tax:_ Currently ₹ 2,500/- per year.
@@ -906,15 +903,20 @@ When you receive your salary slip, you will find some deductions as well. The pr
 
 4. License Fee and utility charges for your quarter in the campus.
 
+5. There will be deductions for Group Term Insurance and Scheme (GTIS)
+   and Post Retirement Medical Scheme (PRMS).
+
 ### Travel Entitlement Rules
 
+TODO: Ask Sanjay.
+
 While you travel on duty, your TA/DA entitlement is governed by your
-salary level.  At the time of writing, that is given by the pay levels
-as defined by the 7th Pay Commission (P.C.). Most of what is given in
-this section corresponds to the 6th P.C. because the details of the
-entitlements under the 7th P.C. are not completely available yet. They
-will be updated here as they become available. Until then, please ask
-the Dean FA office if you have questions.
+salary level, which is given by the pay levels as defined by the 7th
+Pay Commission (P.C.). Most of what is given in this section
+corresponds to the 6th P.C. because the details of the entitlements
+under the 7th P.C. are not completely available yet. They will be
+updated here as they become available. Until then, please ask the Dean
+FA office if you have questions.
 
 According to 6th P.C. rules, all Professors (including those on HAG
 scale) are entitled to travel by business class while traveling by air
@@ -989,6 +991,8 @@ block also has a grace period of one year, i.e. the 2010-13 block must
 be utilized (i.e. outward journey commenced) before 31.12.2014.
 
 #### Eligibility
+TODO: Sanjay
+
 You must have had one year service in the block to be eligible for LTC
 in the block, i.e. those appointed up to 31.12.12 are eligible for LTC
 in the block year 2012-13 but those appointed after this day are not
@@ -1072,13 +1076,10 @@ the Institute immediately. If this is not done penal interest on the
 excess amount is charged, which cannot be waived by authorities.
 
 The employee must take formal leave for availing LTC for self. You
-cannot avail LTC using only the officially closed days. The leave can
-be even a casual leave, in which case it is convenient to enclose a
-xerox copy of your casual leave card along with the final LTC
-claim. Faculty members can avail LTC during vacation also, but with
-prior intimation (with the destination specified) to
-administration. Submit the final LTC claim as soon as the return
-journey is completed.
+cannot avail LTC using only the officially closed days. Faculty
+members can avail LTC during vacation also, but with prior intimation
+(with the destination specified) to administration. Submit the final
+LTC claim as soon as the return journey is completed.
 
 ### Telephone Expense Reimbursement
 
@@ -1117,29 +1118,21 @@ If an employee or the spouse has undergone a sterilization operation
 (subject to some conditions) and have no more than two surviving
 children, he/she will be eligible for a special allowance which varies
 between ₹ 800 to ₹ 1000 per month for a faculty member depending on
-the AGP of the faculty member at the time of the operation (it then
-remains unchanged for the entire service).
+the Pay Level of the faculty member at the time of the operation (it
+then remains unchanged for the entire service).
 
 ## Cumulative Professional Development Allowance (CPDA)
-An allowance of INR 3 Lakhs for a block of three years is provided to
-the faculty members (including for those appointed on contractual
-basis). The money can be utilised on reimbursement basis for paying
-the membership fee of various professional bodies, books and
-contingent expenses. The amount though intended majorly for
-international conferences, can be spent for national conferences in
-case department is unable to support. It is to be noted that CPDA
-cannot be utilised by the faculty when he is under any extraordinary
-leave.
-
-### Rules governing CPDA
 The CPDA is an MHRD provision under which The Institute provides
 faculty at all levels with some level of support for travel (including
 international) and contingency expenses. At the time of writing, the
 allowance amounts to 3 lakhs INR for a block period of 3 years; these
 numbers, if/when revised, should be visible in the [faculty
 recruitment
-advertisement](http://www.iitb.ac.in/en/careers/faculty-recruitment).
+advertisement](http://www.iitb.ac.in/en/careers/faculty-recruitment). It
+is to be noted that CPDA cannot be utilised by the faculty when he is
+under any extraordinary leave.
 
+### Rules governing CPDA
 The CPDA funds are primarily intended to support travel to
 international conferences. Please note that most government-supported
 projects do not allow travel funds to be used for international
@@ -1150,9 +1143,7 @@ that is where the CPDA helps. That said, CPDA funds can be spent for
 national conference travel; though, for reasons mentioned above, it
 would be judicious to use other funds for this. CPDA funds can also be
 utilised on reimbursement basis for paying the membership fee of
-various professional bodies, books and contingent expenses. It is to
-be noted that CPDA cannot be utilised by the faculty when (s)he is on
-any Extraordinary Leave.
+various professional bodies, books and contingent expenses.
 
 Out of INR 3 lakhs, a minimum of ₹ 2 Lakhs is earmarked for
 presenting papers at conferences and a maximum ₹ 1 Lakh can be spent
@@ -1165,53 +1156,25 @@ expenses @ US $ 250 per day for the period of conference and two
 additional days (for travel) preceding/succeeding the conference,
 subject to a maximum of (5+2) days. On account of shortage of funds,
 the supplementary amount can be utilised from project, travel grants
-from DST etc.
+from other funding agencies.
 
-Out of the maximum allocation of contingency fund of INR 1 lakh in the block of three years, an amount up to INR 33,000 can be spent in the year one, a further INR 33000 plus the unused portion of the first year’s allocation in year two and the entire unspent balance out of the total allocation in the last year.
+Out of the maximum allocation of contingency fund of INR 1 lakh in the
+block of three years, an amount up to INR 33,000 can be spent in the
+year one, a further INR 33000 plus the unused portion of the first
+year's allocation in year two and the entire unspent balance out of
+the total allocation in the last year.
 
 Availability of 1 lakh contingency fund is divided as follows:
     a. Up to ₹ 33,000/- available in first year
     b. Unspent from(a) + ₹ 33,000/- available in second year
     c. Unspent from(a) + (b) + ₹ 34,000/- available in third year
 
-In case the faculty has a paper accepted in a prestigious conference
-falling within same block, the Institute has made a provision for
-granting up to an additional ₹ 1 lakh from its own funds.
 
-### Rules for using CPDA for National Conferences
-The funds for conference participation can be utilised for
-international conferences primarily, and can also be used for
-participation in National Conferences, if support for the latter
-cannot be provided by the department. Acceptance of a paper for
-presentation is necessary for approval of conference-related
-expenditure.
-
-The Department Head has the authorisation for approving a faculty's
-travel fare (rail and Apex Air India) for a national conference, which
-is expected to get approved at the rate of one per year. However, in
-case of departmental failure in delivering support, CPDA can also be
-used for presenting papers in national conferences also.
-
-### Seeking the various funds
-₹ 50,000/- will be made available to the faculty members, for the
-block period. This amount can be spent on reimbursement basis on
-production of receipts, towards membership fee of professional bodies,
-contingency expenditure in addition to conference expenses. This
-amount can also be utilised against any valid expenditure that has
-been incurred in connection with participation in international
-conferences, over and above the ₹ 1 lakh limit previously
-prevailing, if such has been the case. Such amounts may have been
-spent from RDF or one’s personal funds and can now be transferred to
-RDF/ reimbursed as the case may be, subject to the ₹ 50,000/- limit.
-
-  -  CPDA for both i.e. ₹ 2,00,000/- for Conference and
-     ₹ 1,00,000/- for contingency shall be made available for the
-     use of Faculty on quarterly basis depending upon the date of
-     joining of the concerned faculty during the CPDA block year.
-  - If ₹ 2 lakhs- CPDA conference funds are not used for the conference, up to 50,000 can be availed for expenses towards books.
-  - CPDA will now be available to Faculty members on contract basis also.
+  - If ₹ 2 lakhs from the CPDA conference funds are not used to attend
+    a conference, up to ₹ 50,000 may be availed for expenses towards
+    books.
   - CPDA will not be available to the Faculty members who will proceed
-    on the lien and EOL (During the period of lien or EOL).
+    on lien and EOL (During the period of lien or EOL).
 
 The daily allowance provided to Faculty Members for participation in International conferences are as follows:
 
@@ -1232,6 +1195,8 @@ on Government work.
 If the full hospitality has been provided (boarding and lodging) by
 the organizers only per diem of 25% of the rates mentioned in the
 table above, i.e. $28.75.
+
+TODO
 
 In no case conference expenditure can be more than ₹ 2 lakh with
 corresponding reduction of 1 lakh allocated for contingency
@@ -1291,7 +1256,7 @@ e. Expenditure above three lakhs within the block period have to be
 met by sources other than IRCC fund.
 
 f. The excess expenditure, if any, is not permitted to be met from
-next block grant.
+the next block grant.
 
 g. Settlement in respect of all three activities should be completed
 within one month of incurring such expenditure.
@@ -1306,45 +1271,51 @@ period, the grant eligibility will be:
 ### International travel related support (IR-IT)
 
 The IR-IT component in the block grant may be used for the following:
-    a. Attending conferences to present faculty research (oral presentation)
-    b. Conducting specialised experimental research work in major research facilities abroad, if unavailable nationally (TA/DA only). Charges for usage of such facilities, if applicable, should be met from other sources.
-    c. Chairing a session in international meetings
-    d. Contribution towards travel awards such as INSA grants
-    e. Giving invited talks and initiating or continuing on-going collaborative research work, where partial support towards the visit is made available by the host institution (such as local travel / hospitality, partial travel support etc.)
-    f. Attending specialised workshops based on invitation and partial support by the organisers
+
+   a. Attending conferences to present faculty research (oral presentation)
+   b. Conducting specialised experimental research work in major research facilities abroad, if unavailable nationally (TA/DA only). Charges for usage of such facilities, if applicable, should be met from other sources.
+   c. Chairing a session in international meetings
+   d. Contribution towards travel awards such as INSA grants
+   e. Giving invited talks and initiating or continuing on-going collaborative research work, where partial support towards the visit is made available by the host institution (such as local travel / hospitality, partial travel support etc.)
+   f. Attending specialised workshops based on invitation and partial support by the organisers
 
 *Guidelines for implementation*:
 The grant use is subject to the following:
-    a. The grant is available only for faculty member for his/her travel and not for students or project staff
-    b. All Institute terms and conditions of international travel (CPDA norms), such as air carrier, TA/DA rules, class eligibility, etc., will be followed for the IR-IT related activities.
-    c. A request by faculty for support related to international travel should be sent to Dean R&D, with recommendation by Heads of the respective academic entities.
-    d. Prior permission from Dean (FA) / Director should be obtained for the international travel. A copy of the approval letter and conference related documents should be made available to Dean R&D office.
-    e. The component of the Institute CPDA grant for international travel for the applicable block period should have been utilised first, before utilising the IR-IT grant. When the available CPDA fund is not sufficient to cover the visit, then it can be combined with IR-IT fund / other sources such as project fund/ RDF.
-    f. While claiming the IR-IT grant component, a self-declaration shall be made by the faculty member that the international travel component of the CPDA fund has already been utilised.
-    g. Administrative order for the travel will be issued by Registrar as per existing procedure. If Institute CPDA is used in combination with any funds managed at IRCC (including the new IR-IT scheme, RDF, project fund, etc.), then the claim should be submitted to Main Accounts as per usual practice.
+
+   a. The grant is available only for faculty member for his/her travel and not for students or project staff
+   b. All Institute terms and conditions of international travel (CPDA norms), such as air carrier, TA/DA rules, class eligibility, etc., will be followed for the IR-IT related activities.
+   c. A request by faculty for support related to international travel should be sent to Dean R&D, with recommendation by Heads of the respective academic entities.
+   d. Prior permission from Dean (FA) / Director should be obtained for the international travel. A copy of the approval letter and conference related documents should be made available to Dean R&D office.
+   e. The component of the Institute CPDA grant for international travel for the applicable block period should have been utilised first, before utilising the IR-IT grant. When the available CPDA fund is not sufficient to cover the visit, then it can be combined with IR-IT fund / other sources such as project fund/ RDF.
+   f. While claiming the IR-IT grant component, a self-declaration shall be made by the faculty member that the international travel component of the CPDA fund has already been utilised.
+   g. Administrative order for the travel will be issued by Registrar as per existing procedure. If Institute CPDA is used in combination with any funds managed at IRCC (including the new IR-IT scheme, RDF, project fund, etc.), then the claim should be submitted to Main Accounts as per usual practice.
 
 ### International patenting activities (IR-IP)
 The IR-IP component of the block grant may be used for defraying 50%
 costs of international patenting expenditure.
 
 Guidelines:
-    a. Faculty may use the IR-IP grant for defraying 50% of international patenting cost with the balance 50% being provided by IRCC fund. Such costs may include Government fee, professional fee, translation fee and other costs, as per bills received and approved.
-    b. The international patenting will include all activities related to PCT filing and foreign country filing.
-    c. At any time in the block period, if the balance in the IR-ITPP grant is not sufficient for patenting contribution, such excess amount will be paid by IRCC as an advance against the next block grant. The amount available for other activities under IR-ITPP scheme in the next block grant will therefore stand reduced by such amount.
-    d. Faculty members may continue to bear the patenting cost through RDF / project funds in conjunction with the IR-IP component as per their choice.
-    e. In view of this support, IRCC will not consider any other requests for defraying international patenting expenses beyond 50% from IRCC fund.
+
+   a. Faculty may use the IR-IP grant for defraying 50% of international patenting cost with the balance 50% being provided by IRCC fund. Such costs may include Government fee, professional fee, translation fee and other costs, as per bills received and approved.
+   b. The international patenting will include all activities related to PCT filing and foreign country filing.
+   c. At any time in the block period, if the balance in the IR-ITPP grant is not sufficient for patenting contribution, such excess amount will be paid by IRCC as an advance against the next block grant. The amount available for other activities under IR-ITPP scheme in the next block grant will therefore stand reduced by such amount.
+   d. Faculty members may continue to bear the patenting cost through RDF / project funds in conjunction with the IR-IP component as per their choice.
+   e. In view of this support, IRCC will not consider any other requests for defraying international patenting expenses beyond 50% from IRCC fund.
 
 ### Publication related activities (IR-P)
 
 The IR-P component of the block grant may be used for the following:
-    a. For publishing faculty research in good journals, where special circumstances require page charges to be paid.
-    b. For publishing with colour pages or other such special printing requirements
-    c. To a very limited extent, for publishing in SCI/Web of Science Indexed open access journals
+
+   a. For publishing faculty research in good journals, where special circumstances require page charges to be paid.
+   b. For publishing with colour pages or other such special printing requirements
+   c. To a very limited extent, for publishing in SCI/Web of Science Indexed open access journals
+
 Guidelines:
-    a. A request by faculty for support related to any publication should be recommended by Heads of the respective academic entities with a strong justification for such requests.
-    b. Support for publications will be based on ‘essentiality’ of the need and subject to approval by Dean R&D.
-    c. Such support shall not be given for papers being published in open access journals even if they are SCI / Web of Science indexed unless there is a very strong certification of good quality of the journal, by the Academic entity.
-    d. It is desirable that part of the costs for publications as above is claimed from other sources such as projects / RDF / DDF and part from the IR-P component of the block grant.
+
+   a. A request by faculty for support related to any publication should be recommended by Heads of the respective academic entities with a strong justification for such requests.
+   b. Support for publications will be based on ‘essentiality’ of the need and subject to approval by Dean R&D.
+   c. Such support shall not be given for papers being published in open access journals even if they are SCI / Web of Science indexed unless there is a very strong certification of good quality of the journal, by the Academic entity.
+   d. It is desirable that part of the costs for publications as above is claimed from other sources such as projects / RDF / DDF and part from the IR-P component of the block grant.
 
 
 ## Loans
@@ -1354,6 +1325,8 @@ Institute also has provision for a loan for buying a flat or building
 a house. Details of these may be ascertained from the Administration.
 
 ## Entitlement for work related travel
+TODO: Sanjay
+
 While you travel on duty, your TA/DA entitlement is governed by your
 grade pay (AGP) alone.  According to the new rules, all Professors
 (including those on HAG scale) are entitled to travel by business
@@ -1409,6 +1382,8 @@ visits, all actual expenses, as may be approved by the Director is
 payable, if per diem is not claimed.  Where full hospitality is
 provided abroad by hosts, only 25% per diem, i.e. US \$28.75 is
 allowable.
+
+TODO above
 
 ## Obtaining authorizations and certificates
 You might find yourself needing various kind of certificates to be
