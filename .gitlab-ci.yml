@@ -1,9 +1,17 @@
 image: debian:testing
 
+# caching apt
+# To avoid to dl everything each time
+cache:
+  key: "apt-cache"
+  paths:
+    - apt-cache
+
 pages:
   script:
     - echo 'deb http://deb.debian.org/debian testing main contrib non-free' >> /etc/apt/sources.list
-    - apt update && apt -y install texlive-latex-extra pandoc make texlive-xetex fonts-ubuntu
+    - export APT_CACHE_DIR=`pwd`/apt-cache && mkdir -pv $APT_CACHE_DIR
+    - apt-get update -yq && apt -y install texlive-latex-extra pandoc make texlive-xetex fonts-ubuntu
     - make -B
     - mkdir -p public
     - cp out.pdf out.html *.css *.jpg public
