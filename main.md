@@ -264,7 +264,8 @@ Deans. They are as follows:
       procedures. This is the newest deanship that has been created in
       the Institute.
 
-Besides the Deans, there are Professors-in-Charge for various functional units. For example:
+Besides the Deans, there are Professors-in-Charge for various
+functional units. These include:
 
  - [Computer Centre](https://www.cc.iitb.ac.in) for all data network as well as Institute supercomputer related issues
  - [Continuing Education Programme](http://www.cep.iitb.ac.in/) for coordinating industrial training courses
@@ -272,8 +273,25 @@ Besides the Deans, there are Professors-in-Charge for various functional units. 
  - [Research Park](http://www.respark.iitb.ac.in/#/home) for engagement with companies on campus
  - [Parimal and Pramod Chaudhari Centre for Learning &
    Teaching](http://www.ppcclt.iitb.ac.in) for faculty development and
-   effective learning
-   TODO More?
+ - Application Software Centre (ASC)
+ - Centre for Research in Nanotechnology and Science (CRNTS)
+ - Centre for Aerospace Systems Design and Engineering (CASDE)
+ - Centre for Distance Engineering Education Programme (CDEEP)
+ - Centre for Policy Studies (CPS)
+ - Centre of Studies in Resources Engineering (CSRE)
+ - Centre for Technology Alternatives for Rural Areas (CTARA)
+ - Centre for Formal Design and Verification of Software (CFDVS)
+ - Centre for Urban Science and Engineering (C-USE)
+ - Desai Sethi Centre for Entrepreneurship (DSCE)
+ - IITB-Monash Research Academy
+ - National Centre for Aerospace Innovation and Research (NCAIR)
+ - National Center of Excellence in Technology for Internal Security (NCETIS)
+ - National Centre for Mathematics (NCM)
+ - Sophisticated Analytical Instrument Facility (SAIF)
+ - Tata Center for Technology and Design (TCTD)
+ - Wadhwani Research Centre for Bioengineering (WRCB)
+
+(TODO: Links for above)
 
 Then there is the Registrar, who is officially the custodian of all
 records and funds received by the Institute. (S)he signs the cheques
@@ -284,7 +302,7 @@ also the Head of the administration.
 
 ## Academic Units & their internal administration
 
-TODO: Check number of departments, centres etc.  The broad disciplines
+The broad disciplines
 in which IITB has its teaching and research activities are those of
 Engineering, Science, Management, Design, Educational Technology,
 Entrepreneurship, and Policy ([more
