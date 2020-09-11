@@ -273,25 +273,23 @@ functional units. These include:
  - [Research Park](http://www.respark.iitb.ac.in/#/home) for engagement with companies on campus
  - [Parimal and Pramod Chaudhari Centre for Learning &
    Teaching](http://www.ppcclt.iitb.ac.in) for faculty development and
- - Application Software Centre (ASC)
- - Centre for Research in Nanotechnology and Science (CRNTS)
- - Centre for Aerospace Systems Design and Engineering (CASDE)
- - Centre for Distance Engineering Education Programme (CDEEP)
- - Centre for Policy Studies (CPS)
- - Centre of Studies in Resources Engineering (CSRE)
- - Centre for Technology Alternatives for Rural Areas (CTARA)
- - Centre for Formal Design and Verification of Software (CFDVS)
- - Centre for Urban Science and Engineering (C-USE)
- - Desai Sethi Centre for Entrepreneurship (DSCE)
- - IITB-Monash Research Academy
- - National Centre for Aerospace Innovation and Research (NCAIR)
- - National Center of Excellence in Technology for Internal Security (NCETIS)
- - National Centre for Mathematics (NCM)
- - Sophisticated Analytical Instrument Facility (SAIF)
- - Tata Center for Technology and Design (TCTD)
- - Wadhwani Research Centre for Bioengineering (WRCB)
-
-(TODO: Links for above)
+ - [Application Software Centre](https://asc.iitb.ac.in) (ASC)
+ - [Centre for Research in Nanotechnology and Science](http://www.saif.iitb.ac.in/crnts/) (CRNTS)
+ - [Centre for Aerospace Systems Design and Engineering](http://www.casde.iitb.ac.in/) (CASDE)
+ - [Centre for Distance Engineering Education Programme](https://www.cdeep.iitb.ac.in/) (CDEEP)
+ - [Centre for Policy Studies](https://www.cps.iitb.ac.in/) (CPS)
+ - [Centre of Studies in Resources Engineering](https://www.csre.iitb.ac.in/) (CSRE)
+ - [Centre for Technology Alternatives for Rural Areas](https://www.ctara.iitb.ac.in/) (CTARA)
+ - [Centre for Formal Design and Verification of Software](http://www.cfdvs.iitb.ac.in/) (CFDVS)
+ - [Centre for Urban Science and Engineering](http://cuse.iitb.ac.in/) (C-USE)
+ - [Desai Sethi Centre for Entrepreneurship](http://www.iitb.ac.in/dsce/) (DSCE)
+ - [IITB-Monash Research Academy](http://www.iitbmonash.org/)
+ - [National Centre for Aerospace Innovation and Research](http://ncair.in/) (NCAIR)
+ - [National Center of Excellence in Technology for Internal Security](https://rnd.iitb.ac.in/node/101506) (NCETIS)
+ - [National Centre for Mathematics](https://www.ncmath.org/) (NCM)
+ - [Sophisticated Analytical Instrument Facility](http://www.saif.iitb.ac.in/) (SAIF)
+ - [Tata Center for Technology and Design](http://www.saif.iitb.ac.in/) (TCTD)
+ - [Wadhwani Research Centre for Bioengineering](https://rnd.iitb.ac.in/node/101513) (WRCB)
 
 Then there is the Registrar, who is officially the custodian of all
 records and funds received by the Institute. (S)he signs the cheques
@@ -304,74 +302,77 @@ also the Head of the administration.
 
 The broad disciplines
 in which IITB has its teaching and research activities are those of
-Engineering, Science, Management, Design, Educational Technology,
+Engineering, Science, Humanities & Social Sciences, Management, Design, Educational Technology,
 Entrepreneurship, and Policy ([more
 details](http://www.iitb.ac.in/en/education/academic-divisions)). Academic
 programmes in these areas are hosted in 16 Departments, 1 School, 19
 Centres and 4 Interdisciplinary programmes.
 
- - A 'Department' is a unit that offers the whole range of academic
+ - A **'Department'** is a unit that offers the whole range of academic
    programmes ranging from undergraduate to doctoral degrees.
- - A 'Centre ' hosts only postgraduate and research programmes.
- - Interdisciplinary programmes (IDPs) are nucleated by faculty coming
+ - A **'Centre'** hosts only postgraduate and research programmes.
+ - **Interdisciplinary programmes (IDPs)** are nucleated by faculty coming
    together from different disciplines to define a common research
    agenda, and over time, as the activities take a definite shape and
    build up enough strength, such IDPs may become Centres
-   themselves. Schools are set up in targeted areas, with significant
+   themselves.
+-  **Schools** are set up in targeted areas, with significant
    funding from external sources.
- - In addition, there are service centres such as the Computer
-   Centre, which do not host any academic or research programmes.
+ - In addition, there are **service centres** such as the **Computer
+   Centre**, which do not host any academic or research programmes.
 
 The academic units mentioned above are headed, usually by a faculty
 member of the unit itself, and usually of the rank of Professor. The
 Head of an academic unit has a term of three years. The position is
 similar to what is known as the 'Department Chair' in the West. The
 Head is appointed by the Director, generally after seeking the view of
-the departmental faculty. All paperwork from the Department is routed
-through the Head. This includes nearly all official applications
-(e.g., applications for seed funding, for special leave, and so on)
-going from a faculty member to the Institute.
+the departmental faculty. All paperwork and online approvals from the
+Department are routed through the Head. This includes nearly all
+official applications (e.g., applications for seed funding, for
+special leave, and so on) going from a faculty member to the
+Institute.
 
 The Head of an academic unit functions with the aid of several
 committees.
 
   - The largest and most important of these is the departmental
-    faculty itself, which meets at least once every semester for a
-    Faculty Meeting (DFM), and takes major decisions of broad impact.
-  - The Departmental Policy Committee (DPC) meets at least twice every
-    semester and has the responsibility of framing policy on matters
-    of interest to the Department. The DPC has the important role of
-    ensuring continuity in broad policy directions and is an elected
-    body with representation of all constituent cadres and groups of
-    faculty in the department.
-  - The Departmental Undergraduate Programme Committee (DUGC) and the
-    Departmental Postgraduate Programme Committee (DPGC) to decide on
+    faculty itself, which meets **at least once every semester** for a
+    Faculty Meeting (**DFM**), and takes major decisions of broad impact.
+  - The Departmental Policy Committee (**DPC**) meets **at least
+    twice** every semester and has the responsibility of framing
+    policy on matters of interest to the Department. The DPC has the
+    important role of ensuring continuity in broad policy directions
+    and is an elected body with representation of all constituent
+    cadres and groups of faculty in the department.
+  - The Departmental Undergraduate Programme Committee (**DUGC**) and the
+    Departmental Postgraduate Programme Committee (**DPGC**) to decide on
     matters relating the to respective academic programmes, and issues
     pertaining to students therein.
 
-The deliberations of these committees, in the form of minutes, is
-communicated to concerned functionaries in the central administration,
+The deliberations of these committees, in the form of minutes, **is
+communicated to concerned functionaries in the central administration**,
 who are updated of the issues of the departmental faculty.
 
 The structure and function of these and other committees were set out
 in the Report of the Committee for Review of the Academic Bodies
-(which is known as the CRAB committee report) in 1972 (detailed
+(which is known as the **CRAB committee** report) in 1972 (detailed
 guidelines in respect of DPC were formulated in 2011).
 
 # When You Join
 Welcome to I.I.T. Bombay's faculty fraternity! The Institute promises
 you interesting times ahead. Setting up home and workplace might
-appear to be a tough proposition at first, particularly if you are
-arriving from a more orderly place (US, Europe, Japan etc.). Things
-you might have taken for granted abroad, may not be so straightforward
-here. The Institute administration is constantly improving its systems
-and processes - in particular, to smoothen the transition for new
-faculty - and is open to your suggestions in this regard. The Head of
-your Department/Centre is officially your liaison with the Institute
-and, as such, may be freely approached for help if you face any
-issues. Also, most senior colleagues would be more than happy to guide
-and help informally - please do not hesitate to ask! What follows is a
-quick look at what you need to do just before and after your arrival.
+appear to be a tough proposition at first, epseically if you are
+arriving from a more orderly place (North America, Europe, Japan,
+Australia etc.). Things you might have taken for granted abroad, may
+not be so straightforward here. The Institute administration is
+constantly improving its systems and processes - in particular, to
+smoothen the transition for new faculty - and is open to your
+suggestions in this regard. The Head of your Department/Centre is
+officially your liaison with the Institute and, as such, may be freely
+approached for help if you face any issues. Also, most senior
+colleagues would be more than happy to guide and help informally -
+please do not hesitate to ask! What follows is a quick look at what
+you need to do just before and after your arrival.
 
 
 First, once you have decided on the date of your arrival, please write
@@ -384,11 +385,12 @@ campus.
 The Institute provides for Relocation Allowance to new faculty ([more
 details](http://www.iitb.ac.in/en/careers/faculty-facilities)). Please
 remember to keep your receipts/air-tickets etc. for claiming this
-reimbursement. This applies to all future official travel as well!  If
-you accept the relocation allowance, you have to agree to serve the
-Institute for a minimum period of three years. If you leave the
-Institute before this period, the Institute may ask you to return the
-relocation amount paid, either fully or partially.
+reimbursement up to a maximum of Rs. 1 lakh. This applies to all
+future official travel as well!  If you accept the relocation
+allowance, you have to agree to serve the Institute for a minimum
+period of three years. If you leave the Institute before this period,
+the Institute may ask you to return the relocation amount paid, either
+fully or partially.
 
 If you are joining as a fresh faculty as an Assistant Professor, you
 are eligible to receive the [Young Faculty Award (YFA) endowed by our
@@ -400,24 +402,24 @@ franking - which can be done with the help of the Administration Section in
 the Main Building.
 
 The relocation allowance and YFA are also admissible to Assistant
-Professors (contractual basis), appointed through statutorily
-constituted selection committees.
+Professors (Grade - II), appointed through statutorily constituted
+selection committees.
 
 The following are the things to do immediately after joining. As you
-embark on the necessary running-around, it might help in some cases to
-call an office before you land up (here, to that end, is a link to the
-[Institute’s telephone
+embark on the necessary running-around, it is better to call the
+concerned office before you land up (here, to that end, is a link to
+the [Institute’s telephone
 directory](https://portal.iitb.ac.in/TelephoneDirectory/)).
 
 
 Immediately on joining:
 
 1. You have to make a visit to the Administration Section in the Main
-   Building to complete joining formalities. For this purpose you
+   Building to complete the joining formalities. For this purpose you
    need:
    a. Original and copies of all academic certificates from SSC (10th
-   Board) to Ph.D. SSC or HSC certificate which gives your date of
-   birth is very important as the Administration does not accept any
+   Board) to Ph.D. SSC or HSC certificate, which gives your date of
+   birth, is very important as the Administration does not accept any
    other proof for date of birth.
    b. Several passport size photographs for various purposes.
    c. If you were previously employed, a certificate stating that you
@@ -425,41 +427,46 @@ Immediately on joining:
 
 2. The Administration section will, in turn, give you several letters
    and forms. Two letters of immediate importance are the ones to: (i)
-   Chairman, Accommodation Allotment Committee (AAC), requesting that
-   a quarter be allotted to you and (ii) IIT Hospital, to examine you
-   and certify that you are medically fit.
+   Associate Dean-II (IPS), requesting that a quarter be allotted to
+   you and (ii) IIT Hospital, to examine you and certify that you are
+   medically fit.
 
 3. Please take the Accommodation Committee letter to the office of the
-   Associate Dean-II (IPS) where your options for ad hoc accommodation
-   will be explained to you. At the time of writing, most new faculty
-   members spend the first few years in off-campus accommodation. This
-   could be a flat already leased out to IIT, or a flat that you find
-   and get IIT to lease for you; IIT will take care of the rent up to
-   a limit of about ₹ 40,000 - which should get you a small 2BHK (2
-   bedroom, 1 Hall, 1 Kitchen) flat in the vicinity of Campus. If you
-   are keen to stay on-campus and rather lucky, you may get a Staff
-   Hostel flat/quarter - 1 BHK (1 Bedroom, 1 Hall, 1 Kitchen) allotted
-   to you. There may be a trade-off here between the better quality of
-   life if you stay on-campus, and the better quality accommodation
-   that you are likely to get outside. After a two to three years, you
-   may expect to get a better quality flat on campus allotted to you
-   as ‘regular accommodation’. (If you happen to have joined the
-   Institute directly as a Professor, you will get a C-type quarter -
-   2 or 3 BHK - as your ad-hoc allotment). Regular accommodation is
-   done by a seniority rule (for details, please see [Seniority and
-   Allotment
+   Associate Dean-II (IPS) where your options for *ad hoc*
+   accommodation will be explained to you. At the time of writing,
+   most new faculty members spend the first few years in off-campus
+   accommodation. This could be a flat already leased out to IIT, or a
+   flat that you find and get IIT to lease for you; IIT will take care
+   of the rent up to a limit of about ₹ 40,000 - which should get you
+   a small 2BHK (2 bedroom, 1 Hall, 1 Kitchen) flat in the vicinity of
+   Campus. If you are keen to stay on-campus and rather lucky, you may
+   get a Staff Hostel flat/quarter - 1 BHK (1 Bedroom, 1 Hall, 1
+   Kitchen) allotted to you. There may be a trade-off here between the
+   better quality of life if you stay on-campus, and the better
+   quality accommodation that you are likely to get outside. After two
+   to three years, you may expect to get a better quality flat on
+   campus allotted to you as ‘regular accommodation’. (If you happen
+   to have joined the Institute directly as a Professor, you may
+   eligible to get a C-type quarter - 2 or 3 BHK - as your ad-hoc
+   allotment). Regular accommodation is done by a seniority rule (for
+   details, please see [Seniority and Allotment
    Criteria](http://www.iitb.ac.in/deanpl/estOff1.html)). The
    on-campus quarters do not come furnished and you will have to
    furnish it yourself. A home telephone connected to the internal
    exchange will be provided which does not have outside call
    facilities. You may decide to get a personal landline or mobile
    phone connection either from MTNL or from one of the other private
-   operators. Your quarter would also have internet facilities
-   connected to the Institute network. Please retain your
-   accommodation allotment letter in a safe place, as it will serve as
-   proof of address for various purposes; in particular, it will come
-   in handy for various purposes like applying for a LPG cooking
-   cylinder connection, opening a bank account etc.
+   operators. The Manager Telephones, whose office is in the Telephone
+   Exchange (Main Building) generally would be able to share
+   information of some special mobile plans for IIT Faculty and
+   Staff. Your quarter would also have internet facilities connected
+   to the Institute network. Please retain your accommodation
+   allotment letter in a safe place, as it will serve as proof of
+   address for various purposes; in particular, it will come in handy
+   for various purposes like applying for a LPG cooking cylinder
+   connection, opening a bank account etc. Keeping a scanned copy for
+   easy access is highly recommended, so that printouts can be taken
+   on demand.
 
 4. An LPG connection is essential if you plan to cook at home. The
    simplest way is to take your accommodation allotment letter to
@@ -471,33 +478,33 @@ Immediately on joining:
 
 5. The letter to IIT Hospital is to be presented to the Hospital
    reception, where an appointment will be scheduled for your medical
-   examination.
+   examination. Please proactively follow-up with the hospital to get
+   the tests done in a timely manner.
 
-6. There are a few other forms to be filled up, viz. an attestation
+6. There are a few more forms to be filled up, *viz.* an attestation
    form, a form declaring your dependents, a form for joining the New
    Pension Scheme (NPS) and Group Term Scheme Insurance (GTIS).
    a. New faculty have to join the NPS, details of which are given in
-   a later chapter. (For people joining earlier to this
-   date, there was a Pension scheme or a non-pension Contributory
-   Provident Fund).
+   a later chapter. (For people who joined 1st January, 2004, there
+   was a Pension scheme or a non-pension Contributory Provident Fund).
 
    b. You also need to join the compulsory Group Term Insurance Scheme
    (GTIS), and the premium for this will be deducted from the monthly
    salary.
 
    b. Attestation Form is to be filled up so that the Institute can
-   verify that you have not been involved in criminal activities in
-   the past. You will have to provide all addresses where you have
-   resided during the preceding five years. A clearance from the
+   verify that you have not been involved in any criminal activities
+   in the past. You will have to provide all addresses where you have
+   resided during the preceding five years. **A clearance from the
    police is mandatory before your services are made permanent (a
-   process termed as confirmation).
+   process termed as confirmation).**
 
    c. You will have to make a declaration of your dependents who will
    be eligible for various service facilities like Leave Travel
    Concession, medical benefits etc. Your spouse is treated as a
    dependent, whether employed elsewhere or not. Sons are dependents
-   till the age of 25 or till they start earning, whichever comes
-   first (no age bar for permanently disabled sons). Daughters are
+   till the age of 25 or till they start earning, whichever is earlier
+   (no age bar for permanently disabled sons). Daughters are
    considered dependents till they start earning or till they get
    married, whichever is earlier. You can declare your parents as
    dependent provided they live with you and do not have independent
@@ -533,9 +540,9 @@ Immediately on joining:
    employees, while in the Kendriya Vidyalaya most of the seats are
    reserved for them. In the case of exceptional difficulty in getting
    admission into the Kendriya Vidyalaya, our Director, who is
-   ex-officio the Chairman of the Vidyalaya Management Committee can
-   help out by exercising their discretionary quota. There is also a
-   Professor-in-Charge who you may contact for helpful advice in case
+   the *ex-officio* Chairman of the Vidyalaya Management Committee can
+   help out by exercising his/her discretionary quota. There is also a
+   Professor-in-Charge (TODO) whom you may contact for helpful advice in case
    of difficulty. The Campus School also has a kindergarten school for
    children above the age of three. For younger kids there is a
    private creche (Shishu Vihar, located at the time of writing in
@@ -544,13 +551,14 @@ Immediately on joining:
    is provided in later chapters.
 
 10. You will have to apply for a Permanent Account Number (PAN) which
-    is to be used in all your income tax returns; it is needed also by
+    is to be used in all your income tax returns; it is also needed by
     the banks for large volume transactions. There are many agents
     (e.g. UTI at Ghatkopar or in Galleria, Hiranandani Gardens) who
     can take care of it - the Administration Section should be able to
-    guide you. You need to provide copies of your photograph and a
-    proof of residential address for the same. It may also be possible
-    to get it online at [this website](https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html). While
+    guide you. You need to provide copies of your photograph and
+    address proof for the same. It may also be possible to get it
+    online at [this
+    website](https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html). While
     you are at it, it is good to get a PAN for your spouse as well,
     whether or not they are employed.
 
@@ -561,7 +569,7 @@ Immediately on joining:
     (through a One Time Password, or OTP). The Manager (Telephones) in
     the Institute (internal number 8997), who sits next to the
     Exchange in the Main Building, can help you to get a mobile
-    connection.
+    connection (prepaid or postpaid).
 
 12. It may prove very useful to also get an Aadhar card
     (https://uidai.gov.in/). The Administration Section will be able
@@ -571,39 +579,39 @@ Immediately on joining:
 
 13. You will need to get a bank account so that your salary can be
     deposited at the bank. There are branches of two banks on campus,
-    viz. State Bank of India and Canara Bank. Please drop in there
+    **viz.** State Bank of India and Canara Bank. Please drop in there
     with your identity proof and a photograph and open a bank
     account. You may require one of your colleagues holding an account
     in the same branch to provide an introduction. There are several
     private banks (HDFC, ICICI, Axis Bank, South Indian Bank), public
     sector banks (e.g. Oriental Bank of Commerce, Andhra Bank, Vijaya
     Bank etc.), and foreign banks (HSBC) around IIT, particularly in
-    the area known as Hiranandani Gardens. Please note that salary is
-    normally credited into either Canara Bank or State Bank of India
-    accounts.
+    the area known as Hiranandani Gardens. However, please note that
+    salary is normally credited into either Canara Bank or State Bank
+    of India accounts.
 
 ## Regularization/Confirmation of Service
 
-Under the current norms (viz. 7th Pay Commission rules as outlined
-[here](https://mhrd.gov.in/sites/upload_files/mhrd/files/7th%20CPC%20Order%20CFTIs.pdf),
+Under the current norms (**viz.** [7th Pay Commission
+rules](https://mhrd.gov.in/sites/upload_files/mhrd/files/7th%20CPC%20Order%20CFTIs.pdf),
 in particular 1(b)), IITs cannot offer a confirmed faculty position to
 one with less than 3 years professional/postdoctoral experience (not
-counting any experience gained during the PhD years). In such cases,
-the Institute makes an appointment at the Assistant Professor Grade-II
-through its regular selection process. Such appointees are entitled to
-all facilities that regular faculty members may avail. If you are
-appointed at this level, the administration keeps track of when you
-complete the requirement of 3 years of experience (the experience
-gained after the date of PhD defence is counted), and sends a form to
-your department, that you have to fill for your appointment to be
-regularized. This form, in which you have to provide details of your
-accomplishments since obtaining the PhD degree, has to be filled out
-and returned with your Head's forwarding comments, to the Dean
-(FA). In case you have prior experience that the administration is
-unaware of, that you feel should be counted against the 3-year
-requirement, you may make a representation through your Head of
-Department to Dean (FA), along with with documentary evidence of the
-experience you are claiming.
+counting any experience gained during the PhD and pre-PhD years). In
+such cases, the Institute makes an appointment at the Assistant
+Professor Grade-II through its regular selection process. Such
+appointees are entitled to all facilities that regular faculty members
+may avail. If you are appointed at this level, the administration
+keeps track of when you complete the requirement of 3 years of
+experience (the experience gained after the date of PhD defence is
+counted), and sends a form to your department, that you have to fill
+for your appointment to be regularized. This form, in which you have
+to provide details of your accomplishments since obtaining the PhD
+degree, has to be filled out and returned with your Head's forwarding
+comments, to the Dean (FA). In case you have prior experience that the
+administration is unaware of, that you feel should be counted against
+the 3-year requirement, you may make a representation through your
+Head of Department to Dean (FA), along with with documentary evidence
+of the experience you are claiming.
 
 A faculty member recruited to any cadre is placed on probation for a
 period of 1 year. At the end of this period, administration requires
