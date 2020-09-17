@@ -361,7 +361,7 @@ guidelines in respect of DPC were formulated in 2011).
 # When You Join
 Welcome to I.I.T. Bombay's faculty fraternity! The Institute promises
 you interesting times ahead. Setting up home and workplace might
-appear to be a tough proposition at first, epseically if you are
+appear to be a tough proposition at first, especially if you are
 arriving from a more orderly place (North America, Europe, Japan,
 Australia etc.). Things you might have taken for granted abroad, may
 not be so straightforward here. The Institute administration is
@@ -507,9 +507,9 @@ Immediately on joining:
    (no age bar for permanently disabled sons). Daughters are
    considered dependents till they start earning or till they get
    married, whichever is earlier. You can declare your parents as
-   dependent provided they live with you and do not have independent
-   income exceeding a certain limit, viz. (TODO) 3500 INR per month at
-   the time of writing.
+   dependent provided that they do not have independent income
+   exceeding a certain limit, _viz._ ₹ 9,000 + dearness relief per
+   month at the time of writing.
 
 7. Now that you are done with the Administration Section, please
    return to your Department and fill up a joining report form which
@@ -974,10 +974,10 @@ travel. Instead, the reimbursement will be on actuals supported by
 bills and payment proof thereof (e.g. credit card receipt or account
 statement). For this purpose, Professors (including those on HAG
 scale) will be eligible for reimbursement for hotel
-accommodation/guest house for an amount up to 5000 INR per day;
+accommodation/guest house for an amount up to ₹ 5000 per day;
 reimbursement of AC taxi up to 50 km for local travel and
-reimbursement of food bills not exceeding 500 INR per day. The rates
-for other faculty are 3000 INR for Hotel, non-AC taxi up to 50 km, and
+reimbursement of food bills not exceeding ₹ 500 per day. The rates
+for other faculty are ₹ 3000  for Hotel, non-AC taxi up to 50 km, and
 ₹ 300/- for food bill (with 7th Pay Commission rules, it is not clear
 whether this also applies to Assistant Professors in Grade-II; please
 ask Dean FA).
@@ -1151,7 +1151,7 @@ then remains unchanged for the entire service).
 The CPDA is an MHRD provision under which The Institute provides
 faculty at all levels with some level of support for travel (including
 international) and contingency expenses. At the time of writing, the
-allowance amounts to 3 lakhs INR for a block period of 3 years; these
+allowance amounts to ₹ 3 lakhs for a block period of 3 years; these
 numbers, if/when revised, should be visible in the [faculty
 recruitment
 advertisement](http://www.iitb.ac.in/en/careers/faculty-recruitment). It
@@ -1171,7 +1171,7 @@ would be judicious to use other funds for this. CPDA funds can also be
 utilised on reimbursement basis for paying the membership fee of
 various professional bodies, books and contingent expenses.
 
-Out of INR 3 lakhs, a minimum of ₹ 2 Lakhs is earmarked for
+Out of ₹ 3 lakhs, a minimum of ₹ 2 Lakhs is earmarked for
 presenting papers at conferences and a maximum ₹ 1 Lakh can be spent
 towards membership of professional bodies, contingent expenses
 (includes purchase of books, stationery, computers and related
