@@ -6,6 +6,9 @@ out.pdf: main.md
 out.html: main.md
 	pandoc --number-sections --toc -s -c pandoc.css --to=html5 -o out.html --metadata title="Faculty Handbook" main.md
 
+out.docx: main.md
+	pandoc  --number-sections --toc -o out.docx main.md
+
 .PHONY: clean
 
 clean:
