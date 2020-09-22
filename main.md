@@ -809,8 +809,8 @@ Level 10, with starting a salary of ₹ 84,700 plus D.A..
    in raising funds for further chairs. The selection to these chairs
    is carried out by Dean (FA). Each chair is given for a period of 3
    years, and the chair is re-advertised at the end of that
-   period. Faculty who hold chairs receive a salary top up of INR
-   30,000 per month and a contingency grant of INR 90,000 per year, in
+   period. Faculty who hold chairs receive a salary top up of ₹
+   30,000 per month and a contingency grant of ₹ 90,000 per year, in
    addition to their salaries. Details are available on the Dean
    (FA)'s webpage.
 
