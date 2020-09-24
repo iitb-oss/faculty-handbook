@@ -699,7 +699,7 @@ terminate the service of any employee by giving a three months' notice
 or salary in lieu thereof along with sufficient reason justifying such
 termination. During the period of probation, however, the Institute
 needs to give only a month's notice for termination and no reason may
-be given for such act. Those who are covered under the old pension
+be given for such an act. Those who are covered under the old pension
 scheme may also opt for `voluntary retirement' from the service of the
 Institute by giving a three months' notice after having served the
 Institute for a minimum period of 20 years. Voluntary retirement is
@@ -935,71 +935,6 @@ When you receive your salary slip, you will find some deductions as well. The pr
 
 5. There will be deductions for Group Term Insurance and Scheme (GTIS)
    and Post Retirement Medical Scheme (PRMS).
-
-### Travel Entitlement Rules
-
-While you travel on duty, your TA/DA entitlement is governed by your
-salary level, which is given by the pay levels as defined by the 7th
-Pay Commission (P.C.). Most of what is given in this section
-corresponds to the 6th P.C. because the details of the entitlements
-under the 7th P.C. are not completely available yet. They will be
-updated here as they become available. Until then, please ask the Dean
-FA office if you have questions.
-
-According to 6th P.C. rules, all Professors (including those on HAG
-scale) are entitled to travel by business class while traveling by air
-– unless austerity measures are in force (please ask Dean FA!). All
-other faculty members are entitled to travel in Economy class (with
-7th Pay Commission rules, it is not clear whether this also applies to
-Assistant Professors in Grade-II; please ask Dean FA). Currently, if
-you are using Government funds (this includes CPDA and government
-ministry-funded projects), then in most cases you have to travel by
-Air India (AI) only. Please note that this applies even if AI is a
-more expensive option; timing, however, might be a viable reason. The
-procedure for seeking permission to fly non-AI is given on [this
-government
-website](https://mhrd.gov.in/delegation-power-financial-advisor-accord-exemption-air-travel-airlines-other-air-india-individual
-). In practice, it is usually less onerous, especially so for domestic
-work-related (not LTC) travel. Please be guided by the Dean FA on
-this.
-
-In any event, please remember to submit your TA bill along with
-boarding passes and e-ticket copy  (please contact Accounts section
-for business class international travel).
-
-For road travel: if you travel by your own car or unmetered taxi (in
-places where metered taxis are not available), you could claim up to
-₹ 16/- per kilometre.
-
-Under the 6th P.C., there is no daily allowance for domestic
-travel. Instead, the reimbursement will be on actuals supported by
-bills and payment proof thereof (e.g. credit card receipt or account
-statement). For this purpose, Professors (including those on HAG
-scale) will be eligible for reimbursement for hotel
-accommodation/guest house for an amount up to ₹ 5000 per day;
-reimbursement of AC taxi up to 50 km for local travel and
-reimbursement of food bills not exceeding ₹ 500 per day. The rates
-for other faculty are ₹ 3000  for Hotel, non-AC taxi up to 50 km, and
-₹ 300/- for food bill (with 7th Pay Commission rules, it is not clear
-whether this also applies to Assistant Professors in Grade-II; please
-ask Dean FA).
-
-However, one had the option of being governed by the 5th P.C. rules
-for calculation of daily allowance. Such an option could be exercised
-for the entire duration of a given tour and not for parts of a
-tour. In such a case, all faculty will be eligible to draw daily
-allowance appropriate to pre-revised scale of ₹ 16,400/- and
-above. This is only useful when you would like to claim a daily
-allowance without submitting detailed expenditure receipts.
-
-For International Conferences and for faculty members visiting  abroad
-on Institute's work, a per diem of 115 USD is payable. In addition,
-hotel expenses at actuals subject to a maximum of 135 USD is payable,
-supported by bills and receipts, is payable for conferences. For
-official visits, all actual expenses, as may be approved by the
-Director are payable, if per diem is not claimed.  Where full
-hospitality is provided abroad by hosts, only 25% per diem, i.e. 28.75
-USD is allowed.
 
 ### Leave Travel Concession (LTC)
 Once every two years, you are eligible for a paid travel to your home
@@ -1643,11 +1578,11 @@ Private consultancy is a serious breach of the code of conduct. Similarly, you s
 ## Right to Information
 In 2005, the Indian Parliament enacted a legislation known as the _Right to Information (RTI) Act_, which empowers a citizen to get any information from the Government or from any publicly funded institution. Exceptions are few and an educational institute does not qualify for exemption. This requires faculty members to be extra careful. For instance, any one can ask for the marking scheme adopted while awarding grades or, for that matter, a copy of the mark sheets of all students in a course. A query from the Institute's Public Information Officer[^pio]  must be answered within a stipulated time limit. Details of RTI is available on IITB's website.
 
-[^pio]: Currently, Dr. Indu Saxena, Deputy Registrar (Administration)
+[^pio]: Currently, Ms. Prajakta Juwekar, Deputy Registrar (Administration)
 
 # The Institute's Hopes and Expectations
 For most faculty members joining this Institute, this will be the
-first 'job', at least in an academic set-up. Since, in such a set up,
+first ‘job’, at least in an academic set-up. Since, in such a set up,
 it is largely up to the individual to plan out her activities and
 career, it is but natural that one is a little apprehensive as to how
 to manage one’s time in the initial years. While there are always some
@@ -1657,20 +1592,31 @@ expected of you, and introduce you to the various Institute-supported
 activities that you will probably get involved in as a faculty member.
 
 ## What the Institute expects of you
-When you join as an Assistant Professor, In order to assist you to settle in and get your research under way quickly and efficiently, the Institute and the department extend certain facilities. These are:
+When you join as an Assistant Professor, in order to assist you to settle in and get your research underway quickly and efficiently, the Institute and the department extend certain facilities. These are:
 
-1. A seed grant of ₹ 20 lakh plus support for a PhD student in the project mode. Higher seed grant amounts may be considered for equipment intensive research. You need to see the Dean (R&D) regarding this, soon after you join.
-2. Space: A minimum of a faculty cabin (10 $\times$ 15') and a working space of 300 sq. ft. to be identified before the person joins, and made available on joining.
+1. A seed grant of ₹ 20 lakh plus support for one PhD student in the project mode. Higher seed grant amounts may be considered for equipment intensive research (you need to see the Dean (R&D) regarding this, soon after you join).
+
+2. Space: A minimum of a faculty cabin (10  15’) and a working space of 300 sq. ft. to be identified by the department before he/she joins, and made available on joining.
+
 3. Reduced teaching load (say a course associateship) in the first semester (unless the faculty member wants to be involved in intensive teaching right from the start). Similarly, administrative load to be kept to a minimum in the initial semester.
 
 In return, the Institute has certain expectations from the new faculty members. These are:
 
 1. At least one grant proposal submitted within the first 6-8 months after joining, and independent research funding secured within about a year.
-2. Independent handling of at least one teaching-intensive course within the first two years.
-3. Demonstrated research productivity in terms of lab development and publications as relevant to the faculty member's nature of work, as well as evidence of research guidance (in the form of PhD scholars and completed Masters' projects) within a reasonable time period.
+
+2. Independent handling (as sole instructor) of at least one teaching-intensive course within the first two years.
+
+3. Demonstrated research productivity in terms of lab development and publications as relevant to the faculty member’s nature of work, as well as evidence of research guidance (in the form of PhD scholars and completed Masters’ projects) within a reasonable time period.
 
 ### Typical activity profile of a Faculty member and Annual self-assessment
-The three main areas in which faculty members contribute to the Institute are Teaching, Research and Service[^servicedetails]. It is expected that, averaged over the year, a young faculty member spends of the order of 30% of one's time during the working week on teaching, and up to 20% on service-related activities, leaving the rest of the time (50% of the working week, but you also have the weekends!) for research. It may therefore be expected that, at various points where one's contributions are to be assessed, these weightages will apply.
+The three main areas in which faculty members contribute to the
+Institute are Teaching, Research and Service[^servicedetails]. It is
+expected that, averaged over the year, a young faculty member spends
+of the order of 30% of one's time during the working week on teaching,
+and up to 20% on service-related activities, leaving the rest of the
+time (50% of the working week, but you also have the weekends!) for
+research. It may therefore be expected that, at various points where
+one's contributions are to be assessed, these weightages will apply.
 
 [^servicedetails]: _Service_ includes administration as well as  contributions to the society at large and  to the profession. The latter contributions are usually through participation in  extension activities (continuing education, consultancy, etc., on which more in further sections),  membership of professional bodies, governmental committees, journal reviewerships and editorships, and so on.
 
@@ -1681,20 +1627,23 @@ The different responsibilities are listed below:
 1. **Regular faculty**:
    - *Appointment details*: Full time permanent appointment including professors (these are made through a selection committee or through invitation by BOG).
    - *R&D activities*:
+      - They are eligible for a one time seed grant from the Institute. They can also take up all types of R&D Projects, including consultancy projects.
+      - They can promote companies in SINE.
+      - They can be Directors of companies as per Institute norms.
      - Eligible for one time seed grant, can take up all R&D Projects which includes consultancy
 	 - Can promote companies in SINE
 	 - Can be Director of companies as per Institute norms
-   - *Academic activities*: Can guide students, and participate in all academic activities of the institute.
-   - *Administration related activities*: Any admin work as delegated by Institute/department from time to time.
+   - *Academic activities*: They can guide students, and participate in all academic activities of the institute.
+   - *Administration related activities*: They can take up admin work as delegated by the Institute/department from time to time.
 
 2. **Assistant Professor (Grade-II)**:
-   - *Appointment details*: Equivalent to regular faculty; appointed thus because they are short of the 3-year post-PhD experience required for appointment as regular Asst Prof; likely to be regularized when this requirement is met.
+   - *Appointment details*: Equivalent to regular faculty; appointed thus because they are short of the 3-year post-PhD experience required for appointment as regular Assistant Professor; likely to be regularized when this requirement is met.
    - *R&D activities*:
-     - Eligible for one time seed grant, can take up all R&D Projects which includes consultancy.
-	 - Can promote companies in SINE.
- 	 - Can be Director of companies as per Institute norms.
-   - *Academic activities*: Can guide students, and participate in all academic activities of the institute.
-   - *Administration related activities*: Any admin work as delegated by Institute/department from time to time.
+      - They are eligible for a one time seed grant from the Institute. They can also take up all types of R&D Projects, including consultancy projects.
+      - They can promote companies in SINE.
+      - They can be Directors of companies as per Institute norms.
+   - *Academic activities*: They can guide students, and participate in all academic activities of the institute.
+   - *Administration related activities*: They can take up admin work as delegated by the Institute/department from time to time.
 
 3. **On contract (on scale) and Distinguished Professor**:
    - *Appointment details*: Appointed (through a recommendation by Institute Standing Committee for faculty appointment) for specific duration and may/may not be considered for regularisation (includes faculty on exchange from other IITs).
@@ -1702,12 +1651,11 @@ The different responsibilities are listed below:
 	 - They are not eligible for Seed Grant
 	 - They may be PIs, but a Co-PI who has to give a declaration that
        he/she will take responsibility of the project deliverables is mandatory.
-   - *Academic activities*: Can be Guides, but with a mandatory Co-Guide, depending on the duration of the appointment; Co-guide has to give declaration to take responsibility of the students.
+   - *Academic activities*: They can be Guides, but with a mandatory Co-Guide, depending on the duration of the appointment; Co-guide has to give a declaration to take responsibility of the students.
    - *Administration related activities*:
      - Cannot be members of any statutory committees or of any
        department committees appointed by the Director (such as DPC,
        DUGC, DPGC, Search committees, etc.).
-	 - Will have to hand over lab space to HoD (applicable only to IITB faculty).
 
 4. **Emeritus Fellow (on contract but not on scale)**:
    - *Appointment details*: Appointment of retired faculty for a period of two-three years. Not to be treated as regular faculty. (The terms of appointment will be included in their appointment letter)
@@ -1752,8 +1700,7 @@ Visit the Institute on a part time basis, generally for teaching (up to four day
 	 - May be retained as external consultant in consultancy projects as per norms.
 	 -  No faculty fee allowed in projects other than through the external consultant mode.
    - *Academic activities*:
-     - Can be Co-Guides for M.Tech / M.Sc students based on duration of association.
-     - Can be external co-guides for PhD students.
+     - Can be Co-Guides for M.Tech / M.Sc students / PhD students based on duration of association.
      - Cannot be members of RPCs.
    - *Administration related activities*: No administrative activities allowed.
 
@@ -1768,12 +1715,9 @@ Visit the Institute on a part time basis, generally for teaching (up to four day
 
 9. **Non-faculty Project PIs**:
    - *Appointment details*:
-     - Temporary research personnel who would like to carry out GoI
-       funded projects at the Institute e.g.: Women Scientist, Fast
-       Track, Ramanujan, Solar science fellowships, INSPIRE, etc.
-	 - Honorary appointment to be made by Institute based on the
-       recommendation of the Institute Standing Committee; the salary
-       will be paid from the projects as applicable.
+     - Temporary research personnel who would like to carry out GoI funded projects at the Institute e.g.: Women Scientist, Fast Track etc.
+	 - Honorary appointment to be made by Institute based on the recommendation of the Institute Standing Committee; the salary will be paid from the projects as applicable.
+     - Those who wish to apply for Ramanujan, Ramalingaswami, INSPIRE fellowships must first apply for regular faculty positions in the Institute and get selected before applying for these fellowships.
    - *R&D activities*: Project proposals will be routed to the Head of
      the Academic Unit as for review / approval and forwarding by
      Institute [even though appointment is through Dean (FA)]. IRCC
@@ -1781,7 +1725,7 @@ Visit the Institute on a part time basis, generally for teaching (up to four day
    - *Academic activities*: None.
    - *Administration related activities*: As assigned by the HoD.
 
-10. **Retired Faculty (less than two years from superannuation)**:
+10. **Retired Faculty (less than three years from superannuation)**:
    - *Appointment details*: Regular Faculty who are nearing superannuation
    - *R&D activities*: Same as #3 except the mandatory Co-PI requirement may be waived depending upon the duration of the project.
    - *Academic activities*: Same as #3.
@@ -1789,9 +1733,9 @@ Visit the Institute on a part time basis, generally for teaching (up to four day
 
 11. **Any other designation/ category**:
    - *Appointment details*: Appointment will be as per the approval of the Director.
-   - *R&D activities*: All terms will be approved by Director.
-   - *Academic activities*: All terms will be approved by Director.
-   - *Administration related activities*: All terms will be approved by Director.
+   - *R&D activities*: All terms and conditions will be as approved by the Director.
+   - *Academic activities*: All terms and conditions will be as approved by the Director.
+   - *Administration related activities*: All terms and conditions will be as approved by the Director.
 
 <!---
 The Board of Governors has approved a proposal, based on the above considerations, to implement a process of Annual self assessment for all faculty, beginning 2014. The Institute Faculty Affairs Committee (IFAC), an advisory body to the Dean (FA), has finalized the templates for carrying out this assessment, and the details are available on Dean (FA)'s webpage http://internal.iitb.ac.in/imcwork/faculty/ (also linked from the Institute's main webpage, under 'Internal links').
@@ -1865,29 +1809,21 @@ Apart from teaching and instructing courses, you are also expected to do fair am
 1. Only full time faculty are entitled to undertake PhD supervision.
 2. At any given time, the number of Institute research scholars (TAs
    and/or RAs) working   with under your supervision  shall   not
-   exceed   FIVE.  The   DPGC/PGC   of  the academic   unit   can
+   exceed   FIVE (TODO).  The   DPGC/PGC   of  the academic   unit   can
    decide   on   the   total   number   of   research   students   of
    all categories working with him/her.
 
 3. As a supervisor, you are expected to supervise the student till satisfactory results are achieved.
-4. A supervisor must keep a check that the students being supervised deliver the Annual Progress Seminar (APS) every twelve months after joining the program. The APS report must contain information describing the research that has been performed in the completed year and submit it to the Research Program Committee. The student must then deliver an open seminar in which all interested members of the department are free to attend, where he/she will be examined by the RPC. The objective of the seminar is to provide feedback about the research completed by the student in the past year and provide suggestions for continuing and refining his/her research. With the progress of a student's PhD, the work presented is expected to evolve from a thorough understanding of fundamental concepts and reported literature to an in-depth solution to a novel research problem. The RPC lays emphasis on publications in reputed international journals, and also encourages the student to present his/her work in international conferences and workshops.
+4. work in international conferences and workshops.A supervisor must keep a check that the students being supervised deliver the Annual Progress Seminar (APS) every twelve months after joining the program. The APS report must contain information describing the research that has been performed in the completed year and submit it to the Research Progress Committee. The student must then deliver an open seminar, which all interested members of the department are free to attend, where he/she will be examined by the RPC. The objective of the seminar is to provide feedback about the research completed by the student in the past year, and provide suggestions for continuing and refining his/her research. With the progress of a student’s PhD, the work presented is expected to evolve from a thorough understanding of fundamental concepts and reported literature to an in-depth solution to a novel research problem. The RPC lays emphasis on publications in reputed international journals, filing invention disclosures and patents based on nature of the research output, and also encourages the student to present his/her work in international conferences and workshops.
 5. You can also serve as co-supervisor if any student chooses to do
    so.
-6. If you are going on long leave, such as lien/sabbatical
-   leave/special leave etc., you must propose an alternate arrangement
-   to carry out academic activities of the student under his/her
-   supervision.
+6. If you are going on long leave, such as lien/sabbatical leave/special leave etc., you must propose an alternate arrangement to continue the academic activities of your students.
 
-   a) Whenever a Supervisor leaves the Institute permanently or temporarily for a period greater than or equal to one year, the DPGCs/IDPCs/PGCs shall provide new supervisor(s) for the students being supervised by him/ her  before his/her departure.
-   b) Whenever a Supervisor leaves the Institute temporarily for a period less than   one   year,   the   DPGCs/IDPCs/PGC   shall   make   an   alternate arrangement for the guidance of his/her students.
-   c) The   DPGC/   IDPC/   PGC   may   consider   continuation   of   the   original Supervisor on his/her return to the Institute, as Co-­Supervisor of his/her students depending on the period for which he/she has supervised the Ph.D. Programmes of the students concerned.
-   d) Any such arrangements made shall be forwarded to PGAPEC for prior  approval.
-7. Change of supervisor is generally not advised and should be sought
-   as a last resort. Under   exceptional circumstances if a student
-   chooses to terminate the relationship then it will only be
-   permitted on recommendation of the DPGC/IDPC/PGCA. Every effort
-   should be made to allow a fair transition for both the faculty and
-   the concerned student.
+   a) Whenever a Supervisor leaves the Institute permanently or temporarily for a period greater than or equal to one year, the DPGCs/IDPCs/PGCs shall provide new supervisor(s) for the students being supervised by him/her before his/her departure.
+   b) Whenever a Supervisor leaves the Institute temporarily for a period less than one year, the DPGCs/IDPCs/PGC shall make an alternate arrangement for the guidance of his/her students.
+   c) The DPGC/ IDPC/ PGC may consider continuation of the original Supervisor on his/her return to the Institute, as Co-­Supervisor of his/her students depending on the period for which he/she has supervised the Ph.D. Programmes of the students concerned.
+   d) Any such arrangements made shall be forwarded to PGAPEC for prior approval.
+7. Change of supervisor is generally not advised and should be sought as a last resort. Under exceptional circumstances, if a student chooses to terminate the relationship, then it will only be permitted on recommendation of the DPGC/IDPC/PGCA. Every effort should be made to allow a fair transition for both the faculty and the concerned student.
 
 
 ## Research Funding
@@ -3197,5 +3133,3 @@ withdrawals work, including:
 
 Up to date information on NPS and details on accessing your account balance
 online are available at the [NPS CRA website](https://npscra.nsdl.co.in/).
-
-Markdown finished at Fri Jun  5 10:44:25
