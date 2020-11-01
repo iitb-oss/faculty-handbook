@@ -2937,103 +2937,76 @@ appointment and the re-employment.
 For those who joined the Institute before 2004, there were two retirement schemes to choose from (unfortunately, of late the ministry is not allowing a change of option), _viz._ Contributory Provident Fund-cum-gratuity Scheme (CPF) and General Provident Fund-cum-Pension-cum-gratuity Scheme (GPF). The salient features of these schemes are as follows.
 
 1. _GPF:_ If you have chosen this scheme, you are eligible to draw a pension throughout your remaining life at a rate to be shown below. Further, after your death, your spouse will be eligible for a _family pension_ too.
-   a. _Pension:_ The maximum rate of pension is half the basic pay at
-		the time of retirement, or 50% of the average monthly
-		remuneration drawn during the last ten months of service,
-		whichever is beneficial[^retireavg], along with the applicable rate of D.A. This requires having put in a minimum of 20 years of service, for voluntary retirees, and 10 years of qualifying service for superannuating faculty (the duration not counting extra-ordinary leave or unauthorized absence dies non or periods of suspension which are followed by major penalty).
-    b. _Commutation of Pension:_ It is possible to offer to the
-       Institute that a percentage of your pension be commuted,
-       i.e. you opt to receive a one time lump-sum amount and a
-       smaller pension. The maximum commutation possible is 40% of the
-       basic pension. This offer may be made to the Institute either
-       at the time of superannuation or even afterwards. However, if
-       the offer is made after one year of superannuation, you may be
-       required to undergo a medical examination. As experts will tell
-       you that it is good to commute pension, an illustration of how
-       it works is given below (the example is actually appropriate to
-       a Professor retiring at the top of the band):
+ a. _Pension:_ The maximum rate of pension is half the basic pay at the time of retirement, or 50% of the average monthly remuneration drawn during the last ten months of service, whichever is beneficial[^retireavg], along with the applicable rate of D.A. This requires having put in a minimum of 20 years of service, for voluntary retirees, and 10 years of qualifying service for superannuating faculty (the duration not counting extra-ordinary leave or unauthorized absence dies non or periods of suspension which are followed by major penalties).
 
-       Suppose your basic salary was ₹ 77,500/- at the time of
-	   retirement. Your basic pension is ₹ 38,750/- at the time of
-	   superannuation (age 66 on your next birthday). You offer to
-	   receive 40% less as monthly pension, i.e. receive ₹ 15,500/-
-	   per month less as basic pension. The amount of lump sum payment
-	   is given by the following formula.  $$ \mbox{Lump sum amount} =
-	   \text{₹} 15,500 \times12 \times 7.591 = \text{₹} 14,11,926 $$ The unusual
-	   factor 7.591 is a factor representing the number of years the
-	   Government has decided that it is willing to pay you as a lump
-	   sum if your age next birthday is 66 at the time you opt for
-	   commutation[^commutation].  Note that, though your basic
-	   pension will be reduced by ₹ 15,500/- in the above example,
-	   the Dearness Allowance is payable on the regular pension amount
-	   of ₹ 38,500/-. Full pension will be restored to you after 15
-	   years of receiving the commutation amount. As you grow older,
-	   till the age of 80, the pension amount changes because the
-	   D.A. changes. However, when you reach the age of 80, the basic
-	   pension increases by 20%, at 85 : 30% at 90: 40% and at 95:
-	   50%. And if you hit a century in your life, the basic pension
-	   doubles!
+ b. _Commutation of Pension:_ It is possible to offer to the Institute
+     that a percentage of your pension be commuted, i.e. you opt to
+     receive a one time lump-sum amount and a smaller pension. The
+     maximum commutation possible is 40% of the basic pension. This
+     offer may be made to the Institute either at the time of
+     superannuation or even afterwards. However, if the offer is made
+     after one year of superannuation, you may be required to undergo
+     a medical examination. As experts will tell you that it is good
+     to commute pension, an illustration of how it works is given
+     below (the example is actually appropriate to a Professor
+     retiring at the top of the band):
 
-	 c. _Family Pension:_ After the death of the employee, a reduced
-           pension is payable to dependent family members (not payable
-           to dependent parents if spouse and/or dependent children
-           exist). All such dependents must have been declared before
-           superannuation and must have continued to remain qualified
-           as dependents. The family pension is calculated as 60% of
-           the basic pension defined earlier.
+     Suppose your basic salary was ₹ 224,100/- at the time of
+     retirement. Your basic pension is ₹ 122,050/- at the time of
+     superannuation (age 66 on your next birthday). You offer to
+     receive 40% less as monthly pension, i.e. receive ₹ 48,820/- per
+     month less as basic pension. The amount of lump sum payment is
+     given by the following formula.  $$ \mbox{Lump sum amount} =
+     \text{₹} 48,820 \times12 \times 7.591 = \text{₹} 44,47,111 $$ The
+     unusual factor 7.591 is a factor representing the number of years
+     the Government has decided that it is willing to pay you as a
+     lump sum if your age next birthday is 66 at the time you opt for
+     commutation[^commutation].  Note that, though your basic pension
+     will be reduced by ₹ 48,820/- in the above example, the Dearness
+     Allowance is payable on the regular pension amount of ₹
+     122,050/-. Thus, the take home pension amount for a HAG scale
+     Professor would be ₹ 73,230 + D.A (17% of ₹ 122,050 = ₹
+     20,748.50) = ₹ 93,978.50. Full pension will be restored to you
+     after 15 years of receiving the commutation amount. As you grow
+     older, till the age of 80, the pension amount changes because the
+     D.A. changes. However, when you reach the age of 80, the basic
+     pension increases by 20%, at 85: 30% at 90: 40% and at 95:
+     50%. And if you hit a century in your life, the basic pension
+     doubles!
 
-		   In case an employee dies while in service the rate of
-           family pension will be 50% of the last salary drawn by the
-           employee for a period of 10 years, after which it would
-           revert to the regular rate stated above. In case an
-           employee dies after retirement but before reaching 67 years
-           of age, the family pension till such time will be equal to
-           the pension that would have been payable had the employee
-           not so died. In addition, applicable D.A. is also
-           payable. Note that family pension amount is not affected by
-           any commutation that the employee might have done. Family
-           pension also accelerates with age beyond 80 as for regular
-           pension.
+ c. _Family Pension:_ After the death of the employee, a reduced pension is payable to dependent family members (not payable to dependent parents if spouse and/or dependent children exist). All such dependents must have been declared before superannuation and must have continued to remain qualified as dependents. The family pension is calculated as 60% of the basic pension defined earlier.
 
-	 d. _General Provident Fund (GPF):_ This is basically what you
-           keep aside every month from your salary. The minimum amount
-           you have to save is 6% of your basic pay and the maximum
-           cannot exceed basic pay.  The amount of subscription can be
-           increased and/or decreased once during a financial
-           year. The attractive thing about this is when you receive
-           it back, the amount is tax free in your hand. Further, the
-           subscription qualifies for tax reduction too. Government of
-           India announces the interest payable for deposits in GPF,
-           which is currently 8.7%, one of the best rates of interest
-           for securities. Loans (called advances) can be taken from
-           your GPF to meet various contingent expenditures like
-           illness and education related expense of dependents,
-           obligatory family expense like marriages and sradh, to meet
-           cost of legal proceedings or simply to buy consumer
-           durables. Such loans must be refunded in a maximum of 24
-           monthly installments and are interest free (as the amount
-           actually belongs to you!). Facility of nomination is
-           available. One can also make permanent withdrawals from GPF
-           for all the above mentioned purposes after 15 years of
-           service or for purchase of an accommodation(including
-           renovating ancestral house) any time during the service.
+    In case an employee dies while in service the rate of family
+    pension will be 50% of the last salary drawn by the employee for a
+    period of 10 years, after which it would revert to the regular
+    rate stated above. In case an employee dies after retirement but
+    before reaching 67 years of age, the family pension till such time
+    will be equal to the pension that would have been payable had the
+    employee not so died. In addition, applicable D.A. is also
+    payable. Note that family pension amount is not affected by any
+    commutation that the employee might have done. Family pension also
+    accelerates with age beyond 80 as for regular pension.
 
-	 e. _Gratuity:_ A lump sum amount known as gratuity is payable to
-           an employee on superannuation. The amount payable is a
-           fourth of the emoluments for every completed six months of
-           service, subject to a maximum of ₹ 10 Lakhs. The emolument
-           includes basic pay and D.A. drawn by the employee on the
-           day of superannuation.
+ d. _General Provident Fund (GPF):_ This is basically what you keep aside every month from your salary. The minimum amount you have to save is 6% of your basic pay and the maximum cannot exceed basic pay. The amount of subscription can be increased and/or decreased once during a financial year. The attractive thing about this is when you receive it back, the amount is tax free in your hand. Further, the subscription qualifies for tax reduction too. Government of India announces the interest payable for deposits in GPF, which is currently 7.8%, one of the best rates of interest for securities. Loans (called advances) can be taken from your GPF to meet various contingent expenditures like illness and education related expense of dependents, obligatory family expense like marriages and sradh, to meet the cost of legal proceedings, or simply to buy consumer durables. Such loans must be refunded in a maximum of 24 monthly installments and are interest free (as the amount actually belongs to you!). Facility of nomination is available. One can also make permanent withdrawals from GPF for all the above mentioned purposes after 15 years of service or for purchase of an accommodation (including renovating ancestral house) any time during the service.
+
+ e. _Gratuity:_ A lump sum amount known as gratuity is payable to an
+    employee on superannuation. The amount payable is a fourth of the
+    emoluments for every completed six months of service, subject to a
+    maximum of ₹ 20 Lakhs. The emolument includes basic pay and
+    D.A. drawn by the employee on the day of superannuation.
+
 2. Contributory Provident Fund (CPF): If you have opted for this
-   scheme, no pension is payable to you. However, the gratuity as
-   described under GPF scheme is payable. In this scheme, your
-   contribution is a minimum 10% of your basic pay with the maximum
-   being 100% of the same. The Institute contributes 10% of your
-   basic pay to this fund as well, hence the name contributory. The
-   deposits under the scheme earns interest at a prescribed rate
-   (currently, 8.7%) and like the GPF is tax free in the hand of the
-   retiree. Loans and withdrawals may be made from the subscription
-   account like the GPF scheme.
+   scheme, no pension is payable to you. However, the gratuity
+   as described under GPF scheme is payable. In this scheme,
+   your contribution is a minimum 10% of your basic pay with
+   the maximum being 100% of the same. The Institute
+   contributes 10% of your basic pay to this fund as well,
+   hence the name contributory. The deposits under this scheme
+   earn interest at a prescribed rate (currently, 7.8%) and
+   like the GPF is tax free in the hands of the retiree. Loans
+   and withdrawals may be made from the subscription account
+   like the GPF scheme.
+	   
 
 [^retireavg]: 50% of retiring salary will always be equal to or more than the 10 month average except in rare cases of a demotion or punishment during the last phase of service.
 
@@ -3050,19 +3023,19 @@ the half pay leave will only be cashed at half rate and no commutation
 is permitted (for instance, if an employee has, at the time of
 retirement, 200 days of earned leave and 300 days of half-pay leave to
 his/her credit, encashment will be for 200 full days and 100 half
-days, the balance of half pay leave will lapse). The rate of
-encashment is the total emoluments (basic + D.A.) per day on the date
-of retirement assuming a month to consist of 30 days.
+days, i.e. a total of 250 full days; the balance of half pay leave
+will lapse). The rate of encashment is the total emoluments (basic +
+D.A.) per day on the date of retirement assuming a month to consist of
+30 days. The approximate encashment of 300 days of leave that a
+Professor can expect at the time of superannuation is ₹ 224,100 +
+D.A. (17% at the time of writing)  = ₹ 26,21,970. Thus, at the time
+of superannuation, a faculty member can expect:
 
-<!---
-## Voluntary Retirement
-The minimum period of service for voluntary retirement with full
-pension (as determined by pay at the time of taking such retirement)
-is 20 years
+- Commutation: ~₹ 44,47,111
+- Gratuity: ₹ 20,00,000
+- Leave encashment: ~ ₹ 26,21,970
 
-## Premature Retirement
-All faculty members who have entered service before attaining the age of 35 years have the option of retiring after attaining the age of 50 years.
---->
+This totals to about ₹ 90,69,081.
 
 ### National Pension Scheme (for those who joined the service on or after 1.1.2004)
 The [National Pension Scheme
@@ -3075,15 +3048,14 @@ website](https://www.npscra.nsdl.co.in/tax-benefits-under-nps.php). At
 present, loans and withdrawals from the fund are not permissible. What
 follows is the information on NPS for Central Government
 servants. Note that this is a defined contribution scheme, which means
-that there are is no guarantee of returns like in the general
-provident fund.
+that there is no guarantee of returns like in the general provident
+fund.
 
 Under this scheme, an individual account will be opened in the name of
 every employee to which the employee will contribute 10% of his
-emoluments every month (matched with an equal amount by the
-employer0. This account number is known as the Permanent Retirement
-Account Number (PRAN). This, in turn, will provide you two personal
-accounts:
+emoluments every month (plus a 14% contribution by the employer). This
+account number is known as the Permanent Retirement Account Number
+(PRAN). This, in turn, will provide you two personal accounts:
 
 1. _A mandatory Tier-I Pension Account:_ You will have to contribute a
    minimum of 10% of your basic pay plus D.A. to the Tier-I account
