@@ -2268,58 +2268,39 @@ basis for shortlisting candidates for selection to higher posts.
 
 ## Resources for Teaching
 
-Teaching is considered to be an important component of faculty
-activities. That said, most new faculty come in with strong research
-experience, but modest teaching experience, if any. It helps that most
-new faculty are given about a semester off from teaching in the
-beginning - this is often departmental policy; in some cases, there
-may not be a choice if the faculty member joins after a semester has
-started. Here are a few tips to help with teaching, and preparing for
-it.
+Teaching is considered to be an important component of faculty activities. That said, most new faculty come in with strong research experience, but modest teaching experience, if any. It helps that most new faculty are given about a semester off from teaching in the beginning - this is often departmental policy; in some cases, there may not be a choice if the faculty member joins after a semester has started. Here are a few tips to help with teaching, and preparing for it.
 
  1. When you are assigned a course to teach, you can look at the
     Academic section of the ASC website
     (https://asc.iitb.ac.in/acadmenu/index.jsp) for course details
     such as syllabus and textbooks, as well as timing and venue.
- 2. You may talk to the Head and ask for the previous instructors
-    (this information is also available on ASC). That is assuming this
-    is an existing course, not a new one you are starting (the
-    procedure for starting a new course is described in Sec. 4.2 <link
-    here>). Senior faculty members who have taught the course may be
-    able to help you with teaching material such as slides, homework
-    problems, recommendations for textbooks, capable teaching
-    assistants (TAs) and so forth.
+ 2. You may talk to the Head and ask for the previous instructors (this information is also available on ASC). That is, assuming that this is an existing course, and not a new one that you are starting. The procedure for starting a new course is described in the [form for proposing a new academic course](http://www.iitb.ac.in/newacadhome/RevisedCourseProposalFormat20154March.pdf). Senior faculty members who have taught the course may be able to help you with teaching material such as slides, homework problems, recommendations for textbooks, capable teaching assistants (TAs) and so forth.
  3. A recent alumni supported initiative, called the Parimal and
     Pramod Chaudhari Centre for Learning and Teaching (CLT), now
     provides a plethora of resources for teaching, drawing on internal
     and external expertise and experience. These include:
 
-	  a. (Annual) Faculty Development Workshops
-	  b. TLC Café – featuring training sessions for faculty on
-	  effective teaching
-	  c. Community of Practice (CoP) platform for sharing best teaching practices
-      d. Active learning classroom (under construction at the time of
-	  writing). Please check out the [PPCCLT
-	  website](http://www.ppcclt.iitb.ac.in) for more details. They
-	  welcome and need faculty involvement to be effective, so please
-	  consider it.
+    a. (Annual) Faculty Development Workshops
+    b. TLC Café – featuring training sessions for faculty on  effective teaching
+    c. Community of Practice (CoP) platform for sharing best teaching practices
+    d. Active learning classroom (under construction at the time of writing). Please check out the [PPCCLT website](http://www.ppcclt.iitb.ac.in) for more details. They welcome and need faculty involvement to be effective, so please consider it.
 
  4. There are several resources available to you to prepare video lectures (getting your regular lectures recorded, or, recording in a studio), and put them online if you desire. These include:
 
-     a. Centre for Distance Engineering Education Programme (CDEEP) –
+   a. Centre for Distance Engineering Education Programme (CDEEP) –
       which helps to prepare video lectures. Details are available on
       their [website](http://www.cdeep.iitb.ac.in/). Please look in
       the Related Projects section, for information on
       pedagogy-related projects, usually MHRD-supported, like TEQIP,
       GIAN, and NMEICT.
 
-     b. [NPTEL](http://www.cdeep.iitb.ac.in/NPTEL2) - a nationwide
+   b. [NPTEL](http://www.cdeep.iitb.ac.in/NPTEL2) - a nationwide
       program supported by MHRD for high-quality content development
       in science/technology and dissemination through Massive Open
       Online Courses (MOOCs), with facility for testing and
       certification.
 
-     c. [IITBx](https://www.iitbombayx.in/) – this is an online platform
+   c. [IITBx](https://www.iitbombayx.in/) – this is an online platform
       for MOOCs, specializing in hybrid MOOCs that feature flipped
       classrooms, live interaction and so forth; in addition to more
       academic content, it provides skills training, teachers
@@ -2340,24 +2321,7 @@ Institute Awards: Fifteen per year; B) Department Awards:
 Approximately Thirty per year. The guidelines for the excellence in
 teaching award are as follow:
 
-   1. Course feedback data for each semester and each of the four
-	  categories of courses (B.Tech. common, UG courses, PG courses, 2
-	  yr MSc courses) will be examined and, if warranted, transformed
-	  to follow a normal distribution using the Box-Cox
-	  transformations. The average and standard deviation of each data
-	  set (original data in case already normal or transformed data
-	  which is normal) will be determined. The average of the
-	  particular distribution will be subtracted from a faculty
-	  member's score and then divided by the relevant standard
-	  deviation. The constant 3 will be added to this. This is the
-	  normalised score for that faculty member. If, for instance, a
-	  faculty member has a score which is three std deviations above
-	  the average, his/her normalised score will be 6. Someone with an
-	  average score will have a normalised score of 3. A faculty
-	  member will get a "normalised" score for each semester that
-	  he/she teaches. The average of such scores over several (as
-	  required; see below) courses will be computed. A rank list of
-	  faculty members will be generated based on the above score.
+   1. Course feedback data for each semester and each of the four categories of courses (B.Tech. common, UG courses, PG courses, 2 yr MSc courses) will be examined and, if warranted, transformed to follow a normal distribution using the Box-Cox transformations. The average and standard deviation of each data set (original data in case already normal or transformed data which is normal) will be determined. The average of the particular distribution will be subtracted from a faculty member’s score and then divided by the relevant standard deviation. The constant 3 will be added to this. This is the normalised score for that faculty member. A faculty member will get a “normalised” score for each semester that he/she teaches. The average of such scores over several courses will be computed. A rank list of faculty members will be generated based on the above score.
 
    2. Fifteen Institute awards will be given each year. They will be
       given to the top 15 scorers. The rank list will be obtained
@@ -2365,7 +2329,7 @@ teaching award are as follow:
       faculty member.
 
    3. Department awards will be given (about 30 in the Institute;
-	  approx. 2 per faculty strength of 20 in a department). The rank
+	  approx. 1 per faculty strength of 20 in a department). The rank
 	  list will be obtained by considering the best 8 scores over the
 	  last 5 years for each faculty member in that department.
 
@@ -2469,7 +2433,7 @@ a fee is charged for undertaking such projects.
 ### Types of Consultancy Projects
 Each project shall be undertaken either under
 
-- Standard Terms and Conditions (Appendix 1)
+- Standard Terms and Conditions (obtained from the Dean R&D office)
 - Specific research agreement or Memorandum of Understanding
   describing the details of contract.
 
@@ -2516,15 +2480,10 @@ limits:
       Consultants may be permitted to utilize, on an average one non
       working day per week.
 
-   2. Consultancy assignments may be taken up and implemented, within
-      the constraints indicated above, provided they do not have any
-      adverse impact on the ongoing academic, research and related
-      activities.
-
-   3. The services of permanent employees of the Institute may be
-      utilized for the execution of the consultancy projects provided
-      it does not affect their primary functions and responsibilities
-      to the Institute.
+   2. Consultancy assignments may be taken up by all faculty members
+      and implemented, within the constraints indicated above,
+      provided it does not affect their primary functions and
+      responsibilities to the Institute.
 
    4. Students who are willing to work on consultancy projects may be
       permitted as per Institute norms to do so provided it does not
@@ -2629,18 +2588,23 @@ Once a consultancy project request is directed to PI the following steps are to 
 
  7. All the actions taken on your request will be informed to you by email.
 
+<!---
 The process for approval is as follows:
 
 ![Process of approval for consultancy projects](process.png){width=300px}
-
+-->
 
 ### Disbursement
+
 The disbursement of CF and CPTS will entail a deduction of 30% as the
 Institute share for Consultant’s (or CPTS) earnings. This deduction
-will be on the actual amount disbursed to CF (CPTS).
+will be on the actual amount disbursed as CF (CPTS). For example, a
+disbursement of \text{₹} 1,00,000 as consultancy fee would entail a
+deduction of \text{₹} 30,000 as Institute share, and the remaining
+\text{₹} 70,000 will be sent to the salary account, where TDS will be
+deducted as appropriate.
 
-Note: Earnings for Technology Transfer, Revenue Sharing and Royalty
-will be governed by the Intellectual Property Policy of the Institute.
+Note: Earnings for Technology Transfer, Revenue Sharing and Royalty will be governed by the Intellectual Property Policy of the Institute.
 
 ## Research and Development Fund (RDF) and Department Development Fund (DDF) rules
 
@@ -2683,80 +2647,22 @@ The Institute encourages you to capitalize on your research findings which have 
 
 ## Housing
 
+The institute has undergone significant expansion and increase in number of students over the last decade and a half. The increase in student numbers has led to a commensurate increase in the number of faculty members on the campus. Thus, the present dwelling numbers on the campus are insufficient. Though, new constructions are underway, there is expected to be shortage of housing on campus for some more time. In most cases, the new faculty may take up on-campus housing flatlets like the Staff Hostel, Vihar House and CSRE D Types. However, some faculty may want a “proper apartment” owing to family constraints or due to non-availability of the flatlets. In such situations, some may opt for off-campus housing. These off-campus housing once identified and allotted are treated as an extension of the IITB housing. There are several considerations to be made when scouting for an apartment. Below are a few points to be considered with regard to off-campus housing.
 
-The institute has undergone significant expansion and increase in
-number of students over last decade and a half. The increase in
-student numbers has lead to a commensurate increase in the number of
-faculty members on the campus. Thus, the present dwelling numbers on
-the campus are insufficient. Though, new constructions are underway,
-there is expected to be shortage of housing on campus. In most cases,
-the new faculty may take up an on-campus housing flatlets like the
-Staff Hostel, Vihar House and CSRE D Types. But, occasionally, some
-faculty may want a “proper apartment” owing to family constraints or
-due to non-availability of the flatlets. In such situations, some may
-opt for off-campus housing. These off-campus housing once identified
-and allotted are treated as an extension of the IITB housing. There
-are several considerations to be done when scouting for an
-apartment. The guide lists a few points to be considered when
-considering off-campus housing.
+The institute provides temporary accommodation in the Guest House to the new faculty member immediately after they join, up to a period of 1 month. The guest house charges are applicable and have to be borne by the faculty if this initial period of 30 days is exceeded. It is thus recommended that a search for off-campus housing be initiated as soon as the joining formalities are completed.
 
-The institute provides Guest House to the new faculty member
-immediately after they join for a period of 30 days. The guest house
-charges are applicable and have to be borne by the faculty if this
-initial period of 30 days is exceeded. It is thus recommended that a
-search for off-campus housing be initiated as soon as the joining
-formalities are completed.
+An off-campus rented apartment requires consideration of the amount of rent, brokerage, escalation clause, and issues related to maintenance and movement charges. The institute has evolved a policy on the amount of rent that can be paid. The decisions regarding the amount of rent, brokerage, and escalation clause are usually handled by the Associate Dean IPS-2 and its Office. As a first step, new faculty members  are advised to contact the office of Associate Dean-2 Infrastructure and Planning (IPS) to obtain information on the rental limits and other rules regarding off-campus accommodation. It is recommended that the initial negotiated rent is limited to within the stipulated amount. The terms and issues regarding the escalation are handled by the Associate Dean IPS-2’s office. The maintenance and movement charges are usually expected to be borne by the faculty.
 
-As a first step towards availing off-campus housing one needs to
-identify a suitable apartment. The identification of the apartment
-could be done personally with the help of an agent or by consulting
-websites that offer such solutions. The office of Associate Dean-2
-Infrastructure and Planning (IPS) may be consulted and requested to
-offer help for searching and to identify estate agents that can
-facilitate this search. A list of previously rented or apartments
-newly offered on rent may be already be available with the Office of
-Associate Dean IPS-2. It is advised to check for availability of such
-list with the Associate Dean IPS-2 and its Office.
+The Associate Dean IPS-2’s office may also offer help for searching and to identify estate agents that can facilitate the search for apartments for a suitable and affordable apartment. A list of previously rented apartments or apartments newly offered on rent may be already be available with the Office of the Associate Dean IPS-2. These may considered by new faculty for potential allotment. The identification of the apartment could also be done personally with the help of an agent, or by consulting websites that offer such solutions.
 
-An off-campus rented apartment requires consideration of the amount of
-rent, brokerage, escalation clause, and issues related to maintenance
-and movement charges. The institute has evolved a policy on the amount
-of rent that can be paid. The decisions regarding the amount of rent,
-brokerage, and escalation clause are usually handled by the Associate
-Dean IPS-2 and its Office. It is recommended to consult the Associate
-Dean IPS-2 and its Office with respect to this, in some cases even
-before the search process is initiated. It is recommended that initial
-negotiated rent is limited to within the stipulated amount. The terms
-and issues regarding the escalation are handled by the Associate Dean
-IPS-2’s office. The maintenance and movement charges are usually
-expected to be borne by the faculty.
+The contract or the lease agreement is drawn with IIT Bombay as the party and the letter of allotment is then issued by the Accommodation Allotment Committee (AAC). The duration of the lease should be checked carefully, since, it may be possible that these rented premises may have to occupied for an extended period of time. After moving to the apartment, the usual day to day maintenance is expected to be handled by the allottee.
 
-The contract or the lease agreement is drawn with IIT Bombay as the
-party and the letter of allotment is then issued by the Accommodation
-Allotment Committee (AAC). The duration of the lease should be
-noticed, since, it may be possible that these rented premises may have
-to occupied for an extended period of time. After moving to the
-apartment the usual day to day maintenance are expected to be handled
-by the individual. It has to be pointed out that there is uncertainty
-and degree of arbitrariness to the entire process due to the
-involvement of external agencies and it is recommended to patiently
-wade through the process.
-
-The institute has rules and regulations regarding allotment and
-entitlement of housing to faculty and staff of the institute. The
-details of these can be found on the Dean IPS website. The off-campus
-housing is treated as transit accommodation provided by IITB. Thus,
-availing the off-campus housing does not affect the entitlement or the
-seniority of the faculty within the ambit of the defined rules. The
-rented premises may have to vacated due to several reasons with the
-happy one being movement to campus. In the event of expiry of the
-lease and/or notice to vacate due to certain situation, the entire
-process may have to be repeated.
+The institute has rules and regulations regarding allotment and entitlement of housing to faculty and staff of the institute. The details of these can be found on the Dean IPS website. The off-campus housing is treated as transit accommodation provided by IITB. Thus, availing the off-campus housing does not affect the entitlement or the seniority of the faculty within the ambit of the defined rules. The rented premises may have to vacated due to several reasons with the happy one being movement to campus.
 
 ## Medical Facilities
 During the period of service, a staff member and his dependents (the term _dependent_ is clearly defined in the Service Rules, see Chapter 3) are provided medical facilities at the IIT Hospital, and whenever required, at various hospitals in the city which are empanelled by the Institute. Medical facility for employee and spouse is also available after retirement on a contributory basis (see the section on PRMS below).
 
-### IIT Hospital
+### IITB Hospital
 The Institute has a reasonably well-equipped Hospital with both in-patient and out-patient facilities. In addition to several full time doctors, there are several visiting specialists who attend the Hospital on certain days and are available for consultation. The Hospital also provides for dental care as well as for homeopathic medicine. Basic diagnostic facilities are provided at the Institute Hospital. These include pathology, X-Rays, Sonography, ECG etc. The Hospital also has a physiotherapy section. The Hospital administration is headed by a Chief Medical Officer (CMO)[^cmo]. A Committee known as the "Hospital and Health Advisory Committee (HHAC)" headed by a Professor of the Institute acts as a general policy watchdog for the Hospital and related issues[^hhacchair]. This Committee reviews Hospital policies from time to time and recommends measures that need to be taken to improve Hospital services. All major reimbursement claims are also recommended for approval by this committee.
 
 [^cmo]: Currently, Dr. Nisha Shah.
@@ -2767,31 +2673,38 @@ The Institute has a reasonably well-equipped Hospital with both in-patient and o
 The Hospital maintains a family file for every employee, which is available in the outer office. For an outpatient (OPD) consultation, the file has to be presented at the Hospital reception, who will print out a blank prescription slip. Before your face becomes familiar with the Hospital staff, you may be asked for your identity card, which also spells out your medical entitlement. Please do not take offence on such request.  The slip along with the file is to be taken to the doctor who you wish to see. Each visit to the doctor costs you _one rupee_ which is directly debited from the salary.
 
 ### Healthcare
-For regular medical officers (doctors) of the Hospital, there is no system of taking appointment. For visiting specialists, one has to take an appointment. Some of the specialists will only give appointment when recommended by a regular medical officer. For scheduling an appointment, you have to contact the reception.
 
-Any medicine prescribed by the doctor on duty can be obtained from the Pharmacy attached to the Hospital. If a prescribed medicine is not available, one has to take a separate prescription for the same to purchase it from the market. The Institute reimburses the cost of medicines purchased from outside which could not be supplied from the Institute Pharmacy. Similarly, cost of consultation, pathological or radiological investigations carried out outside the IIT Hospital on recommendation of the Institute doctors are also reimbursable.  In some cases, only 80% of the cost is reimbursable. There are some fine prints to reimbursement rules (for instance, cost of spectacles or contact  lenses or the cost of dental treatment in an outside clinic or hospital etc. are not reimbursable even when recommended by a medical officer of the  Hospital). See the Hospital website http://www.iitb.ac.in/hospital/ for details.
+For regular medical officers (doctors) of the Hospital, there is no
+system of taking an appointment. For visiting specialists, one has to
+take an appointment. Some of the specialists will only give
+appointments when recommended by a regular medical officer. For
+scheduling such an appointment, you have to contact the reception.
 
-In case of illnesses which require hospitalization of a specialized nature (as may be determined by the C.M.O.), a patient may be referred to one of the many hospitals in the city which are recognized by I.I.T. The entitlement in the hospitals (i.e. the type of room or bed that can be availed) depends on the employee's salary and it is good to enquire about exact entitlement from the administration. While expenses in all Government Hospitals and several charitable hospitals (such as Sushrusha Hosp., Dadar, and the Tata Memorial Hospital) is reimbursed 100%, the Institute only reimburses 80% of the cost in recognized  Hospitals with sophisticated facilities and some specialty Hospitals[^hwebsite].
+Any medicine prescribed by the doctor on duty can be obtained from the Pharmacy attached to the Hospital. If a prescribed medicine is not available, one has to take a separate prescription for the same to purchase it from the market. The Institute reimburses the cost of medicines purchased from outside which could not be supplied from the Institute Pharmacy. Similarly, the cost of consultation, pathological or radiological investigations carried out outside the IIT Hospital on recommendation of the Institute doctors are also reimbursable. In some cases, only 80% of the cost is reimbursable. There are some fine prints to reimbursement rules (for instance, cost of spectacles or contact lenses or the cost of dental treatment in an outside clinic or hospital etc. are not reimbursable even when recommended by a medical officer of the Hospital). See the Hospital website http://www.iitb.ac.in/hospital/ for details.
+
+In case of illnesses which require hospitalization of a specialized nature (as may be determined by the C.M.O.), a patient may be referred to one of the many hospitals in the city which are recognized by I.I.T. The entitlement in the hospitals (i.e. the type of room or bed that can be availed) depends on the employee’s salary and it is good to enquire about exact entitlement from the administration. While expenses in all Government Hospitals and several charitable hospitals (such as Sushrusha Hosp., Dadar, and the Tata Memorial Hospital) is reimbursed 100%, the Institute only reimburses 80% of the cost in recognized Hospitals with sophisticated facilities and some specialty Hospitals[^hwebsite].
+
+While basic pathology is available in the Hospital, the Institute Hospital has an arrangement with a few specialized pathology laboratories[^ranbaxy] for some advanced tests. For this purpose staff from these labs visit the Institute Hospital on specified days to collect samples. Hospital Doctor’s recommendation is required for use of this facility.
+
+The Institute recognizes a few radiological centres for investigations with MRI, C.T. Scan, Digital X-rays etc. Hospital Doctor’s recommendation is required for use of this facility.
+
+The Institute Hospital provides all major vaccinations for children. It is a good idea for parents to retain records of such vaccinations, as such data is increasingly being required for various purposes in future.
+
+The hospital has an ambulance which works 24 × 7 for transportation of patients within the campus and for transporting patients to hospitals outside when referred to by the IIT Hospital.
 
 [^hwebsite]: The hospital website http://www.iitb.ac.in/hospital/ has a link to the list of recognized hospitals. This list is updated as and when new hospitals are added and hospitals removed.
 
-While basic pathology is available in the Hospital, the Institute Hospital has an arrangement with a few specialized pathology laboratories[^ranbaxy] for some advanced tests. For this purpose staff from these labs visit the Institute Hospital on specified days to collect samples. Hospital Doctor's recommendation is required for use of this facility.
-
 [^ranbaxy]: Such as Ranbaxy Clinical Reference Laboratories, Raptakos Brett Testing Lab, Sanjeevani Diagnostic Centre.
 
-The Institute recognizes a few radiological centres for investigations with MRI, C.T. Scan, Digital X-rays etc. Hospital Doctor's recommendation is required for use of this facility.
-
-The Institute Hospital provides all major vaccinations for children. It is a good idea for parents to retain records of such vaccination as such data are increasingly being required for various purposes.
-
-The hospital has an ambulance which works 24 $\times$ 7 for transportation of patients within the campus and for transporting patients to hospitals outside when referred to by IIT Hospital.
 
 ### OPD facilities for visiting parents
 Though they may not be officially your dependents, the Institute offers OPD facilities to visiting parents of the employee and of employee's spouse. This facility is offered for a period of six months on payment of ₹ 1,000/- and for a year on payment of ₹ 2,000/-. They will be treated on 'non-entitled' basis; however, medicines etc. will have to be purchased from outside without any reimbursement.
 
 ### Medical advance, reimbursement, etc.
+
 When an employee or a dependent is admitted to an outside hospital, up to 80% of the estimated cost can be provided as an advance to the employee.
 
-For the benefit of staff members staying outside the campus (as also for staff on vacation/leave), a list of Medicare Centres/Hospitals[^hosplist]  are approved for OPD treatment. Medicines purchased on prescription by doctors from these hospitals are reimbursed fully. However, further referrals from these hospitals to outside hospitals need to be sanctioned by IIT Hospital.
+For the benefit of staff members staying outside the campus (as also for staff on vacation/leave), a list of Medicare Centres/Hospitals[^hosplist] is approved for OPD treatment. Medicines purchased on prescription by doctors from these hospitals are reimbursed fully. However, further referrals from these hospitals to outside hospitals need to be sanctioned by the IITB Hospital.
 
 [^hosplist]: These hospitals, at present, are: Pragati Mitra Mandal (Mulund(W)), Smt. Nand Kunverben Rasiklal Seth Hosp. (Borivali (W)), Malad Jain Yuvak Mandal Med. Relief Centre (Malad (W)), Lions Clinic (Matunga), Vasani Diagnostic Centre (Andheri) and Seth Nanji Gangji Charitable Polyclinic (Dombivali). See the hospital website for up-to-date information.
 
@@ -2800,6 +2713,7 @@ For reimbursement, separate forms for OPD (inclusive of cost of medicine purchas
 [^websiteforms]: These and most other forms you may require are also downloadable from http://asc.iitb.ac.in.
 
 ## Healthcare after retirement
+
 The Institute has two schemes to take care of your and your spouse's medical requirements after retirement. Both the schemes are contributory.
 
 1. _Contributory Medical Scheme (CMS):_ The scheme entitles you and your spouse to avail of OPD treatment in the IIT Hospital. You have to pay a one time ₹ 8000/- to join the scheme. All OPD facilities of the IIT Hospital (consultancy, diagnostic tests etc.) can be availed by employee and his/her spouse. Medicines available at the Pharmacy are also given to CMS members without charge. However, no indoor hospitalization is possible and no reimbursement of any kind is provided.
@@ -2843,12 +2757,14 @@ claim in the first 5 years after retirement from the Institute.
 
 
 The amount of contribution, Sum Assured, how the Sum Assured grows
-with time, Recognised Hospitals, and so on, are detailed in [this
+with time, empanelled hospitals, and so on, are detailed in [this
 webpage](https://www.iitb.ac.in/en/about-iitbombay/new-post-retirement-medical-scheme-2015-onwards).
+
+TODO: Add GTIS details here
 
 ## Schooling at IIT Bombay
 
-There are three schools on the campus for children: Kendriya Vidyalaya, Campus School, and KG School; plus a full-fledged child care (day care) and play school, Sishu Vihar. The Campus School also has a kindergarten school for children above the age of three. For younger kids there is a private creche (Sishu Vihar, temporarily located at the time of writing in bungalow A-5 in the Lakeside area of Campus near the Main Gate), and run by an NGO.
+There are three schools on the campus for children: Kendriya Vidyalaya, Campus School, and KG School; plus a full-fledged child care (day care) and play school, Sishu Vihar. The Campus School also has a kindergarten school for children above the age of three. For younger kids there is a private creche (Sishu Vihar, temporarily located at the time of writing in bungalows A-4 and A-5 in the Lakeside area of Campus near the Main Gate), and run by an NGO.
 
 ### Kendriya Vidyalaya (Central School) IIT Powai
 This is part of the Kendriya Vidyalaya Sangathan (KVS) network and is usually ranked among the top government day (i.e. not boarding) schools in India. It has classes I through XII, and is affiliated to the Central Board of Secondary Education (CBSE). Most of the seats here are reserved for the children of IIT employees; with a small fraction reserved for other Central Government organizations. You might have some anxious moments before your child gets admission, but eventually it works out, in almost all cases. In case of exceptional difficulty in getting admission into the Kendriya Vidyalaya, our Director, who is ex-officio the Chairman of the Vidyalaya Management Committee can help out by exercising their discretionary quota. There is also a Professor-in-Charge who you may contact for helpful advice in case of difficulty. More details about KV IIT Bombay may be found on [its webpage](http://www.kviitmumbai.com/English-Homepage).
@@ -2862,18 +2778,30 @@ The Kindergarten (KG) School comprising two classes (Lower KG and Upper KG) and 
 
 
 ### Shishu Vihar Child Care Centre
-Shishu Vihar is a not-for-profit child care centre, managed by an association of parents, catering primarily to the child care needs of working parents in IIT Bombay. The Shishu Vihar Management Committee (SVMC) is body of IITB Official Representatives and elected member parents. SVMC is responsible for the overall policy, human resources, and financial management of the centre.
 
-SV has a group of people with backgrounds in education, psychology, special needs, child development, early childhood education, and curriculum development. Their education and experience not only enable themselves to understand the needs of children but also inspires them to choose healthy and effective practices in child care.
+Shishu Vihar is a not-for-profit child care centre, managed by an
+association of parents, catering primarily to the child care needs of
+working parents in IIT Bombay. The Shishu Vihar Management Committee
+(SVMC) is a body of IITB Official Representatives and elected member
+parents. SVMC is responsible for the overall policy, human resources,
+and financial management of the centre.
 
-At the time of writing, Shishu Vihar is located in bungalow A-5 in the Lakeside area of Campus near the Main Gate; the following are its time slots and programs.
+SV has a group of people with backgrounds in education, psychology,
+special needs, child development, early childhood education, and
+curriculum development. Their education and experience not only
+enables them to understand the needs of children, but also inspires
+them to choose healthy and effective practices in child care.
+
+At the time of writing, Shishu Vihar is located in bungalows A-4 and
+A-5 in the Lakeside area of Campus near the Main Gate. The following
+are its time slots and programs.
 
 
 Slots                                    Hours      Timing
 ---------------------------------------  ---------  ------------------
 Morning Slot (MS)                        5 hours    8:15 AM to 1:15 PM
 Afternoon Slot (AF)                      5 hours    1:15 PM to 6:15 PM
-3/4 Day Slot (Lower KG School Children)  7.5 hours
+3/4 Day Slot (Lower KG School Children)  7.5 hours  Flexible
 Full Day Slot (FD)                       10 hours   8:15 AM to 6:15 PM
 
 ------------------------------------------------------------------------------------
@@ -2915,23 +2843,10 @@ While this chapter was originally written primarily for faculty who joined the I
 What happens after you have served out your active life with the Institute? Most look at the period of retirement with a certain amount of anxiety because they anticipate a sharp drop in income. It is, therefore, prudent to do some planning reasonably early in life, certainly by the time you are approaching 50.
 
 ### Superannuation
-This is the term used for official termination of your regular appointment. It happens on the last day of the month in which you complete 65 years of age, if your birthday is from 2nd$ to the last day of the month and on the last day of the preceding month if your birthday is the first day of the month. Usually, the Director offers you a cup of tea and hands over a few retirement cheques on this day.
+This is the term used for official completion of your regular appointment. It happens on the last day of the month in which you complete 65 years of age. For example, If your birthday falls on the 1st of the June, you will superannuate on the last day of the previous month (i.e. May 31st). However, if your birthday is between 2nd and 30th of June, then you will superannuate on 30th June. Usually, the Director offers you a cup of tea and hands over a few retirement cheques on this day.
 
 ### Re-employment
-Faculty members are usually reappointed till the last day of June
-(i.e., end of the academic year) in the year they complete 65, based
-on a recommendation from the department. (Further extensions are
-possible till the age of 70,  and are made on case-to-case basis
-depending on recommendations from the department.) During the period
-of re-employment, you receive your pension cheques as well as a
-component of salary in such a way that the two together do not exceed
-the last drawn salary.  Further, many service benefits come to an
-end. The reappointment letter from the Director will make it clear as
-to what benefits will still be available. As per the current practice,
-the medical facilities will continue during the period of
-re-employment. As per Govt. of India rules, you will continue to be
-eligible for LTC provided there is no break between the regular
-appointment and the re-employment.
+Faculty members are usually reappointed till the last day of the academic semester (i.e., either till 31st December or 30th June, depending on the birth date) in the year in which they complete 65, based on a recommendation from the department. During the period of re-employment, those who receive pension cheques as well as a component of salary in such a way that the two together do not exceed the last drawn salary. Further, many service benefits come to an end. The reappointment letter from the Director will make it clear as to what benefits will still be available. As per the current practice, the medical facilities will continue during the period of re-employment. As per Govt. of India rules, you will continue to be eligible for LTC provided there is no break between the regular appointment and the re-employment.
 
 ### Retirement schemes
 For those who joined the Institute before 2004, there were two retirement schemes to choose from (unfortunately, of late the ministry is not allowing a change of option), _viz._ Contributory Provident Fund-cum-gratuity Scheme (CPF) and General Provident Fund-cum-Pension-cum-gratuity Scheme (GPF). The salient features of these schemes are as follows.
@@ -3006,7 +2921,7 @@ For those who joined the Institute before 2004, there were two retirement scheme
    like the GPF is tax free in the hands of the retiree. Loans
    and withdrawals may be made from the subscription account
    like the GPF scheme.
-	   
+
 
 [^retireavg]: 50% of retiring salary will always be equal to or more than the 10 month average except in rare cases of a demotion or punishment during the last phase of service.
 
