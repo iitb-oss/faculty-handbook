@@ -1137,7 +1137,7 @@ Availability of 1 lakh contingency fund is divided as follows:
     on lien and EOL (During the period of lien or EOL).
 
 The daily allowance provided to Faculty Members for participation in
-International conferences are as follows (TODO: fix):
+International conferences are as follows:
 
 ---------------------------------------------------------------
 Country/ Region               Per Diem (USD) Hotel charges per day (USD)
@@ -2074,7 +2074,7 @@ twice a year. The schedule of faculty assessment and promotion is
 announced by Dean (Faculty Affairs) after due approval by the
 Director.
 
-The applications are invited from faculty members who satisfy the
+Applications are invited from faculty members who satisfy the
 minimum qualifications and experience criteria as per MHRD norms for
 the respective position. These applications are invited typically in
 January and August of each year. The applications received in January
@@ -2106,13 +2106,12 @@ Ph.D. students, publications in reputed  journals  and  conferences,
 patents,  laboratory/course  development and/or other recognized
 relevant professional activities.
 
-### Short listing Process
+### Shortlisting Process
 
 The applications submitted by the internal candidates are first
-shortlisted by the respective departments through Department Policy
-Committee (DPC) or Professors' Committee as per the department short
-listing criteria as approved by Institute Faculty Advisory Committee
-(IFAC). The short listing criteria framed by each department ensures
+shortlisted by the respective departments through the Department Policy
+Committee (DPC) or Professors' Committee as per the department shortlisting criteria as approved by Institute Faculty Advisory Committee
+(IFAC). The shortlisting criteria framed by each department ensures
 that (i) the effort put in by the candidate in the current position is
 adequately recognized and (ii) promotion to the next higher position
 in the minimum period (i.e., just after the minimum mandated number of
@@ -2127,7 +2126,7 @@ stage of her research) for the Associate Professor's post, or two
 completed PhDs under the candidate's guidance (at least one
 completed + one past the pre-synopsis stage) for the Professor's post
 would normally be considered necessary, and deviations from this norm
-would have to be appropriately justified. In short listing, the
+would have to be appropriately justified. Durin shortlisting, the
 Department may note, and give due importance to, instances of
 exceptional performance, such as sustained excellence in teaching,
 publications of high impact/ in high impact-factor journals, highly
@@ -2146,7 +2145,7 @@ satisfied.
 
 ### Peer Review
 Applications approved by IFAC enter into the
-next stage of Peer review. Administration sends the application
+next stage of peer review. The Administration sends the application
 dossiers to the selected academic referees, primarily for their inputs
 on the research carried out by the candidate, as seen by her important
 publications (reprints of such publications may form part of the
@@ -2159,14 +2158,14 @@ constituted.
 
 ### Selection Committee and Interview
 
-Dean (FA) recommends to the Director the setting up of a selection
+The Dean (FA) recommends to the Director the setting up of a selection
 committee for the candidates of a department with composition as per
-IIT Bombay Statute.  All the applications received by the department,
-the short listing criteria of the department and all candidates'
+IIT Bombay statute.  All the applications received by the department,
+the shortlisting criteria of the department and all candidates'
 considered by the department are placed before the selection committee
 for its consideration and approval.  After the due constitution of the
 statutory selection committees, interview schedules are published by
-the administration and the candidates are invited for personal
+the administration, and the candidates are invited for personal
 interview. The candidates may be asked to present a seminar based on
 the research performed during assessment period in the
 department. External expert members of the selection committee may be
@@ -2185,31 +2184,31 @@ other terms etc.
 
 ### Institute Faculty Advisory Committee
 
-Institute Faculty Advisory Committee (IFAC) as an advisory body to the
+The Institute Faculty Advisory Committee (IFAC) as an advisory body to the
 Dean (FA) on various matters of faculty interest, and matters of
 faculty development.
 
 _IFAC Composition:_ The committee is constituted by the Director and
-chaired by the Dean (FA). IFAC  has Deputy Director (AIA) as a
+chaired by the Dean (FA). The IFAC has the Deputy Director (AIA) as a
 permanent invitee. The committee is re-constituted every two years
 with the existing members in each category being replaced by Heads of
 departments not represented in the committee.
 
-_IFAC Role:_ IFAC has the following broad roles. Apart from these
+_IFAC Role:_ The IFAC has the following broad roles. Apart from these
 roles, Director  may request IFAC to consider and make recommendations
 on matters related to faculty affairs.
 
-    1. Consideration of short listing criteria of department for entry level as well as promotion for different faculty positions
-    2. Pre-processing of applications of internal candidates for promotions
-    3. Processing of nominations for Chair Professor positions
-    4. Nominations of faculty members for various national /international awards
-    5. Faculty development and mentorship
-    6. Faculty self-assessment
+   1. Consideration of short listing criteria of department for entry level as well as promotion for different faculty positions
+   2. Pre-processing of applications of internal candidates for promotions
+   3. Processing of nominations for Chair Professor positions
+   4. Nominations of faculty members for various national /international awards
+   5. Faculty development and mentorship
+   6. Faculty self-assessment
 
 ### Method for Determining Professors to be Moved to HAG scale
 
 1. _Composition of D-HAG Committee:_ Scoring should be done by a
-   committee called D-HAG constituted by Head of Department. The
+   committee called D-HAG constituted by the Head of the Department. The
    committee is to consist of 3 to 4 members, all of whom must be on
    HAG scale. In case there are not enough people on HAG scale in a
    department, faculty on HAG scale from other departments may be
@@ -2274,16 +2273,22 @@ Teaching is considered to be an important component of faculty activities. That 
     Academic section of the ASC website
     (https://asc.iitb.ac.in/acadmenu/index.jsp) for course details
     such as syllabus and textbooks, as well as timing and venue.
- 2. You may talk to the Head and ask for the previous instructors (this information is also available on ASC). That is, assuming that this is an existing course, and not a new one that you are starting. The procedure for starting a new course is described in the [form for proposing a new academic course](http://www.iitb.ac.in/newacadhome/RevisedCourseProposalFormat20154March.pdf). Senior faculty members who have taught the course may be able to help you with teaching material such as slides, homework problems, recommendations for textbooks, capable teaching assistants (TAs) and so forth.
+ 2. You may talk to the Head and ask for the previous instructors
+    (this information is also available on ASC). That is assuming this
+    is an existing course, not a new one you are starting; the
+    procedure for starting a new course is described in the [form for proposing a new academic course](http://www.iitb.ac.in/newacadhome/RevisedCourseProposalFormat20154March.pdf). Senior faculty members who have taught the course may be
+    able to help you with teaching material such as slides, homework
+    problems, recommendations for textbooks, capable teaching
+    assistants (TAs) and so forth.
  3. A recent alumni supported initiative, called the Parimal and
     Pramod Chaudhari Centre for Learning and Teaching (CLT), now
     provides a plethora of resources for teaching, drawing on internal
     and external expertise and experience. These include:
 
     a. (Annual) Faculty Development Workshops
-    b. TLC Café – featuring training sessions for faculty on  effective teaching
-    c. Community of Practice (CoP) platform for sharing best teaching practices
-    d. Active learning classroom (under construction at the time of writing). Please check out the [PPCCLT website](http://www.ppcclt.iitb.ac.in) for more details. They welcome and need faculty involvement to be effective, so please consider it.
+	b. TLC Café - featuring training sessions for faculty on effective teaching
+	c. Community of Practice (CoP) platform for sharing best teaching practices
+    d. Active learning classroom (under construction at the time of	writing). Please check out the [PPCCLT	website](http://www.ppcclt.iitb.ac.in) for more details. They welcome and need faculty involvement to be effective, so please	  consider it.
 
  4. There are several resources available to you to prepare video lectures (getting your regular lectures recorded, or, recording in a studio), and put them online if you desire. These include:
 
@@ -2412,9 +2417,9 @@ your consultancy work must be processed through the Institute (Dean
 R&D). The rules thereof are summarized
 [here](https://drona.ircc.iitb.ac.in/home/projects/consultancy-projects).
 
-IIT Bombay offers Consultancy Services to Industries, Service Sector,
-Govt. Departments and other National and International agencies in
-niche areas of expertise available in the Institute. The service
+IIT Bombay offers Consultancy services to industries, the service sector,
+Govt. departments and other National and International agencies in
+all areas of expertise available in the Institute. The service
 offered shall be along the lines of 'Professional Services' and will
 hence carry with them obligations and ethical requirements associated
 with such services as indicated in the standard terms and conditions
@@ -2423,7 +2428,7 @@ of IIT Bombay.
 
 The request can be to solve for almost any type of problem / need in
 almost every discipline of engineering, technology and science. The
-Institute through its Faculty / Scientist / Technical Staff can handle
+Institute, through its Faculty / Scientist / Technical Staff, can handle
 such external requests of the industry/agency that can come under the
 term consultancy in its broadest sense. Since these services are along
 the lines of 'Professional Services', offered at the request of a
@@ -2987,7 +2992,7 @@ account number is known as the Permanent Retirement Account Number
 
 IIT Bombay is a nodal office for NPS accounts, thereby being able to
 facilitate opening and transferring NPS accounts. New employees should
-be provided the NPS enrolment form by the institute. For those who
+be provided the NPS enrolment form by the institute. Those who
 already have an NPS account in the past (government, private, or
 any citizen of India modes) can get their account transferred by
 filling the appropriate forms and handing it to the administration.
