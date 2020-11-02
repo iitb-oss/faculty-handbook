@@ -1575,29 +1575,20 @@ Being an Institute of excellence, the Institute takes a very serious view of any
 ### Consultancy ethics
 Private consultancy is a serious breach of the code of conduct. Similarly, you should not take up remunerative assignments outside the Institute without explicit permission from the Institute. You should also not accept assignments in a Tutorial organization either as a consultant or for direct teaching.
 
-
 ## Right to Information
-In 2005, the Indian Parliament enacted a legislation known as the _Right to Information (RTI) Act_, which empowers a citizen to get any information from the Government or from any publicly funded institution. Exceptions are few and an educational institute does not qualify for exemption. This requires faculty members to be extra careful. For instance, any one can ask for the marking scheme adopted while awarding grades or, for that matter, a copy of the mark sheets of all students in a course. A query from the Institute's Public Information Officer[^pio]  must be answered within a stipulated time limit. Details of RTI is available on IITB's website.
+In 2005, the Indian Parliament enacted a legislation known as the Right to Information (RTI) Act, which empowers a citizen to get any information from the Government or from any publicly funded institution. Exceptions are few and an educational institute does not qualify for exemption. This requires faculty members to be extra careful. For instance, any one can ask for the marking scheme adopted while awarding grades or, for that matter, a copy of the mark sheets of all students in a course. A query from the Institute’s Public Information Officer1 must be answered within a stipulated time limit. Details of RTI is available on IITB's website.
 
 [^pio]: Currently, Ms. Prajakta Juwekar, Deputy Registrar (Administration)
 
 # The Institute's Hopes and Expectations
-For most faculty members joining this Institute, this will be the
-first ‘job’, at least in an academic set-up. Since, in such a set up,
-it is largely up to the individual to plan out her activities and
-career, it is but natural that one is a little apprehensive as to how
-to manage one’s time in the initial years. While there are always some
-senior faculty and elder statesmen in the department who will guide
-you in this respect, the following sections give some idea of what is
-expected of you, and introduce you to the various Institute-supported
-activities that you will probably get involved in as a faculty member.
+For most faculty members joining this Institute, this will be the first ‘job’, at least in an academic set-up. Since, in such a set up, it is largely up to the individual to plan out her activities and career, it is but natural that one is a little apprehensive as to how to manage one’s time in the initial years. While there are always some senior faculty and elder statesmen in the department who will guide you in this respect, the following sections give some idea of what is expected of you, and introduce you to the various Institute-supported activities that you will probably get involved in as a faculty member.
 
 ## What the Institute expects of you
 When you join as an Assistant Professor, in order to assist you to settle in and get your research underway quickly and efficiently, the Institute and the department extend certain facilities. These are:
 
 1. A seed grant of ₹ 20 lakh plus support for one PhD student in the project mode. Higher seed grant amounts may be considered for equipment intensive research (you need to see the Dean (R&D) regarding this, soon after you join).
 
-2. Space: A minimum of a faculty cabin (10  15’) and a working space of 300 sq. ft. to be identified by the department before he/she joins, and made available on joining.
+2. Space: A minimum of a faculty cabin (10 × 15’) and a working space of 300 sq. ft. to be identified by the department before he/she joins, and made available on joining.
 
 3. Reduced teaching load (say a course associateship) in the first semester (unless the faculty member wants to be involved in intensive teaching right from the start). Similarly, administrative load to be kept to a minimum in the initial semester.
 
@@ -1613,15 +1604,15 @@ In return, the Institute has certain expectations from the new faculty members. 
 The three main areas in which faculty members contribute to the
 Institute are Teaching, Research and Service[^servicedetails]. It is
 expected that, averaged over the year, a young faculty member spends
-of the order of 30% of one's time during the working week on teaching,
+of the order of 30% of one’s time during the working week on teaching,
 and up to 20% on service-related activities, leaving the rest of the
-time (50% of the working week, but you also have the weekends!) for
+time (50% of the working week, in addition to weekends) for
 research. It may therefore be expected that, at various points where
-one's contributions are to be assessed, these weightages will apply.
+one’s contributions are to be assessed, these weightages shall apply.
 
 [^servicedetails]: _Service_ includes administration as well as  contributions to the society at large and  to the profession. The latter contributions are usually through participation in  extension activities (continuing education, consultancy, etc., on which more in further sections),  membership of professional bodies, governmental committees, journal reviewerships and editorships, and so on.
 
-It is possible, as one grows into one's career and gets into the positions of an Associate Professor and Professor, that these profiles may change somewhat: teaching may become easier, one may get more involved with departmental and Institute's administration, etc.  The Institute therefore recognizes that these weightages may change  at these levels, at the choice of the faculty member.
+It is possible, as one grows into one’s career and gets into the positions of an Associate Professor and Professor, that these profiles may change somewhat: teaching may become easier, one may get more involved with departmental and Institute’s administration, etc. The Institute therefore recognizes that these weightages may change at these levels, at the choice of the faculty member.
 
 The different responsibilities are listed below:
 
