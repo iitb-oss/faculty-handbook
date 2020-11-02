@@ -937,13 +937,14 @@ When you receive your salary slip, you will find some deductions as well. The pr
    and Post Retirement Medical Scheme (PRMS).
 
 ### Leave Travel Concession (LTC)
+
 Once every two years, you are eligible for a paid travel to your home
 town. For the purpose of LTC, block years are defined for two years
-starting January 1st of an even year (e.g. 2020) to December 31st of
+starting January 1st of an even year (e.g. 2020) to December 31st of
 an odd year. If you do not avail LTC during this block year it
 generally lapses. However, it has been the practice of the Government
 to allow for a grace year, i.e. LTC for the block year 2020-21 can be
-availed (i.e. outward journey commenced) up to 31st December 2022.
+availed (i.e. outward journey commenced) up to 31st December 2022.
 
 Two of the above blocks are combined together to define a four year
 block, e.g., the block 2020-21 and the next block 2022-23 define a
@@ -957,7 +958,7 @@ be utilized (i.e. outward journey commenced) before 31.12.2024.
 
 You must have completed one year of service in the block to be
 eligible for LTC in the block, i.e. those who are appointed up to
-31.12.2020. are eligible for LTC in the block year 2020-21 but those
+31-12-2020. are eligible for LTC in the block year 2020-21 but those
 appointed after this day are not eligible.
 
 All the declared dependents are eligible for LTC and the travel need
@@ -1434,17 +1435,17 @@ of faculty members, is the Dean (Faculty Affairs) of the
 Institute. However, except under unusual circumstances (for instance,
 if a group of employees wish to take mass casual leave to register
 protest against something) and discipline related cases, leave is
-generally refused. Departments may sometimes have reasons for
-not recommending sanction of leave in case your services are required
-for any purpose.  The following are general guidelines and are not
-exhaustive.  For complete information, faculty members should refer to
-the Institute's statutes or consult the Administration section of the
+generally refused. Departments may sometimes have reasons for not
+recommending sanction of leave in case your services are required for
+any purpose. The following are general guidelines and are not
+exhaustive. For complete information, faculty members should refer to
+the Institute’s statutes or consult the Administration section of the
 Institute.
 
 ### Casual Leave
 As the name suggests, this form of leave is to meet casual requirements of an individual.
 
-1. A faculty member can avail a maximum of 8 days of casual leave in a calendar year. However, the maximum contiguous period for which casual leave can be taken is not more than 5 days. Saturdays/Sundays and holidays may be prefixed or suffixed to casual leave and will not count towards casual leave. For those who join in the middle of a calendar year, proportionate amount of casual leave is allowed. Casual leave can even be taken for half a day, i.e. morning session or afternoon session.
+1. A faculty member can avail a maximum of 8 days of casual leave in a calendar year. However, the maximum contiguous period for which casual leave can be taken is not more than 5 days. Saturdays/Sundays and holidays may be prefixed or suffixed to casual leave and will not count towards casual leave. For those who join in the middle of a calendar year, proportionate amount of casual leave is allowed. Casual leave can even be taken for half a day, i.e. morning session or afternoon session.
 2. Casual leave cannot be appended to any other form of leave other than vacation.
 3. Unutilized casual leave expires on 31st December every year and is not carried over.
 4. Generally, no reason has to be given for going on casual leave. The ERP interface has a provision to apply for casual leave. Strictly speaking, one has to take an advance sanction for casual leave as well. However, in case of unforeseen circumstances one can apply on ERP post-facto. It is a good practice to keep the Head or at least one of your colleagues informed of such an absence.
@@ -1458,7 +1459,7 @@ Vacation is special, and is available only to the faculty members of the Institu
 1. A faculty member is entitled to 60 days of vacation during the year. The year for the purpose of vacation is the academic year, i.e. from 1 July to 30 June of the following year. A faculty member joining the Institute any time during the first semester (July-November) is eligible for full vacation while those joining in the second semester (January-April) will be entitled to 30 days of vacation in the year of joining.
 2. The conventional vacation period comprises the months of May, June and December. However, the Institute announces the exact dates every year depending on its academic schedule.
 3. No separate application is made for availing vacation. Each faculty member has to provide his/her vacation plans by filling up the appropriate section on the ERP leave form online.
-4. If a faculty member does not avail the full 60 days vacation in any academic year, 50% of unavailed vacation is converted to Earned Leave and is credited to the earned leave account of the faculty member on 1st July of the next academic year. Thus if a faculty avails of a total of x days of vacation during the vacation period, (60-x)/2 days of earned leave is credited to his/her earned leave account.
+4. If a faculty member does not avail the full 60 days vacation in any academic year, 50% of unavailed vacation is converted to Earned Leave and is credited to the earned leave account of the faculty member on 1st July of the next academic year. Thus if a faculty avails of a total of $x$ days of vacation during the vacation period, $(60-x)/2$ days of earned leave is credited to his/her earned leave account.
 
 ### Earned Leave
 Earned leave, unlike vacation, can be availed any time during the year with prior sanction. Unlike non-academic staff, the only way in which a faculty accumulates earned leave is by virtue of not having availed the entitled vacation in a given academic year. Half of the unutilized vacation is credited as earned leave on July 1st every year.
@@ -1486,9 +1487,9 @@ A child care leave to facilitate women employees to take care of their two eldes
 ### Special Leave & Sabbatical Leave
 During the entire period of service, a faculty member is permitted to avail long leaves for a total duration not exceeding three years for academic purposes. The two primary categories of such leave with full pay are Special Leave and Sabbatical Leave. Applications should be forwarded through the Head of the Department to the Dean (FA) who makes suitable recommendation to the Director (the approving authority). All such applications must be forwarded with recommendation from the Head of the Department. The Department must be satisfied that the academic programmes of the Department will not be adversely affected by granting of such leave and also make alternative arrangements for taking care of students who may be working under the concerned faculty member. Further, the faculty member is also required to make arrangements for ongoing projects, and such arrangement must be intimated to the Dean (R&D) in a form available with the IRCC.
 
-1. Special leave is generally granted to faculty members to accept academic assignments abroad for availing scholarships and fellowships such as Humboldt Foundation fellowship, Boyscast fellowship, Commonwealth fellowship etc. The faculty member must have put in at least 3 years of service and should have  applied  for such fellowships through proper channel (i.e., the applications should have been forwarded by the Institute). During the special leave, the faculty draws full salary in the Institute in addition to the fellowship amounts.
-2. Sabbatical leave is granted for accepting temporary academic assignments in Indian or foreign universities or research institutions, availing fellowships, writing a book etc. The faculty member should have put in a minimum of six years of service in the Institute for availing a one year sabbatical. The Dean (FA)  may recommend a shorter and proportionate amount  of sabbatical for a faculty  who falls short of the minimum requirement. For a subsequent sabbatical, there must be a gap of at least 3 years for a one semester sabbatical and six years for a two semesters sabbatical.
-2. The Institute requires a bond to be executed by the faculty members proceeding on a sabbatical, undertaking to serve the Institute for a minimum period of three years on return from sabbatical (the period of bond is two years for a one semester sabbatical). If the faculty member resigns before completion of the bond period, he/she will be required to refund the salary paid by the Institute during the sabbatical period.
+1. Special leave is generally granted to faculty members to accept academic assignments abroad for availing scholarships and fellowships such as Humboldt Foundation fellowship, Boyscast fellowship, Commonwealth fellowship etc. The faculty member must have put in at least 3 years of service and should have applied for such fellowships through proper channel (i.e., the applications should have been forwarded by the Institute). During the special leave, the faculty draws full salary in the Institute in addition to the fellowship amounts.
+2. Sabbatical leave is granted for accepting temporary academic assignments in Indian or foreign universities or research institutions, availing fellowships, writing a book etc. The faculty member should have put in a minimum of six years of service in the Institute for availing a one year sabbatical. The Dean (FA) may recommend a shorter and proportionate amount of sabbatical for a faculty who falls short of the minimum requirement. For a subsequent sabbatical, there must be a gap of at least 3 years for a one semester sabbatical and six years for a two semesters sabbatical.
+3. The Institute requires a bond to be executed by the faculty members proceeding on a sabbatical, undertaking to serve the Institute for a minimum period of three years on return from sabbatical (the period of bond is two years for a one semester sabbatical). If the faculty member resigns before completion of the bond period, he/she will be required to refund the salary paid by the Institute during the sabbatical period.
 3. As a policy, the Institute does not extend a sabbatical. However, a faculty member may request for appending a maximum of 4 months of earned leave to the sabbatical. In case the faculty does not join back the duty after this period, the entire period of sabbatical will be considered as leave without pay or adjusted fully or partially against leave due to the faculty.
 
 ### Extraordinary Leave
@@ -1804,29 +1805,25 @@ of on-line course evaluation by students, which happens at the end of
 the teaching semester.
 
 ### PhD supervision
-Apart from teaching and instructing courses, you are also expected to do fair amount of supervision at UG/PG and PhD level. While basic rules for guidance varies across departments, the PhD supervision entails certain basic criteria.
+Apart from teaching and instructing courses, you are also expected to
+do a fair amount of supervision at the UG/PG and PhD levels. While
+basic rules for guidance varies across departments, the PhD
+supervision entails certain basic criteria.
 
 1. Only full time faculty are entitled to undertake PhD supervision.
-2. At any given time, the number of Institute research scholars (TAs
-   and/or RAs) working   with under your supervision  shall   not
-   exceed   FIVE (TODO).  The   DPGC/PGC   of  the academic   unit   can
-   decide   on   the   total   number   of   research   students   of
-   all categories working with him/her.
-
+2. At any given time, the number of Institute research scholars (TAs and/or RAs) working with under your supervision shall not exceed FIVE (CHECK). The DPGC/PGC of the academic unit can decide on the total number of research students of all categories working with him/her.
 3. As a supervisor, you are expected to supervise the student till satisfactory results are achieved.
-4. work in international conferences and workshops.A supervisor must keep a check that the students being supervised deliver the Annual Progress Seminar (APS) every twelve months after joining the program. The APS report must contain information describing the research that has been performed in the completed year and submit it to the Research Progress Committee. The student must then deliver an open seminar, which all interested members of the department are free to attend, where he/she will be examined by the RPC. The objective of the seminar is to provide feedback about the research completed by the student in the past year, and provide suggestions for continuing and refining his/her research. With the progress of a student’s PhD, the work presented is expected to evolve from a thorough understanding of fundamental concepts and reported literature to an in-depth solution to a novel research problem. The RPC lays emphasis on publications in reputed international journals, filing invention disclosures and patents based on nature of the research output, and also encourages the student to present his/her work in international conferences and workshops.
-5. You can also serve as co-supervisor if any student chooses to do
-   so.
+4. A supervisor must keep a check that the students being supervised deliver the Annual Progress Seminar (APS) every twelve months after joining the program. The APS report must contain information describing the research that has been performed in the completed year and submit it to the Research Progress Committee. The student must then deliver an open seminar, which all interested members of the department are free to attend, where he/she will be examined by the RPC. The objective of the seminar is to provide feedback about the research completed by the student in the past year, and provide suggestions for continuing and refining his/her research. With the progress of a student’s PhD, the work presented is expected to evolve from a thorough understanding of fundamental concepts and reported literature to an in-depth solution to a novel research problem. The RPC lays emphasis on publications in reputed international journals, filing invention disclosures and patents based on nature of the research output, and also encourages the student to present his/her work in international conferences and workshops.
+5. You can also serve as a co-supervisor if any student chooses to do so, and it is approved by the DPGC.
 6. If you are going on long leave, such as lien/sabbatical leave/special leave etc., you must propose an alternate arrangement to continue the academic activities of your students.
-
-   a) Whenever a Supervisor leaves the Institute permanently or temporarily for a period greater than or equal to one year, the DPGCs/IDPCs/PGCs shall provide new supervisor(s) for the students being supervised by him/her before his/her departure.
-   b) Whenever a Supervisor leaves the Institute temporarily for a period less than one year, the DPGCs/IDPCs/PGC shall make an alternate arrangement for the guidance of his/her students.
-   c) The DPGC/ IDPC/ PGC may consider continuation of the original Supervisor on his/her return to the Institute, as Co-­Supervisor of his/her students depending on the period for which he/she has supervised the Ph.D. Programmes of the students concerned.
-   d) Any such arrangements made shall be forwarded to PGAPEC for prior approval.
+ a. Whenever a Supervisor leaves the Institute permanently or temporarily for a period greater than or equal to one year, the DPGCs/IDPCs/PGCs shall provide new supervisor(s) for the students being supervised by him/her before his/her departure.
+ b. Whenever a Supervisor leaves the Institute temporarily for a period less than one year, the DPGCs/IDPCs/PGC shall make an alternate arrangement for the guidance of his/her students.
+ c. The DPGC/ IDPC/ PGC may consider continuation of the original Supervisor on his/her return to the Institute, as Co-­Supervisor of his/her students depending on the period for which he/she has supervised the Ph.D. Programmes of the students concerned.
+ d. Any such arrangements made shall be forwarded to PGAPEC for prior approval.
 7. Change of supervisor is generally not advised and should be sought as a last resort. Under exceptional circumstances, if a student chooses to terminate the relationship, then it will only be permitted on recommendation of the DPGC/IDPC/PGCA. Every effort should be made to allow a fair transition for both the faculty and the concerned student.
 
-
 ## Research Funding
+
 Research funding could be one of the following three types
    1. (Institute) Seed Grant
    2. (External) Sponsored Research Project
