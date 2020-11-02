@@ -1839,36 +1839,40 @@ offers seed grant to new faculty members to encourage and facilitate
 their research activities at the Institute. Details of this grant are
 as follows:
 
-   1. Faculty member should request for seed grant within 6 months from the date of joining in the Institute.
-   2. The duration of the seed grant project will be not more than 3 years and will be closed after that.
-   3. Seed grant proposal should highlight the objectives, expected outcome, time frame, budget with appropriate justification (especially for equipment) and other relevant details. Specify the equipment proposed to be procured under the seed grant.
-   4. Seed grant consists of a base amount up to ₹ 7/- lakhs (₹ seven lakhs) that can be apportioned under EQP (equipment), CON (consumables) and CTE (contingency) budget heads. Reallocation of funds between different budget heads is allowed. Expenditure permitted / not permitted from the seed grant (base amount):
-     a) Procurement of small equipment, consumable and other contingent expenditure is allowed.
-     b) Procurement of a laptop or a hand-held device (iPad, Tablets, etc.) is allowed. However, purchase of laptop / hand-held devices should normally be from CPDA or from allocations made by the academic unit. Such a purchase from the seed grant is allowed only with a self-declaration from the faculty to the effect that the purchase is made from only one of the sources (in the first three years).
-     c) Travel within India using seed grant is allowed only for the concerned faculty member to defend research proposals and with prior permission of the Dean (R&D).
-     d) Seed grant cannot be used for international travel, holding workshops or conferences, hiring administrative or project assistants or attendants, payment of honoraria, office furniture, air-conditioners, etc.
-   5. An additional ₹ 13 lakhs (₹ thirteen lakhs) will be provided, if needed, for purchase of (basic) equipment. Reallocation of this amount to other budget heads is not allowed.
-   6. Faculty members needing additional funding should seek the same from the concerned Academic Unit, which could review the request and provide support from its own funds such as DDF as per its own policies / guidelines.
-   7. Equipment grant may be augmented by up to ₹ 1 crore subject to the following:
-      a)  This augmentation is to be used exclusively to procure major equipment / facility of a specialized nature, if required for the proposed research work. It is NOT meant as a general grant to be used over time for miscellaneous EQP purchases; these should be procured out of the 13 or 20 lakhs (basic equipment + part or whole of base amount).
-      b) Faculty member must have submitted at least one research proposal to an external agency for funding. If need be, Institute will give a letter of ‘additional financial support’ to be used while seeking funding from external agencies.
-      c) Request for additional support will be evaluated by a committee consisting of the Associate Dean (R&D), Head of the Academic Unit and at least one faculty member conversant with the research topic of the faculty member seeking funding.
-      d) Faculty member must give an undertaking that the equipment will be made available to other users in the Institute. Potential users of the equipment and the extent to which the equipment will be made available to other users must be included in the proposal seeking additional funding.
-      e) Purchase of equipment with this additional amount must be initiated within 3 months of the date of approval of the grant.
-      f) Request for the augmented funds may be made anytime within the first two years of the Seed Grant project, so that the total period of Seed Grant support remains 3 years.
-      g) Annual maintenance for 3-5 years must be built into the purchase.
-      h) This augmented funds cannot be utilized to setup individual
-         high-performance computing facilities. This augmented support is meant to
+1. The faculty member should request for seed grant within 6 months from the date of joining the Institute.
+2. The duration of the seed grant project will not be more than 3 years and will be closed after that.
+3. Seed grant proposal should highlight the objectives, expected outcome, time frame, budget with appropriate justification (especially for equipment) and other relevant details. Specify the equipment proposed to be procured under the seed grant.
+4. Seed grant consists of a base amount up to ₹ 7/- lakhs (₹ seven
+lakhs) that can be apportioned under EQP (equipment), CON
+(consumables) and CTE (contingency) budget heads. Reallocation of
+funds between different budget heads is allowed. The following
+conditions apply on expenditures from the seed grant (base amount):
+
+  a. Procurement of small equipment, consumables and other contingent expenditure is allowed.
+  b. Procurement of a laptop or a hand-held device (iPad, Tablets, etc.) is allowed. However, purchase of laptop / hand-held devices should normally be from allocations made by the academic unit. Such a purchase from the seed grant is allowed only with a self-declaration from the faculty to the effect that the purchase is made from only one of the sources (in the first three years).
+  c. Travel within India using seed grant is allowed only for the concerned faculty member to defend research proposals and with prior permission of the Dean (R&D).
+  d. Seed grant cannot be used for international travel, holding workshops or conferences, hiring administrative or project assistants or attendants, payment of honoraria, office furniture, air-conditioners, etc.
+5. An additional ₹ 13 lakhs (₹ thirteen lakhs) will be provided, if needed, for purchase of (basic) equipment. Reallocation of this amount to other budget heads is not allowed.
+6. Faculty members needing additional funding should seek the same from the concerned Academic Unit, which could review the request and provide support from its own funds such as DDF as per its own policies / guidelines.
+7. Equipment grant may be augmented by up to ₹ 1 crore subject to the following:
+   a. This augmentation is to be used exclusively to procure major equipment / facility of a specialized nature, if required for the proposed research work. It is NOT meant as a general grant to be used over time for miscellaneous EQP purchases; these should be procured out of the 13 or 20 lakhs (basic equipment + part or whole of base amount).
+   b. Faculty member must have submitted at least one research proposal to an external agency for funding. If need be, Institute will give a letter of ‘additional financial support’ to be used while seeking funding from external agencies.
+   c. Request for additional support will be evaluated by a committee consisting of the Associate Dean (R&D), Head of the Academic Unit and at least one faculty member conversant with the research topic of the faculty member seeking funding.
+   d. Faculty member must give an undertaking that the equipment will be made available to other users in the Institute. Potential users of the equipment and the extent to which the equipment will be made available to other users must be included in the proposal seeking additional funding.
+   e. Purchase of equipment with this additional amount must be initiated within 3 months of the date of approval of the grant.
+   f. Request for the augmented funds may be made anytime within the first two years of the Seed Grant project, so that the total period of Seed Grant support remains 3 years.
+   g. Annual maintenance for 3-5 years must be built into the purchase.
+   h. This augmented funds cannot be utilized to setup individual high-performance computing facilities. This augmented support is meant to
          - Supplement any shortfall in the equipment grant from external agencies
 		 - Enhance capability of the equipment / facility proposed in the project
 		 - Support additional accessories to the equipment funded by external agencies
 
-   8. Proposals, duly complete in all respects, must be submitted online on DRONA (http://drona.ircc.iitb.ac.in). There is no need to send a hard copy of the proposal.
-   9.  Completion Report: A project completion report highlighting the utilization of seed grant and the manner in which the seed grant helped the faculty to ‘seed’ his/her research must be submitted to the Dean (R&D) while closing the project. In case the faculty member received augmented EQP grants, the report should also include the following:
-     - How the facility supported research of other users and the utilization data
-     - Research plans / targets for further utilization of the special equipment / facility in the next few years
-     - Plans for further R&D projects to be proposed to fully utilize the potential of the equipment / facility.
-   10. Institute will make an annual budget for seed grants. Source of
+8. Proposals, duly complete in all respects, must be submitted online on DRONA (http://drona.ircc.iitb.ac.in). There is no need to send a hard copy of the proposal.
+9.  Completion Report: A project completion report highlighting the utilization of seed grant and the manner in which the seed grant helped the faculty to ‘seed’ his/her research must be submitted to the Dean (R&D) while closing the project. In case the faculty member received augmented EQP grants, the report should also include the following:
+  - How the facility supported research of other users and the utilization data
+  - Research plans / targets for further utilization of the special equipment / facility in the next few years
+  - Plans for further R&D projects to be proposed to fully utilize the potential of the equipment / facility.
+10. Institute will make an annual budget for seed grants. Source of
        funds can be either MHRD grants or IRCC funds. Disbursals of
        seed grants will be subject to availability of funds under this
        budget.
@@ -1897,6 +1901,7 @@ Some of the sponsoring agencies and their URLs are given below:
   - [Department of Telecommunications (DoT)](www.dot.gov.in)
   - [Ministry of Human  Resource Development (MHRD)](www.education.nic.in/)
   - [Naval Research  Board  (NRB)](http://nrbdrdo.res.in/)
+  - [Science and Engineering Research Board (SERB)](http://serbonline.in)
 
 Agencies which can be approached for travel grants for attending conference / seminar / workshop etc. are
 
@@ -1918,13 +1923,13 @@ be submitted by the PI to the funding agency.
 
 ## ERP-SAP Activities
 IIT Bombay has recently deployed leading Enterprise Resource Planning
-software (ERP) from SAP which provides IT enabled platform for
+software (ERP) from SAP which provides an IT enabled platform for
 managing business processes such as purchase, payment, payroll, HR
 actions as well as estate management. Student life cycle management,
-currently handled through the homegrown software created by
-Application Software Center (ASC) is slated to move on ERP platform
-in 2020. Several other home grown and open source legacy IT systems
-continue to handle key business processes.
+currently handled through the homegrown software created by the
+Application Software Center (ASC) is being moved to ERP. Several other
+home grown and open source legacy IT systems continue to handle key
+business processes.
 
 Currently, following IT systems are available to faculty members:
 
@@ -1985,81 +1990,17 @@ The following services for specific activities managed by ASC are available thro
     problems with leave application or any other issue on ESS portal.
   - All services provided by ASC: [asc.help@iitb.ac.in](mailto:asc.help@iitb.ac.in).
 
-### Using SAP ERP
-ESS interfaces mostly comprise online forms. However, ERP.iitb.ac.in
-users need some amount of training for carrying out ERP purchase and
-payment transactions. Limited documentation is available on [ASC
-portal](https://ASC.iitb.ac.in). Departmental ERP helpdesk should be
-approached for additional training.
-
-**Step-1:** Make sure you have all basic requirements in place:
-  - Get LDAP ID
-  - Apply for SAP user license.
-
-You are provided:
-  - User ID
-  - Password
-  - Purchasing group
-
-Learn:
-  - ERP fundamentals
-  - Common SAP Transaction codes
-
-**Step-2**: Familiarize yourself with important business terms and
-definitions:
-
-  - Business related: Equipment, Consumable, Asset, Purchase
-    requisition (PR), Purchase Order (PO), Request for Quotation
-    (RFQ), Goods Receipt Note (GRN), Invoice parking
-  - SAP related terms: MM, SRM, FI, HCM, WBS, Cost Center, Commitment
-    items, and sponsored class.
-  - Common SAP transaction codes: Payment to vendor/reimbursement to
-    self(FV60), Student payments(FV75), Create/release purchase
-    requisition(ME51N, ME52N, ME53N, ME54N), create/release Purchase
-    order(ME21N, ME22N, ME23N, ME29N), Goods receipt note (MIGO),
-    invoice parking (MIR7), project fund and expenditure details
-    (CJI3, S_PLN_16000269) and vendor payment reports(FBL1N).
-
-**Step-3**: Learn how to use above transaction screens. Read up user
-manuals available on ASC home page, take help from departmental ERP
-help cell and attend periodic training workshops conducted by ASC.
-
 ## Lab Space Allotment
 
-As a new faculty (and if you need lab space), this is likely to be one
-of the more frustrating things you might have to negotiate at IIT
-Bombay. Because of various factors, IIT Bombay has seen very healthy
-growth in the last couple of decades in terms of student, faculty and
-staff (especially temporary staff on R&D project payroll)
-numbers. Because of other some other factors, the creation of living
-and working spaces for them on campus has not quite kept pace. This
-situation is unlikely to change in the near future.
+As a new faculty (and if you need lab space), you need to contact the
+Head of your Department / Centre / School and discuss with him / her
+about your requirement in advance.
 
-Here are a few tips that might help:
- 1. For individual lab space, your resource person is the Head of your
-    Department/Centre/School. You would be well-advised to start
-    talking to them about your requirements when you have accepted the
-    job offer and are planning your move. This might reduce your wait
-    time after you join. Now, despite their best intentions, the Head
-    might not be able to satisfy your requirements quickly enough - it
-    may help everyone, yourself included, to exercise some patience,
-    even as you press for what you need in order to be productive
-    here.
- 2. After you have been allocated lab space, it will take time to get
-    it prepared and facilitated. This will need your involvement. You
-    may talk to the Head about the funding required (again, might be a
-    good idea to start the discussion in advance), getting civil,
-    air-conditioning, interior work done through Estate Office,
-    Electrical Maintenance Division and Design Cell respectively, and
-    so on. Senior faculty should also be able to informally mentor you
-    on getting these jobs done efficiently.
- 3. Please talk to the Head, and find out yourself, about existing
-    facilities on campus that might help you get started with
-    something quickly.
- 4. You may also consider building shared labs with other faculty in
-    similar areas. That might help to reduce the resources required
-    (including space), get you a partner to share in the effort, and
-    thereby move things faster.
+1. After you have been allocated lab space, it may take time to convert it into a proper, functional lab, and this would need your active involvement. You may also need to talk to the Head about the funding required to get the civil, air-conditioning and interior work done through the Estate Office, Electrical Maintenance Division and Design Cell respectively, and so on. Some senior faculty members may also be able to informally mentor you on getting these jobs done efficiently.
+
+2. Please talk to the Head, and find out about existing facilities on campus that might help you get started with something quickly.
+
+3. You may also consider building shared labs with other faculty who work in similar research areas. This might help reduce the resources required (including space), get you a partner to share in the effort, and thereby move things faster till you establish your own laboratory.
 
 Please consider volunteering to help your Head on resource planning so
 these issues become progressively easier for future colleagues who
@@ -2069,20 +2010,20 @@ come after you.
 
 ### Application Process
 
-Faculty assessment for promotion to the next higher positions are done
-twice a year. The schedule of faculty assessment and promotion is
-announced by Dean (Faculty Affairs) after due approval by the
-Director.
+Faculty assessment for promotion to the next higher positions are
+usually done twice a year. The schedule of faculty assessment and
+promotion is announced by Dean (Faculty Affairs) after due approval by
+the Director.
 
-Applications are invited from faculty members who satisfy the
-minimum qualifications and experience criteria as per MHRD norms for
-the respective position. These applications are invited typically in
+Applications are invited from faculty members who satisfy the minimum
+qualifications and experience criteria as per MHRD norms for the
+respective position. These applications are invited typically in
 January and August of each year. The applications received in January
 are processed during February-May time period and the applications
 received in August are processed during September-November time
 period. The application form requires each candidate to furnish
-information during the assessment period (i.e. period being held in
-the current position).
+information about their work during the assessment period (i.e. period
+being held in the current position).
 
 ### Experience (Required on the date of application):
 
@@ -2096,41 +2037,45 @@ reputed journals and conferences, patents, laboratory/course
 development and/or other recognized relevant professional activities.
 
 
-_Associate Professor:_ A   minimum  of  six years
-teaching/research/professional  experience  of which 3 years should be
+_Associate Professor:_ A minimum of six years’
+teaching/research/professional experience of which 3 years should be
 at the level of Assistant Professor Grade I, Senior Scientific
 Officer/Senior Design Engineer in a research organization or
 industry. The candidate should have demonstrated adequate experience
 of independent research in terms of guidance of M.Tech. and
-Ph.D. students, publications in reputed  journals  and  conferences,
-patents,  laboratory/course  development and/or other recognized
+Ph.D. students, publications in reputed journals and conferences,
+patents, laboratory/course development and/or other recognized
 relevant professional activities.
 
 ### Shortlisting Process
 
 The applications submitted by the internal candidates are first
-shortlisted by the respective departments through the Department Policy
-Committee (DPC) or Professors' Committee as per the department shortlisting criteria as approved by Institute Faculty Advisory Committee
-(IFAC). The shortlisting criteria framed by each department ensures
-that (i) the effort put in by the candidate in the current position is
-adequately recognized and (ii) promotion to the next higher position
-in the minimum period (i.e., just after the minimum mandated number of
-years of experience have been completed) requires performance at a
-high level as judged by the standards of the average performance of
-the department or subgroup within the department to which the
-candidate belongs. Each department recognizes contributions of the
-candidate in Research, Teaching and Professional/Department/Institute
-Services. In addition to performance criteria of the department
-approved by the IFAC, guidance of one PhD scholar (in an advanced
-stage of her research) for the Associate Professor's post, or two
-completed PhDs under the candidate's guidance (at least one
-completed + one past the pre-synopsis stage) for the Professor's post
-would normally be considered necessary, and deviations from this norm
-would have to be appropriately justified. Durin shortlisting, the
-Department may note, and give due importance to, instances of
-exceptional performance, such as sustained excellence in teaching,
-publications of high impact/ in high impact-factor journals, highly
-successful translation and commercialization of faculty's research.
+shortlisted by their respective departments through the Department
+Policy Committee (DPC) or Professors’ Committee as per the department
+shortlisting criteria as approved by Institute Faculty Advisory
+Committee (IFAC). The shortlisting criteria framed by each department
+ensures that (i) the effort put in by the candidate in the current
+position is adequately recognized and (ii) promotion to the next
+higher position in the minimum period (i.e., just after the minimum
+mandated number of years of experience have been completed) requires
+performance at a high level as judged by the standards of the average
+performance of the department or subgroup within the department to
+which the candidate belongs (**such candidates are expected to have
+performed 33% more than the department average**). Each department
+recognizes the contributions of the candidate in Research, Teaching
+and Professional/Department/Institute Services. In addition to the
+performance criteria of the department approved by the IFAC, guidance
+of one PhD scholar (in an advanced stage of her research) for the
+Associate Professor’s post, or two completed PhDs under the
+candidate’s guidance (at least one completed + one past the
+pre-synopsis stage) for the Professor’s post would normally be
+considered necessary. Any deviation from this norm would have to be
+appropriately justified at the IFAC meeting. During the shortlisting
+process, the Department may note, and give due importance to,
+instances of exceptional performance, such as sustained excellence in
+teaching, publications of high impact/ in high impact-factor journals,
+highly successful translation and commercialization of the faculty’s
+research.
 
 ### IFAC Review
 
@@ -2139,40 +2084,40 @@ these 8, at-most 4 reviewers can be suggested by the candidate while 4
 reviewers would be identified by the department. All applications
 considered by the departments with their recommendations are presented
 to the IFAC by the Heads of the respective departments for
-consideration. IFAC takes into account the short listing done by the
-department and verify that the criteria approved by IFAC have been
-satisfied.
+consideration. IFAC takes into account the shortlisting done by the
+department and verifies that the criteria approved by the IFAC have
+been satisfied.
 
 ### Peer Review
-Applications approved by IFAC enter into the
-next stage of peer review. The Administration sends the application
-dossiers to the selected academic referees, primarily for their inputs
-on the research carried out by the candidate, as seen by her important
-publications (reprints of such publications may form part of the
-dossier sent). The letters requesting peer input also state in concise
-terms the range of activities considered as important for a faculty
-member in IITB, so that the referees can judge the quantum of research
-output in a proper context.  A minimum of three to four peer reviews
-are considered necessary before a selection committee can be
-constituted.
+
+Applications approved by IFAC enter into the next stage of peer
+review. The Administration sends the application dossiers to the
+selected academic referees, primarily for their inputs on the research
+carried out by the candidate, as seen by her important publications
+(reprints of such publications may form part of the dossier sent). The
+letters requesting peer input also state in concise terms the range of
+activities considered as important for a faculty member in IITB, so
+that the referees can judge the quantum of research output in a proper
+context. A minimum of three to four peer reviews are considered
+necessary before a selection committee can be constituted.
 
 ### Selection Committee and Interview
 
 The Dean (FA) recommends to the Director the setting up of a selection
 committee for the candidates of a department with composition as per
-IIT Bombay statute.  All the applications received by the department,
-the shortlisting criteria of the department and all candidates'
+IIT Bombay statute. All the applications received by the department,
+the shortlisting criteria of the department and all candidates
 considered by the department are placed before the selection committee
-for its consideration and approval.  After the due constitution of the
+for its consideration and approval. After the due constitution of the
 statutory selection committees, interview schedules are published by
 the administration, and the candidates are invited for personal
-interview. The candidates may be asked to present a seminar based on
-the research performed during assessment period in the
+interview. All the internal candidates must present a seminar based on
+the research performed during the assessment period in the
 department. External expert members of the selection committee may be
-invited for the seminar, else the candidates are asked to present a
-research summary during personal interview. The selection committee
-recommends the candidate to be promoted to the suitable position to
-the competent authority.
+invited for the seminar. In addition, candidates are also asked to
+present a research summary during the personal interview. The
+selection committee recommends whether or not the candidate may be
+promoted to the competent authority.
 
 ### Chairman BoG Approval
 
@@ -2188,22 +2133,16 @@ The Institute Faculty Advisory Committee (IFAC) as an advisory body to the
 Dean (FA) on various matters of faculty interest, and matters of
 faculty development.
 
-_IFAC Composition:_ The committee is constituted by the Director and
-chaired by the Dean (FA). The IFAC has the Deputy Director (AIA) as a
-permanent invitee. The committee is re-constituted every two years
-with the existing members in each category being replaced by Heads of
-departments not represented in the committee.
+_IFAC Composition:_ The committee is constituted by the Director and chaired by the Dean (FA). IFAC has the Deputy Director (AIA) as a permanent invitee. The committee is reconstituted every two years with the existing members in each category being replaced by Heads of departments not represented in the committee.
 
-_IFAC Role:_ The IFAC has the following broad roles. Apart from these
-roles, Director  may request IFAC to consider and make recommendations
-on matters related to faculty affairs.
+_IFAC Role:_ The IFAC has the following broad roles. Apart from these roles, the Director may request IFAC to consider and make recommendations on matters related to faculty affairs.
 
-   1. Consideration of short listing criteria of department for entry level as well as promotion for different faculty positions
-   2. Pre-processing of applications of internal candidates for promotions
-   3. Processing of nominations for Chair Professor positions
-   4. Nominations of faculty members for various national /international awards
-   5. Faculty development and mentorship
-   6. Faculty self-assessment
+  1. Consideration of short listing criteria of department for entry level as well as promotion for different faculty positions
+  2. Pre-processing of applications of internal candidates for promotions
+  3. Processing of nominations for Chair Professor positions
+  4. Nominations of faculty members for various national /international awards
+  5. Faculty development and mentorship
+  6. Faculty self-assessment
 
 ### Method for Determining Professors to be Moved to HAG scale
 
