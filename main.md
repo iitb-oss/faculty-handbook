@@ -86,13 +86,12 @@ There are two statutory documents that stipulate the way the Institute is to be 
 Formally, the President of India is officially the chief of the IITs;
 (s)he is  called the Visitor of the Institutes. In reality, the
 Institute does not deal directly with the Visitor, but routes all
-paperwork requiring their approval through the Ministry of Human
-Resource Development (MHRD).
+paperwork requiring their approval through the Ministry of Education (MOE).
 
 ### The IIT Council
 At the very top of all the IITs' administration is the [IIT
 Council](https://www.iitsystem.ac.in). The Chairman of the Council is
-the Minister of Human Resource Development, which is the central
+the Minister of Education, which is the central
 ministry under which our Institute comes. The Council is an
 organization with a large (ex-officio) members, e.g. the
 Chairmen and the Directors of all IITs, Chairman and Director of IISc,
@@ -111,7 +110,7 @@ items that cannot wait for the next Board Meeting; these are approved
 _post facto_ by the BOG.
 
 The Board has 11 members. In addition to the Chairman (appointed by
-MHRD) and the Director of the Institute, who are _ex officio_ members
+MOE) and the Director of the Institute, who are _ex officio_ members
 of the Board, one nominee each of the governments of the states
 Maharashtra, Goa and the Union Territory of Dadra and Nagar Haveli,
 which comprise the zone in which the Institute is situated, are
@@ -127,7 +126,7 @@ Two crucial Institute committees, namely the _Finance Committee_ and
 the _Building and Works Committee_ report to the Board. Any proposal,
 which requires major fund allocation is generally routed through the
 Finance Committee, acts as the watchdog of the Institute funds. The
-Financial Advisor to MHRD is a member of the Finance Committee. The
+Financial Advisor to MOE is a member of the Finance Committee. The
 Building and Works Committee is responsible for all the major
 construction projects in the institute, and has the power to make
 recommendations related to these.
@@ -593,7 +592,7 @@ Immediately on joining:
 ## Regularization/Confirmation of Service
 
 Under the current norms (**viz.** [7th Pay Commission
-rules](https://mhrd.gov.in/sites/upload_files/mhrd/files/7th%20CPC%20Order%20CFTIs.pdf),
+rules](https://www.education.gov.in/sites/upload_files/mhrd/files/7th%20CPC%20Order%20CFTIs.pdf),
 in particular 1(b)), IITs cannot offer a confirmed faculty position to
 one with less than 3 years professional/postdoctoral experience (not
 counting any experience gained during the PhD and pre-PhD years). In
@@ -1086,7 +1085,7 @@ the Pay Level of the faculty member at the time of the operation (it
 then remains unchanged for the entire service).
 
 ## Cumulative Professional Development Allowance (CPDA)
-The CPDA is an MHRD provision under which The Institute provides
+The CPDA is an MOE provision under which The Institute provides
 faculty at all levels with some level of support for travel (including
 international) and contingency expenses. At the time of writing, the
 allowance amounts to ₹ 3 lakhs for a block period of 3 years. It is to
@@ -1861,7 +1860,7 @@ conditions apply on expenditures from the seed grant (base amount):
   - Research plans / targets for further utilization of the special equipment / facility in the next few years
   - Plans for further R&D projects to be proposed to fully utilize the potential of the equipment / facility.
 10. Institute will make an annual budget for seed grants. Source of
-       funds can be either MHRD grants or IRCC funds. Disbursals of
+       funds can be either MOE grants or IRCC funds. Disbursals of
        seed grants will be subject to availability of funds under this
        budget.
 
@@ -1887,7 +1886,7 @@ Some of the sponsoring agencies and their URLs are given below:
   - [Indian Space Research Organization (ISRO)](www.isro.org/)
   - [Ministry of  Electronics & IT (MeitY)](www.meity.gov.in/)
   - [Department of Telecommunications (DoT)](www.dot.gov.in)
-  - [Ministry of Human  Resource Development (MHRD)](www.education.nic.in/)
+  - [Ministry of Human  Resource Development (MOE)](www.education.nic.in/)
   - [Naval Research  Board  (NRB)](http://nrbdrdo.res.in/)
   - [Science and Engineering Research Board (SERB)](http://serbonline.in)
 
@@ -2004,7 +2003,7 @@ promotion is announced by Dean (Faculty Affairs) after due approval by
 the Director.
 
 Applications are invited from faculty members who satisfy the minimum
-qualifications and experience criteria as per MHRD norms for the
+qualifications and experience criteria as per MOE norms for the
 respective position. These applications are invited typically in
 January and August of each year. The applications received in January
 are processed during February-May time period and the applications
@@ -2176,6 +2175,62 @@ professor); ties are to be broken by date of birth as per existing
 practise. Vacancies in HAG scale are to be filled as per this
 seniority list.
 
+#### Score calculation method
+
+Points are computed for the applicant based on the following criteria.
+
+- **Teaching (A1)**: A teaching score that is at least 0.5 times less 1 time the six year annual department average teaching score counts for of 1 point. A teaching score that is more than the six year annual department and less than twice the department average counts for 3 points. Finally, a teaching evaluation score in excess of twice the department average counts for 5 points. In addition, the following recommendations are considered:
+  1. Courses taught by the faculty member in the evaluation period (i.e. after promotion to professor) are to be counted.
+  2. “1” course is defined as a full semester lecture course. Include summer courses delivered in full lecture/lab.
+  3. For a course with sections, each section of a course can be considered as a separate course.
+  4. Lab course = 0.3, 0.5 or 1.0 of a regular lecture course, based on credits, department norms and actual effort per faculty.
+  5. Department average is to be computed based on course load in the previous 6 years.
+  6. Departments may consider lab development as equal to 0.5 or 1 course depending on the effort involved.
+  7. A shared lecture courses by two instructors may be given 0.5 credit of a full Course.
+  8. A half-semester course is to be given 0.5 credit of a full course.
+  9. Departments which run/maintain facilities used extensively by other entities may optionally consider operation of such facilities as equivalent to 0.5 course.
+  10. No credit to be given for course that consists entirely of coordination and uses external resources/lecturers.
+  11. If score is 3 by above rules, and further the teaching score computed for excellence in teaching award for the previous 5 years (under the new scheme) is at or above the 80th percentile of department faculty scores, increment score to 5.
+  12. If score is 3 by above rule-set, plus a textbook published during period of evaluation, increment score to 5
+- **Academic Research (A2)**: 1 point is awarded if M.Tech. / M.Sc. theses are guided. 3 points are awarded if the  Ph.D and M.Tech./M.Sc. theses have been guided _and_ the number of publications is 1.5 to 3 times current department publication norms for promotion from Associate to full Professor. Finally, if in addition to the previous point, the number of publications is more than 3 times current department publication norms for promotion from Associate to full Professor, 5 points are awarded. In addition, the following recommendations are considered:
+
+  1. B.Tech/M.Sc. project guidance of a research kind may be optionally included (Departmental option)
+  2. Publication norms approved by IFAC for promotion are to be followed when counting number of publications (e.g. quality requirements on venue, extra weightage for very high quality venues, averages by specialization within the department, etc.)
+  3. 2 extra points (subject to maximum total of 5) may be awarded for national/international recognition of research, such as national level awards (Swarna Jayanti award, S. S. Bhatnagar award, Infosys award), fellowship of recognized national/international academies (NASI, INSA, INAE, IAS, AAS). Awards/fellowships/other recognitions other than those listed may be considered subject to approval of IFAC. Date of
+conferment of recognition need not be in assessment period.
+  4. 2 extra points (subject to maximum total of 5) may be awarded for any other exceptional achievements, subject to approval of IFAC.
+- **Sponsored Research (B1)**: Applicants with no projects get a score of 0. The total count of projects of candidate initiated during the assessment period (see notes below for fractional counts) are to
+be compared with 6 $\times$ the department average of projects initiated over last 6 years is first computed. Candidates with count < 6 $\times$ the department average will receive 1 point. Those with
+scores in (1 to 2) times (6 $\times$ Department Average) will get 3 points. Those with score > 2 times (6 $\times$ Department Average) will receive 5 points. The additional recommendations are:
+  1. Information about projects and funding are to be taken from IRCC online records
+  2. For multi-investigative projects, fractional share of a professor should be as per share declared in IRCC.
+  3. For large departmental projects such as FIST, IRHPA etc., the departmental committee to consider contributions while apportioning credit.
+  4. A transferred technology = 1 sponsored project
+  5. Number/scope of projects and/or funding initiated in the assessment period may be taken into account when comparing with department average
+  6. Count of projects and funding as per IRCC
+  7. 2 extra points (subject to maximum total of 5) may be awarded for exceptional achievements in sponsored research projects, subject to approval of IFAC.
+- **Extension Activities (B2)**: Significant participation in any one activity would yield in 1 point. Participation in any three activities yields 3 points, while any five yields 5 points. Activities include those listed below. Participation level in each activity may be judged as indicated with each activity.
+  1. Consultancy assignments handled (total value of consulting assignments handled may be taken into account).
+  2. Number of national technical programmes coordinated (e.g. SERC schools).
+  3. Number of workshops and conferences conducted.
+  4. Number of membership of boards, national committees, editorships.
+  5. Number of Continuing Education Programmes (Courses) conducted.
+  6. Outreach activities
+  7. 2 extra points may be given for exceptional performance in any one or more activities, subject to approval of IFAC.
+  8. Committee to consider deciding “significant/ Extensive” based on department average over last 6 years).
+- **Administration (B3)**: Points are to be awarded for each year of administrative service on Senate approved positions, as per list below. Maximum score is 5, and fractional parts of total score are to be discarded after addition.
+  1. Warden, Associate Warden, Associate Dean, Heads of Centres, Professor in Charge, Convenor of IDPs, UGAPEC, PGAPEC: 0.5 point per year
+  2. Dean, Head of academic units: 1 point per year 3.
+  3. Director, Deputy Director: 1.5 points for each year.
+  4. GATE/JEE Chair: 1.5 points per term
+  5. GATE/JEE Vice Chair: 1 point per term
+  6. Points for any other positions may be put up to IFAC for approval.
+
+Candidates who meet the following criteria after IFAC approval are to be recommended for HAG scale:
+  1. Total score is calculated based on A1 score + A2 score + best TWO of (B1,B2,B3) scores
+  2. A score of at least 1 in each of A1 and A2 is mandatory
+  3. Total score must be at least 10
+
 ### Annual performance appraisal
 
 The annual performance appraisal process is in the form of a
@@ -2223,11 +2278,11 @@ Teaching is considered to be an important component of faculty activities. That 
       which helps to prepare video lectures. Details are available on
       their [website](http://www.cdeep.iitb.ac.in/). Please look in
       the Related Projects section, for information on
-      pedagogy-related projects, usually MHRD-supported, like TEQIP,
+      pedagogy-related projects, usually MOE-supported, like TEQIP,
       GIAN, and NMEICT.
 
    b. [NPTEL](http://www.cdeep.iitb.ac.in/NPTEL2) - a nationwide
-      program supported by MHRD for high-quality content development
+      program supported by MOE for high-quality content development
       in science/technology and dissemination through Massive Open
       Online Courses (MOOCs), with facility for testing and
       certification.
@@ -2673,7 +2728,7 @@ join/joined the Institute’s service on or after that date are/shall be
 governed by New PRMS which is/will be a part of the service condition
 on joining the Institute.
 
-Therefore, all those who were on roll of the Institute on 11th march,
+Therefore, all those who were on roll of the Institute on 11th March
 2015, as permanent employees were entitled to join the scheme on
 exercising an option in this regard within three months of adoption of
 the scheme by the Board of governors, whereas for those who join the
