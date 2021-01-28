@@ -2685,7 +2685,7 @@ The hospital has an ambulance which works 24 × 7 for transportation of patients
 
 
 ### OPD facilities for visiting parents
-Though they may not be officially your dependents, the Institute offers OPD facilities to visiting parents of the employee and of employee's spouse. This facility is offered for a period of six months on payment of ₹ 1,000/- and for a year on payment of ₹ 2,000/-. They will be treated on 'non-entitled' basis; however, medicines etc. will have to be purchased from outside without any reimbursement.
+Though they may not be officially your dependents, the Institute offers OPD facilities to visiting parents of the employee and of employee's spouse. This facility is offered for a period of six months on payment of ₹ 1,500/- and for a year on payment of ₹ 3,000/-. They will be treated on 'non-entitled' basis; however, medicines etc. will have to be purchased from outside without any reimbursement.
 
 ### Medical advance, reimbursement, etc.
 
