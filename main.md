@@ -1570,7 +1570,7 @@ harassment are given here. More details about the Gender Cell may be found
 [here](http://www.gendercell.iitb.ac.in/); links to the IITB policy
 document, the Sexual Harassment at the Workplace Act, and a government
 handbook on sexual harassment, are given
-[here](http://www.gendercell.iitb.ac.in/en/internal/internal-complaints-committee).
+[here](https://www.gendercell.iitb.ac.in/icc.html).
 
 
 ### Plagiarism
