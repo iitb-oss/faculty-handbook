@@ -1524,44 +1524,49 @@ As a faculty member of a premier Institute of the country, you are always under 
 
 ### Sexual Harassment and Gender Cell
 
-(This section is primarily meant for male faculty. Indian law only
-recognizes the possibility of male perpetrators and female victims of
-sexual harassment. IIT Bombay policy is broader in that it also
-recognizes the possibility of male victims belonging to sexual
-minorities.)
-
-As a teacher you would interact with a lot of female
-students. Likewise, you would interact with female colleagues and
-other staff. In many cases, you would have a supervisory role in the
+As a teacher you would interact with a lot of students, who would be
+male, female or those of gender and sexual minorities. Likewise, you would
+interact with colleagues and other staff belonging to different
+sexes. In many cases, you would have a supervisory role in the
 interaction. Your behaviour in all such interactions must be
 impeccable. Please remember that they have a right to a place of work
 or study where they do not face sexual harassment in any form - and
-you have a responsibility to provide it.  The Supreme Court of India
-defines sexual harassment as unwelcome sexual behaviour, whether
-directly or by implication, such as through:
+you have a responsibility to provide it. You are also responsible for
+the conduct of the staff and students who are working in your
+supervision and ensuring that they do not indulge in any acts of
+sexual harassment. The Sexual Harassment of Women at Workplace
+(Prevention, Prohibition and Redressal) Act, 2013 defines sexual
+harassment as unwelcome sexual behaviour, whether directly or by
+implication, such as through:
 
- - physical contact and advances
- - demand or request for sexual favours
- - sexually colored remarks (this includes colored jokes in a mixed
-   company, or a class room, or even within hearing distance of a
-   female member of the community)
- - showing pornography
- - any other unwelcome physical, verbal or non-verbal conduct of sexual nature.
+- physical contact and advances
+- demand or request for sexual favours
+- sexually colored remarks (this includes colored jokes in a mixed
+company, or a class room, or even within hearing distance of the complainant)
+- showing pornography
+- any other unwelcome physical, verbal or non-verbal conduct of sexual nature.
 
-Except where an act amounts to a specified offence under the Indian
-Penal Code (which then has to be dealt with by the Police under
-applicable law), a victim of sexual harassment (or one who perceives
-sexual harassment to oneself) may lodge a complaint to the Director,
-Deputy Director or to the Dean (FA). Students can take their complaint
-to the Dean (SA).
+A victim of sexual harassment (or one who perceives sexual harassment
+to oneself) may lodge a complaint to the Gender Cell Internal
+Complaints Committee
+(GC-ICC), the Director, Deputy Director or to the Dean
+(FA), in addition to seeking redress under the Indian Penal
+Code. Students can also take their complaint to the Dean (SA).
 
-Any employee or student can approach the Gender Cell (earlier called
-the Women’s Cell) constituted by the Institute, either for advice or
-for redress. The Gender Cell investigates sexual harassment complaints
-through its Internal Complaints Committee. An inquiry by the Gender
-Cell has the status of an official inquiry under the Civil Service
-Rules, and employees have to co-operate with the Cell in its
-investigations. More details about the Gender Cell may be found
+Any woman can approach the Gender Cell for complaints against a member
+of the Institute (employee or student) regarding workplace related harassment. In addition, the Gender Cell
+can also be approached by a male student or a student belonging to
+sexual minorities for complaints against a male student or employee,
+when the sexual harassment is alleged to have taken place within the
+campus or the workplace. The Gender Cell inquires into sexual
+harassment complaints through its ICC. An inquiry by the ICC has the
+status of an official inquiry under the Civil Service Rules, and
+employees have to cooperate with the Cell in its investigations. In
+addition, sexual harassment is an offence under rule 3C of the Central
+Civil Services (Conduct) Rules. More details about the Gender Cell may
+be found here; links to the IITB policy document, the Sexual
+Harassment at the Workplace Act, and a government handbook on sexual
+harassment are given here. More details about the Gender Cell may be found
 [here](http://www.gendercell.iitb.ac.in/); links to the IITB policy
 document, the Sexual Harassment at the Workplace Act, and a government
 handbook on sexual harassment, are given
