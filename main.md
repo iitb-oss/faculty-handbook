@@ -541,7 +541,7 @@ Immediately on joining:
    admission into the Kendriya Vidyalaya, our Director, who is
    the *ex-officio* Chairman of the Vidyalaya Management Committee can
    help out by exercising his/her discretionary quota. There is also a
-   Professor-in-Charge (TODO) whom you may contact for helpful advice in case
+   Professor-in-Charge whom you may contact for helpful advice in case
    of difficulty. The Campus School also has a kindergarten school for
    children above the age of three. For younger kids there is a
    private creche (Shishu Vihar, located at the time of writing in
@@ -1132,7 +1132,7 @@ Availability of 1 lakh contingency fund is divided as follows:
 
   - If ₹ 2 lakhs from the CPDA conference funds are not used to attend
     a conference, up to ₹ 50,000 may be availed for expenses towards
-    books. (TODO: Not clear)
+    books.
   - CPDA will not be available to the Faculty members who will proceed
     on lien and EOL (During the period of lien or EOL).
 
@@ -1157,11 +1157,11 @@ If the full hospitality has been provided (boarding and lodging) by
 the organizers only per diem of 25% of the rates mentioned in the
 table above, i.e. $28.75.
 
-WRONG: In no case can conference expenditure be more than ₹ 2 lakh, with a
-corresponding reduction of 1 lakh allocated for contingency
-expenditure.
+<!-- WRONG: In no case can conference expenditure be more than ₹ 2 lakh, with a -->
+<!-- corresponding reduction of 1 lakh allocated for contingency -->
+<!-- expenditure. -->
 
-TODO: Link to CPDA form
+<!-- TODO: Link to CPDA form -->
 
 ## IRCC International Travel Patent and Publication (IR-ITPP) grant
 IRCC provides support for international travel, international patenting charges and publication through its ITPP scheme, which is over and above the CPDA. Details may be found [here](https://drona.ircc.iitb.ac.in/home/faculty/iritpp).
@@ -1206,7 +1206,7 @@ period, the grant eligibility will be:
    - For service period of 1 year and less: ₹ 1 lakh
    - The details of the use of the grant for the three activities are given below.
 
-TODO: CPDA ALSO ABOVE APPLY
+<!-- TODO: CPDA ALSO ABOVE APPLY -->
 
 ### International travel related support (IR-IT)
 
@@ -1312,7 +1312,7 @@ As per the 7th Pay Commission rules, the daily allowance entitlements are given 
                 Reimbursement of food bills not exceeding ₹900 per day
 
 
-TODO INTERNATIONAL TRAVEL?
+<!-- TODO INTERNATIONAL TRAVEL? -->
 
 ## Obtaining authorizations and certificates
 You might find yourself needing various kind of certificates to be
@@ -2751,8 +2751,6 @@ claim in the first 5 years after retirement from the Institute.
 The amount of contribution, Sum Assured, how the Sum Assured grows
 with time, empanelled hospitals, and so on, are detailed in [this
 webpage](https://www.iitb.ac.in/en/about-iitbombay/new-post-retirement-medical-scheme-2015-onwards).
-
-TODO: Add GTIS details here
 
 ## Schooling at IIT Bombay
 
