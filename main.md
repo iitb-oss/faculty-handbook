@@ -1424,6 +1424,12 @@ and its terms. These are outlined below.
 
 3. Wherever disputes arise during  implementation of a contract, legal advice should be sought before initiating action to refer the dispute to conciliation and/or arbitration as provided in the contract or to file a suit where the contract does not include an arbitration clause. The draft of the plaint for arbitration should be got vetted by obtaining legal and financial advice. Documents to be filed in the matter of resolution of dispute, if any, should be carefully scrutinized before filing to safeguard government interest.
 
+Recently, the purchase process for equipment and consumables through
+sponsored projects has been streamlined to use the [Government
+e-Marketplace](https://gem.gov.in/) (often referred to as GeM). GeM is
+a portal where sellers can post products and price discovery occurs
+automatically. More details on purchasing processes can be found in
+the GeM SOP here (TODO).
 
 ## Leave and Vacation
 
@@ -1521,6 +1527,7 @@ As a faculty member of a premier Institute of the country, you are always under 
 3. Criticism of the Institute in any mass media (print or electronic) is not permitted. (To give vent to your frustration if any, the Computer Centre of the institute has provided a discussion group called the 'discuss-faculty' where you can write and engage your colleagues in a debate on matters about which you feel strongly. This newsgroup is not moderated but it is good to use restrained language).
 3. _Redressal of Grievances:_: If you have a grievance, try to sort it out by meeting the concerned Dean, the Deputy Director or the Director. If you would like to make a written representation, the first course is the Director. If his response leaves you dissatisfied, you may make representation to the Chairman of the Board. Such representation should be through the Director. In extreme cases, you may take your grievance to the Visitor (who is the President of India). However, in all cases, you should go through what is known as proper channel, i.e., route all your representation through HOD, Director and the Chairman, in that order. The forwarding authority does not have the right to stop your representation being forwarded upwards excepting in circumstances such as (i) a similar petition made earlier has been disposed of and no new facts are brought out in the new petition, (ii) your representation is not to the appropriate authority, or (iii) the petition is against a decision which is final by any law or statute. In such cases, the appropriate authority will write you a reply explaining the reasons why your petition may not be forwarded.
 4. You may, of course, seek to redress grievances in a court of law without any permission. However, it is in good taste to first exhaust all possibilities of finding a solution to  your problems within the internal framework as stated above.
+5. _Social media usage poicy_: TODO
 
 ### Sexual Harassment and Gender Cell
 
@@ -1579,6 +1586,12 @@ Being an Institute of excellence, the Institute takes a very serious view of any
 ### Consultancy ethics
 Private consultancy is a serious breach of the code of conduct. Similarly, you should not take up remunerative assignments outside the Institute without explicit permission from the Institute. You should also not accept assignments in a Tutorial organization either as a consultant or for direct teaching.
 
+In case you wish to participate in an external engagement of any kind
+(say with another university, industry or any other individual or
+organsation), it is mandatory to take permission or obtain a
+no-objection from the Dean (FA) to do so. Most reasonable requests are
+generally accepted, but breach of procedure is taken seriously by the
+Institute.
 ## Right to Information
 In 2005, the Indian Parliament enacted a legislation known as the Right to Information (RTI) Act, which empowers a citizen to get any information from the Government or from any publicly funded institution. Exceptions are few and an educational institute does not qualify for exemption. This requires faculty members to be extra careful. For instance, any one can ask for the marking scheme adopted while awarding grades or, for that matter, a copy of the mark sheets of all students in a course. A query from the Institute’s Public Information Officer[^pio] must be answered within a stipulated time limit. Details of RTI is available on IITB's website.
 
@@ -1816,6 +1829,8 @@ supervision entails certain basic criteria.
  c. The DPGC/ IDPC/ PGC may consider continuation of the original Supervisor on his/her return to the Institute, as Co-­Supervisor of his/her students depending on the period for which he/she has supervised the Ph.D. Programmes of the students concerned.
  d. Any such arrangements made shall be forwarded to PGAPEC for prior approval.
 7. Change of supervisor is generally not advised and should be sought as a last resort. Under exceptional circumstances, if a student chooses to terminate the relationship, then it will only be permitted on recommendation of the DPGC/IDPC/PGCA. Every effort should be made to allow a fair transition for both the faculty and the concerned student.
+8. Student supervision can also be done jointly with faculty or staff of other universities or educational institutes. In some cases, such as the IITB-Monash Research Academy, the Institute facilitates joint advising of students across Institutes. In other cases, permission may be sought from the Dean (AP) having co-guides from outside IITB.
+
 
 ## Research Funding
 
@@ -2259,7 +2274,10 @@ Teaching is considered to be an important component of faculty activities. That 
  1. When you are assigned a course to teach, you can look at the
     Academic section of the ASC website
     (https://asc.iitb.ac.in/acadmenu/index.jsp) for course details
-    such as syllabus and textbooks, as well as timing and venue.
+    such as syllabus and textbooks, as well as timing and venue. In
+    general, it is mandatory to adhere to the specified syllabus,
+    especially for core courses. However, instructors can enhance
+    their course offerings with additional topics and learning content.
  2. You may talk to the Head and ask for the previous instructors
     (this information is also available on ASC). That is assuming this
     is an existing course, not a new one you are starting; the
@@ -2629,7 +2647,20 @@ sent to the Director through the Dean (FA). You may accept a sitting
 fee given to members of the Board for attending meetings.
 
 ## Starting a company based on your research/ technological breakthroughs
-The Institute encourages you to capitalize on your research findings which have an application potential, through starting your own company or enterprise on campus. This requires that permission be obtained by applying to the Director, through the Dean (FA)[^imcwork].  The application process involves, among other things, application of due diligence to ensure there is no conflict of interest involved. A company called the _Society for Innovation and Entrepreneurship (SINE)_[^sine]  has been created for the sole purpose of facilitating the transition from laboratory to marketplace by providing incubation facilities, and is the sole vehicle for translation of research/technological breakthroughs by the Institute's faculty members to commercial enterprises.
+The Institute encourages you to capitalize on your research findings
+which have an application potential, through starting your own company
+or enterprise on campus. This requires that permission be obtained by
+applying to the Director, through the Dean (FA)[^imcwork].  The
+application process involves, among other things, application of due
+diligence to ensure there is no conflict of interest involved. A
+company called the _Society for Innovation and Entrepreneurship
+(SINE)_[^sine]  has been created for the sole purpose of facilitating
+the transition from laboratory to marketplace by providing incubation
+facilities, and is the sole vehicle for translation of
+research/technological breakthroughs by the Institute's faculty
+members to commercial enterprises. The [National Innovation and
+Startup Policy](https://nisp.mic.gov.in/) also offers incentives to
+promote student driven startups and innovations.
 
 [^imcwork]: See link at http://internal.iitb.ac.in/imcwork/faculty/ , also linked from the main IITB webpage, for details.
 
