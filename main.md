@@ -2328,6 +2328,20 @@ Teaching is considered to be an important component of faculty activities. That 
     collaborate with you. Details about this Inter-Disciplinary
     Programme is available [here](http://www.et.iitb.ac.in/).
 
+## Awards for Teaching and Research
+
+While good teaching and research is likely reward enough, the both you and the Institute would benefit from greater visibility and recognition of your achievements. Within IITB, the Excellence in Teaching Award recognizes good teaching, as discussed below. For research accomplishments, the Institute has the following awards:
+
+- Prof. S. C. Bhattacharya Excellence Award in Pure Sciences
+- Prof. H. H. Mathur Excellence Award in Applied Sciences
+- Dr. P. K. Patwardhan Technology Development Award
+- IIT Bombay Research Paper Award / Research Publication Award (From 2015 onwards)
+- Lifetime Achievement Award
+
+The procedure to apply for these awards is available on the [IRCC Awards webpage](https://rnd.iitb.ac.in/awards).
+
+There are also several external awards and fellowships that you can apply for. One such list is available [here](https://www.iitk.ac.in/dofa/awards-honors). TODO: keep IITK link?
+
 ## Guidelines for Excellence in Teaching Awards
 
 There are two categories of excellence in teaching awards. A)
