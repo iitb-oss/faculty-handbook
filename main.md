@@ -74,8 +74,7 @@ Institute of Technology of Banaras Hindu University at Varanasi (Uttar
 Pradesh) was conferred the status of an IIT. Then, in 2015-2016, a few
 more IITs were set up in Tirupati, Goa, Palakkad, Bhilai, Dharwad and
 Jammu; at the same time, the Indian School of Mines, Dhanbad
-(Jharkhand) was converted to IIT Dhanbad, making a total of 23 at the
-time of writing.
+(Jharkhand) was converted to IIT Dhanbad, making a total of 23 as of 2021.
 
 ## Who's who
 
@@ -138,10 +137,10 @@ approves courses of study, frames rules of academic programmes,
 conducts evaluations and finally recommends the award of degrees to
 the Board of Governors.  For example, any new academic programme or
 change to an existing one have to be first proposed by the
-department/other academic unit to the programme committees (PC) of the
+department/other academic unit to the programme committees (UGPC/PGPC) of the
 Senate where it is discussed and approved, possibly with revisions,
 for final presentation to the Senate for approval. Likewise,
-evaluation committees (APEC) of the Senate formally scrutinize
+evaluation committees (UGAPEC/PGAPEC) of the Senate formally scrutinize
 academic performance evaluated by the individual instructors or boards
 of examiners, before it is presented to the Senate for approval.
 
@@ -211,7 +210,7 @@ Deans. They are as follows:
       PGPC) of the Institute which processes all academic proposals
       received from academic units such as Departments, Schools and
       Centres. The Dean (AP) is assisted in his/her work by an
-      Associate Dean. Later sections of this handbook will provide
+      Associate Dean (AP). Later sections of this handbook will provide
       more detail on a few topics related to Academic Programmes.
 
    5. The _Dean (Infrastructure, Planning and Support, IPS)_ looks
@@ -227,12 +226,18 @@ Deans. They are as follows:
       responsible for power supply and electrical maintenance
       (including air conditioners), the Design Cell, which is
       responsible for interior design and renovation, and the Public
-      Health Office. Two Associate Deans assist the Dean in
-      discharging thse responsibilities. Associate Dean - II (IPS)
-      also serves as the Chairman, Accommodation Allotment Committee
-      (AAC); i.e. (s)he is directly responsible for Housing related
-      matters. A later section of this handbook will provide more
-      detail on this.
+      Health Office. Associate Dean-I (IPS) and Associate Dean-II
+      (IPS) assist the Dean in discharging thse
+      responsibilities. Associate Dean - I (IPS) focuses on civial
+      infrastructure maintenance, while Associate Dean -II (IPS)
+      focuses on power supply and electrical maintenance including
+      air-conditioners. Associate Dean - II (IPS). Associate Dean - II
+      (IPS) also serves as the Chairman, Accommodation Allotment
+      Committee (AAC); i.e. (s)he is directly responsible for Housing
+      related matters. A later section of this handbook will provide
+      more detail on this. The post of Associate Dean - III (IPS) has
+      also been proposed and is awaiting approval as of mid-2021.
+
 
    6. The _Dean (International Relations, IR)_ promotes and
       administers international linkages (see [International Relations
@@ -242,7 +247,7 @@ Deans. They are as follows:
       foreign students in the Institute are required to report to the
       IR office for all their interactions with the Institute. The IR
       office also co-ordinates visits to the Institute by foreign
-      nationals, whether for conference of other types of academic
+      nationals, whether for conferences or other types of academic
       exchanges, including Visiting faculty. This office also runs
       foreign language courses for the campus community.
 
@@ -260,8 +265,7 @@ Deans. They are as follows:
       issues relating to administration, such as the management of
       staff manpower, continuous planning and reworking of
       administrative workflows and automation of administrative
-      procedures. This is the newest deanship that has been created in
-      the Institute.
+      procedures.
 
 Besides the Deans, there are Professors-in-Charge for various
 functional units. These include:
@@ -273,13 +277,15 @@ functional units. These include:
  - [Parimal and Pramod Chaudhari Centre for Learning &
    Teaching](http://www.ppcclt.iitb.ac.in) for faculty development and
  - [Application Software Centre](https://asc.iitb.ac.in) (ASC)
- - [Centre for Research in Nanotechnology and Science](http://www.saif.iitb.ac.in/crnts/) (CRNTS)
  - [Centre for Aerospace Systems Design and Engineering](http://www.casde.iitb.ac.in/) (CASDE)
  - [Centre for Distance Engineering Education Programme](https://www.cdeep.iitb.ac.in/) (CDEEP)
+ - Centre for Machine Intelligence and Data Science (C-MInDS)
  - [Centre for Policy Studies](https://www.cps.iitb.ac.in/) (CPS)
+ - [Centre for Research in Nanotechnology and Science](http://www.saif.iitb.ac.in/crnts/) (CRNTS)
  - [Centre of Studies in Resources Engineering](https://www.csre.iitb.ac.in/) (CSRE)
  - [Centre for Technology Alternatives for Rural Areas](https://www.ctara.iitb.ac.in/) (CTARA)
  - [Centre for Formal Design and Verification of Software](http://www.cfdvs.iitb.ac.in/) (CFDVS)
+ - Koita Centre for Digital Health (KCDH)
  - [Centre for Urban Science and Engineering](http://cuse.iitb.ac.in/) (C-USE)
  - [Desai Sethi Centre for Entrepreneurship](http://www.iitb.ac.in/dsce/) (DSCE)
  - [IITB-Monash Research Academy](http://www.iitbmonash.org/)
@@ -304,8 +310,10 @@ in which IITB has its teaching and research activities are those of
 Engineering, Science, Humanities & Social Sciences, Management, Design, Educational Technology,
 Entrepreneurship, and Policy ([more
 details](http://www.iitb.ac.in/en/education/academic-divisions)). Academic
-programmes in these areas are hosted in 16 Departments, 1 School, 19
+programmes in these areas are hosted in 16 Departments, 1 School, several
 Centres and 4 Interdisciplinary programmes.
+
+Broadly speaking:
 
  - A **'Department'** is a unit that offers the whole range of academic
    programmes ranging from undergraduate to doctoral degrees.
@@ -319,6 +327,66 @@ Centres and 4 Interdisciplinary programmes.
    funding from external sources.
  - In addition, there are **service centres** such as the **Computer
    Centre**, which do not host any academic or research programmes.
+
+Below is a list of departments, centres,schools and other functional units.
+
+**Academic Units**
+
+1. Aerospace Engineering
+2. Biosciences and Bioengineering
+3. Chemical Engineering
+4. Chemistry
+5. Civil Engineering
+6. Computer Science & Engineering
+7. Earth Sciences
+8. Electrical Engineering
+9. Energy Science and Engineering
+10. Environmental Science and Engineering
+11. Humanities & Social Sciences
+12. IDC School of Design
+13. Mathematics
+14. Mechanical Engineering
+15. Metallurgical Engineering & Materials Science
+16. Physics
+
+**Schools**
+
+1. Shailesh J. Mehta School of Management
+2. Desai Sethi School for Entrepreneurship
+
+**Centres**
+
+1. Centre for Research in Nanotechnology and Science (CRNTS)
+1.      Centre for Policy Studies (CPS)
+1.      Centre of Studies in Resources Engineering (CSRE)
+1.      Centre for Technology Alternatives for Rural Areas (CTARA)
+1.   Centre for Urban Science and Engineering (C-USE)
+1.   Desai Sethi Centre for Entrepreneurship (DSCE)
+1. Centre for Liberal Arts, Science and Engineering (C-LASE)
+
+**Interdisciplinary Programs**
+
+1. Climate Studies
+2. Educational Technology
+3. Industrial Engineering and Operations Research (IEOR)
+4. Systems and Control Engineering
+
+
+**Functional Units**
+
+1. Application Software Centre (ASC)
+2. Centre for Aerospace Systems Design and Engineering (CASDE)
+3. Computer Centre (CC)
+4. Centre for Distance Engineering Education Programme (CDEEP)
+5. Centre for Formal Design and Verification of Software (CFDVS)
+6. IITB-Monash Research Academy
+7. National Centre for Aerospace Innovation and Research (NCAIR)
+8. National Center of Excellence in Technology for Internal Security (NCETIS)
+9. National Centre for Mathematics (NCM)
+10. Parimal and Pramod Chaudhari Center for Learning and Teaching (PPCCLT)
+11. Sophisticated Analytical Instrument Facility (SAIF)
+12. Tata Center for Technology and Design (TCTD)
+13. Wadhwani Research Centre for Bioengineering (WRCB)
 
 The academic units mentioned above are headed, usually by a faculty
 member of the unit itself, and usually of the rank of Professor. The
@@ -351,11 +419,6 @@ committees.
 The deliberations of these committees, in the form of minutes, **is
 communicated to concerned functionaries in the central administration**,
 who are updated of the issues of the departmental faculty.
-
-The structure and function of these and other committees were set out
-in the Report of the Committee for Review of the Academic Bodies
-(which is known as the **CRAB committee** report) in 1972 (detailed
-guidelines in respect of DPC were formulated in 2011).
 
 # When You Join
 Welcome to I.I.T. Bombay's faculty fraternity! The Institute promises
@@ -442,14 +505,18 @@ Immediately on joining:
    get a Staff Hostel flat/quarter - 1 BHK (1 Bedroom, 1 Hall, 1
    Kitchen) allotted to you. There may be a trade-off here between the
    better quality of life if you stay on-campus, and the better
-   quality accommodation that you are likely to get outside. After two
+   quality accommodation that you are likely to get outside.
+
+   After two
    to three years, you may expect to get a better quality flat on
    campus allotted to you as ‘regular accommodation’. (If you happen
-   to have joined the Institute directly as a Professor, you may
+   to have joined the Institute directly as a Professor, you may be
    eligible to get a C-type quarter - 2 or 3 BHK - as your ad-hoc
    allotment). Regular accommodation is done by a seniority rule (for
    details, please see [Seniority and Allotment
-   Criteria](http://www.iitb.ac.in/deanpl/estOff1.html)). The
+   Criteria](http://www.iitb.ac.in/deanpl/estOff1.html)).
+
+   The
    on-campus quarters do not come furnished and you will have to
    furnish it yourself. A home telephone connected to the internal
    exchange will be provided which does not have outside call
@@ -459,7 +526,9 @@ Immediately on joining:
    Exchange (Main Building) generally would be able to share
    information of some special mobile plans for IIT Faculty and
    Staff. Your quarter would also have internet facilities connected
-   to the Institute network. Please retain your accommodation
+   to the Institute network.
+
+   Please retain your accommodation
    allotment letter in a safe place, as it will serve as proof of
    address for various purposes; in particular, it will come in handy
    for various purposes like applying for a LPG cooking cylinder
@@ -530,7 +599,7 @@ Immediately on joining:
    transactions within the Institute. It will be useful to memorize
    this even though you may usually have your identity card  handy.
 
-9. With joining formalities completed, you have to pay attention to
+9. With joining formalities completed, you may have to pay attention to
    other issues, like getting a child admitted to a school. The campus
    has two schools, one Kendriya Vidyalaya (Central School),
    affiliated to the Central Board of Secondary Education (CBSE) and
@@ -549,7 +618,7 @@ Immediately on joining:
    Gate), and run by an NGO. Detailed information on all of the above
    is provided in later chapters.
 
-10. You will have to apply for a Permanent Account Number (PAN) which
+10. You will need to apply for a Permanent Account Number (PAN) which
     is to be used in all your income tax returns; it is also needed by
     the banks for large volume transactions. There are many agents
     (e.g. UTI at Ghatkopar or in Galleria, Hiranandani Gardens) who
@@ -570,7 +639,7 @@ Immediately on joining:
     Exchange in the Main Building, can help you to get a mobile
     connection (prepaid or postpaid).
 
-12. It may prove very useful to also get an Aadhar card
+12. It is advisable to also get an Aadhar card
     (https://uidai.gov.in/). The Administration Section will be able
     to provide you with details of the nearest data collection center
     at which an application can be lodged. It is a good idea to take
@@ -1638,7 +1707,9 @@ It is possible, as one grows into one’s career and gets into the positions of 
 The different responsibilities are listed below:
 
 1. **Regular faculty**:
-   - *Appointment details*: Full time permanent appointment including professors (these are made through a selection committee or through invitation by BOG).
+   - *Appointment details*: Full time permanent appointments at any
+     level (Assistant, Associate and full Professors) . These are made
+     through a selection committee or through invitation by BOG.
    - *R&D activities*:
       - They are eligible for a one time seed grant from the Institute. They can also take up all types of R&D Projects, including consultancy projects.
       - They can promote companies in SINE.
