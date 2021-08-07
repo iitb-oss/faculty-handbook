@@ -560,6 +560,12 @@ Immediately on joining:
    (GTIS), and the premium for this will be deducted from the monthly
    salary.
 
+   Please find a circular in respect of Group Term Insurance Policy implemented from 01-05-2021 at following link: http://bighome.iitb.ac.in/index.php/s/6MnXxoXEACxsn5y
+
+   Nomination Form is available at : https://bighome.iitb.ac.in/index.php/s/qjR3b5DrekmW8Xw
+
+   List of staff covered under the GTIP is available at: http://bighome.iitb.ac.in/index.php/s/HLZ3tFongDGiNDG
+
    b. Attestation Form is to be filled up so that the Institute can
    verify that you have not been involved in any criminal activities
    in the past. You will have to provide all addresses where you have
@@ -687,73 +693,6 @@ you to fill another form (on your accomplishments during the probation
 year) and submit the same to Dean (FA) through the Head of your
 Department for confirmation of your appointment.
 
-## Life in Powai and beyond
-
-(This section has external links for your information. IITB cannot take any responsibility for these.)
-
-The city of Mumbai offers a wealth of cultural and entertainment
-resources to its residents, befitting a global metropolis. This
-includes famous places of worship, ancient historical caves, several
-art and science museums, many theatres for plays and musical
-performances, restaurants/cafes featuring cuisines from around the
-world, amusement parks for children and adults, and one of the few
-national parks inside a big city anywhere in the world (from where we
-get periodic Campus visits by leopards!). Some of the attractions are
-listed
-[here](https://www.makemytrip.com/travel-guide/mumbai/places-to-visit.html
-).
-
-One caveat is that traffic outside of campus may be a nightmare,
-especially during office commuting hours (and even more so during the
-very long monsoon season), so one may be well-advised to venture out
-on weekends. In many situations, the well-developed train network may
-get you to your destination on time with more certainty. A lot of hope
-rests on the upcoming metro network. Its construction, however, has
-added to traffic woes right now, but upon completion, it will benefit
-commuters from IITB and the nearby areas. [Here is the dream
-anyway](https://en.wikipedia.org/wiki/Mumbai_Metro).
-
-Powai and neighbouring areas beyond the Campus, particularly
-Hiranandani Gardens, have evolved into a bustling and 'happening' part
-of Mumbai with regard to restaurants, cafes, pubs etc. (It is also
-generally well-provisioned, in terms of everything from doctors and
-chemists to yoga and arts classes - however, one does not need to
-leave Campus for most of these!)
-
-You can get information about all of these at [https://powai.info/](https://powai.info/).
-
-Powai has its own ‘newspaper’ (!), which you can access at the [Voice
-of Powai website](http://voiceofpowai.blogspot.com/).
-
-Here are a few other links/apps that may be useful:
-   1. For online booking of movies, plays etc. - [https://in.bookmyshow.com/mumbai](https://in.bookmyshow.com/mumbai)
-
-   2. For restaurant information - [Zomato
-      Mumbai](https://www.zomato.com/mumbai) (for online food
-      ordering, there are several mobile apps like Swiggy, Zomato,
-      Uber Eats, Food Panda, and so on)
-
-   3. For grocery shopping - Big Basket or similar apps (You can
-      arrange with most local vendors, even small shops, to take
-      orders over phone and deliver to your home if that is your
-      preference - this includes chemist, grocer, greengrocer,
-      etc. Alternatively, if you yearn for the feel of the bazaar,
-      then there is the IIT Market - paradoxically, outside IIT - and
-      other markets in neighbouring areas. Of course, there is also a
-      small shopping enclave in Campus near the ‘Market Gate’ or
-      'Y-point Gate'. D-Mart and Haiko supermarkets are also available
-      within 2 kilometres.
-
-   4. For home services - Urbanclap or similar apps (offering services
-      ranging from carpentry to personal grooming, and - relevant if
-      you are living off-campus - plumber and electrician).
-
-   5. For driver services - DriveU or similar apps; and of course, the
-      Ola (an IITB startup!) or Uber app for cab hailing.
-
-   6. For domestic staff services (cleaning, cooking etc.) you can
-      usually get tips from neighbours or - if you are living
-      off-campus - the security personnel in your apartment complex.
 
 ## Should you choose to leave
 
@@ -1348,7 +1287,7 @@ For all faculty (except Assistant Professors Grade-II[^railonly]), AC
 First class travel is permitted in train travel. Please remember to
 submit your TA bill along with boarding passes and e-ticket copy.
 (This is also Government of India's policy on International travel but
-please contact Accounts section for business class International
+please contact the Accounts section for business class International
 travel).
 
 [^airindiarule]: Currently, if you are using Government funds, you have to travel by Air India only.
@@ -1356,7 +1295,7 @@ travel).
 [^railonly]: For these faculty the entitlement is limited to 2$^{nd}$ AC class by rail.
 
 For road travel, Professors may use AC taxis, while for all others,
-ordinary taxi is permitted. All faculty are entitled to travel by any
+ordinary taxis are permitted. All faculty are entitled to travel by any
 type of public bus including Air-conditioned buses. If you travel by
 your own car or taxi (in places where metered taxis are not
 available), you could claim up to ₹ 24/- per kilometer.
@@ -1384,7 +1323,7 @@ As per the 7th Pay Commission rules, the daily allowance entitlements are given 
 <!-- TODO INTERNATIONAL TRAVEL? -->
 
 ## Obtaining authorizations and certificates
-You might find yourself needing various kind of certificates to be
+You might find yourself needing various kinds of certificates to be
 submitted for obtaining documents, such as PAN Card from Income Tax
 Department / their authorized delegated firm, Indian Passport from
 Passport Office, Voter ID card from Election Commission etc. The
@@ -1715,8 +1654,6 @@ The different responsibilities are listed below:
       - They can promote companies in SINE.
       - They can be Directors of companies as per Institute norms.
      - Eligible for one time seed grant, can take up all R&D Projects which includes consultancy
-	 - Can promote companies in SINE
-	 - Can be Director of companies as per Institute norms
    - *Academic activities*: They can guide students, and participate in all academic activities of the institute.
    - *Administration related activities*: They can take up admin work as delegated by the Institute/department from time to time.
 
@@ -1796,6 +1733,19 @@ Visit the Institute on a part time basis, generally for teaching (up to four day
       - No faculty fee allowed in projects other than through the external consultant mode.
    - *Academic activities*: Same as #7.
    - *Administration related activities*: Same as #7.
+
+9. **Professors of Practice**:
+   - *Appointment details*:
+     - They must be top professionals (CEO/CTO) with significant experience, typically about 20 years.
+     - Honorary appointment to be made by Institute based on the recommendation of the Institute Standing Committee; the salary will be paid from the projects as applicable.
+   - *Academic activities*:
+     - Design, development and offering of new practice-oriented courses.
+     - Advise students in their projects linking them with appropriate external stakeholders.
+     - Engage in department building activities including creation of new
+       programmes and Centres and enhancement of scope and activities of the department.
+     - Develop Continuing Education Programmes, undertake outreach activities and conduct extension programmes
+     - Encourage students in innovation and entrepreneurship projects and provide necessary mentorship for these activities; and contribute to enhanced industry academia collaborations.
+     - Professors of Practice are expected to guide Master’s students in their research and be co-guides to Ph. D. students.
 
 9. **Non-faculty Project PIs**:
    - *Appointment details*:
@@ -1887,6 +1837,9 @@ gets a feedback on the effectiveness of her teaching through a system
 of on-line course evaluation by students, which happens at the end of
 the teaching semester.
 
+Students should be encouraged to participate in the mid-term and end-term course evaluation processes. The feedback from midterm evaluation process may be used constructively for improvement in the course delivery. Teaching evaluations should be taken seriously and a self-introspection helps one become a better teacher.
+
+
 ### PhD supervision
 Apart from teaching and instructing courses, you are also expected to
 do a fair amount of supervision at the UG/PG and PhD levels. While
@@ -1916,14 +1869,14 @@ Research funding could be one of the following three types
 
 ### Seed Grant
 
-IIT Bombay, through Industrial Research and Consultancy Centre (IRCC),
+IIT Bombay, through the Industrial Research and Consultancy Centre (IRCC),
 offers seed grant to new faculty members to encourage and facilitate
 their research activities at the Institute. Details of this grant are
 as follows:
 
-1. The faculty member should request for seed grant within 6 months from the date of joining the Institute.
+1. The faculty member should request for a seed grant within 6 months from the date of joining the Institute.
 2. The duration of the seed grant project will not be more than 3 years and will be closed after that.
-3. Seed grant proposal should highlight the objectives, expected outcome, time frame, budget with appropriate justification (especially for equipment) and other relevant details. Specify the equipment proposed to be procured under the seed grant.
+3. Seed grant proposals should highlight the objectives, expected outcome, time frame, budget with appropriate justification (especially for equipment) and other relevant details. Specify the equipment proposed to be procured under the seed grant.
 4. Seed grant consists of a base amount up to ₹ 7/- lakhs (₹ seven
 lakhs) that can be apportioned under EQP (equipment), CON
 (consumables) and CTE (contingency) budget heads. Reallocation of
@@ -2003,15 +1956,28 @@ After the proposal is approved online by the Dean(R&D), IRCC will
 issue the "Endorsement of the Institution" letter which will have to
 be submitted by the PI to the funding agency.
 
+## Awards for Teaching and Research
+
+While good teaching and research is likely reward enough, the both you and the Institute would benefit from greater visibility and recognition of your achievements. Within IITB, the Excellence in Teaching Award recognizes good teaching, as discussed below. For research accomplishments, the Institute has the following awards:
+
+- Prof. S. C. Bhattacharya Excellence Award in Pure Sciences
+- Prof. H. H. Mathur Excellence Award in Applied Sciences
+- Dr. P. K. Patwardhan Technology Development Award
+- IIT Bombay Research Paper Award / Research Publication Award (From 2015 onwards)
+- Lifetime Achievement Award
+
+The procedure to apply for these awards is available on the [IRCC Awards webpage](https://rnd.iitb.ac.in/awards).
+
+There are also several external awards and fellowships that you can apply for. One such list is available [here](https://www.iitk.ac.in/dofa/awards-honors). TODO: keep IITK link?
+
 ## ERP-SAP Activities
 IIT Bombay has recently deployed leading Enterprise Resource Planning
 software (ERP) from SAP which provides an IT enabled platform for
 managing business processes such as purchase, payment, payroll, HR
 actions as well as estate management. Student life cycle management,
-currently handled through the homegrown software created by the
-Application Software Center (ASC) is being moved to ERP. Several other
-home grown and open source legacy IT systems continue to handle key
-business processes.
+however, is handled through the homegrown software created by the
+Application Software Center (ASC). Several other home grown and open
+source IT systems continue to handle key business processes.
 
 Currently, following IT systems are available to faculty members:
 
@@ -2076,7 +2042,7 @@ The following services for specific activities managed by ASC are available thro
 
 As a new faculty (and if you need lab space), you need to contact the
 Head of your Department / Centre / School and discuss with him / her
-about your requirement in advance.
+about your requirements in advance.
 
 1. After you have been allocated lab space, it may take time to convert it into a proper, functional lab, and this would need your active involvement. You may also need to talk to the Head about the funding required to get the civil, air-conditioning and interior work done through the Estate Office, Electrical Maintenance Division and Design Cell respectively, and so on. Some senior faculty members may also be able to informally mentor you on getting these jobs done efficiently.
 
@@ -2398,20 +2364,6 @@ Teaching is considered to be an important component of faculty activities. That 
     technologies/methodologies in your class, they might be happy to
     collaborate with you. Details about this Inter-Disciplinary
     Programme is available [here](http://www.et.iitb.ac.in/).
-
-## Awards for Teaching and Research
-
-While good teaching and research is likely reward enough, the both you and the Institute would benefit from greater visibility and recognition of your achievements. Within IITB, the Excellence in Teaching Award recognizes good teaching, as discussed below. For research accomplishments, the Institute has the following awards:
-
-- Prof. S. C. Bhattacharya Excellence Award in Pure Sciences
-- Prof. H. H. Mathur Excellence Award in Applied Sciences
-- Dr. P. K. Patwardhan Technology Development Award
-- IIT Bombay Research Paper Award / Research Publication Award (From 2015 onwards)
-- Lifetime Achievement Award
-
-The procedure to apply for these awards is available on the [IRCC Awards webpage](https://rnd.iitb.ac.in/awards).
-
-There are also several external awards and fellowships that you can apply for. One such list is available [here](https://www.iitk.ac.in/dofa/awards-honors). TODO: keep IITK link?
 
 ## Guidelines for Excellence in Teaching Awards
 
@@ -2874,7 +2826,7 @@ webpage](https://www.iitb.ac.in/en/about-iitbombay/new-post-retirement-medical-s
 
 ## Schooling at IIT Bombay
 
-There are three schools on the campus for children: Kendriya Vidyalaya, Campus School, and KG School; plus a full-fledged child care (day care) and play school, Sishu Vihar. The Campus School also has a kindergarten school for children above the age of three. For younger kids there is a private creche (Sishu Vihar, temporarily located at the time of writing in bungalows A-4 and A-5 in the Lakeside area of Campus near the Main Gate), and run by an NGO.
+There are three schools on the campus for children: Kendriya Vidyalaya, Campus School, and KG School; plus a full-fledged child care (day care) and play school, Sishu Vihar. The Campus School also has a kindergarten school for children above the age of three. For younger kids there is a private creche (Sishu Vihar, temporarily located at the time of writing in bungalows A-4 and A-5 in the Lakeside area of Campus near the Main Gate), and run by an NGO. There are also several private schools in Powai and nearby areas that are well known.
 
 ### Kendriya Vidyalaya (Central School) IIT Powai
 This is part of the Kendriya Vidyalaya Sangathan (KVS) network and is usually ranked among the top government day (i.e. not boarding) schools in India. It has classes I through XII, and is affiliated to the Central Board of Secondary Education (CBSE). Most of the seats here are reserved for the children of IIT employees; with a small fraction reserved for other Central Government organizations. You might have some anxious moments before your child gets admission, but eventually it works out, in almost all cases. In case of exceptional difficulty in getting admission into the Kendriya Vidyalaya, our Director, who is ex-officio the Chairman of the Vidyalaya Management Committee can help out by exercising their discretionary quota. There is also a Professor-in-Charge who you may contact for helpful advice in case of difficulty. More details about KV IIT Bombay may be found on [its webpage](http://www.kviitmumbai.com/English-Homepage).
@@ -3130,3 +3082,71 @@ withdrawals work, including:
 
 Up to date information on NPS and details on accessing your account balance
 online are available at the [NPS CRA website](https://npscra.nsdl.co.in/).
+
+# Life in Powai and beyond
+
+(This section has external links for your information. IITB cannot take any responsibility for these.)
+
+The city of Mumbai offers a wealth of cultural and entertainment
+resources to its residents, befitting a global metropolis. This
+includes famous places of worship, ancient historical caves, several
+art and science museums, many theatres for plays and musical
+performances, restaurants/cafes featuring cuisines from around the
+world, amusement parks for children and adults, and one of the few
+national parks inside a big city anywhere in the world (from where we
+get periodic Campus visits by leopards!). Some of the attractions are
+listed
+[here](https://www.makemytrip.com/travel-guide/mumbai/places-to-visit.html
+).
+
+One caveat is that traffic outside of campus may be a nightmare,
+especially during office commuting hours (and even more so during the
+very long monsoon season), so one may be well-advised to venture out
+on weekends. In many situations, the well-developed train network may
+get you to your destination on time with more certainty. A lot of hope
+rests on the upcoming metro network. Its construction, however, has
+added to traffic woes right now, but upon completion, it will benefit
+commuters from IITB and the nearby areas. [Here is the dream
+anyway](https://en.wikipedia.org/wiki/Mumbai_Metro).
+
+Powai and neighbouring areas beyond the Campus, particularly
+Hiranandani Gardens, have evolved into a bustling and 'happening' part
+of Mumbai with regard to restaurants, cafes, pubs etc. (It is also
+generally well-provisioned, in terms of everything from doctors and
+chemists to yoga and arts classes - however, one does not need to
+leave Campus for most of these!)
+
+You can get information about all of these at [https://powai.info/](https://powai.info/).
+
+Powai has its own ‘newspaper’ (!), which you can access at the [Voice
+of Powai website](http://voiceofpowai.blogspot.com/).
+
+Here are a few other links/apps that may be useful:
+   1. For online booking of movies, plays etc. - [https://in.bookmyshow.com/mumbai](https://in.bookmyshow.com/mumbai)
+
+   2. For restaurant information - [Zomato
+      Mumbai](https://www.zomato.com/mumbai) (for online food
+      ordering, there are several mobile apps like Swiggy, Zomato,
+      Uber Eats, Food Panda, and so on)
+
+   3. For grocery shopping - Big Basket or similar apps (You can
+      arrange with most local vendors, even small shops, to take
+      orders over phone and deliver to your home if that is your
+      preference - this includes chemist, grocer, greengrocer,
+      etc.) Alternatively, if you yearn for the feel of the bazaar,
+      then there is the IIT Market - paradoxically, outside IIT - and
+      other markets in neighbouring areas. Of course, there is also a
+      small shopping enclave in Campus near the ‘Market Gate’ or
+      'Y-point Gate'. D-Mart and Haiko supermarkets are also available
+      within 2 kilometres.
+
+   4. For home services - Urbanclap or similar apps (offering services
+      ranging from carpentry to personal grooming, and - relevant if
+      you are living off-campus - plumber and electrician).
+
+   5. For driver services - DriveU or similar apps; and of course, the
+      Ola (an IITB startup!) or Uber app for cab hailing.
+
+   6. For domestic staff services (cleaning, cooking etc.) you can
+      usually get tips from neighbours or - if you are living
+      off-campus - the security personnel in your apartment complex.
