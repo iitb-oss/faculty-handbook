@@ -20,32 +20,18 @@ header-includes:
 
 # Preface
 
-The need for a handy booklet to consolidate the information a faculty
-member is likely to need in navigating through her career at IIT
-Bombay has been a long felt one, and a Faculty Handbook was put
-together some years ago to address this need. Printed copies of the
-handbook were made available to all faculty, and a soft-copy was
-placed on the internal website as well. Since then however, several
-far-reaching changes in the governance structure, recruitment policies
-and salary structure have taken place. Considering the magnitude of
-these changes, it was felt that a thoroughly revised second edition of
-the _Handbook_ was due.
+A faculty's role in the Institute is essential, since the Institute is predominantly for faculty and students. A faculty has to be a teacher, a researcher, an Institute builder and more, since faculty leadership is the key driver for the Institute.
 
-Prof Dipan Ghosh, Department of Physics, kindly agreed to prepare a
-first draft, and no better person could have been found considering
-his vast experience in academia and in the Institute's
-administration. The draft produced by Prof. Ghosh was supplemented
-with additional information thought desirable in such a    handbook[^promotion], and the revised draft was  gone through by several people who provided valuable feedback and inputs. Particular mention must be made here of Dr. Ramesh,  Deputy Registrar-Finance and Accounts, Mr. K.K. Bajre, Deputy Registrar-Administration and Mr. Marathe, Assistant Registrar-Administration (now retired), who checked the  details for accuracy.  Further feedback was obtained by providing web access to the draft version to all faculty members of the Institute. Prof Raja Mohanty (Industrial Design Centre) designed the cover. It is hoped that this final version, which incorporates all these, will be useful as a day-to-day reference for faculty members. While one gets to find out written and unwritten rules as one progresses through one's career in the Institute, a handbook such as this is particularly useful for young faculty, who then do not have to consult a senior colleague for everything. Particular effort has therefore been made to address the issues that concern young faculty.
+The Faculty Handbook consolidates a variety of information that faculty members are likely to need during their career at IIT Bombay. A soft-copy is  placed on the internal website-link here.
 
-[^promotion]: For example, information on faculty assessment and promotion processes.
+This is the third edition of the handbook. The last edition was finalized in 2014, and was a useful compendium of information for faculty. Since then, several far-reaching changes in the governance structure, recruitment policies and salary structure have taken place. Considering the magnitude of these changes, it was felt that a thoroughly revised secondthird edition of the Handbook was due,  and this is a humble attempt in this direction.
+A committee with Prof. Swaroop Ganguly as Convener and Prof. Kumar Appaiah, Prof. Ronita Bardhan, Prof. Himanshu Bahirat, Prof. Subimal Ghosh and Prof. Sahana Murthy as members had prepared a first draft  of the handbook with valuable inputs from faculty members and Institute staff. Subsequently, Prof. S. Sudarshan (DD-AIA) and Prof.  K.P. Kaliappan (former Dean (FA)) have invested a tremendous amount of time in elaborating  the current version of the document. The revised draft has been reviewed by several people who provided valuable feedback and inputs. Particular mention must be made here of TODO who checked the details for accuracy. Further feedback was obtained by providing web access to the draft version to all faculty members of the Institute. Prof Raja Mohanty (Industrial Design Centre) designed the cover. We hope that this final version, which incorporates all these, will be useful as a day-to-day reference for faculty members.
 
-Finally, a disclaimer. While every effort has been made to keep the
-_Handbook_ up-to-date and accurate, it cannot be regarded as an
-authority; in the end, it is a guide and details of rules and
-regulations regarding specifics need to be confirmed from
-administration when the need arises.
+While one gets to find out written and unwritten rules as one progresses through one’s career in the Institute, a handbook such as this is particularly useful for young faculty, who then do not have to consult a senior colleague for everything. Particular effort has therefore been made to address the issues that concern new faculty.
 
-Prof. A. K. Suresh (Dean, Faculty Affairs)
+Finally, a disclaimer. While every effort has been made to keep the Handbook up-to-date and accurate, it cannot be regarded as an authority; in the end, it is a guide and details of rules and regulations regarding specifics need to be confirmed from administration when the need arises.
+
+Prof. Neela Nataraj (Dean, Faculty Affairs)
 
 # The Institute
 The Indian Institutes of Technology (IITs) were established on the recommendation of a Committee headed by Sir Nalini Ranjan Sarkar, a businessman, educationist, industrialist and public figure. The Committee had recommended the establishment of institutes of national importance to be set up in different regions of India. The first of the IITs was set up in Kharagpur in 1950 at a site in Hijli village which used to be a British-era detention camp. The vision of establishing these Institutes is best stated in the words of India's first Prime Minister Pt. Jawaharlal Nehru in his convocation speech at the Institute:
@@ -2727,11 +2713,9 @@ The institute has rules and regulations regarding allotment and entitlement of h
 During the period of service, a staff member and his dependents (the term _dependent_ is clearly defined in the Service Rules, see Chapter 3) are provided medical facilities at the IIT Hospital, and whenever required, at various hospitals in the city which are empanelled by the Institute. Medical facility for employee and spouse is also available after retirement on a contributory basis (see the section on PRMS below).
 
 ### IITB Hospital
-The Institute has a reasonably well-equipped Hospital with both in-patient and out-patient facilities. In addition to several full time doctors, there are several visiting specialists who attend the Hospital on certain days and are available for consultation. The Hospital also provides for dental care as well as for homeopathic medicine. Basic diagnostic facilities are provided at the Institute Hospital. These include pathology, X-Rays, Sonography, ECG etc. The Hospital also has a physiotherapy section. The Hospital administration is headed by a Chief Medical Officer (CMO)[^cmo]. A Committee known as the "Hospital and Health Advisory Committee (HHAC)" headed by a Professor of the Institute acts as a general policy watchdog for the Hospital and related issues[^hhacchair]. This Committee reviews Hospital policies from time to time and recommends measures that need to be taken to improve Hospital services. All major reimbursement claims are also recommended for approval by this committee.
+The Institute has a reasonably well-equipped Hospital with both in-patient and out-patient facilities. In addition to several full time doctors, there are several visiting specialists who attend the Hospital on certain days and are available for consultation. The Hospital also provides for dental care as well as for homeopathic medicine. Basic diagnostic facilities are provided at the Institute Hospital. These include pathology, X-Rays, Sonography, ECG etc. The Hospital also has a physiotherapy section. The Hospital administration is headed by a Chief Medical Officer (CMO)[^cmo]. A Committee known as the "Hospital and Health Advisory Committee (HHAC)" headed by a Professor of the Institute acts as a general policy watchdog for the Hospital and related issues. This Committee reviews Hospital policies from time to time and recommends measures that need to be taken to improve Hospital services. All major reimbursement claims are also recommended for approval by this committee.
 
 [^cmo]: Currently, Dr. Nisha Shah.
-
-[^hhacchair]: The current Chairperson of the Health Advisory committee is Prof. Rinti Banerjee from the Department of BioScience and BioEngineering.
 
 ### Your medical file
 The Hospital maintains a family file for every employee, which is available in the outer office. For an outpatient (OPD) consultation, the file has to be presented at the Hospital reception, who will print out a blank prescription slip. Before your face becomes familiar with the Hospital staff, you may be asked for your identity card, which also spells out your medical entitlement. Please do not take offence on such request.  The slip along with the file is to be taken to the doctor who you wish to see. Each visit to the doctor costs you _one rupee_ which is directly debited from the salary.
