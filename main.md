@@ -20,18 +20,29 @@ header-includes:
 
 # Preface
 
-A faculty's role in the Institute is essential, since the Institute is predominantly for faculty and students. A faculty has to be a teacher, a researcher, an Institute builder and more, since faculty leadership is the key driver for the Institute.
+Faculty Handbook is the single most important document, which  consolidates much of the information that the faculty members need during their careers at IIT Bombay.  This is the third edition of the hand book; the first two were brought out in … and 2014.
 
-The Faculty Handbook consolidates a variety of information that faculty members are likely to need during their career at IIT Bombay. A soft-copy is  placed on the internal website-link here.
+IITB is an institution that is adapting dynamically to the evolving changes and endeavoring constantly to be an institution par excellence. Over the years, there have been several far-reaching changes in the governance, recruitment policies, salary structure, etc. In view of certain paradigm changes that have come into being, it was deemed prudent that the faculty handbook is thoroughly revised and updated.
 
-This is the third edition of the handbook. The last edition was finalized in 2014, and was a useful compendium of information for faculty. Since then, several far-reaching changes in the governance structure, recruitment policies and salary structure have taken place. Considering the magnitude of these changes, it was felt that a thoroughly revised secondthird edition of the Handbook was due,  and this is a humble attempt in this direction.
-A committee with Prof. Swaroop Ganguly as Convener and Prof. Kumar Appaiah, Prof. Ronita Bardhan, Prof. Himanshu Bahirat, Prof. Subimal Ghosh and Prof. Sahana Murthy as members had prepared a first draft  of the handbook with valuable inputs from faculty members and Institute staff. Subsequently, Prof. S. Sudarshan (DD-AIA) and Prof.  K.P. Kaliappan (former Dean (FA)) have invested a tremendous amount of time in elaborating  the current version of the document. The revised draft has been reviewed by several people who provided valuable feedback and inputs. Particular mention must be made here of TODO who checked the details for accuracy. Further feedback was obtained by providing web access to the draft version to all faculty members of the Institute. Prof Raja Mohanty (Industrial Design Centre) designed the cover. We hope that this final version, which incorporates all these, will be useful as a day-to-day reference for faculty members.
+A committee with  Prof. Swaroop Ganguly as the Convener prepared the first draft  of the handbook with invaluable inputs from faculty members. Prof.  K. P. Kaliappan, the former Dean (FA) and Prof. Kumar Appaiah have invested a tremendous amount of time to document as many details as possible in the handbook and bring it to this current form. Prof. S. Sudarshan DD (AIA) who has a keen  eye for details reviewed this handbook despite his busy schedule.  The revised draft was gone through by several people, who in turn provided important feedback and input. I must make a particular mention of xxxxx, who checked every detail for accuracy. Subsequently, the document was made accessible to all the faculty members of the institute for their feedback, which was duly taken care of.
 
-While one gets to find out written and unwritten rules as one progresses through one’s career in the Institute, a handbook such as this is particularly useful for young faculty, who then do not have to consult a senior colleague for everything. Particular effort has therefore been made to address the issues that concern new faculty.
+I sincerely wish that this final version, for which the cover has been designed by Industrial Design Centre, will serve as a very handy reference on day-to-day matters for all faculty members.
 
-Finally, a disclaimer. While every effort has been made to keep the Handbook up-to-date and accurate, it cannot be regarded as an authority; in the end, it is a guide and details of rules and regulations regarding specifics need to be confirmed from administration when the need arises.
+It's with time that we will learn about the written and unwritten rules, some captured succinctly and some left out inadvertently. Nonetheless, a handbook such as this, I believe, is immensely useful for young faculty members, who will not have to consult senior colleagues for everything. Particular effort has therefore been made to address the issues that concern young faculty members.
 
-Prof. Neela Nataraj (Dean, Faculty Affairs)
+Disclaimer: While every effort has been made to keep the Handbook up-to-date and accurate, it may not be regarded as comprehensive and authoritative. Going by the veryname, it should be viewed as a guide with the details of rules and regulations concerning specifics requiring confirmation from the authorities of administration as and when needed.
+
+Prof. Neela Nataraj
+(Dean, Faculty Affairs)
+
+**Committee Members**
+
+- Prof. Swaroop Ganguly (Convener)
+- Prof. Kumar Appaiah
+- Prof. Ronita Bardhan
+- Prof. Himanshu Bahirat
+- Prof. Subimal Ghosh
+- Prof. Sahana Murthy
 
 # The Institute
 The Indian Institutes of Technology (IITs) were established on the recommendation of a Committee headed by Sir Nalini Ranjan Sarkar, a businessman, educationist, industrialist and public figure. The Committee had recommended the establishment of institutes of national importance to be set up in different regions of India. The first of the IITs was set up in Kharagpur in 1950 at a site in Hijli village which used to be a British-era detention camp. The vision of establishing these Institutes is best stated in the words of India's first Prime Minister Pt. Jawaharlal Nehru in his convocation speech at the Institute:
