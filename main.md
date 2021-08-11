@@ -272,7 +272,7 @@ functional units. These include:
  - [Society for Innovation and Entrepreneurship](http://www.sineiitb.org/sine) for start-up incubation support
  - [Research Park](http://www.respark.iitb.ac.in/#/home) for engagement with companies on campus
  - [Parimal and Pramod Chaudhari Centre for Learning &
-   Teaching](http://www.ppcclt.iitb.ac.in) for faculty development and
+   Teaching](http://www.ppcclt.iitb.ac.in)
  - [Application Software Centre](https://asc.iitb.ac.in) (ASC)
  - [Centre for Aerospace Systems Design and Engineering](http://www.casde.iitb.ac.in/) (CASDE)
  - [Centre for Distance Engineering Education Programme](https://www.cdeep.iitb.ac.in/) (CDEEP)
