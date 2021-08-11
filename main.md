@@ -354,12 +354,14 @@ Below is a list of departments, centres,schools and other functional units.
 **Centres**
 
 1. Centre for Research in Nanotechnology and Science (CRNTS)
-1.      Centre for Policy Studies (CPS)
-1.      Centre of Studies in Resources Engineering (CSRE)
-1.      Centre for Technology Alternatives for Rural Areas (CTARA)
-1.   Centre for Urban Science and Engineering (C-USE)
-1.   Desai Sethi Centre for Entrepreneurship (DSCE)
+1. Centre for Policy Studies (CPS)
+1. Centre of Studies in Resources Engineering (CSRE)
+1. Centre for Technology Alternatives for Rural Areas (CTARA)
+1. Centre for Urban Science and Engineering (C-USE)
+1. Desai Sethi Centre for Entrepreneurship (DSCE)
 1. Centre for Liberal Arts, Science and Engineering (C-LASE)
+1. Centre for Machine Intelligence and Data Science (C-MInDS)
+1. Koita Centre for Digital Health (KCDH)
 
 **Interdisciplinary Programs**
 
