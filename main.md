@@ -1436,7 +1436,7 @@ sponsored projects has been streamlined to use the [Government
 e-Marketplace](https://gem.gov.in/) (often referred to as GeM). GeM is
 a portal where sellers can post products and price discovery occurs
 automatically. More details on purchasing processes can be found in
-the GeM SOP here (TODO).
+the [GeM SOP](https://bighome.iitb.ac.in/index.php/s/4nzdNMMmsXECqyD).
 
 ## Leave and Vacation
 
