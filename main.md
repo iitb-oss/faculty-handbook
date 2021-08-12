@@ -1,4 +1,4 @@
----
+    ---
 title: Faculty Handbook
 numbersections: true
 documentclass: amsbook
@@ -1712,7 +1712,7 @@ The different responsibilities are listed below:
 
 7. **Visiting Faculty**:
    - *Appointment details*: Visit the Institute for a duration ranging from a few weeks to three years on a continued basis: such faculty would have a permanent position elsewhere in academia, industry or other organizations.
-Visit the Institute on a part time basis, generally for teaching (up to four days a week).
+Visit the Institute on a part time basis, generally for teaching (up to three days a week).
    - *R&D activities*:
       - Cannot be PIs or Co-PIs.
 	  - No financial/administrative powers in projects.
@@ -1846,11 +1846,11 @@ basic rules for guidance varies across departments, the PhD
 supervision entails certain basic criteria.
 
 1. Only full time faculty are entitled to undertake PhD supervision.
-2. At any given time, the number of Institute research scholars (TAs and/or RAs) working with under your supervision shall not exceed FIVE (CHECK). The DPGC/PGC of the academic unit can decide on the total number of research students of all categories working with him/her.
+2. At any given time, the number of Institute research scholars (TAs and/or RAs) working with under your supervision shall not exceed five. The DPGC/PGC of the academic unit can decide on the total number of research students of all categories working with him/her.
 3. As a supervisor, you are expected to supervise the student till satisfactory results are achieved.
 4. A supervisor must keep a check that the students being supervised deliver the Annual Progress Seminar (APS) every twelve months after joining the program. The APS report must contain information describing the research that has been performed in the completed year and submit it to the Research Progress Committee. The student must then deliver an open seminar, which all interested members of the department are free to attend, where he/she will be examined by the RPC. The objective of the seminar is to provide feedback about the research completed by the student in the past year, and provide suggestions for continuing and refining his/her research. With the progress of a student’s PhD, the work presented is expected to evolve from a thorough understanding of fundamental concepts and reported literature to an in-depth solution to a novel research problem. The RPC lays emphasis on publications in reputed international journals, filing invention disclosures and patents based on nature of the research output, and also encourages the student to present his/her work in international conferences and workshops.
 5. You can also serve as a co-supervisor if any student chooses to do so, and it is approved by the DPGC.
-6. If you are going on long leave, such as lien/sabbatical leave/special leave etc., you must propose an alternate arrangement to continue the academic activities of your students.
+6. If you are going on long leave, such as lien/sabbatical leave/special leave/deputation etc., you must propose an alternate arrangement to continue the academic activities of your students.
  a. Whenever a Supervisor leaves the Institute permanently or temporarily for a period greater than or equal to one year, the DPGCs/IDPCs/PGCs shall provide new supervisor(s) for the students being supervised by him/her before his/her departure.
  b. Whenever a Supervisor leaves the Institute temporarily for a period less than one year, the DPGCs/IDPCs/PGC shall make an alternate arrangement for the guidance of his/her students.
  c. The DPGC/ IDPC/ PGC may consider continuation of the original Supervisor on his/her return to the Institute, as Co-­Supervisor of his/her students depending on the period for which he/she has supervised the Ph.D. Programmes of the students concerned.
@@ -2366,39 +2366,43 @@ Teaching is considered to be an important component of faculty activities. That 
 
 ## Guidelines for Excellence in Teaching Awards
 
-There are two categories of excellence in teaching awards. A)
-Institute Awards: Fifteen per year; B) Department Awards:
-Approximately Thirty per year. The guidelines for the excellence in
-teaching award are as follow:
+Since the guidelines for excellence in teaching awards are currently
+undergoing revision, you may refer to recent Senate meeting minutes
+for updates on this.
 
-   1. Course feedback data for each semester and each of the four categories of courses (B.Tech. common, UG courses, PG courses, 2 yr MSc courses) will be examined and, if warranted, transformed to follow a normal distribution using the Box-Cox transformations. The average and standard deviation of each data set (original data in case already normal or transformed data which is normal) will be determined. The average of the particular distribution will be subtracted from a faculty member’s score and then divided by the relevant standard deviation. The constant 3 will be added to this. This is the normalised score for that faculty member. A faculty member will get a “normalised” score for each semester that he/she teaches. The average of such scores over several courses will be computed. A rank list of faculty members will be generated based on the above score.
+<!-- There are two categories of excellence in teaching awards. A) -->
+<!-- Institute Awards: Fifteen per year; B) Department Awards: -->
+<!-- Approximately Thirty per year. The guidelines for the excellence in -->
+<!-- teaching award are as follow: -->
 
-   2. Fifteen Institute awards will be given each year. They will be
-      given to the top 15 scorers. The rank list will be obtained
-      considering the best 15 scores over the last 10 years for each
-      faculty member.
+<!--    1. Course feedback data for each semester and each of the four categories of courses (B.Tech. common, UG courses, PG courses, 2 yr MSc courses) will be examined and, if warranted, transformed to follow a normal distribution using the Box-Cox transformations. The average and standard deviation of each data set (original data in case already normal or transformed data which is normal) will be determined. The average of the particular distribution will be subtracted from a faculty member’s score and then divided by the relevant standard deviation. The constant 3 will be added to this. This is the normalised score for that faculty member. A faculty member will get a “normalised” score for each semester that he/she teaches. The average of such scores over several courses will be computed. A rank list of faculty members will be generated based on the above score. -->
 
-   3. Department awards will be given (about 30 in the Institute;
-	  approx. 1 per faculty strength of 20 in a department). The rank
-	  list will be obtained by considering the best 8 scores over the
-	  last 5 years for each faculty member in that department.
+<!--    2. Fifteen Institute awards will be given each year. They will be -->
+<!--       given to the top 15 scorers. The rank list will be obtained -->
+<!--       considering the best 15 scores over the last 10 years for each -->
+<!--       faculty member. -->
 
-   4. Academic units with strength significantly less than 20 will be
-      combined with other such units to decide Dept awards.
+<!--    3. Department awards will be given (about 30 in the Institute; -->
+<!-- 	  approx. 1 per faculty strength of 20 in a department). The rank -->
+<!-- 	  list will be obtained by considering the best 8 scores over the -->
+<!-- 	  last 5 years for each faculty member in that department. -->
 
-   5. On getting an Institute award, the faculty member will be
-	  ineligible to be considered for the same for the next ten
-	  academic years. Further, he/she will be ineligible to be
-	  considered for a Dept. award for the next 5 years. On getting a
-	  Dept award, the faculty member will be ineligible to be
-	  considered for the same for the next five academic
-	  years. However, in this period, he/she will be eligible for
-	  consideration for an Institute award in case he/she has not been
-	  awarded the same in the previous 10 years.
+<!--    4. Academic units with strength significantly less than 20 will be -->
+<!--       combined with other such units to decide Dept awards. -->
 
-   6. For a given year, if a faculty member is included in the list
-	  for Institute awards, he/she will be ineligible for the
-	  Dept. award.
+<!--    5. On getting an Institute award, the faculty member will be -->
+<!-- 	  ineligible to be considered for the same for the next ten -->
+<!-- 	  academic years. Further, he/she will be ineligible to be -->
+<!-- 	  considered for a Dept. award for the next 5 years. On getting a -->
+<!-- 	  Dept award, the faculty member will be ineligible to be -->
+<!-- 	  considered for the same for the next five academic -->
+<!-- 	  years. However, in this period, he/she will be eligible for -->
+<!-- 	  consideration for an Institute award in case he/she has not been -->
+<!-- 	  awarded the same in the previous 10 years. -->
+
+<!--    6. For a given year, if a faculty member is included in the list -->
+<!-- 	  for Institute awards, he/she will be ineligible for the -->
+<!-- 	  Dept. award. -->
 
 ## Guidelines for Research Awards
 
