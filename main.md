@@ -506,8 +506,7 @@ Immediately on joining:
    better quality of life if you stay on-campus, and the better
    quality accommodation that you are likely to get outside.
 
-   After two
-   to three years, you may expect to get a better quality flat on
+   After two to three years, you may expect to get a better quality flat on
    campus allotted to you as ‘regular accommodation’. (If you happen
    to have joined the Institute directly as a Professor, you may be
    eligible to get a C-type quarter - 2 or 3 BHK - as your ad-hoc
@@ -515,8 +514,7 @@ Immediately on joining:
    details, please see [Seniority and Allotment
    Criteria](http://www.iitb.ac.in/deanpl/estOff1.html)).
 
-   The
-   on-campus quarters do not come furnished and you will have to
+   The on-campus quarters do not come furnished and you will have to
    furnish it yourself. A home telephone connected to the internal
    exchange will be provided which does not have outside call
    facilities. You may decide to get a personal landline or mobile
@@ -692,6 +690,194 @@ you to fill another form (on your accomplishments during the probation
 year) and submit the same to Dean (FA) through the Head of your
 Department for confirmation of your appointment.
 
+## Housing
+
+The institute has undergone significant expansion and increase in number of students over the last decade and a half. The increase in student numbers has led to a commensurate increase in the number of faculty members on the campus. Thus, the present dwelling numbers on the campus are insufficient. Though, new constructions are underway, there is expected to be shortage of housing on campus for some more time. In most cases, the new faculty may take up on-campus housing flatlets like the Staff Hostel, Vihar House and CSRE D Types. However, some faculty may want a “proper apartment” owing to family constraints or due to non-availability of the flatlets. In such situations, some may opt for off-campus housing. These off-campus housing once identified and allotted are treated as an extension of the IITB housing. There are several considerations to be made when scouting for an apartment. Below are a few points to be considered with regard to off-campus housing.
+
+The institute provides temporary accommodation in the Guest House to the new faculty member immediately after they join, up to a period of 1 month. The guest house charges are applicable and have to be borne by the faculty if this initial period of 30 days is exceeded. It is thus recommended that a search for off-campus housing be initiated as soon as the joining formalities are completed.
+
+An off-campus rented apartment requires consideration of the amount of rent, brokerage, escalation clause, and issues related to maintenance and movement charges. The institute has evolved a policy on the amount of rent that can be paid. The decisions regarding the amount of rent, brokerage, and escalation clause are usually handled by the Associate Dean IPS-2 and its Office. As a first step, new faculty members  are advised to contact the office of Associate Dean-2 Infrastructure and Planning (IPS) to obtain information on the rental limits and other rules regarding off-campus accommodation. It is recommended that the initial negotiated rent is limited to within the stipulated amount. The terms and issues regarding the escalation are handled by the Associate Dean IPS-2’s office. The maintenance and movement charges are usually expected to be borne by the faculty.
+
+The Associate Dean IPS-2’s office may also offer help for searching and to identify estate agents that can facilitate the search for apartments for a suitable and affordable apartment. A list of previously rented apartments or apartments newly offered on rent may be already be available with the Office of the Associate Dean IPS-2. These may considered by new faculty for potential allotment. The identification of the apartment could also be done personally with the help of an agent, or by consulting websites that offer such solutions.
+
+The contract or the lease agreement is drawn with IIT Bombay as the party and the letter of allotment is then issued by the Accommodation Allotment Committee (AAC). The duration of the lease should be checked carefully, since, it may be possible that these rented premises may have to occupied for an extended period of time. After moving to the apartment, the usual day to day maintenance is expected to be handled by the allottee.
+
+The institute has rules and regulations regarding allotment and entitlement of housing to faculty and staff of the institute. The details of these can be found on the Dean IPS website. The off-campus housing is treated as transit accommodation provided by IITB. Thus, availing the off-campus housing does not affect the entitlement or the seniority of the faculty within the ambit of the defined rules. The rented premises may have to vacated due to several reasons with the happy one being movement to campus.
+
+## Medical Facilities
+During the period of service, a staff member and his dependents (the term _dependent_ is clearly defined in the Service Rules, see Chapter 3) are provided medical facilities at the IIT Hospital, and whenever required, at various hospitals in the city which are empanelled by the Institute. Medical facility for employee and spouse is also available after retirement on a contributory basis (see the section on PRMS below).
+
+### IITB Hospital
+The Institute has a reasonably well-equipped Hospital with both in-patient and out-patient facilities. In addition to several full time doctors, there are several visiting specialists who attend the Hospital on certain days and are available for consultation. The Hospital also provides for dental care as well as for homeopathic medicine. Basic diagnostic facilities are provided at the Institute Hospital. These include pathology, X-Rays, Sonography, ECG etc. The Hospital also has a physiotherapy section. The Hospital administration is headed by a Chief Medical Officer (CMO)[^cmo]. A Committee known as the "Hospital and Health Advisory Committee (HHAC)" headed by a Professor of the Institute acts as a general policy watchdog for the Hospital and related issues. This Committee reviews Hospital policies from time to time and recommends measures that need to be taken to improve Hospital services. All major reimbursement claims are also recommended for approval by this committee.
+
+[^cmo]: Currently, Dr. Nisha Shah.
+
+### Your medical file
+The Hospital maintains a family file for every employee, which is available in the outer office. For an outpatient (OPD) consultation, the file has to be presented at the Hospital reception, who will print out a blank prescription slip. Before your face becomes familiar with the Hospital staff, you may be asked for your identity card, which also spells out your medical entitlement. Please do not take offence on such request.  The slip along with the file is to be taken to the doctor who you wish to see. Each visit to the doctor costs you _one rupee_ which is directly debited from the salary.
+
+### Healthcare
+
+For regular medical officers (doctors) of the Hospital, there is no
+system of taking an appointment. For visiting specialists, one has to
+take an appointment. Some of the specialists will only give
+appointments when recommended by a regular medical officer. For
+scheduling such an appointment, you have to contact the reception.
+
+Any medicine prescribed by the doctor on duty can be obtained from the Pharmacy attached to the Hospital. If a prescribed medicine is not available, one has to take a separate prescription for the same to purchase it from the market. The Institute reimburses the cost of medicines purchased from outside which could not be supplied from the Institute Pharmacy. Similarly, the cost of consultation, pathological or radiological investigations carried out outside the IIT Hospital on recommendation of the Institute doctors are also reimbursable. In some cases, only 80% of the cost is reimbursable. There are some fine prints to reimbursement rules (for instance, cost of spectacles or contact lenses or the cost of dental treatment in an outside clinic or hospital etc. are not reimbursable even when recommended by a medical officer of the Hospital). You can get a list of recognized hospitals and reimbursements at [https://www.iitb.ac.in/hospital/hindi/RecognisedHospitalList_tabular.html](https://www.iitb.ac.in/hospital/hindi/RecognisedHospitalList_tabular.html).
+
+In case of illnesses which require hospitalization of a specialized nature (as may be determined by the C.M.O.), a patient may be referred to one of the many hospitals in the city which are recognized by I.I.T. The entitlement in the hospitals (i.e. the type of room or bed that can be availed) depends on the employee’s salary and it is good to enquire about exact entitlement from the administration. While expenses in all Government Hospitals and several charitable hospitals (such as Sushrusha Hosp., Dadar, and the Tata Memorial Hospital) is reimbursed 100%, the Institute only reimburses 80% of the cost in recognized Hospitals with sophisticated facilities and some specialty Hospitals[^hwebsite].
+
+While basic pathology is available in the Hospital, the Institute Hospital has an arrangement with a few specialized pathology laboratories[^ranbaxy] for some advanced tests. For this purpose staff from these labs visit the Institute Hospital on specified days to collect samples. Hospital Doctor’s recommendation is required for use of this facility.
+
+The Institute recognizes a few radiological centres for investigations with MRI, C.T. Scan, Digital X-rays etc. Hospital Doctor’s recommendation is required for use of this facility.
+
+The Institute Hospital provides all major vaccinations for children. It is a good idea for parents to retain records of such vaccinations, as such data is increasingly being required for various purposes in future.
+
+The hospital has an ambulance which works 24 × 7 for transportation of patients within the campus and for transporting patients to hospitals outside when referred to by the IIT Hospital.
+
+[^hwebsite]: The hospital website http://www.iitb.ac.in/hospital/ has a link to the list of recognized hospitals. This list is updated as and when new hospitals are added and hospitals removed.
+
+[^ranbaxy]: Such as Ranbaxy Clinical Reference Laboratories, Raptakos Brett Testing Lab, Sanjeevani Diagnostic Centre.
+
+
+### OPD facilities for visiting parents
+Though they may not be officially your dependents, the Institute offers OPD facilities to visiting parents of the employee and of employee's spouse. This facility is offered for a period of six months on payment of ₹ 1,500/- and for a year on payment of ₹ 3,000/-. They will be treated on 'non-entitled' basis; however, medicines etc. will have to be purchased from outside without any reimbursement.
+
+### Medical advance, reimbursement, etc.
+
+When an employee or a dependent is admitted to an outside hospital, up to 80% of the estimated cost can be provided as an advance to the employee.
+
+For the benefit of staff members staying outside the campus (as also for staff on vacation/leave), a list of Medicare Centres/Hospitals[^hosplist] is approved for OPD treatment. Medicines purchased on prescription by doctors from these hospitals are reimbursed fully. However, further referrals from these hospitals to outside hospitals need to be sanctioned by the IITB Hospital.
+
+[^hosplist]: These hospitals, at present, are: Pragati Mitra Mandal (Mulund(W)), Smt. Nand Kunverben Rasiklal Seth Hosp. (Borivali (W)), Malad Jain Yuvak Mandal Med. Relief Centre (Malad (W)), Lions Clinic (Matunga), Vasani Diagnostic Centre (Andheri) and Seth Nanji Gangji Charitable Polyclinic (Dombivali). See the hospital website for up-to-date information.
+
+For reimbursement, separate forms for OPD (inclusive of cost of medicine purchased from outside) and indoor treatment,  available in the Hospital office[^websiteforms], should be filled up and submitted along with cash memos within three months. Please note that except in case of emergency, no reimbursement is permissible unless the reference was made by the IIT Hospital to the outside hospital.
+
+[^websiteforms]: These and most other forms you may require are also downloadable from http://asc.iitb.ac.in.
+
+## Schooling at IIT Bombay
+
+There are three schools on the campus for children: Kendriya Vidyalaya, Campus School, and KG School; plus a full-fledged child care (day care) and play school, Sishu Vihar. The Campus School also has a kindergarten school for children above the age of three. For younger kids there is a private creche (Sishu Vihar, temporarily located at the time of writing in bungalows A-4 and A-5 in the Lakeside area of Campus near the Main Gate), and run by an NGO. There are also several private schools in Powai and nearby areas that are well known.
+
+### Kendriya Vidyalaya (Central School) IIT Powai
+This is part of the Kendriya Vidyalaya Sangathan (KVS) network and is usually ranked among the top government day (i.e. not boarding) schools in India. It has classes I through XII, and is affiliated to the Central Board of Secondary Education (CBSE). Most of the seats here are reserved for the children of IIT employees; with a small fraction reserved for other Central Government organizations. You might have some anxious moments before your child gets admission, but eventually it works out, in almost all cases. In case of exceptional difficulty in getting admission into the Kendriya Vidyalaya, our Director, who is ex-officio the Chairman of the Vidyalaya Management Committee can help out by exercising their discretionary quota. There is also a Professor-in-Charge who you may contact for helpful advice in case of difficulty. More details about KV IIT Bombay may be found on [its webpage](http://www.kviitmumbai.com/English-Homepage).
+
+
+### Campus School and Jr. College
+The IIT Campus School and Jr. College has classes I through XII, and is affiliated to the Maharashtra State Board. It is exclusively for the children of IIT employees. Here, the IITB Director is the Chairman of the School Council, and IIT faculty serve as Associate Chairman and Conveners of Administrative and Academic policy. More details about the Campus School are available [here](http://www.iitcampusschoolmumbai.in/).
+
+### KG School
+The Kindergarten (KG) School comprising two classes (Lower KG and Upper KG) and two shifts, is for children from three to five years of age. Details of Admissions, Facilities, etc. about the KG School may be found [here](http://home.iitb.ac.in/~kgschool/index.html).
+
+
+### Shishu Vihar Child Care Centre
+
+Shishu Vihar is a not-for-profit child care centre, managed by an
+association of parents, catering primarily to the child care needs of
+working parents in IIT Bombay. The Shishu Vihar Management Committee
+(SVMC) is a body of IITB Official Representatives and elected member
+parents. SVMC is responsible for the overall policy, human resources,
+and financial management of the centre.
+
+SV has a group of people with backgrounds in education, psychology,
+special needs, child development, early childhood education, and
+curriculum development. Their education and experience not only
+enables them to understand the needs of children, but also inspires
+them to choose healthy and effective practices in child care.
+
+At the time of writing, Shishu Vihar is located in bungalows A-4 and
+A-5 in the Lakeside area of Campus near the Main Gate. The following
+are its time slots and programs.
+
+
+Slots                                    Hours      Timing
+---------------------------------------  ---------  ------------------
+Morning Slot (MS)                        5 hours    8:15 AM to 1:15 PM
+Afternoon Slot (AF)                      5 hours    1:15 PM to 6:15 PM
+3/4 Day Slot (Lower KG School Children)  7.5 hours  Flexible
+Full Day Slot (FD)                       10 hours   8:15 AM to 6:15 PM
+
+------------------------------------------------------------------------------------
+Programs              Eligibility             Description
+--------------------  ---------------------   --------------------------------------
+Toddler Program (MS)  18 months               A planned program where
+                                              toddlers are stimulated
+                                              through music, rhymes, books and toys.
+
+Play Group (MS)       2 years                 A structured program
+                                              that focuses on Sensory,
+                                              Language and
+											  Social Development. Children
+                                              are motivated to learn
+                                              and explore through
+											  play.
+
+Junior Club (MS)      3 years                 A systematic program
+                                              that uses reasoning,
+                                              math and language skills
+                                              to facilitate thematic
+                                              learning among children.
+
+Day Care (FD/AS)      18 months to 12 years   Children are exposed to
+                                              various activities such
+                                              as art & craft, music,
+                                              storytelling etc. Indoor
+                                              and outdoor play is
+                                              strongly encouraged.
+------------------------------------------------------------------------------------
+
+Some more details about Shishu Vihar may be found [here](https://www.facebook.com/pg/Sishu-Vihar-441328895915841/about/).
+
+## Resources for Teaching and Research
+To get started in the Institute, you can familiarize yourself with the resources available for helping you teach and conduct research effectively. The [Academic Rules](#sec:acadrules) discuss all aspects related to courses, curricula and other teaching related aspects. The Institute, while encouraging you to apply for external grants to support your research, also provides you a Seed grant to get you started on your research projects. More details on this are available [here](#sec:researchfunding). You also have access to a Research and Development Fund (RDF) that can be used with more flexibility for your research. Your academic unit would also have a Department Development Fund to support development activities of interest to your department as a whole. These are discussed in greater detail [here](#sec:rdfddf).
+
+In addition to research projects, one may also take on [consultancy projects](sec:consultancy) that for external organzations. Finally, the [Continuing Education Programme (CEP)](sec:cep) permits you to conduct courses for external organizations through the Institute.
+
+## Lab Space Allotment
+
+As a new faculty (and if you need lab space), you need to contact the
+Head of your Department / Centre / School and discuss with him / her
+about your requirements in advance.
+
+1. After you have been allocated lab space, it may take time to convert it into a proper, functional lab, and this would need your active involvement. You may also need to talk to the Head about the funding required to get the civil, air-conditioning and interior work done through the Estate Office, Electrical Maintenance Division and Design Cell respectively, and so on. Some senior faculty members may also be able to informally mentor you on getting these jobs done efficiently.
+
+2. Please talk to the Head, and find out about existing facilities on campus that might help you get started with something quickly.
+
+3. You may also consider building shared labs with other faculty who work in similar research areas. This might help reduce the resources required (including space), get you a partner to share in the effort, and thereby move things faster till you establish your own laboratory.
+
+Please consider volunteering to help your Head on resource planning so
+these issues become progressively easier for future colleagues who
+come after you.
+
+## Life in Powai and beyond
+
+(This section has external links for your information. IITB cannot take any responsibility for these.)
+
+The city of Mumbai offers a wealth of cultural and entertainment
+resources to its residents, befitting a global metropolis. This
+includes famous places of worship, ancient historical caves, several
+art and science museums, many theatres for plays and musical
+performances, restaurants/cafes featuring cuisines from around the
+world, amusement parks for children and adults, and one of the few
+national parks inside a big city anywhere in the world (from where we
+get periodic Campus visits by leopards!).
+
+One caveat is that traffic outside of campus may be a nightmare,
+especially during office commuting hours (and even more so during the
+very long monsoon season), so one may be well-advised to venture out
+on weekends. In many situations, the well-developed train network may
+get you to your destination on time with more certainty. A lot of hope
+rests on the upcoming metro network. Its construction, however, has
+added to traffic woes right now, but upon completion, it will benefit
+commuters from IITB and the nearby areas. [Here is the dream
+anyway](https://en.wikipedia.org/wiki/Mumbai_Metro).
+
+Powai and neighbouring areas beyond the Campus, particularly
+Hiranandani Gardens, have evolved into a bustling and 'happening' part
+of Mumbai with regard to restaurants, cafes, pubs etc. (It is also
+generally well-provisioned, in terms of everything from doctors and
+chemists to yoga and arts classes - however, one does not need to
+leave Campus for most of these!)
 
 ## Should you choose to leave
 
@@ -1538,7 +1724,7 @@ As a faculty member of a premier Institute of the country, you are always under 
 3. Criticism of the Institute in any mass media (print or electronic) is not permitted. (To give vent to your frustration if any, the Computer Centre of the institute has provided a discussion group called the 'discuss-faculty' where you can write and engage your colleagues in a debate on matters about which you feel strongly. This newsgroup is not moderated but it is good to use restrained language).
 3. _Redressal of Grievances:_: If you have a grievance, try to sort it out by meeting the concerned Dean, the Deputy Director or the Director. If you would like to make a written representation, the first course is the Director. If his response leaves you dissatisfied, you may make representation to the Chairman of the Board. Such representation should be through the Director. In extreme cases, you may take your grievance to the Visitor (who is the President of India). However, in all cases, you should go through what is known as proper channel, i.e., route all your representation through HOD, Director and the Chairman, in that order. The forwarding authority does not have the right to stop your representation being forwarded upwards excepting in circumstances such as (i) a similar petition made earlier has been disposed of and no new facts are brought out in the new petition, (ii) your representation is not to the appropriate authority, or (iii) the petition is against a decision which is final by any law or statute. In such cases, the appropriate authority will write you a reply explaining the reasons why your petition may not be forwarded.
 4. You may, of course, seek to redress grievances in a court of law without any permission. However, it is in good taste to first exhaust all possibilities of finding a solution to  your problems within the internal framework as stated above.
-5. _Social media usage poicy_: TODO
+5. _Social media usage policy_: Social media posts from IITB connected official accounts are governed by rules specified in [this document](https://www.iitb.ac.in/sites/www.iitb.ac.in/files/Guidelines%20For%20Use%20Of%20Offical%20IIT%20Bombay%20Accounts%20On%20Social%20Media_2.pdf).
 
 ### Sexual Harassment and Gender Cell
 
@@ -1642,133 +1828,7 @@ one’s contributions are to be assessed, these weightages shall apply.
 
 It is possible, as one grows into one’s career and gets into the positions of an Associate Professor and Professor, that these profiles may change somewhat: teaching may become easier, one may get more involved with departmental and Institute’s administration, etc. The Institute therefore recognizes that these weightages may change at these levels, at the choice of the faculty member.
 
-The different responsibilities are listed below:
-
-1. **Regular faculty**:
-   - *Appointment details*: Full time permanent appointments at any
-     level (Assistant, Associate and full Professors) . These are made
-     through a selection committee or through invitation by BOG.
-   - *R&D activities*:
-      - They are eligible for a one time seed grant from the Institute. They can also take up all types of R&D Projects, including consultancy projects.
-      - They can promote companies in SINE.
-      - They can be Directors of companies as per Institute norms.
-     - Eligible for one time seed grant, can take up all R&D Projects which includes consultancy
-   - *Academic activities*: They can guide students, and participate in all academic activities of the institute.
-   - *Administration related activities*: They can take up admin work as delegated by the Institute/department from time to time.
-
-2. **Assistant Professor (Grade-II)**:
-   - *Appointment details*: Equivalent to regular faculty; appointed thus because they are short of the 3-year post-PhD experience required for appointment as regular Assistant Professor; likely to be regularized when this requirement is met.
-   - *R&D activities*:
-      - They are eligible for a one time seed grant from the Institute. They can also take up all types of R&D Projects, including consultancy projects.
-      - They can promote companies in SINE.
-      - They can be Directors of companies as per Institute norms.
-   - *Academic activities*: They can guide students, and participate in all academic activities of the institute.
-   - *Administration related activities*: They can take up admin work as delegated by the Institute/department from time to time.
-
-3. **On contract (on scale) and Distinguished Professor**:
-   - *Appointment details*: Appointed (through a recommendation by Institute Standing Committee for faculty appointment) for specific duration and may/may not be considered for regularisation (includes faculty on exchange from other IITs).
-   - *R&D activities*: Same as #1, except that
-	 - They are not eligible for Seed Grant
-	 - They may be PIs, but a Co-PI who has to give a declaration that
-       he/she will take responsibility of the project deliverables is mandatory.
-   - *Academic activities*: They can be Guides, but with a mandatory Co-Guide, depending on the duration of the appointment; Co-guide has to give a declaration to take responsibility of the students.
-   - *Administration related activities*:
-     - Cannot be members of any statutory committees or of any
-       department committees appointed by the Director (such as DPC,
-       DUGC, DPGC, Search committees, etc.).
-
-4. **Emeritus Fellow (on contract but not on scale)**:
-   - *Appointment details*: Appointment of retired faculty for a period of two-three years. Not to be treated as regular faculty. (The terms of appointment will be included in their appointment letter)
-   - *R&D activities*: Same as #3
-   - *Academic activities*: Same as #3. In addition, they will be invited to the senate.
-   - *Administration related activities*: Same as #3.
-
-5. **Emeritus Professor**:
-   - *Appointment details*: Honorary Position given to faculty for their contribution to the institute. Only titular appointments.
-   - *R&D activities*:
-      - May be only mentors for R&D projects and not Investigators.
-	  - Could be taken as external consultants in projects undertaken by other regular faculty.
-   - *Academic activities*:
-     - Cannot be Guides/ Co-Guides for students.
-     - Cannot be members of RPC.
-     - Can be external Co-guides, subject to prior approval of Dean (AP).
-   - *Administration related activities*: No administrative activities allowed.
-
-6. **Emeritus Scientist**:
-   - *Appointment details*: Retired professionals carrying out
-     specific R&D projects funded by government agencies, at the
-     Institute (Institute’s offer will be for a visiting honorary
-     position, based on a recommendation by the standing Institute
-     Standing Committee but the salary/fellowship will come from the
-     project/scheme).
-   - *R&D activities*:
-     - Will be able to operate only their projects.
-     - All such applications will need to be routed through Dean (FA).
-     - IRCC will implement the project as per norms.
-     - Not eligible to submit new projects through IRCC.
-     - No RDF accrual from overheads, only to IRCC and to DDF.
-   - *Academic activities*: Same as #5.
-   - *Administration related activities*: Same as #5.
-
-7. **Visiting Faculty**:
-   - *Appointment details*: Visit the Institute for a duration ranging from a few weeks to three years on a continued basis: such faculty would have a permanent position elsewhere in academia, industry or other organizations.
-Visit the Institute on a part time basis, generally for teaching (up to three days a week).
-   - *R&D activities*:
-      - Cannot be PIs or Co-PIs.
-	  - No financial/administrative powers in projects.
-	  - Can participate only in technical activities of Sponsored projects
-	 - May be retained as external consultant in consultancy projects as per norms.
-	 -  No faculty fee allowed in projects other than through the external consultant mode.
-   - *Academic activities*:
-     - Can be Co-Guides for M.Tech / M.Sc students / PhD students based on duration of association.
-     - Cannot be members of RPCs.
-   - *Administration related activities*: No administrative activities allowed.
-
-8. **Adjunct Faculty**:
-   - *Appointment details*: Visit the Institute on a part time basis, generally for teaching (up to four days a week).
-   - *R&D activities*:
-      - Can be associated only as an  Investigator and only in Sponsored research projects.
-      - May be retained as external consultant in projects, as per norms.
-      - No faculty fee allowed in projects other than through the external consultant mode.
-   - *Academic activities*: Same as #7.
-   - *Administration related activities*: Same as #7.
-
-9. **Professors of Practice**:
-   - *Appointment details*:
-     - They must be top professionals (CEO/CTO) with significant experience, typically about 20 years.
-     - Honorary appointment to be made by Institute based on the recommendation of the Institute Standing Committee; the salary will be paid from the projects as applicable.
-   - *Academic activities*:
-     - Design, development and offering of new practice-oriented courses.
-     - Advise students in their projects linking them with appropriate external stakeholders.
-     - Engage in department building activities including creation of new
-       programmes and Centres and enhancement of scope and activities of the department.
-     - Develop Continuing Education Programmes, undertake outreach activities and conduct extension programmes
-     - Encourage students in innovation and entrepreneurship projects and provide necessary mentorship for these activities; and contribute to enhanced industry academia collaborations.
-     - Professors of Practice are expected to guide Master’s students in their research and be co-guides to Ph. D. students.
-
-9. **Non-faculty Project PIs**:
-   - *Appointment details*:
-     - Temporary research personnel who would like to carry out GoI funded projects at the Institute e.g.: Women Scientist, Fast Track etc.
-	 - Honorary appointment to be made by Institute based on the recommendation of the Institute Standing Committee; the salary will be paid from the projects as applicable.
-     - Those who wish to apply for Ramanujan, Ramalingaswami, INSPIRE fellowships must first apply for regular faculty positions in the Institute and get selected before applying for these fellowships.
-   - *R&D activities*: Project proposals will be routed to the Head of
-     the Academic Unit as for review / approval and forwarding by
-     Institute [even though appointment is through Dean (FA)]. IRCC
-     will be responsible only for implementation of these projects.
-   - *Academic activities*: None.
-   - *Administration related activities*: As assigned by the HoD.
-
-10. **Retired Faculty (less than three years from superannuation)**:
-   - *Appointment details*: Regular Faculty who are nearing superannuation
-   - *R&D activities*: Same as #3 except the mandatory Co-PI requirement may be waived depending upon the duration of the project.
-   - *Academic activities*: Same as #3.
-   - *Administration related activities*: Same as #1.
-
-11. **Any other designation/ category**:
-   - *Appointment details*: Appointment will be as per the approval of the Director.
-   - *R&D activities*: All terms and conditions will be as approved by the Director.
-   - *Academic activities*: All terms and conditions will be as approved by the Director.
-   - *Administration related activities*: All terms and conditions will be as approved by the Director.
+The various designations of faculty in the Institute, along with their responsibilities, is listed in the [next chapter](sec:facultygrades).
 
 <!---
 The Board of Governors has approved a proposal, based on the above considerations, to implement a process of Annual self assessment for all faculty, beginning 2014. The Institute Faculty Affairs Committee (IFAC), an advisory body to the Dean (FA), has finalized the templates for carrying out this assessment, and the details are available on Dean (FA)'s webpage http://internal.iitb.ac.in/imcwork/faculty/ (also linked from the Institute's main webpage, under 'Internal links').
@@ -1781,7 +1841,7 @@ The Board of Governors has approved a proposal, based on the above consideration
 
 <!-- [^performance]: The performance criteria are fairly clearly spelt out (see the Dean(FA)'s webpage), and it is expected in the course of two to three years that the performance criteria get linked to the annual self-assessments mentioned above. -->
 
-## Academic Rules
+## Academic Rules {#sec:acadrules}
 As a faculty member, the academic responsibilities include: (i)
 teaching existing courses (ii) starting new courses (iii) evaluating
 student performance in courses (iv) supervising research performed by
@@ -1859,7 +1919,7 @@ supervision entails certain basic criteria.
 8. Student supervision can also be done jointly with faculty or staff of other universities or educational institutes. In some cases, such as the IITB-Monash Research Academy, the Institute facilitates joint advising of students across Institutes. In other cases, permission may be sought from the Dean (AP) having co-guides from outside IITB.
 
 
-## Research Funding
+## Research Funding {#sec:researchfunding}
 
 Research funding could be one of the following three types
    1. (Institute) Seed Grant
@@ -1967,7 +2027,7 @@ While good teaching and research is likely reward enough, the both you and the I
 
 The procedure to apply for these awards is available on the [IRCC Awards webpage](https://rnd.iitb.ac.in/awards).
 
-There are also several external awards and fellowships that you can apply for. One such list is available [here](https://www.iitk.ac.in/dofa/awards-honors). TODO: keep IITK link?
+There are also several external awards and fellowships that you can apply for. One such list (from IIT Kanpur) is available [here](https://www.iitk.ac.in/dofa/awards-honors).
 
 ## ERP-SAP Activities
 IIT Bombay has recently deployed leading Enterprise Resource Planning
@@ -2036,22 +2096,6 @@ The following services for specific activities managed by ASC are available thro
   - [Helpdesk.hcm@iitb.ac.in](mailto:Helpdesk.hcm@iitb.ac.in): For
     problems with leave application or any other issue on ESS portal.
   - All services provided by ASC: [asc.help@iitb.ac.in](mailto:asc.help@iitb.ac.in).
-
-## Lab Space Allotment
-
-As a new faculty (and if you need lab space), you need to contact the
-Head of your Department / Centre / School and discuss with him / her
-about your requirements in advance.
-
-1. After you have been allocated lab space, it may take time to convert it into a proper, functional lab, and this would need your active involvement. You may also need to talk to the Head about the funding required to get the civil, air-conditioning and interior work done through the Estate Office, Electrical Maintenance Division and Design Cell respectively, and so on. Some senior faculty members may also be able to informally mentor you on getting these jobs done efficiently.
-
-2. Please talk to the Head, and find out about existing facilities on campus that might help you get started with something quickly.
-
-3. You may also consider building shared labs with other faculty who work in similar research areas. This might help reduce the resources required (including space), get you a partner to share in the effort, and thereby move things faster till you establish your own laboratory.
-
-Please consider volunteering to help your Head on resource planning so
-these issues become progressively easier for future colleagues who
-come after you.
 
 ## Assessment and Promotion Policies
 
@@ -2456,10 +2500,10 @@ be invited to submit a research proposal to IRCC for possible funding of
 up to ₹5,00,000/- (Rupees Five Lakhs only).
 
 
-## Continuing Education Programmes
+## Continuing Education Programmes {#sec:cep}
 The Institute has an active 'Continuing Education Programme (CEP)', which is managed by the CEP cell. This cell also co-ordinates the 'Quality Improvement Programme', a programme of the Government of India to upgrade the skills of practicing teachers in Engineering colleges in the country. You can offer courses to Industry in specific areas of your expertise, through the CEP cell. Courses to academics are offered under the QIP programme. Details are available on the [CEP webpage](http://www.iitb.ac.in/~cep/about/index.html).
 
-## Consultancy
+## Consultancy {#sec:consultancy}
 The Institute has rather liberal rules on consultancy, in order to
 facilitate the interaction of its faculty members with industry. All
 your consultancy work must be processed through the Institute (Dean
@@ -2660,7 +2704,7 @@ deducted as appropriate.
 
 Note: Earnings for Technology Transfer, Revenue Sharing and Royalty will be governed by the Intellectual Property Policy of the Institute.
 
-## Research and Development Fund (RDF) and Department Development Fund (DDF) rules
+## Research and Development Fund (RDF) and Department Development Fund (DDF) rules {#sec:rdfddf}
 
 IRCC, the office of the Dean R&D, incentivizes faculty to pursue
 extramural R&D funding by ploughing a portion (15% at the time of
@@ -2710,72 +2754,137 @@ promote student driven startups and innovations.
 
 [^sine]: Details of the vision and mission, as well as the rules and procedures for incubating a company under SINE are available at http://www.sineiitb.org/
 
-# Benefits
+# Faculty designations and responsibilities {#sec:facultygrades}
+The various designations in the faculty cadres along with their responsibilities to the Institute is listed below:
 
-## Housing
+1. **Regular faculty**:
+   - *Appointment details*: Full time permanent appointments at any
+     level (Assistant, Associate and full Professors) . These are made
+     through a selection committee or through invitation by BOG.
+   - *R&D activities*:
+      - They are eligible for a one time seed grant from the Institute. They can also take up all types of R&D Projects, including consultancy projects.
+      - They can promote companies in SINE.
+      - They can be Directors of companies as per Institute norms.
+     - Eligible for one time seed grant, can take up all R&D Projects which includes consultancy
+   - *Academic activities*: They can guide students, and participate in all academic activities of the institute.
+   - *Administration related activities*: They can take up admin work as delegated by the Institute/department from time to time.
 
-The institute has undergone significant expansion and increase in number of students over the last decade and a half. The increase in student numbers has led to a commensurate increase in the number of faculty members on the campus. Thus, the present dwelling numbers on the campus are insufficient. Though, new constructions are underway, there is expected to be shortage of housing on campus for some more time. In most cases, the new faculty may take up on-campus housing flatlets like the Staff Hostel, Vihar House and CSRE D Types. However, some faculty may want a “proper apartment” owing to family constraints or due to non-availability of the flatlets. In such situations, some may opt for off-campus housing. These off-campus housing once identified and allotted are treated as an extension of the IITB housing. There are several considerations to be made when scouting for an apartment. Below are a few points to be considered with regard to off-campus housing.
+2. **Assistant Professor (Grade-II)**:
+   - *Appointment details*: Equivalent to regular faculty; appointed thus because they are short of the 3-year post-PhD experience required for appointment as regular Assistant Professor; likely to be regularized when this requirement is met.
+   - *R&D activities*:
+      - They are eligible for a one time seed grant from the Institute. They can also take up all types of R&D Projects, including consultancy projects.
+      - They can promote companies in SINE.
+      - They can be Directors of companies as per Institute norms.
+   - *Academic activities*: They can guide students, and participate in all academic activities of the institute.
+   - *Administration related activities*: They can take up admin work as delegated by the Institute/department from time to time.
 
-The institute provides temporary accommodation in the Guest House to the new faculty member immediately after they join, up to a period of 1 month. The guest house charges are applicable and have to be borne by the faculty if this initial period of 30 days is exceeded. It is thus recommended that a search for off-campus housing be initiated as soon as the joining formalities are completed.
+3. **On contract (on scale) and Distinguished Professor**:
+   - *Appointment details*: Appointed (through a recommendation by Institute Standing Committee for faculty appointment) for specific duration and may/may not be considered for regularisation (includes faculty on exchange from other IITs).
+   - *R&D activities*: Same as #1, except that
+	 - They are not eligible for Seed Grant
+	 - They may be PIs, but a Co-PI who has to give a declaration that
+       he/she will take responsibility of the project deliverables is mandatory.
+   - *Academic activities*: They can be Guides, but with a mandatory Co-Guide, depending on the duration of the appointment; Co-guide has to give a declaration to take responsibility of the students.
+   - *Administration related activities*:
+     - Cannot be members of any statutory committees or of any
+       department committees appointed by the Director (such as DPC,
+       DUGC, DPGC, Search committees, etc.).
 
-An off-campus rented apartment requires consideration of the amount of rent, brokerage, escalation clause, and issues related to maintenance and movement charges. The institute has evolved a policy on the amount of rent that can be paid. The decisions regarding the amount of rent, brokerage, and escalation clause are usually handled by the Associate Dean IPS-2 and its Office. As a first step, new faculty members  are advised to contact the office of Associate Dean-2 Infrastructure and Planning (IPS) to obtain information on the rental limits and other rules regarding off-campus accommodation. It is recommended that the initial negotiated rent is limited to within the stipulated amount. The terms and issues regarding the escalation are handled by the Associate Dean IPS-2’s office. The maintenance and movement charges are usually expected to be borne by the faculty.
+4. **Emeritus Fellow (on contract but not on scale)**:
+   - *Appointment details*: Appointment of retired faculty for a period of two-three years. Not to be treated as regular faculty. (The terms of appointment will be included in their appointment letter)
+   - *R&D activities*: Same as #3
+   - *Academic activities*: Same as #3. In addition, they will be invited to the senate.
+   - *Administration related activities*: Same as #3.
 
-The Associate Dean IPS-2’s office may also offer help for searching and to identify estate agents that can facilitate the search for apartments for a suitable and affordable apartment. A list of previously rented apartments or apartments newly offered on rent may be already be available with the Office of the Associate Dean IPS-2. These may considered by new faculty for potential allotment. The identification of the apartment could also be done personally with the help of an agent, or by consulting websites that offer such solutions.
+5. **Emeritus Professor**:
+   - *Appointment details*: Honorary Position given to faculty for their contribution to the institute. Only titular appointments.
+   - *R&D activities*:
+      - May be only mentors for R&D projects and not Investigators.
+	  - Could be taken as external consultants in projects undertaken by other regular faculty.
+   - *Academic activities*:
+     - Cannot be Guides/ Co-Guides for students.
+     - Cannot be members of RPC.
+     - Can be external Co-guides, subject to prior approval of Dean (AP).
+   - *Administration related activities*: No administrative activities allowed.
 
-The contract or the lease agreement is drawn with IIT Bombay as the party and the letter of allotment is then issued by the Accommodation Allotment Committee (AAC). The duration of the lease should be checked carefully, since, it may be possible that these rented premises may have to occupied for an extended period of time. After moving to the apartment, the usual day to day maintenance is expected to be handled by the allottee.
+6. **Emeritus Scientist**:
+   - *Appointment details*: Retired professionals carrying out
+     specific R&D projects funded by government agencies, at the
+     Institute (Institute’s offer will be for a visiting honorary
+     position, based on a recommendation by the standing Institute
+     Standing Committee but the salary/fellowship will come from the
+     project/scheme).
+   - *R&D activities*:
+     - Will be able to operate only their projects.
+     - All such applications will need to be routed through Dean (FA).
+     - IRCC will implement the project as per norms.
+     - Not eligible to submit new projects through IRCC.
+     - No RDF accrual from overheads, only to IRCC and to DDF.
+   - *Academic activities*: Same as #5.
+   - *Administration related activities*: Same as #5.
 
-The institute has rules and regulations regarding allotment and entitlement of housing to faculty and staff of the institute. The details of these can be found on the Dean IPS website. The off-campus housing is treated as transit accommodation provided by IITB. Thus, availing the off-campus housing does not affect the entitlement or the seniority of the faculty within the ambit of the defined rules. The rented premises may have to vacated due to several reasons with the happy one being movement to campus.
+7. **Visiting Faculty**:
+   - *Appointment details*: Visit the Institute for a duration ranging from a few weeks to three years on a continued basis: such faculty would have a permanent position elsewhere in academia, industry or other organizations.
+Visit the Institute on a part time basis, generally for teaching (up to three days a week).
+   - *R&D activities*:
+      - Cannot be PIs or Co-PIs.
+	  - No financial/administrative powers in projects.
+	  - Can participate only in technical activities of Sponsored projects
+	 - May be retained as external consultant in consultancy projects as per norms.
+	 -  No faculty fee allowed in projects other than through the external consultant mode.
+   - *Academic activities*:
+     - Can be Co-Guides for M.Tech / M.Sc students / PhD students based on duration of association.
+     - Cannot be members of RPCs.
+   - *Administration related activities*: No administrative activities allowed.
 
-## Medical Facilities
-During the period of service, a staff member and his dependents (the term _dependent_ is clearly defined in the Service Rules, see Chapter 3) are provided medical facilities at the IIT Hospital, and whenever required, at various hospitals in the city which are empanelled by the Institute. Medical facility for employee and spouse is also available after retirement on a contributory basis (see the section on PRMS below).
+8. **Adjunct Faculty**:
+   - *Appointment details*: Visit the Institute on a part time basis, generally for teaching (up to four days a week).
+   - *R&D activities*:
+      - Can be associated only as an  Investigator and only in Sponsored research projects.
+      - May be retained as external consultant in projects, as per norms.
+      - No faculty fee allowed in projects other than through the external consultant mode.
+   - *Academic activities*: Same as #7.
+   - *Administration related activities*: Same as #7.
 
-### IITB Hospital
-The Institute has a reasonably well-equipped Hospital with both in-patient and out-patient facilities. In addition to several full time doctors, there are several visiting specialists who attend the Hospital on certain days and are available for consultation. The Hospital also provides for dental care as well as for homeopathic medicine. Basic diagnostic facilities are provided at the Institute Hospital. These include pathology, X-Rays, Sonography, ECG etc. The Hospital also has a physiotherapy section. The Hospital administration is headed by a Chief Medical Officer (CMO)[^cmo]. A Committee known as the "Hospital and Health Advisory Committee (HHAC)" headed by a Professor of the Institute acts as a general policy watchdog for the Hospital and related issues. This Committee reviews Hospital policies from time to time and recommends measures that need to be taken to improve Hospital services. All major reimbursement claims are also recommended for approval by this committee.
+9. **Professors of Practice**:
+   - *Appointment details*:
+     - They must be top professionals (CEO/CTO) with significant experience, typically about 20 years.
+     - Honorary appointment to be made by Institute based on the recommendation of the Institute Standing Committee; the salary will be paid from the projects as applicable.
+   - *Academic activities*:
+     - Design, development and offering of new practice-oriented courses.
+     - Advise students in their projects linking them with appropriate external stakeholders.
+     - Engage in department building activities including creation of new
+       programmes and Centres and enhancement of scope and activities of the department.
+     - Develop Continuing Education Programmes, undertake outreach activities and conduct extension programmes
+     - Encourage students in innovation and entrepreneurship projects and provide necessary mentorship for these activities; and contribute to enhanced industry academia collaborations.
+     - Professors of Practice are expected to guide Master’s students in their research and be co-guides to Ph. D. students.
 
-[^cmo]: Currently, Dr. Nisha Shah.
+10. **Non-faculty Project PIs**:
+   - *Appointment details*:
+     - Temporary research personnel who would like to carry out GoI funded projects at the Institute e.g.: Women Scientist, Fast Track etc.
+	 - Honorary appointment to be made by Institute based on the recommendation of the Institute Standing Committee; the salary will be paid from the projects as applicable.
+     - Those who wish to apply for Ramanujan, Ramalingaswami, INSPIRE fellowships must first apply for regular faculty positions in the Institute and get selected before applying for these fellowships.
+   - *R&D activities*: Project proposals will be routed to the Head of
+     the Academic Unit as for review / approval and forwarding by
+     Institute [even though appointment is through Dean (FA)]. IRCC
+     will be responsible only for implementation of these projects.
+   - *Academic activities*: None.
+   - *Administration related activities*: As assigned by the HoD.
 
-### Your medical file
-The Hospital maintains a family file for every employee, which is available in the outer office. For an outpatient (OPD) consultation, the file has to be presented at the Hospital reception, who will print out a blank prescription slip. Before your face becomes familiar with the Hospital staff, you may be asked for your identity card, which also spells out your medical entitlement. Please do not take offence on such request.  The slip along with the file is to be taken to the doctor who you wish to see. Each visit to the doctor costs you _one rupee_ which is directly debited from the salary.
+11. **Retired Faculty (less than three years from superannuation)**:
+   - *Appointment details*: Regular Faculty who are nearing superannuation
+   - *R&D activities*: Same as #3 except the mandatory Co-PI requirement may be waived depending upon the duration of the project.
+   - *Academic activities*: Same as #3.
+   - *Administration related activities*: Same as #1.
 
-### Healthcare
-
-For regular medical officers (doctors) of the Hospital, there is no
-system of taking an appointment. For visiting specialists, one has to
-take an appointment. Some of the specialists will only give
-appointments when recommended by a regular medical officer. For
-scheduling such an appointment, you have to contact the reception.
-
-Any medicine prescribed by the doctor on duty can be obtained from the Pharmacy attached to the Hospital. If a prescribed medicine is not available, one has to take a separate prescription for the same to purchase it from the market. The Institute reimburses the cost of medicines purchased from outside which could not be supplied from the Institute Pharmacy. Similarly, the cost of consultation, pathological or radiological investigations carried out outside the IIT Hospital on recommendation of the Institute doctors are also reimbursable. In some cases, only 80% of the cost is reimbursable. There are some fine prints to reimbursement rules (for instance, cost of spectacles or contact lenses or the cost of dental treatment in an outside clinic or hospital etc. are not reimbursable even when recommended by a medical officer of the Hospital). You can get a list of recognized hospitals and reimbursements at [https://www.iitb.ac.in/hospital/hindi/RecognisedHospitalList_tabular.html](https://www.iitb.ac.in/hospital/hindi/RecognisedHospitalList_tabular.html).
-
-In case of illnesses which require hospitalization of a specialized nature (as may be determined by the C.M.O.), a patient may be referred to one of the many hospitals in the city which are recognized by I.I.T. The entitlement in the hospitals (i.e. the type of room or bed that can be availed) depends on the employee’s salary and it is good to enquire about exact entitlement from the administration. While expenses in all Government Hospitals and several charitable hospitals (such as Sushrusha Hosp., Dadar, and the Tata Memorial Hospital) is reimbursed 100%, the Institute only reimburses 80% of the cost in recognized Hospitals with sophisticated facilities and some specialty Hospitals[^hwebsite].
-
-While basic pathology is available in the Hospital, the Institute Hospital has an arrangement with a few specialized pathology laboratories[^ranbaxy] for some advanced tests. For this purpose staff from these labs visit the Institute Hospital on specified days to collect samples. Hospital Doctor’s recommendation is required for use of this facility.
-
-The Institute recognizes a few radiological centres for investigations with MRI, C.T. Scan, Digital X-rays etc. Hospital Doctor’s recommendation is required for use of this facility.
-
-The Institute Hospital provides all major vaccinations for children. It is a good idea for parents to retain records of such vaccinations, as such data is increasingly being required for various purposes in future.
-
-The hospital has an ambulance which works 24 × 7 for transportation of patients within the campus and for transporting patients to hospitals outside when referred to by the IIT Hospital.
-
-[^hwebsite]: The hospital website http://www.iitb.ac.in/hospital/ has a link to the list of recognized hospitals. This list is updated as and when new hospitals are added and hospitals removed.
-
-[^ranbaxy]: Such as Ranbaxy Clinical Reference Laboratories, Raptakos Brett Testing Lab, Sanjeevani Diagnostic Centre.
+12. **Any other designation/category**:
+   - *Appointment details*: Appointment will be as per the approval of the Director.
+   - *R&D activities*: All terms and conditions will be as approved by the Director.
+   - *Academic activities*: All terms and conditions will be as approved by the Director.
+   - *Administration related activities*: All terms and conditions will be as approved by the Director.
 
 
-### OPD facilities for visiting parents
-Though they may not be officially your dependents, the Institute offers OPD facilities to visiting parents of the employee and of employee's spouse. This facility is offered for a period of six months on payment of ₹ 1,500/- and for a year on payment of ₹ 3,000/-. They will be treated on 'non-entitled' basis; however, medicines etc. will have to be purchased from outside without any reimbursement.
-
-### Medical advance, reimbursement, etc.
-
-When an employee or a dependent is admitted to an outside hospital, up to 80% of the estimated cost can be provided as an advance to the employee.
-
-For the benefit of staff members staying outside the campus (as also for staff on vacation/leave), a list of Medicare Centres/Hospitals[^hosplist] is approved for OPD treatment. Medicines purchased on prescription by doctors from these hospitals are reimbursed fully. However, further referrals from these hospitals to outside hospitals need to be sanctioned by the IITB Hospital.
-
-[^hosplist]: These hospitals, at present, are: Pragati Mitra Mandal (Mulund(W)), Smt. Nand Kunverben Rasiklal Seth Hosp. (Borivali (W)), Malad Jain Yuvak Mandal Med. Relief Centre (Malad (W)), Lions Clinic (Matunga), Vasani Diagnostic Centre (Andheri) and Seth Nanji Gangji Charitable Polyclinic (Dombivali). See the hospital website for up-to-date information.
-
-For reimbursement, separate forms for OPD (inclusive of cost of medicine purchased from outside) and indoor treatment,  available in the Hospital office[^websiteforms], should be filled up and submitted along with cash memos within three months. Please note that except in case of emergency, no reimbursement is permissible unless the reference was made by the IIT Hospital to the outside hospital.
-
-[^websiteforms]: These and most other forms you may require are also downloadable from http://asc.iitb.ac.in.
+# Retirement and Post-Retirement Benefits
 
 ## Healthcare after retirement
 
@@ -2824,80 +2933,6 @@ claim in the first 5 years after retirement from the Institute.
 The amount of contribution, Sum Assured, how the Sum Assured grows
 with time, empanelled hospitals, and so on, are detailed in [this
 webpage](https://www.iitb.ac.in/en/about-iitbombay/new-post-retirement-medical-scheme-2015-onwards).
-
-## Schooling at IIT Bombay
-
-There are three schools on the campus for children: Kendriya Vidyalaya, Campus School, and KG School; plus a full-fledged child care (day care) and play school, Sishu Vihar. The Campus School also has a kindergarten school for children above the age of three. For younger kids there is a private creche (Sishu Vihar, temporarily located at the time of writing in bungalows A-4 and A-5 in the Lakeside area of Campus near the Main Gate), and run by an NGO. There are also several private schools in Powai and nearby areas that are well known.
-
-### Kendriya Vidyalaya (Central School) IIT Powai
-This is part of the Kendriya Vidyalaya Sangathan (KVS) network and is usually ranked among the top government day (i.e. not boarding) schools in India. It has classes I through XII, and is affiliated to the Central Board of Secondary Education (CBSE). Most of the seats here are reserved for the children of IIT employees; with a small fraction reserved for other Central Government organizations. You might have some anxious moments before your child gets admission, but eventually it works out, in almost all cases. In case of exceptional difficulty in getting admission into the Kendriya Vidyalaya, our Director, who is ex-officio the Chairman of the Vidyalaya Management Committee can help out by exercising their discretionary quota. There is also a Professor-in-Charge who you may contact for helpful advice in case of difficulty. More details about KV IIT Bombay may be found on [its webpage](http://www.kviitmumbai.com/English-Homepage).
-
-
-### Campus School and Jr. College
-The IIT Campus School and Jr. College has classes I through XII, and is affiliated to the Maharashtra State Board. It is exclusively for the children of IIT employees. Here, the IITB Director is the Chairman of the School Council, and IIT faculty serve as Associate Chairman and Conveners of Administrative and Academic policy. More details about the Campus School are available [here](http://www.iitcampusschoolmumbai.in/).
-
-### KG School
-The Kindergarten (KG) School comprising two classes (Lower KG and Upper KG) and two shifts, is for children from three to five years of age. Details of Admissions, Facilities, etc. about the KG School may be found [here](http://home.iitb.ac.in/~kgschool/index.html).
-
-
-### Shishu Vihar Child Care Centre
-
-Shishu Vihar is a not-for-profit child care centre, managed by an
-association of parents, catering primarily to the child care needs of
-working parents in IIT Bombay. The Shishu Vihar Management Committee
-(SVMC) is a body of IITB Official Representatives and elected member
-parents. SVMC is responsible for the overall policy, human resources,
-and financial management of the centre.
-
-SV has a group of people with backgrounds in education, psychology,
-special needs, child development, early childhood education, and
-curriculum development. Their education and experience not only
-enables them to understand the needs of children, but also inspires
-them to choose healthy and effective practices in child care.
-
-At the time of writing, Shishu Vihar is located in bungalows A-4 and
-A-5 in the Lakeside area of Campus near the Main Gate. The following
-are its time slots and programs.
-
-
-Slots                                    Hours      Timing
----------------------------------------  ---------  ------------------
-Morning Slot (MS)                        5 hours    8:15 AM to 1:15 PM
-Afternoon Slot (AF)                      5 hours    1:15 PM to 6:15 PM
-3/4 Day Slot (Lower KG School Children)  7.5 hours  Flexible
-Full Day Slot (FD)                       10 hours   8:15 AM to 6:15 PM
-
-------------------------------------------------------------------------------------
-Programs              Eligibility             Description
---------------------  ---------------------   --------------------------------------
-Toddler Program (MS)  18 months               A planned program where
-                                              toddlers are stimulated
-                                              through music, rhymes, books and toys.
-
-Play Group (MS)       2 years                 A structured program
-                                              that focuses on Sensory,
-                                              Language and
-											  Social Development. Children
-                                              are motivated to learn
-                                              and explore through
-											  play.
-
-Junior Club (MS)      3 years                 A systematic program
-                                              that uses reasoning,
-                                              math and language skills
-                                              to facilitate thematic
-                                              learning among children.
-
-Day Care (FD/AS)      18 months to 12 years   Children are exposed to
-                                              various activities such
-                                              as art & craft, music,
-                                              storytelling etc. Indoor
-                                              and outdoor play is
-                                              strongly encouraged.
-------------------------------------------------------------------------------------
-
-Some more details about Shishu Vihar may be found [here](https://www.facebook.com/pg/Sishu-Vihar-441328895915841/about/).
-
 
 ## Retirement Benefits
 While this chapter was originally written primarily for faculty who joined the Institute before 2004 (or who joined later, but with transfer of previous services rendered in Govt or Institutions like IITs), suitable additions/provisions which apply to faculty who joined on or after 1st January, 2004 (National Pension Scheme) have now been incorporated.
@@ -3084,70 +3119,70 @@ withdrawals work, including:
 Up to date information on NPS and details on accessing your account balance
 online are available at the [NPS CRA website](https://npscra.nsdl.co.in/).
 
-# Life in Powai and beyond
+<!-- # Life in Powai and beyond -->
 
-(This section has external links for your information. IITB cannot take any responsibility for these.)
+<!-- (This section has external links for your information. IITB cannot take any responsibility for these.) -->
 
-The city of Mumbai offers a wealth of cultural and entertainment
-resources to its residents, befitting a global metropolis. This
-includes famous places of worship, ancient historical caves, several
-art and science museums, many theatres for plays and musical
-performances, restaurants/cafes featuring cuisines from around the
-world, amusement parks for children and adults, and one of the few
-national parks inside a big city anywhere in the world (from where we
-get periodic Campus visits by leopards!). Some of the attractions are
-listed
-[here](https://www.makemytrip.com/travel-guide/mumbai/places-to-visit.html
-).
+<!-- The city of Mumbai offers a wealth of cultural and entertainment -->
+<!-- resources to its residents, befitting a global metropolis. This -->
+<!-- includes famous places of worship, ancient historical caves, several -->
+<!-- art and science museums, many theatres for plays and musical -->
+<!-- performances, restaurants/cafes featuring cuisines from around the -->
+<!-- world, amusement parks for children and adults, and one of the few -->
+<!-- national parks inside a big city anywhere in the world (from where we -->
+<!-- get periodic Campus visits by leopards!). Some of the attractions are -->
+<!-- listed -->
+<!-- [here](https://www.makemytrip.com/travel-guide/mumbai/places-to-visit.html -->
+<!-- ). -->
 
-One caveat is that traffic outside of campus may be a nightmare,
-especially during office commuting hours (and even more so during the
-very long monsoon season), so one may be well-advised to venture out
-on weekends. In many situations, the well-developed train network may
-get you to your destination on time with more certainty. A lot of hope
-rests on the upcoming metro network. Its construction, however, has
-added to traffic woes right now, but upon completion, it will benefit
-commuters from IITB and the nearby areas. [Here is the dream
-anyway](https://en.wikipedia.org/wiki/Mumbai_Metro).
+<!-- One caveat is that traffic outside of campus may be a nightmare, -->
+<!-- especially during office commuting hours (and even more so during the -->
+<!-- very long monsoon season), so one may be well-advised to venture out -->
+<!-- on weekends. In many situations, the well-developed train network may -->
+<!-- get you to your destination on time with more certainty. A lot of hope -->
+<!-- rests on the upcoming metro network. Its construction, however, has -->
+<!-- added to traffic woes right now, but upon completion, it will benefit -->
+<!-- commuters from IITB and the nearby areas. [Here is the dream -->
+<!-- anyway](https://en.wikipedia.org/wiki/Mumbai_Metro). -->
 
-Powai and neighbouring areas beyond the Campus, particularly
-Hiranandani Gardens, have evolved into a bustling and 'happening' part
-of Mumbai with regard to restaurants, cafes, pubs etc. (It is also
-generally well-provisioned, in terms of everything from doctors and
-chemists to yoga and arts classes - however, one does not need to
-leave Campus for most of these!)
+<!-- Powai and neighbouring areas beyond the Campus, particularly -->
+<!-- Hiranandani Gardens, have evolved into a bustling and 'happening' part -->
+<!-- of Mumbai with regard to restaurants, cafes, pubs etc. (It is also -->
+<!-- generally well-provisioned, in terms of everything from doctors and -->
+<!-- chemists to yoga and arts classes - however, one does not need to -->
+<!-- leave Campus for most of these!) -->
 
-You can get information about all of these at [https://powai.info/](https://powai.info/).
+<!-- You can get information about all of these at [https://powai.info/](https://powai.info/). -->
 
-Powai has its own ‘newspaper’ (!), which you can access at the [Voice
-of Powai website](http://voiceofpowai.blogspot.com/).
+<!-- Powai has its own ‘newspaper’ (!), which you can access at the [Voice -->
+<!-- of Powai website](http://voiceofpowai.blogspot.com/). -->
 
-Here are a few other links/apps that may be useful:
-   1. For online booking of movies, plays etc. - [https://in.bookmyshow.com/mumbai](https://in.bookmyshow.com/mumbai)
+<!-- Here are a few other links/apps that may be useful: -->
+<!--    1. For online booking of movies, plays etc. - [https://in.bookmyshow.com/mumbai](https://in.bookmyshow.com/mumbai) -->
 
-   2. For restaurant information - [Zomato
-      Mumbai](https://www.zomato.com/mumbai) (for online food
-      ordering, there are several mobile apps like Swiggy, Zomato,
-      Uber Eats, Food Panda, and so on)
+<!--    2. For restaurant information - [Zomato -->
+<!--       Mumbai](https://www.zomato.com/mumbai) (for online food -->
+<!--       ordering, there are several mobile apps like Swiggy, Zomato, -->
+<!--       Uber Eats, Food Panda, and so on) -->
 
-   3. For grocery shopping - Big Basket or similar apps (You can
-      arrange with most local vendors, even small shops, to take
-      orders over phone and deliver to your home if that is your
-      preference - this includes chemist, grocer, greengrocer,
-      etc.) Alternatively, if you yearn for the feel of the bazaar,
-      then there is the IIT Market - paradoxically, outside IIT - and
-      other markets in neighbouring areas. Of course, there is also a
-      small shopping enclave in Campus near the ‘Market Gate’ or
-      'Y-point Gate'. D-Mart and Haiko supermarkets are also available
-      within 2 kilometres.
+<!--    3. For grocery shopping - Big Basket or similar apps (You can -->
+<!--       arrange with most local vendors, even small shops, to take -->
+<!--       orders over phone and deliver to your home if that is your -->
+<!--       preference - this includes chemist, grocer, greengrocer, -->
+<!--       etc.) Alternatively, if you yearn for the feel of the bazaar, -->
+<!--       then there is the IIT Market - paradoxically, outside IIT - and -->
+<!--       other markets in neighbouring areas. Of course, there is also a -->
+<!--       small shopping enclave in Campus near the ‘Market Gate’ or -->
+<!--       'Y-point Gate'. D-Mart and Haiko supermarkets are also available -->
+<!--       within 2 kilometres. -->
 
-   4. For home services - Urbanclap or similar apps (offering services
-      ranging from carpentry to personal grooming, and - relevant if
-      you are living off-campus - plumber and electrician).
+<!--    4. For home services - Urbanclap or similar apps (offering services -->
+<!--       ranging from carpentry to personal grooming, and - relevant if -->
+<!--       you are living off-campus - plumber and electrician). -->
 
-   5. For driver services - DriveU or similar apps; and of course, the
-      Ola (an IITB startup!) or Uber app for cab hailing.
+<!--    5. For driver services - DriveU or similar apps; and of course, the -->
+<!--       Ola (an IITB startup!) or Uber app for cab hailing. -->
 
-   6. For domestic staff services (cleaning, cooking etc.) you can
-      usually get tips from neighbours or - if you are living
-      off-campus - the security personnel in your apartment complex.
+<!--    6. For domestic staff services (cleaning, cooking etc.) you can -->
+<!--       usually get tips from neighbours or - if you are living -->
+<!--       off-campus - the security personnel in your apartment complex. -->
