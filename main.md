@@ -1,4 +1,4 @@
-    ---
+---
 title: Faculty Handbook
 numbersections: true
 documentclass: amsbook
@@ -20,29 +20,29 @@ header-includes:
 
 # Preface
 
-Faculty Handbook is the single most important document, which  consolidates much of the information that the faculty members need during their careers at IIT Bombay.  This is the third edition of the hand book; the first two were brought out in … and 2014.
+<!-- Faculty Handbook is the single most important document, which  consolidates much of the information that the faculty members need during their careers at IIT Bombay.  This is the third edition of the hand book; the first two were brought out in … and 2014. -->
 
-IITB is an institution that is adapting dynamically to the evolving changes and endeavoring constantly to be an institution par excellence. Over the years, there have been several far-reaching changes in the governance, recruitment policies, salary structure, etc. In view of certain paradigm changes that have come into being, it was deemed prudent that the faculty handbook is thoroughly revised and updated.
+<!-- IITB is an institution that is adapting dynamically to the evolving changes and endeavoring constantly to be an institution par excellence. Over the years, there have been several far-reaching changes in the governance, recruitment policies, salary structure, etc. In view of certain paradigm changes that have come into being, it was deemed prudent that the faculty handbook is thoroughly revised and updated. -->
 
-A committee with  Prof. Swaroop Ganguly as the Convener prepared the first draft  of the handbook with invaluable inputs from faculty members. Prof.  K. P. Kaliappan, the former Dean (FA) and Prof. Kumar Appaiah have invested a tremendous amount of time to document as many details as possible in the handbook and bring it to this current form. Prof. S. Sudarshan DD (AIA) who has a keen  eye for details reviewed this handbook despite his busy schedule.  The revised draft was gone through by several people, who in turn provided important feedback and input. I must make a particular mention of xxxxx, who checked every detail for accuracy. Subsequently, the document was made accessible to all the faculty members of the institute for their feedback, which was duly taken care of.
+<!-- A committee with  Prof. Swaroop Ganguly as the Convener prepared the first draft  of the handbook with invaluable inputs from faculty members. Prof.  K. P. Kaliappan, the former Dean (FA) and Prof. Kumar Appaiah have invested a tremendous amount of time to document as many details as possible in the handbook and bring it to this current form. Prof. S. Sudarshan DD (AIA) who has a keen  eye for details reviewed this handbook despite his busy schedule.  The revised draft was gone through by several people, who in turn provided important feedback and input. I must make a particular mention of xxxxx, who checked every detail for accuracy. Subsequently, the document was made accessible to all the faculty members of the institute for their feedback, which was duly taken care of. -->
 
-I sincerely wish that this final version, for which the cover has been designed by Industrial Design Centre, will serve as a very handy reference on day-to-day matters for all faculty members.
+<!-- I sincerely wish that this final version, for which the cover has been designed by Industrial Design Centre, will serve as a very handy reference on day-to-day matters for all faculty members. -->
 
-It's with time that we will learn about the written and unwritten rules, some captured succinctly and some left out inadvertently. Nonetheless, a handbook such as this, I believe, is immensely useful for young faculty members, who will not have to consult senior colleagues for everything. Particular effort has therefore been made to address the issues that concern young faculty members.
+<!-- It's with time that we will learn about the written and unwritten rules, some captured succinctly and some left out inadvertently. Nonetheless, a handbook such as this, I believe, is immensely useful for young faculty members, who will not have to consult senior colleagues for everything. Particular effort has therefore been made to address the issues that concern young faculty members. -->
 
-Disclaimer: While every effort has been made to keep the Handbook up-to-date and accurate, it may not be regarded as comprehensive and authoritative. Going by the veryname, it should be viewed as a guide with the details of rules and regulations concerning specifics requiring confirmation from the authorities of administration as and when needed.
+<!-- Disclaimer: While every effort has been made to keep the Handbook up-to-date and accurate, it may not be regarded as comprehensive and authoritative. Going by the veryname, it should be viewed as a guide with the details of rules and regulations concerning specifics requiring confirmation from the authorities of administration as and when needed. -->
 
-Prof. Neela Nataraj
-(Dean, Faculty Affairs)
+<!-- Prof. Neela Nataraj -->
+<!-- (Dean, Faculty Affairs) -->
 
-**Committee Members**
+<!-- **Committee Members** -->
 
-- Prof. Swaroop Ganguly (Convener)
-- Prof. Kumar Appaiah
-- Prof. Ronita Bardhan
-- Prof. Himanshu Bahirat
-- Prof. Subimal Ghosh
-- Prof. Sahana Murthy
+<!-- - Prof. Swaroop Ganguly (Convener) -->
+<!-- - Prof. Kumar Appaiah -->
+<!-- - Prof. Ronita Bardhan -->
+<!-- - Prof. Himanshu Bahirat -->
+<!-- - Prof. Subimal Ghosh -->
+<!-- - Prof. Sahana Murthy -->
 
 # The Institute
 The Indian Institutes of Technology (IITs) were established on the recommendation of a Committee headed by Sir Nalini Ranjan Sarkar, a businessman, educationist, industrialist and public figure. The Committee had recommended the establishment of institutes of national importance to be set up in different regions of India. The first of the IITs was set up in Kharagpur in 1950 at a site in Hijli village which used to be a British-era detention camp. The vision of establishing these Institutes is best stated in the words of India's first Prime Minister Pt. Jawaharlal Nehru in his convocation speech at the Institute:
