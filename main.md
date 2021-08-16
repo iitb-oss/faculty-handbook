@@ -63,7 +63,7 @@ Jubilee in 2018.
 In 1994, a sixth IIT was established in Guwahati, Assam. Seven years
 later, in the year 2001, one of the oldest engineering colleges of the
 country situated in Roorkee, Uttarakhand, was given the status of an
-IIT in its 150th anniversary year. The Government of India decided to
+IIT in its 150$^{\text{th}} anniversary year. The Government of India decided to
 open eight more IITs from the academic year 2008-2009. These are
 located in Bhubaneswar (Odisha), Gandhinagar (Gujarat), Hyderabad
 (Telengana), Indore (Madhya Pradesh), Mandi (Himachal Pradesh), Patna
@@ -188,12 +188,12 @@ Deans. They are as follows:
    alumni, corporate and philanthropic sources ([more
    details](http://www.iitb.ac.in/alumni/en/content/about-acr-office)). There
    is also a Development Office under the Dean (ACR) which catalyses
-   the alumni relations.
+   the alumni relations and funding.
 
    3. _Dean (Research and Development, R&D)_ leads a large office
       called the [Industrial Research and Consultancy
       Center](https://www.ircc.iitb.ac.in/) (IRCC) to take care of
-      sponsored projects and consultancy matters. There is an
+      sponsored projects and consultancy matters as well as filing patents. There is an
       Associate Dean (R&D) assists the Dean (R&D) to discharge his/her
       responsibilities. Later sections of this handbook
       will provide more detail on a few R&D related topics.
@@ -230,7 +230,7 @@ Deans. They are as follows:
       air-conditioners. Associate Dean - II
       (IPS) also serves as the Chairman, Accommodation Allotment
       Committee (AAC); that is, (s)he is directly responsible for Housing
-      related matters. A later section of this handbook will provide
+      related matters. A [later section of this handbook](sec:morehousing) will provide
       more detail on this. The post of Associate Dean - III (IPS) has
       also been proposed and is awaiting approval as of mid-2021.
 
@@ -298,65 +298,68 @@ Below is a list of departments, centres,schools and other functional units.
 
 **Academic Units**
 
-1. Aerospace Engineering
-2. Biosciences and Bioengineering
-3. Chemical Engineering
-4. Chemistry
-5. Civil Engineering
-6. Computer Science & Engineering
-7. Earth Sciences
-8. Electrical Engineering
-9. Energy Science and Engineering
-10. Environmental Science and Engineering
-11. Humanities & Social Sciences
-12. IDC School of Design
-13. Mathematics
-14. Mechanical Engineering
-15. Metallurgical Engineering & Materials Science
-16. Physics
+1. [Aerospace Engineering](https://www.aero.iitb.ac.in/home/)
+2. [Biosciences and Bioengineering](https://www.bio.iitb.ac.in/)
+3. [Chemical Engineering](https://www.che.iitb.ac.in/)
+4. [Chemistry](https://www.chem.iitb.ac.in/)
+5. [Civil Engineering](https://www.civil.iitb.ac.in/)
+6. [Computer Science & Engineering](https://www.cse.iitb.ac.in/)
+7. [Earth Sciences](https://www.geos.iitb.ac.in/)
+8. [Electrical Engineering](https://www.ee.iitb.ac.in/)
+9. [Energy Science and Engineering](https://www.ese.iitb.ac.in/)
+10. [Environmental Science and Engineering](https://www.esed.iitb.ac.in/)
+11. [Humanities & Social Sciences](https://www.hss.iitb.ac.in/)
+12. [IDC School of Design](http://www.idc.iitb.ac.in/)
+13. [Mathematics](http://www.math.iitb.ac.in/)
+14. [Mechanical Engineering](http://www.me.iitb.ac.in/)
+15. [Metallurgical Engineering & Materials Science](https://www.iitb.ac.in/mems/en)
+16. [Physics](https://www.phy.iitb.ac.in/)
 
 **Schools**
 
-1. Shailesh J. Mehta School of Management
-2. Desai Sethi School for Entrepreneurship
+1. [Shailesh J. Mehta School of Management](https://www.som.iitb.ac.in/)
+2. [Desai Sethi School for Entrepreneurship](https://www.iitb.ac.in/dsce/)
 
 **Centres**
 
-1. Centre for Research in Nanotechnology and Science (CRNTS)
-1. Centre for Policy Studies (CPS)
-1. Centre of Studies in Resources Engineering (CSRE)
-1. Centre for Technology Alternatives for Rural Areas (CTARA)
-1. Centre for Urban Science and Engineering (C-USE)
-1. Desai Sethi Centre for Entrepreneurship (DSCE)
+1. [Centre for Research in Nanotechnology and Science (CRNTS)](http://www.saif.iitb.ac.in/crnts/)
+1. [Centre for Policy Studies (CPS)](https://www.cps.iitb.ac.in/)
+1. [Centre of Studies in Resources Engineering (CSRE)](https://www.csre.iitb.ac.in/)
+1. [Centre for Technology Alternatives for Rural Areas (CTARA)](https://www.ctara.iitb.ac.in/)
+1. [[Centre for Urban Science and Engineering (C-USE)]](https://cuse.iitb.ac.in/)
 1. Centre for Liberal Arts, Science and Engineering (C-LASE)
-1. Centre for Machine Intelligence and Data Science (C-MInDS)
+1. [[Centre for Machine Intelligence and Data Science (C-MInDS)]](https://www.minds.iitb.ac.in/)
 1. Koita Centre for Digital Health (KCDH)
 
 **Interdisciplinary Programs**
 
-1. Climate Studies
-2. Educational Technology (ET)
-3. Industrial Engineering and Operations Research (IEOR)
-4. Systems and Control Engineering (SYSCON)
+1. [Climate Studies](https://www.climate.iitb.ac.in/)
+2. [Educational Technology (ET)](http://www.et.iitb.ac.in/)
+3. [Industrial Engineering and Operations Research (IEOR)](https://www.ieor.iitb.ac.in/)
+4. [Systems and Control Engineering (SYSCON)](https://www.sc.iitb.ac.in/)
 
 
 **Functional Units**
 
-1. Application Software Centre (ASC)
-2. Centre for Aerospace Systems Design and Engineering (CASDE)
-3. Computer Centre (CC)
-4. Centre for Distance Engineering Education Programme (CDEEP)
-5. Centre for Formal Design and Verification of Software (CFDVS)
-6. IITB-Monash Research Academy
-7. National Centre for Aerospace Innovation and Research (NCAIR)
-8. National Center of Excellence in Technology for Internal Security (NCETIS)
-9. National Centre for Mathematics (NCM)
-10. Parimal and Pramod Chaudhari Center for Learning and Teaching (PPCCLT)
-11. Sophisticated Analytical Instrument Facility (SAIF)
-12. Tata Center for Technology and Design (TCTD)
-13. Wadhwani Research Centre for Bioengineering (WRCB)
-14. [Computer Centre](https://www.cc.iitb.ac.in)
+1. [Application Software Centre (ASC)](https://www.asc.iitb.ac.in/)
+2. [Centre for Aerospace Systems Design and Engineering (CASDE)](https://rnd.iitb.ac.in/node/101509)
+3. [Computer Centre (CC)](https://www.cc.iitb.ac.in/)
+4. [Centre for Distance Engineering Education Programme (CDEEP)](https://www.cdeep.iitb.ac.in/)
+5. [Centre for Formal Design and Verification of Software (CFDVS)](http://www.cfdvs.iitb.ac.in/)
+6. [IITB-Monash Research Academy](https://www.iitbmonash.org/)
+7. [National Centre for Aerospace Innovation and Research (NCAIR)](http://www.ncair.in/)
+8. [National Center of Excellence in Technology for Internal Security (NCETIS)](https://rnd.iitb.ac.in/node/101506)
+9. [National Centre for Mathematics (NCM)](https://sites.google.com/view/ncmiitbombay/)
+10. [Parimal and Pramod Chaudhari Center for Learning and Teaching (PPCCLT)](http://www.ppcclt.iitb.ac.in/)
+11. [Sophisticated Analytical Instrument Facility (SAIF)](http://www.saif.iitb.ac.in/)
+12. [Tata Center for Technology and Design (TCTD)](http://www.tatacentre.iitb.ac.in/)
+13. [Wadhwani Research Centre for Bioengineering (WRCB)](https://www.iitb.ac.in/wrcb/en)
 15. [Continuing Education Programme](http://www.cep.iitb.ac.in/)
+
+In addition, while not academic units, the following units help liase with industry and promoting startups based on research done at IIT Bombay:
+
+- [Society for Innovation and Entrepreneurship](http://www.sineiitb.org/sine) for start-up incubation support
+- [Research Park](http://www.respark.iitb.ac.in/#/home) for engagement with companies on campus
 
 The academic units mentioned above are headed, usually by a faculty
 member of the unit itself, and usually of the rank of Professor. The
@@ -382,6 +385,7 @@ committees.
     Departmental Postgraduate Programme Committee (**DPGC**) to decide on
     matters related to respective academic programmes, and issues
     pertaining to students therein.
+  - The Department Post-doctoral Committee looks into matters concerning the Institute Post-Doctoral Scholars associated with the academic units.
 
 The deliberations of these committees, in the form of minutes, **is
 communicated to concerned functionaries in the central administration**,
@@ -446,7 +450,7 @@ Immediately on joining:
 1. You have to make a visit to the Administration Section in the Main
    Building to complete the joining formalities. For this purpose you
    need:
-   a. Original and copies of all academic certificates from SSC (10th
+   a. Original and copies of all academic certificates from SSC (10$^{\text{th}}
    Board) to Ph.D. and proof of date of birth.
    b. Several passport size photographs for various purposes.
    c. If you were previously employed, a certificate stating that you
@@ -499,6 +503,8 @@ Immediately on joining:
    easy access is highly recommended, so that printouts can be taken
    on demand.
 
+   For more on housing related matters, please refer to the [relevant section of the appendix](sec:morehousing).
+
 4. An LPG connection is essential if you plan to cook at home. The
    simplest way is to take your accommodation allotment letter to
    Maharashtra Gas Service, which is located in the building known as
@@ -516,7 +522,7 @@ Immediately on joining:
    form, a form declaring your dependents, a form for joining the New
    Pension Scheme (NPS) and Group Term Scheme Insurance (GTIS).
    a. New faculty have to join the NPS, details of which are given in
-   a the [chapter on retirement benefits](sec:npsnote). (For people who joined 1st January, 2004, there
+   a the [chapter on retirement benefits](sec:npsnote). (For people who joined 1$^{\text{st}}$ January, 2004, there
    was a Pension scheme or a non-pension Contributory Provident Fund).
 
    b. You also need to join the compulsory Group Term Insurance Scheme
@@ -578,7 +584,7 @@ Immediately on joining:
    private creche (Shishu Vihar, located at the time of writing in
    bungalows A-4 and A-5 in the Lakeside area of Campus near the Main
    Gate), and run by an NGO. Detailed information on all of the above
-   is provided in later chapters.
+   is provided in [the appendix](sec:moreschools).
 
 10. You will need to apply for a Permanent Account Number (PAN) which
     is to file income tax returns; it is also needed by
@@ -604,7 +610,7 @@ Immediately on joining:
     (https://uidai.gov.in/). The Administration Section will be able
     to provide you with details of the nearest data collection center
     at which an application can be lodged. It is a good idea to take
-    this for your whole family in one go.
+    this for your whole family in one go. The post-office in campus accepts Aadhar applications.
 
 13. You need to open a bank account where your salary will be deposited. There are branches of two banks on campus,
     **viz.** State Bank of India and Canara Bank. Please drop in there
@@ -641,20 +647,6 @@ A faculty member recruited to any cadre is placed on probation for a
 period of 1 year. At the end of this period, administration requires
 you to fill another form (where you fill in your academic accomplishments during the probation year) and submit the same to Dean (FA) through the Head of your
 academic unit for confirmation of your appointment.
-
-## More on Housing
-
-The institute has undergone significant expansion and increase in number of students over the last decade and a half. The increase in student numbers has led to a commensurate increase in the number of faculty members on the campus. Thus, the present dwelling numbers on the campus are insufficient. Though, new constructions are underway, there is an expected shortage of housing on campus for some more time. In most cases, the new faculty may take up on-campus housing flatlets like the Staff Hostel, Vihar House and CSRE D Types. However, some faculty may want a “proper apartment” owing to family constraints or due to non-availability of the flatlets. In such situations, some may opt for off-campus housing. These off-campus housing once identified and allotted are treated as an extension of the IIT Bombay housing. There are several considerations to be made when scouting for an apartment. Below are a few points to be considered with regard to off-campus housing.
-
-The institute provides temporary accommodation in the Guest House to the new faculty member immediately after they join, up to a period of 1 month. The guest house charges are applicable and have to be borne by the faculty if this initial period of 30 days is exceeded. It is thus recommended that a search for off-campus housing be initiated as soon as the joining formalities are completed.
-
-An off-campus rented apartment requires consideration of the amount of rent, brokerage, escalation clause, and issues related to maintenance and movement charges. The institute has evolved a policy on the amount of rent that can be paid. The decisions regarding the amount of rent, brokerage, and escalation clause are usually handled by the Associate Dean IPS-2 and his/her Office. As a first step, new faculty members  are advised to contact the office of Associate Dean-2 Infrastructure and Planning (IPS) to obtain information on the rental limits and other rules regarding off-campus accommodation. It is recommended that the initial negotiated rent is limited to within the stipulated amount. The terms and issues regarding the escalation are handled by the Associate Dean IPS-2’s office. The maintenance and movement charges are usually expected to be borne by the faculty.
-
-The Associate Dean IPS-2’s office may also offer help for searching and to identify estate agents who can facilitate the search for apartments. A list of previously rented apartments or apartments newly offered on rent may be already be available with the Office of the Associate Dean IPS-2. These may be considered by new faculty for potential allotment. The identification of the apartment could also be done personally with the help of an agent, or by consulting websites that offer such solutions.
-
-The contract or the lease agreement is drawn with IIT Bombay as the party and the letter of allotment is then issued by the Accommodation Allotment Committee (AAC). The duration of the lease should be checked carefully, since, it may be possible that these rented premises may have to occupied for an extended period of time. After moving to the apartment, the usual day to day maintenance is expected to be handled by the allottee.
-
-The institute has rules and regulations regarding allotment and entitlement of housing to faculty and staff of the institute. The details of these can be found on the Dean IPS website. The off-campus housing is treated as transit accommodation provided by IIT Bombay. Thus, availing the off-campus housing does not affect the entitlement or the seniority of the faculty within the ambit of the defined rules. The rented premises may have to vacated due to several reasons with the happy one being on-campus accommodation.
 
 ## Resources for Teaching and Research
 To get started in the Institute, you can familiarize yourself with the resources available for helping you teach and conduct research effectively. The [Academic Rules](#sec:acadrules) discuss all aspects related to courses, curricula and other teaching related aspects. The Institute, while encouraging you to apply for external grants to support your research, also provides you a Seed grant to get you started on your research projects. More details on this are available [here](#sec:researchfunding). You also have access to a Research and Development Fund (RDF) that can be used with more flexibility for your research related activities. Your academic unit would also have a Department Development Fund to support development activities of interest to your department as a whole. These are discussed in greater detail [here](#sec:rdfddf).
@@ -724,79 +716,13 @@ For the benefit of staff members staying outside the campus (as also for staff o
 
 [^hosplist]: These hospitals, at present, are: Pragati Mitra Mandal (Mulund(W)), Smt. Nand Kunverben Rasiklal Seth Hosp. (Borivali (W)), Malad Jain Yuvak Mandal Med. Relief Centre (Malad (W)), Lions Clinic (Matunga), Vasani Diagnostic Centre (Andheri) and Seth Nanji Gangji Charitable Polyclinic (Dombivali). See the hospital website for up-to-date information.
 
-For reimbursement, separate forms for OPD (inclusive of cost of medicine purchased from outside) and indoor treatment,  available in the Hospital office[^websiteforms], should be filled up and submitted along with cash memos within three months. Please note that except in case of emergency, no reimbursement is permissible unless the reference was made by the IIT Bombay Hospital to the outside hospital.
+For reimbursement, separate forms for OPD (inclusive of cost of medicine purchased from outside) and indoor treatment,  available in the Hospital office[^websiteforms], should be filled up and submitted along with cash memos within three months. Please note that **except in case of emergency**, no reimbursement is permissible unless the reference was made by the IIT Bombay Hospital to the outside hospital.
 
 [^websiteforms]: These and most other forms you may require are also downloadable from http://asc.iitb.ac.in.
 
 ## Schooling at IIT Bombay
 
-There are three schools on the campus for children: Kendriya Vidyalaya, Campus School, and KG School; plus a full-fledged child care (day care) and play school, Sishu Vihar. The Campus School also has a kindergarten school for children above the age of three. For younger kids there is a private creche (Sishu Vihar, temporarily located at the time of writing in bungalows A-4 and A-5 in the Lakeside area of Campus near the Main Gate), and run by an NGO. There are also several private schools in Powai and nearby areas that are well known.
-
-### Kendriya Vidyalaya (Central School) IIT Powai
-This is part of the Kendriya Vidyalaya Sangathan (KVS) network and is usually ranked among the top government day (that is,  not boarding) schools in India. It has classes I through XII, and is affiliated to the Central Board of Secondary Education (CBSE). Most of the seats here are reserved for the children of IIT Bombay employees; with a small fraction reserved for other Central Government organizations. You might have some anxious moments before your child gets admission, but eventually it works out, in almost all cases. In case of exceptional difficulty in getting admission into the Kendriya Vidyalaya, our Director, who is ex-officio the Chairman of the Vidyalaya Management Committee can help out by exercising their discretionary quota. There is also a Professor-in-Charge who you may contact for helpful advice in case of difficulty. More details about KV IIT Bombay may be found on [its webpage](http://www.kviitmumbai.com/English-Homepage).
-
-
-### Campus School and Jr. College
-The IIT Campus School and Jr. College has classes I through XII, and is affiliated to the Maharashtra State Board. It is exclusively for the children of IIT employees. Here, the IIT Bombay Director is the Chairman of the School Council, and IIT faculty serve as Associate Chairman and Conveners of Administrative and Academic policy. More details about the Campus School are available [here](http://www.iitcampusschoolmumbai.in/).
-
-### KG School
-The Kindergarten (KG) School comprising two classes (Lower KG and Upper KG) and two shifts, is for children from three to five years of age. Details of admissions, facilities, etc. that the KG School offers may be found [here](http://home.iitb.ac.in/~kgschool/index.html).
-
-
-### Shishu Vihar Child Care Centre
-
-Shishu Vihar is a not-for-profit child care centre, managed by an
-association of parents, catering primarily to the child care needs of
-working parents in IIT Bombay. The Shishu Vihar Management Committee
-(SVMC) is a body of IIT Bombay Official Representatives and elected member
-parents. SVMC is responsible for the overall policy, human resources,
-and financial management of the centre.
-
-SV has a group of people with backgrounds in education, psychology,
-special needs, child development, early childhood education, and
-curriculum development. Their education and experience not only
-enables them to understand the needs of children, but also inspires
-them to choose healthy and effective practices in child care.
-
-Shishu Vihar, which is located near Main Gate, has the following time slots and programs.
-
-Slots                                    Hours      Timing
----------------------------------------  ---------  ------------------
-Morning Slot (MS)                        5 hours    8:15 AM to 1:15 PM
-Afternoon Slot (AF)                      5 hours    1:15 PM to 6:15 PM
-3/4 Day Slot (Lower KG School Children)  7.5 hours  Flexible
-Full Day Slot (FD)                       10 hours   8:15 AM to 6:15 PM
-
-------------------------------------------------------------------------------------
-Programs              Eligibility             Description
---------------------  ---------------------   --------------------------------------
-Toddler Program (MS)  18 months               A planned program where
-                                              toddlers are stimulated
-                                              through music, rhymes, books and toys.
-
-Play Group (MS)       2 years                 A structured program
-                                              that focuses on Sensory,
-                                              Language and
-											  Social Development. Children
-                                              are motivated to learn
-                                              and explore through
-											  play.
-
-Junior Club (MS)      3 years                 A systematic program
-                                              that uses reasoning,
-                                              math and language skills
-                                              to facilitate thematic
-                                              learning among children.
-
-Day Care (FD/AS)      18 months to 12 years   Children are exposed to
-                                              various activities such
-                                              as art & craft, music,
-                                              storytelling etc. Indoor
-                                              and outdoor play is
-                                              strongly encouraged.
-------------------------------------------------------------------------------------
-
-Some more details about Shishu Vihar may be found [here](https://www.facebook.com/pg/Sishu-Vihar-441328895915841/about/).
+There are three schools on the campus for children: Kendriya Vidyalaya, Campus School, and KG School; plus a full-fledged child care (day care) and play school, Sishu Vihar. The Campus School also has a kindergarten school for children above the age of three. For younger kids there is a private creche (Sishu Vihar, temporarily located at the time of writing in bungalows A-4 and A-5 in the Lakeside area of Campus near the Main Gate), and run by an NGO. There are also several private schools in Powai and nearby areas that are well known. Complete details on these are available in [the appendix](sec:moreschools).
 
 ## Life in Powai and beyond
 
@@ -849,8 +775,8 @@ discussed in the chapter on retirement benefits.
 # Rules & Regulations
 ## Rules for salary, allowances etc.
 Your salary is paid directly to your bank account on the last day of
-the month. The _Financial Year_ for tax purposes is from April 1st of
-a given year to March 31st of the following year. The income tax uses
+the month. The _Financial Year_ for tax purposes is from April 1$^{\text{st}}$ of
+a given year to March 31$^{\text{st}}$ of the following year. The income tax uses
 _assessment year_ for submission of Income Tax Returns, which is the
 financial year in which the return is filed[^taxyear]. The salary slip
 is made available to every employee around the end of the month in
@@ -860,21 +786,21 @@ employee. The salary slip of every employee is uploaded on the
 internal website of the Institute
 [http://ep.iitb.ac.in](http://ep.iitb.ac.in).
 
-[^taxyear]: As an example, at the time of writing (October 2020), the
-    financial year is 2020-21, while the assessment year for this
-    period would be 2021-22.
+[^taxyear]: As an example, at the time of writing (August 2021), the
+    financial year is 2021-22, while the assessment year for this
+    period would be 2022-23.
 
 ### Components of salary
 The salary that you get has several components.
 
 1. _Pay at Pay Level:_ Since several readers may be familiar with the
-   provisions of the 6th Pay Commission, and new readers are likely to
-   join directly under 7th Pay Commission rules, we outline the pay
-   scales with reference to the 7th Pay Commission.
+   provisions of the 6$^{\text{th}} Pay Commission, and new readers are likely to
+   join directly under 7$^{\text{th}} Pay Commission rules, we outline the pay
+   scales with reference to the 7$^{\text{th}} Pay Commission.
 
    What used to be the _Pay Band and Academic Grade Pay (AGP)_ in the
-   6th Pay Commission has been replaced, after implementation of the
-   7th pay Commission, by an amount defined by a salary at a _Pay
+   6$^{\text{th}} Pay Commission has been replaced, after implementation of the
+   7$^{\text{th}} pay Commission, by an amount defined by a salary at a _Pay
    Level_. The position to which you are appointed (or move to after
    selection to a higher post) defines the salary. All Government
    servants in India are placed in one of these _pay levels_. Faculty
@@ -892,7 +818,7 @@ The salary that you get has several components.
 
    Your salary within the pay band is fixed at the time of your
    appointment and increases every year by an _increment_, as defined
-   in the 7th Pay Commission Pay Matrix. The various cadres, processes
+   in the 7$^{\text{th}} Pay Commission Pay Matrix. The various cadres, processes
    for selections, and salary scales (that is, , Pay Levels as listed
    above) for the faculty are as follows. Note that they are
    automatically moved to the higher levels as they gain experience
@@ -911,7 +837,7 @@ Level 10, with starting a salary of ₹ 84,700 plus D.A.
 	 If you have joined IIT after having served for some time as
 	 Assistant Professor in another IIT or a central University or
 	 NIT, your previous experience will be counted for movement to
-	 PB4.
+	 Assistant Professor (Grade I).
 
 	 As mentioned earlier, selected candidates with less than the
 	 requisite experience as specified in the advertisement may be
@@ -932,13 +858,13 @@ Level 10, with starting a salary of ₹ 84,700 plus D.A.
 
    In addition, the following scales are applicable as appropriate to faculty:
 
-   - _Professor (HAG Scale):_ From 18th August 2009, a senior cadre of
+   - _Professor (HAG Scale):_ From 18$^{\text{th}} August 2009, a senior cadre of
    Professors has been created. The scale pay for this cadre is known
-   as HAG (Higher Academic Grade). The minimum eligibility criteria
+   as HAG (Higher Administrative Grade). The minimum eligibility criteria
    for this scale is six years of service as a Professor. A maximum of
    40% of the total number of Professors can be placed in this
    scale. The corresponding Pay Level is 15, and the salary range is
-   from ₹ 182,000 to ₹ 224,100.
+   from ₹ 182,000 to ₹ 224,100. Typically, it takes about 12 years to become a HAG scale Professor after becoming Professor.
 
    - _Institute and Endowed Chairs for faculty:_ As a means of
    recognizing outstanding performance, the Institute has several
@@ -989,7 +915,7 @@ Pay Matrix (corresponding to an approximately 3% increase in salary).
 The yearly increment is given from the first day of January or July of
 every year. However, the first increment can be availed only after
 completing six months in a given pay. This means that, if you are
-appointed between July and 1st January, (of the following year), you
+appointed between July and 1$^{\text{st}}$ January, (of the following year), you
 are eligible for an increment in the following July but if the date of
 appointment is between 2nd January to June, you will get the first
 increment in January of the following year.  If the employee is on
@@ -1019,7 +945,7 @@ increment is given from the day when the employee rejoins the duty.
    18                   95300   113800   167400
    19                   98200   117200
 
-Table:  7th Commission Pay Matrix
+Table:  7$^{\text{th}} Commission Pay Matrix
 
 ### Deductions
 When you receive your salary slip, you will find some deductions as well. The primary deductions are:
@@ -1029,7 +955,7 @@ When you receive your salary slip, you will find some deductions as well. The pr
    liability through some tax saving mechanisms. Almost every
    Department has a local expert on such matters for advising you on
    this. Filing an income tax return every year is compulsory. Unless
-   the last date is extended, returns have to be filed by 31st July of
+   the last date is extended, returns have to be filed by 31$^{\text{st}}$ July of
    the following financial year for which the return is being
    filed. From the assessment year 2013-14 e-filing of your income tax
    return has been made mandatory. While initially you may find the
@@ -1072,11 +998,11 @@ When you receive your salary slip, you will find some deductions as well. The pr
 
 Once every two years, you are eligible for a paid travel to your home
 town. For the purpose of LTC, block years are defined for two years
-starting 1st January of an even year (e.g. 2020)  to 31st December of
+starting 1$^{\text{st}}$ January of an even year (e.g. 2020)  to 31$^{\text{st}}$ December of
 an odd year. If you do not avail LTC during this block year it
 generally lapses. However, it has been the practice of the Government
 to allow for a grace year, that is,  LTC for the block year 2020-21 can be
-availed (that is,  outward journey commenced) up to 31st December 2022.
+availed (that is,  outward journey commenced) up to 31$^{\text{st}}$ December 2022.
 
 Two of the above blocks are combined together to define a four year
 block, e.g., the block 2020-21 and the next block 2022-23 define a
@@ -1334,7 +1260,7 @@ The IR-IT component in the block grant may be used for the following:
    b. Conducting specialised experimental research work in major
    research facilities abroad, if unavailable in India (TA/DA only). Charges for usage of such facilities, if applicable, should be met from other sources.
    c. Chairing a session in international meetings
-   d. Contribution towards travel awards such as INSA grants
+   d. Contribution towards travel awards, similar to INSA travel grants
    e. Giving invited talks and initiating or continuing on-going collaborative research work, where partial support towards the visit is made available by the host institution (such as local travel / hospitality, partial travel support etc.)
    f. Attending specialised workshops based on invitation and partial support by the organisers
 
@@ -1433,7 +1359,7 @@ available), you could claim up to ₹ 24/- per kilometer.
 
 ### Daily allowance
 
-As per the 7th Pay Commission rules, the daily allowance entitlements are given below:
+As per the 7$^{\text{th}} Pay Commission rules, the daily allowance entitlements are given below:
 
 *Pay Level*     Entitlement
 ----------      -----------
@@ -1460,7 +1386,7 @@ forms of leave. Technically, no leave is a matter of right and has to
 be sanctioned/approved by the competent authority. However, except under unusual circumstances (for instance,
 if a group of employees wish to take mass casual leave to register
 protest against something) and discipline related cases, leave is
-generally refused. Departments may sometimes have reasons for not
+generally NOT refused. Departments may sometimes have reasons for not
 recommending sanction of leave in case your services are required for
 any purpose. The following are general guidelines and are not
 exhaustive. For complete information, faculty members should refer to
@@ -1472,7 +1398,7 @@ As the name suggests, this form of leave is to meet casual requirements of an in
 
 1. A faculty member can avail a maximum of 8 days of casual leave in a calendar year. However, the maximum contiguous period for which casual leave can be availed is not more than 5 days. Saturdays/Sundays and holidays may be prefixed or suffixed to casual leave and will not count towards casual leave. For those who join in the middle of a calendar year, proportionate amount of casual leave is allowed. Casual leave can even be taken for half a day, that is,  morning session or afternoon session.
 2. Casual leave cannot be appended to any other form of leave other than vacation.
-3. Unutilized casual leave expires on 31st December every year and is not carried over.
+3. Unutilized casual leave expires on 31$^{\text{st}}$ December every year and is not carried over.
 4. Generally, no reason has to be given for going on casual leave. The ERP interface has a provision to apply for casual leave. Strictly speaking, one has to take an advance sanction for casual leave as well. However, in case of unforeseen circumstances one can apply on ERP post-facto. It is a good practice to keep the Head or at least one of your colleagues informed of such an absence.
 
 ### Special Casual Leave
@@ -1484,19 +1410,19 @@ Vacation is available only to the faculty members of the Institute.
 1. A faculty member is entitled to 60 days of vacation during the year. The year for the purpose of vacation is the academic year, that is,  from 1 July to 30 June of the following year. A faculty member joining the Institute any time during the first semester (July-November) is eligible for full vacation while those joining in the second semester (January-April) will be entitled to 30 days of vacation in the year of joining.
 2. The conventional vacation period comprises the months of May, June and December. However, the Institute announces the exact dates every year depending on its academic schedule.
 3. No separate application is made for availing vacation. Each faculty member has to provide his/her vacation plans by filling up the appropriate section on the ERP leave form online.
-4. If a faculty member does not avail the full 60 days vacation in any academic year, 50% of unavailed vacation is converted to Earned Leave and is credited to the earned leave account of the faculty member on 1st July of the next academic year. Thus if a faculty avails of a total of $x$ days of vacation during the vacation period, $(60-x)/2$ days of earned leave is credited to his/her earned leave account.
+4. If a faculty member does not avail the full 60 days vacation in any academic year, 50% of unavailed vacation is converted to Earned Leave and is credited to the earned leave account of the faculty member on 1$^{\text{st}}$ July of the next academic year. Thus if a faculty avails of a total of $x$ days of vacation during the vacation period, $(60-x)/2$ days of earned leave is credited to his/her earned leave account.
 
 ### Earned Leave
-Earned leave, unlike vacation, can be availed any time during the year with prior sanction. Unlike non-academic staff, the only way in which a faculty accumulates earned leave is by virtue of not having availed the entitled vacation in a given academic year. Half of the unutilized vacation is credited as earned leave on July 1st every year.
+Earned leave, unlike vacation, can be availed any time during the year with prior sanction. Unlike non-academic staff, the only way in which a faculty accumulates earned leave is by virtue of not having availed the entitled vacation in a given academic year. Half of the unutilized vacation is credited as earned leave on July 1$^{\text{st}}$ every year.
 
 1. Earned leave can be accumulated up to a maximum of 300 days. The unutilized amount of earned leave can be encashed only at the time of superannuation from service. However, a limited number of days of earned leave can be encashed at the time of availing LTC. Such encashment will not exceed 10 days in each instance with a cumulative maximum of 60 days during the entire span of service.
-2. Overflowing of Earned Leave: Half of unutilized vacation is credited as earned leave on July 1st, even when a faculty has already accumulated 300 days of earned leave in his account. This overflowing earned leave must be availed during the same academic year after which it lapses.
+2. Overflowing of Earned Leave: Half of unutilized vacation is credited as earned leave on July 1$^{\text{st}}$, even when a faculty has already accumulated 300 days of earned leave in his account. This overflowing earned leave must be availed during the same academic year after which it lapses.
 3. Earned leave can be combined with all types of leave other than casual leave.
 
 ### Half-Pay Leave and Commuted Leave
 An employee is entitled to 20 days of half-pay leave for every completed year of service. As the name suggests, the employee will be paid half the salary during such leave period.
 
-1. Half-pay leave is credited in advance on January 1st and July 1st every year by calculating the expected period of service of an employee during the following six months. (The credit given is 5/3 days for every month expected to be completed.)
+1. Half-pay leave is credited in advance on January 1$^{\text{st}}$ and July 1$^{\text{st}}$ every year by calculating the expected period of service of an employee during the following six months. (The credit given is 5/3 days for every month expected to be completed.)
 2. Half pay leave can be availed for personal reasons or for medical purposes.
 3. An employee can avail half-pay leave even when he/she has earned leave to his/her credit.
 4. When a half-pay leave is sought to be availed for employee's medical requirement, an employee may opt to avail Commuted Leave by surrendering two days of half pay leave for every day of leave required. In such a case, the employee draws full salary.
@@ -1532,10 +1458,10 @@ Leave not due, at half-pay salary may be granted to an employee who has no leave
 A faculty member may request for keeping lien on his/her post for accepting a job either in India or abroad. Such jobs may be for assignments in private or public sector undertakings. To be eligible for lien, a faculty member must have put in at least 5 years of service after confirmation. The period of lien can be one year at a stretch or two years if the period of service is over 10 years. (Lien period can be for a period of five years for those appointed as Directors or CEOs in a Government organization or a public sector unit.)
 
 1.  The employee has to sign an agreement on a stamp paper with the Institute before proceeding on lien.
-2. No salary is paid to the employee from the Institute while on lien. However, the service during period of lien qualifies for retirement benefit. The employee (or his employer during the lien period) pays a contribution towards pension-cum gratuity benefit determined by the Institute as per standard Government calculation, an amount which depends also on the length of service rendered in the Institute. This contribution must be received by the Institute by 31$^{st}$ March of every year, or if the employee so desires, every month. It must be emphasized that when the Institute sanctions a lien to the employee, it does not enter into an agreement with his/her temporary employer and the responsibility of remitting all amounts payable to the Institute lies with the employee only.
-3. The employee should continue to pay his/her own contribution to CPF/GPF/NPS during the period of lien. Such contribution should be remitted to the Institute every month or before 31st March of every financial year.
+2. No salary is paid to the employee from the Institute while on lien. However, the service during period of lien qualifies for retirement benefit. The employee (or his employer during the lien period) pays a contribution towards pension-cum gratuity benefit determined by the Institute as per standard Government calculation, an amount which depends also on the length of service rendered in the Institute. This contribution must be received by the Institute by 31$^{\text{st}}$ March of every year, or if the employee so desires, every month. It must be emphasized that when the Institute sanctions a lien to the employee, it does not enter into an agreement with his/her temporary employer and the responsibility of remitting all amounts payable to the Institute lies with the employee only.
+3. The employee should continue to pay his/her own contribution to CPF/GPF/NPS during the period of lien. Such contribution should be remitted to the Institute every month or before 31$^{\text{st}}$ March of every financial year.
 4. The employee has to pay the leave salary contribution. When an employee pays the leave salary contribution, the Institute leave account of the employee is credited or debited when the employee takes leave in his/her host organization. The leave salary contribution to be paid is roughly 11% of the pay drawn from the host organization (or the pay that the employee would have drawn, had he/she not gone on lien.) The payment of leave salary contribution may be waived by the Director on request in which case the leave account of the employee remains frozen during period of lien.
-5. Keeping your accommodation during Lien: The institute generally permits a faculty member to retain the quarter allotted for a period of one year only during the lien period. The license fee payable during this period will be the same as the employee normally pays. The Director may permit a faculty to keep the quarter during the second year of lien, but on an enhanced license fee which is four times the normal license fee. The employee has to arrange to pay the bills received from the Estate Office towards license fee and other utility charges every month.
+5. Keeping your accommodation during Lien: The institute generally permits a faculty member to retain the quarter allotted for a period of one year only during the lien period. The license fee payable during this period will be the same as the employee normally pays. The Director may permit a faculty to keep the quarter during the second year of lien, but on an enhanced license fee which is fifty times the normal license fee. The employee has to arrange to pay the bills received from the Estate Office towards license fee and other utility charges every month.
 
 ### Foreign visits
 
@@ -1666,7 +1592,8 @@ As a faculty member of a premier Institute of the country, you are always under 
 1. _Dealing with the Press:_ Much as we like to see our name in print, the only place where your printed name can freely appear without raising eyebrows (or may be raising eyebrows in an agreeable way!) is in a professional journal. You do not need to take any permission to send a technical manuscript for publication. If what you are writing or talking about is of literary, artistic or scientific value only, you may even write to newspapers or periodicals. However, talking to the press (this includes all forms of interaction with print and electronic media) on any other matter  should generally be avoided, and left to functionaries in the main building. If you would like to express your views on an issue, you need to take the Director's permission. If you want to have a press coverage of your published scientific article, you need to contact PRO after taking permission from the Director.
 2. Joining a political party or canvassing in an election is banned. (You can, of course, contest an election in a professional body.)
 3. Criticism of the Institute in any mass media (print or electronic) is not permitted. (To give vent to your frustration if any, the Computer Centre of the institute has provided a discussion group called the 'discuss-faculty' where you can write and engage your colleagues in a debate on matters about which you feel strongly. This newsgroup is not moderated but it is good to use restrained language).
-3. _Redressal of Grievances:_: If you have a grievance, try to sort it out by meeting the concerned Dean, the Deputy Directors or the Director. If you would like to make a written representation, the first course is the Director. If his response leaves you dissatisfied, you may make representation to the Chairman of the Board. Such representation should be through the Director. In extreme cases, you may take your grievance to the Visitor (who is the President of India). However, in all cases, you should go through what is known as proper channel, that is, , route all your representation through HOD, Director and the Chairman, in that order. The forwarding authority does not have the right to stop your representation being forwarded upwards excepting in circumstances such as (i) a similar petition made earlier has been disposed of and no new facts are brought out in the new petition, (ii) your representation is not to the appropriate authority, or (iii) the petition is against a decision which is final by any law or statute. In such cases, the appropriate authority will write you a reply explaining the reasons why your petition may not be forwarded.
+3. _Redressal of Grievances:_: If you have a grievance, try to sort it out by meeting the concerned Dean, the Deputy Directors or the Director. If you would like to make a written representation, the first course is the Director. If his response leaves you dissatisfied, you may make representation to the Chairman of the Board. Such representation should go through, Head, concerned Dean,
+Director and the Chairman in that order. In extreme cases, you may take your grievance to the Visitor (who is the President of India). However, in all cases, you should go through what is known as proper channel, that is, , route all your representation through HOD, Director and the Chairman, in that order. The forwarding authority does not have the right to stop your representation being forwarded upwards excepting in circumstances such as (i) a similar petition made earlier has been disposed of and no new facts are brought out in the new petition, (ii) your representation is not to the appropriate authority, or (iii) the petition is against a decision which is final by any law or statute. In such cases, the appropriate authority will write you a reply explaining the reasons why your petition may not be forwarded.
 4. You may, of course, seek to redress grievances in a court of law without any permission. However, it is in good taste to first exhaust all possibilities of finding a solution to  your problems within the internal framework as stated above.
 5. _Social media usage policy_: Social media posts from IIT Bombay connected official accounts are governed by rules specified in [this document](https://www.iitb.ac.in/sites/www.iitb.ac.in/files/Guidelines%20For%20Use%20Of%20Offical%20IIT%20Bombay%20Accounts%20On%20Social%20Media_2.pdf).
 
@@ -2229,7 +2156,7 @@ Points are computed for the applicant based on the following criteria.
   8. A half-semester course is to be given 0.5 credit of a full course.
   9. Departments which run/maintain facilities used extensively by other entities may optionally consider operation of such facilities as equivalent to 0.5 course.
   10. No credit to be given for course that consists entirely of coordination and uses external resources/lecturers.
-  11. If score is 3 by above rules, and further the teaching score computed for excellence in teaching award for the previous 5 years (under the new scheme) is at or above the 80th percentile of department faculty scores, increment score to 5.
+  11. If score is 3 by above rules, and further the teaching score computed for excellence in teaching award for the previous 5 years (under the new scheme) is at or above the 80$^{\text{th}} percentile of department faculty scores, increment score to 5.
   12. If score is 3 by above rule-set, plus a textbook published during period of evaluation, increment score to 5
 - **Academic Research (A2)**: 1 point is awarded if M.Tech. / M.Sc. theses are guided. 3 points are awarded if the  Ph.D and M.Tech./M.Sc. theses have been guided _and_ the number of publications is 1.5 to 3 times current department publication norms for promotion from Associate to full Professor. Finally, if in addition to the previous point, the number of publications is more than 3 times current department publication norms for promotion from Associate to full Professor, 5 points are awarded. In addition, the following recommendations are considered:
 
@@ -2273,7 +2200,7 @@ Candidates who meet the following criteria after IFAC approval are to be recomme
 ### Annual performance appraisal
 
 The annual performance appraisal process is in the form of a
-self-assessment. The process should be completed by 31st March of
+self-assessment. The process should be completed by 31$^{\text{st}}$ March of
 every year and the forms will be filled up online by individual
 faculty member. The self-assessment form includes sections on
 Teaching, Research and Administration being mandatory and the sections
@@ -2828,7 +2755,7 @@ join/joined the Institute’s service on or after that date are/shall be
 governed by New PRMS which is/will be a part of the service condition
 on joining the Institute.
 
-Therefore, all those who were on roll of the Institute on 11th March
+Therefore, all those who were on roll of the Institute on 11$^{\text{th}} March
 2015, as permanent employees were entitled to join the scheme on
 exercising an option in this regard within three months of adoption of
 the scheme by the Board of governors, whereas for those who join the
@@ -2848,16 +2775,16 @@ with time, empanelled hospitals, and so on, are detailed in [this
 webpage](https://www.iitb.ac.in/en/about-iitbombay/new-post-retirement-medical-scheme-2015-onwards).
 
 ## Retirement Benefits
-While this chapter was originally written primarily for faculty who joined the Institute before 2004 (or who joined later, but with transfer of previous services rendered in Govt or Institutions like IITs), suitable additions/provisions which apply to faculty who joined on or after 1st January, 2004 (National Pension Scheme) have now been incorporated.
+While this chapter was originally written primarily for faculty who joined the Institute before 2004 (or who joined later, but with transfer of previous services rendered in Govt or Institutions like IITs), suitable additions/provisions which apply to faculty who joined on or after 1$^{\text{st}}$ January, 2004 (National Pension Scheme) have now been incorporated.
 
 ### Pension, Gratuity, Commutation of Pension etc.
 What happens after you have served out your active life with the Institute? Most look at the period of retirement with a certain amount of anxiety because they anticipate a sharp drop in income. It is, therefore, prudent to do some planning reasonably early in life, certainly by the time you are approaching 50.
 
 ### Superannuation
-This is the term used for official completion of your regular appointment. It happens on the last day of the month in which you complete 65 years of age. For example, If your birthday falls on the 1st of the June, you will superannuate on the last day of the previous month (that is,  May 31st). However, if your birthday is between 2nd and 30th of June, then you will superannuate on 30th June. Usually, the Director offers you a cup of tea and hands over a few retirement cheques on this day.
+This is the term used for official completion of your regular appointment. It happens on the last day of the month in which you complete 65 years of age. For example, If your birthday falls on the 1$^{\text{st}}$ of the June, you will superannuate on the last day of the previous month (that is,  May 31$^{\text{st}}$). However, if your birthday is between 2nd and 30$^{\text{th}} of June, then you will superannuate on 30$^{\text{th}} June. Usually, the Director offers you a cup of tea and hands over a few retirement cheques on this day.
 
 ### Re-employment
-Faculty members are usually reappointed till the last day of the academic semester (that is, , either till 31st December or 30th June, depending on the birth date) in the year in which they complete 65, based on a recommendation from the department. During the period of re-employment, those who receive pension cheques as well as a component of salary in such a way that the two together do not exceed the last drawn salary. Further, many service benefits come to an end. The re-appointment letter from the Director will make it clear as to what benefits will still be available. As per the current practice, the medical facilities will continue during the period of re-employment. As per Govt. of India rules, you will continue to be eligible for LTC provided there is no break between the regular appointment and the re-employment.
+Faculty members are usually reappointed till the last day of the academic semester (that is, , either till 31$^{\text{st}}$ December or 30$^{\text{th}} June, depending on the birth date) in the year in which they complete 65, based on a recommendation from the department. During the period of re-employment, those who receive pension cheques as well as a component of salary in such a way that the two together do not exceed the last drawn salary. Further, many service benefits come to an end. The re-appointment letter from the Director will make it clear as to what benefits will still be available. As per the current practice, the medical facilities will continue during the period of re-employment. As per Govt. of India rules, you will continue to be eligible for LTC provided there is no break between the regular appointment and the re-employment.
 
 ### Retirement schemes
 For those who joined the Institute before 2004, there were two retirement schemes to choose from, _viz._ Contributory Provident Fund-cum-gratuity Scheme (CPF) and General Provident Fund-cum-Pension-cum-gratuity Scheme (GPF). The salient features of these schemes are as follows.
@@ -3099,3 +3026,87 @@ online are available at the [NPS CRA website](https://npscra.nsdl.co.in/).
 <!--    6. For domestic staff services (cleaning, cooking etc.) you can -->
 <!--       usually get tips from neighbours or - if you are living -->
 <!--       off-campus - the security personnel in your apartment complex. -->
+
+# Appendices
+
+## More on Housing {#sec:morehousing}
+
+The institute has undergone significant expansion and increase in number of students over the last decade and a half. The increase in student numbers has led to a commensurate increase in the number of faculty members on the campus. Thus, the present dwelling numbers on the campus are insufficient. Though, new constructions are underway, there is an expected shortage of housing on campus for some more time. In most cases, the new faculty may take up on-campus housing flatlets like the Staff Hostel, Vihar House and CSRE D Types. However, some faculty may want a “proper apartment” owing to family constraints or due to non-availability of the flatlets. In such situations, some may opt for off-campus housing. These off-campus housing once identified and allotted are treated as an extension of the IIT Bombay housing. There are several considerations to be made when scouting for an apartment. Below are a few points to be considered with regard to off-campus housing.
+
+The institute provides temporary accommodation in the Guest House to the new faculty member immediately after they join, up to a period of 1 month. The guest house charges are applicable and have to be borne by the faculty if this initial period of 30 days is exceeded. It is thus recommended that a search for off-campus housing be initiated as soon as the joining formalities are completed.
+
+An off-campus rented apartment requires consideration of the amount of rent, brokerage, escalation clause, and issues related to maintenance and movement charges. The institute has evolved a policy on the amount of rent that can be paid. The decisions regarding the amount of rent, brokerage, and escalation clause are usually handled by the Associate Dean IPS-2 and his/her Office. As a first step, new faculty members  are advised to contact the office of Associate Dean-2 Infrastructure and Planning (IPS) to obtain information on the rental limits and other rules regarding off-campus accommodation. It is recommended that the initial negotiated rent is limited to within the stipulated amount. The terms and issues regarding the escalation are handled by the Associate Dean IPS-2’s office. The maintenance and movement charges are usually expected to be borne by the faculty.
+
+The Associate Dean IPS-2’s office may also offer help for searching and to identify estate agents who can facilitate the search for apartments. A list of previously rented apartments or apartments newly offered on rent may be already be available with the Office of the Associate Dean IPS-2. These may be considered by new faculty for potential allotment. The identification of the apartment could also be done personally with the help of an agent, or by consulting websites that offer such solutions.
+
+The contract or the lease agreement is drawn with IIT Bombay as the party and the letter of allotment is then issued by the Accommodation Allotment Committee (AAC). The duration of the lease should be checked carefully, since, it may be possible that these rented premises may have to occupied for an extended period of time. After moving to the apartment, the usual day to day maintenance is expected to be handled by the allottee.
+
+The institute has rules and regulations regarding allotment and entitlement of housing to faculty and staff of the institute. The details of these can be found on the Dean IPS website. The off-campus housing is treated as transit accommodation provided by IIT Bombay. Thus, availing the off-campus housing does not affect the entitlement or the seniority of the faculty within the ambit of the defined rules. The rented premises may have to vacated due to several reasons with the happy one being on-campus accommodation.
+
+## Schools in and around campus {#sec:moreschools}
+
+### Kendriya Vidyalaya (Central School) IIT Powai
+This is part of the Kendriya Vidyalaya Sangathan (KVS) network and is usually ranked among the top government day (that is,  not boarding) schools in India. It has classes I through XII, and is affiliated to the Central Board of Secondary Education (CBSE). Most of the seats here are reserved for the children of IIT Bombay employees; with a small fraction reserved for other Central Government organizations. You might have some anxious moments before your child gets admission, but eventually it works out, in almost all cases. In case of exceptional difficulty in getting admission into the Kendriya Vidyalaya, our Director, who is ex-officio the Chairman of the Vidyalaya Management Committee can help out by exercising their discretionary quota. There is also a Professor-in-Charge who you may contact for helpful advice in case of difficulty. More details about KV IIT Bombay may be found on [its webpage](http://www.kviitmumbai.com/English-Homepage).
+
+
+### Campus School and Jr. College
+The IIT Campus School and Jr. College has classes I through XII, and is affiliated to the Maharashtra State Board. It is exclusively for the children of IIT employees. Here, the IIT Bombay Director is the Chairman of the School Council, and IIT faculty serve as Associate Chairman and Conveners of Administrative and Academic policy. More details about the Campus School are available [here](http://www.iitcampusschoolmumbai.in/).
+
+### KG School
+The Kindergarten (KG) School comprising two classes (Lower KG and Upper KG) and two shifts, is for children from three to five years of age. Details of admissions, facilities, etc. that the KG School offers may be found [here](http://home.iitb.ac.in/~kgschool/index.html).
+
+
+### Shishu Vihar Child Care Centre
+
+Shishu Vihar is a not-for-profit child care centre, managed by an
+association of parents, catering primarily to the child care needs of
+working parents in IIT Bombay. The Shishu Vihar Management Committee
+(SVMC) is a body of IIT Bombay Official Representatives and elected member
+parents. SVMC is responsible for the overall policy, human resources,
+and financial management of the centre.
+
+SV has a group of people with backgrounds in education, psychology,
+special needs, child development, early childhood education, and
+curriculum development. Their education and experience not only
+enables them to understand the needs of children, but also inspires
+them to choose healthy and effective practices in child care.
+
+Shishu Vihar, which is located near Main Gate, has the following time slots and programs.
+
+Slots                                    Hours      Timing
+---------------------------------------  ---------  ------------------
+Morning Slot (MS)                        5 hours    8:15 AM to 1:15 PM
+Afternoon Slot (AF)                      5 hours    1:15 PM to 6:15 PM
+3/4 Day Slot (Lower KG School Children)  7.5 hours  Flexible
+Full Day Slot (FD)                       10 hours   8:15 AM to 6:15 PM
+
+------------------------------------------------------------------------------------
+Programs              Eligibility             Description
+--------------------  ---------------------   --------------------------------------
+Toddler Program (MS)  18 months               A planned program where
+                                              toddlers are stimulated
+                                              through music, rhymes, books and toys.
+
+Play Group (MS)       2 years                 A structured program
+                                              that focuses on Sensory,
+                                              Language and
+											  Social Development. Children
+                                              are motivated to learn
+                                              and explore through
+											  play.
+
+Junior Club (MS)      3 years                 A systematic program
+                                              that uses reasoning,
+                                              math and language skills
+                                              to facilitate thematic
+                                              learning among children.
+
+Day Care (FD/AS)      18 months to 12 years   Children are exposed to
+                                              various activities such
+                                              as art & craft, music,
+                                              storytelling etc. Indoor
+                                              and outdoor play is
+                                              strongly encouraged.
+------------------------------------------------------------------------------------
+
+Some more details about Shishu Vihar may be found [here](https://www.facebook.com/pg/Sishu-Vihar-441328895915841/about/).
