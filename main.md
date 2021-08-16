@@ -4,6 +4,7 @@ numbersections: true
 documentclass: amsbook
 classoptions: 10pt
 secnumdepth:
+tocdepth: 1
 header-includes:
 - |
   ```{=latex}
@@ -309,16 +310,16 @@ Below is a list of departments, centres,schools and other functional units.
 9. [Energy Science and Engineering](https://www.ese.iitb.ac.in/)
 10. [Environmental Science and Engineering](https://www.esed.iitb.ac.in/)
 11. [Humanities & Social Sciences](https://www.hss.iitb.ac.in/)
-12. [IDC School of Design](http://www.idc.iitb.ac.in/)
-13. [Mathematics](http://www.math.iitb.ac.in/)
-14. [Mechanical Engineering](http://www.me.iitb.ac.in/)
-15. [Metallurgical Engineering & Materials Science](https://www.iitb.ac.in/mems/en)
-16. [Physics](https://www.phy.iitb.ac.in/)
+12. [Mathematics](http://www.math.iitb.ac.in/)
+13. [Mechanical Engineering](http://www.me.iitb.ac.in/)
+14. [Metallurgical Engineering & Materials Science](https://www.iitb.ac.in/mems/en)
+15. [Physics](https://www.phy.iitb.ac.in/)
 
 **Schools**
 
 1. [Shailesh J. Mehta School of Management](https://www.som.iitb.ac.in/)
 2. [Desai Sethi School for Entrepreneurship](https://www.iitb.ac.in/dsce/)
+3. [IDC School of Design](http://www.idc.iitb.ac.in/)
 
 **Centres**
 
@@ -326,7 +327,7 @@ Below is a list of departments, centres,schools and other functional units.
 1. [Centre for Policy Studies (CPS)](https://www.cps.iitb.ac.in/)
 1. [Centre of Studies in Resources Engineering (CSRE)](https://www.csre.iitb.ac.in/)
 1. [Centre for Technology Alternatives for Rural Areas (CTARA)](https://www.ctara.iitb.ac.in/)
-1. [[Centre for Urban Science and Engineering (C-USE)]](https://cuse.iitb.ac.in/)
+1. [Centre for Urban Science and Engineering (C-USE)](https://cuse.iitb.ac.in/)
 1. Centre for Liberal Arts, Science and Engineering (C-LASE)
 1. [[Centre for Machine Intelligence and Data Science (C-MInDS)]](https://www.minds.iitb.ac.in/)
 1. Koita Centre for Digital Health (KCDH)
@@ -3026,7 +3027,7 @@ online are available at the [NPS CRA website](https://npscra.nsdl.co.in/).
 <!--       usually get tips from neighbours or - if you are living -->
 <!--       off-campus - the security personnel in your apartment complex. -->
 
-# Appendices
+# Appendices {.unlisted .unnumbered}
 
 ## More on Housing {#sec:morehousing}
 
