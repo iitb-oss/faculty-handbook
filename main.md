@@ -3,6 +3,7 @@ title: Faculty Handbook
 numbersections: true
 documentclass: amsbook
 classoptions: 10pt
+secnumdepth:
 header-includes:
 - |
   ```{=latex}
@@ -56,8 +57,8 @@ followed by those at Madras (1959), Kanpur (1959) and Delhi
 (1961). Though the names of the cities Bombay and Madras were later
 changed respectively to Mumbai and Chennai, the Institutes at these
 two places retain the original names. Thus our institute is IIT
-Bombay, or, abbreviated to IIT Bombay.  IIT Bombay celebrated its Golden
-Jubilee in 2008 and Diamond Jubilee in 2018.
+Bombay.  IIT Bombay celebrated its Golden Jubilee in 2008 and Diamond
+Jubilee in 2018.
 
 In 1994, a sixth IIT was established in Guwahati, Assam. Seven years
 later, in the year 2001, one of the oldest engineering colleges of the
@@ -222,13 +223,13 @@ Deans. They are as follows:
       (including air conditioners), the Design Cell, which is
       responsible for interior design and renovation, and the Public
       Health Office. Associate Dean-I (IPS) and Associate Dean-II
-      (IPS) assist the Dean in discharging thse
-      responsibilities. Associate Dean - I (IPS) focuses on civial
+      (IPS) assist the Dean in discharging these
+      responsibilities. Associate Dean - I (IPS) focuses on civil
       infrastructure maintenance, while Associate Dean -II (IPS)
       focuses on power supply and electrical maintenance including
-      air-conditioners. Associate Dean - II (IPS). Associate Dean - II
+      air-conditioners. Associate Dean - II
       (IPS) also serves as the Chairman, Accommodation Allotment
-      Committee (AAC); i.e. (s)he is directly responsible for Housing
+      Committee (AAC); that is, (s)he is directly responsible for Housing
       related matters. A later section of this handbook will provide
       more detail on this. The post of Associate Dean - III (IPS) has
       also been proposed and is awaiting approval as of mid-2021.
@@ -262,62 +263,32 @@ Deans. They are as follows:
       administrative workflows and automation of administrative
       procedures.
 
-Besides the Deans, there are Professors-in-Charge for various
-functional units. These include:
-
- - [Computer Centre](https://www.cc.iitb.ac.in) for all data network as well as Institute supercomputer related issues
- - [Continuing Education Programme](http://www.cep.iitb.ac.in/) for coordinating industrial training courses
- - [Society for Innovation and Entrepreneurship](http://www.sineiitb.org/sine) for start-up incubation support
- - [Research Park](http://www.respark.iitb.ac.in/#/home) for engagement with companies on campus
- - [Parimal and Pramod Chaudhari Centre for Learning &
-   Teaching](http://www.ppcclt.iitb.ac.in)
- - [Application Software Centre](https://asc.iitb.ac.in) (ASC)
- - [Centre for Aerospace Systems Design and Engineering](http://www.casde.iitb.ac.in/) (CASDE)
- - [Centre for Distance Engineering Education Programme](https://www.cdeep.iitb.ac.in/) (CDEEP)
- - Centre for Machine Intelligence and Data Science (C-MInDS)
- - [Centre for Policy Studies](https://www.cps.iitb.ac.in/) (CPS)
- - [Centre for Research in Nanotechnology and Science](http://www.saif.iitb.ac.in/crnts/) (CRNTS)
- - [Centre of Studies in Resources Engineering](https://www.csre.iitb.ac.in/) (CSRE)
- - [Centre for Technology Alternatives for Rural Areas](https://www.ctara.iitb.ac.in/) (CTARA)
- - [Centre for Formal Design and Verification of Software](http://www.cfdvs.iitb.ac.in/) (CFDVS)
- - Koita Centre for Digital Health (KCDH)
- - [Centre for Urban Science and Engineering](http://cuse.iitb.ac.in/) (C-USE)
- - [Desai Sethi Centre for Entrepreneurship](http://www.iitb.ac.in/dsce/) (DSCE)
- - [IITB-Monash Research Academy](http://www.iitbmonash.org/)
- - [National Centre for Aerospace Innovation and Research](http://ncair.in/) (NCAIR)
- - [National Center of Excellence in Technology for Internal Security](https://rnd.iitb.ac.in/node/101506) (NCETIS)
- - [National Centre for Mathematics](https://www.ncmath.org/) (NCM)
- - [Sophisticated Analytical Instrument Facility](http://www.saif.iitb.ac.in/) (SAIF)
- - [Tata Center for Technology and Design](http://www.saif.iitb.ac.in/) (TCTD)
- - [Wadhwani Research Centre for Bioengineering](https://rnd.iitb.ac.in/node/101513) (WRCB)
-
-Then there is the Registrar, who is officially the custodian of all
+The Registrar is officially the custodian of all
 records and funds received by the Institute. (S)he signs the cheques
 issued by the Institute and all payments payable to the Institute are
 paid to the Registrar, IIT Bombay. (S)he is also the Member-Secretary
 of the Senate and the Secretary of the Board of Governors. (S)he is
 also the Head of the administration.
 
-## Academic Units & their internal administration
+## Academic Units & their administration
 
 The broad disciplines
 in which IIT Bombay has its teaching and research activities are those of
 Engineering, Science, Humanities & Social Sciences, Management, Design, Educational Technology,
 Entrepreneurship, and Policy ([more
 details](http://www.iitb.ac.in/en/education/academic-divisions)). Academic
-programmes in these areas are hosted in 16 Departments, 1 School, several
+programmes in these areas are hosted in 16 Departments, 2 Schools, 9
 Centres and 4 Interdisciplinary programmes.
 
 Broadly speaking:
 
- - A **'Department'** is a unit that offers the whole range of academic
+ - A **'Department'** is a unit that offers a whole range of academic
    programmes ranging from undergraduate to doctoral degrees.
  - A **'Centre'** hosts only postgraduate and research programmes.
  - **Interdisciplinary programmes (IDPs)** are nucleated by faculty coming
    together from different disciplines to define a common research
    agenda, and over time, as the activities take a definite shape and
-   build up enough strength, such IDPs may become Centres
-   themselves.
+   build up enough strength, IDPs may be converted to Centres.
 -  **Schools** are set up in targeted areas, with significant
    funding from external sources.
  - In addition, there are **service centres** such as the **Computer
@@ -364,9 +335,9 @@ Below is a list of departments, centres,schools and other functional units.
 **Interdisciplinary Programs**
 
 1. Climate Studies
-2. Educational Technology
+2. Educational Technology (ET)
 3. Industrial Engineering and Operations Research (IEOR)
-4. Systems and Control Engineering
+4. Systems and Control Engineering (SYSCON)
 
 
 **Functional Units**
@@ -384,17 +355,16 @@ Below is a list of departments, centres,schools and other functional units.
 11. Sophisticated Analytical Instrument Facility (SAIF)
 12. Tata Center for Technology and Design (TCTD)
 13. Wadhwani Research Centre for Bioengineering (WRCB)
+14. [Computer Centre](https://www.cc.iitb.ac.in)
+15. [Continuing Education Programme](http://www.cep.iitb.ac.in/)
 
 The academic units mentioned above are headed, usually by a faculty
 member of the unit itself, and usually of the rank of Professor. The
 Head of an academic unit has a term of three years. The position is
-similar to what is known as the 'Department Chair' in the West. The
-Head is appointed by the Director, generally after seeking the view of
-the departmental faculty. All paperwork and online approvals from the
-Department are routed through the Head. This includes nearly all
-official applications (e.g., applications for seed funding, for
-special leave, and so on) going from a faculty member to the
-Institute.
+similar to what is known as the 'Department Chair' in the West. All
+paperwork and online approvals from the Department are routed through
+the Head. This includes nearly all official applications going
+from a faculty member to the Institute.
 
 The Head of an academic unit functions with the aid of several
 committees.
@@ -410,7 +380,7 @@ committees.
     cadres and groups of faculty in the department.
   - The Departmental Undergraduate Programme Committee (**DUGC**) and the
     Departmental Postgraduate Programme Committee (**DPGC**) to decide on
-    matters relating the to respective academic programmes, and issues
+    matters related to respective academic programmes, and issues
     pertaining to students therein.
 
 The deliberations of these committees, in the form of minutes, **is
@@ -418,7 +388,7 @@ communicated to concerned functionaries in the central administration**,
 who are updated of the issues of the departmental faculty.
 
 # When You Join
-Welcome to I.I.T. Bombay's faculty fraternity! The Institute promises
+Welcome to IIT Bombay's faculty fraternity! The Institute promises
 you interesting times ahead. Setting up home and workplace might
 appear to be a tough proposition at first, especially if you are
 arriving from a more orderly place (North America, Europe, Japan,
@@ -433,29 +403,29 @@ colleagues would be more than happy to guide and help informally -
 please do not hesitate to ask! What follows is a quick look at what
 you need to do just before and after your arrival.
 
+## Joining and settling down
 
 First, once you have decided on the date of your arrival, please write
 an email to your Head of the Department with a copy (cc) to the Dean
-(FA), requesting her/him to book a room in the Institute Guest House,
+(FA), requesting her/him to arrange an accommodation in the Institute Guest House,
 where you can check in upon arrival.  You may also request
-transportation to receive you at the Airport and bring you to the
-campus.
+to arrange for a transportation to bring you to the campus from airport/railway station.
 
 The Institute provides for Relocation Allowance to new faculty ([more
 details](http://www.iitb.ac.in/en/careers/faculty-facilities)). Please
 remember to keep your receipts/air-tickets etc. for claiming this
-reimbursement up to a maximum of Rs. 1 lakh. This applies to all
+reimbursement up to a maximum of Rs. 1 lakh. Remember to claim the reimbursement as soon as you complete the joining formalities and relocate. This applies to all
 future official travel as well!  If you accept the relocation
 allowance, you have to agree to serve the Institute for a minimum
 period of three years. If you leave the Institute before this period,
 the Institute may ask you to return the relocation amount paid, either
 fully or partially.
 
-If you are joining as a fresh faculty as an Assistant Professor, you
+If you are joining as an Assistant Professor, you
 are eligible to receive the [Young Faculty Award (YFA) endowed by our
 alumni](http://www.iitb.ac.in/alumni/en/contribution-purpose/young-faculty-awards). Please
 do spend a few minutes to send a letter of appreciation to our Alumni
-Association - through the Office of the Dean (ACR) - for their
+Association - through the Office of the Dean (ACR) for their
 gift. The paperwork for the YFA requires a legal process called
 franking - which can be done with the help of the Administration Section in
 the Main Building.
@@ -477,32 +447,30 @@ Immediately on joining:
    Building to complete the joining formalities. For this purpose you
    need:
    a. Original and copies of all academic certificates from SSC (10th
-   Board) to Ph.D. SSC or HSC certificate, which gives your date of
-   birth, is very important as the Administration does not accept any
-   other proof for date of birth.
+   Board) to Ph.D. and proof of date of birth.
    b. Several passport size photographs for various purposes.
    c. If you were previously employed, a certificate stating that you
-   have been relieved of your position there.
+   have been relieved of your position there. Proof of last drawn salary may be also be submitted.
 
 2. The Administration section will, in turn, give you several letters
    and forms. Two letters of immediate importance are the ones to: (i)
    Associate Dean-II (IPS), requesting that a quarter be allotted to
-   you and (ii) IIT Hospital, to examine you and certify that you are
+   you and (ii) IIT Hospital, to certify that you are
    medically fit.
 
 3. Please take the Accommodation Committee letter to the office of the
    Associate Dean-II (IPS) where your options for *ad hoc*
    accommodation will be explained to you. At the time of writing,
    most new faculty members spend the first few years in off-campus
-   accommodation. This could be a flat already leased out to IIT, or a
-   flat that you find and get IIT to lease for you; IIT will take care
-   of the rent up to a limit of about ₹ 40,000 - which should get you
-   a small 2BHK (2 bedroom, 1 Hall, 1 Kitchen) flat in the vicinity of
-   Campus. If you are keen to stay on-campus and rather lucky, you may
-   get a Staff Hostel flat/quarter - 1 BHK (1 Bedroom, 1 Hall, 1
-   Kitchen) allotted to you. There may be a trade-off here between the
-   better quality of life if you stay on-campus, and the better
-   quality accommodation that you are likely to get outside.
+   accommodation. This could be a flat already leased out to IIT
+   Bombay, or a flat that you find and get IIT Bombay to lease for
+   you. IIT Bombay will take care of the rent up to a limit of about ₹
+   40,000 - which should get you a small 2BHK (2 bedroom, 1 Hall, 1
+   Kitchen) flat in the vicinity of Campus. If you are keen to stay
+   on-campus and rather lucky, you may get a Staff Hostel
+   flat/quarter - 1 BHK (1 Bedroom, 1 Hall, 1 Kitchen) allotted to
+   you. There may be a trade-off here between campus life and the
+   bigger accommodation that you are likely to get outside.
 
    After two to three years, you may expect to get a better quality flat on
    campus allotted to you as ‘regular accommodation’. (If you happen
@@ -519,7 +487,7 @@ Immediately on joining:
    phone connection either from MTNL or from one of the other private
    operators. The Manager Telephones, whose office is in the Telephone
    Exchange (Main Building) generally would be able to share
-   information of some special mobile plans for IIT Faculty and
+   information of some special mobile plans for IIT Bombay Faculty and
    Staff. Your quarter would also have internet facilities connected
    to the Institute network.
 
@@ -548,7 +516,7 @@ Immediately on joining:
    form, a form declaring your dependents, a form for joining the New
    Pension Scheme (NPS) and Group Term Scheme Insurance (GTIS).
    a. New faculty have to join the NPS, details of which are given in
-   a later chapter. (For people who joined 1st January, 2004, there
+   a the [chapter on retirement benefits](sec:npsnote). (For people who joined 1st January, 2004, there
    was a Pension scheme or a non-pension Contributory Provident Fund).
 
    b. You also need to join the compulsory Group Term Insurance Scheme
@@ -580,39 +548,32 @@ Immediately on joining:
    exceeding a certain limit, _viz._ ₹ 9,000 + dearness relief per
    month at the time of writing.
 
-7. Now that you are done with the Administration Section, please
+7. Now that you have completed the formalities of Administration Section, please
    return to your Department and fill up a joining report form which
    will be signed by the Head of the Department and sent to the
    Administration. The Department will provide you with an office
-   space equipped with a telephone (with limited local and STD (long
+   space equipped with a telephone (with limited local andb STD (long
    distance) facility) and, of course, stationery. A personal desktop
-   computer with internet connection should also arrive within a few
+   computer or laptop with printer and internet connection with internet connection should also be made available within a few
    days.
 
 8. Once the Administration processes your joining report, intimation
    of your having joined is sent to various sections such as the
-   Library, Security Section, Hospital etc. You and your family
-   members will be photographed and identity cards issued by the
-   Security Section located on the ground floor of the Main
+   Library, Security Section, Hospital etc. Identity cards will be issued to you and family members after a visit to the Security section, located on the ground floor of the Main
    Building. For the employee, the identity card doubles as the
    Library card as well. You will have an employee salary code number
    which you will need in connection with all payments and financial
    transactions within the Institute. It will be useful to memorize
    this even though you may usually have your identity card  handy.
 
-9. With joining formalities completed, you may have to pay attention to
-   other issues, like getting a child admitted to a school. The campus
+9. After joining formalities are completed, you may have to pay attention to
+   other issues, like getting your child/children admitted to a school. The campus
    has two schools, one Kendriya Vidyalaya (Central School),
    affiliated to the Central Board of Secondary Education (CBSE) and
    the other, the Campus School, affiliated to the Maharashtra State
-   Board. Campus School is exclusively for the children of IIT
+   Board. Campus School is exclusively for the children of IIT Bombay
    employees, while in the Kendriya Vidyalaya most of the seats are
-   reserved for them. In the case of exceptional difficulty in getting
-   admission into the Kendriya Vidyalaya, our Director, who is
-   the *ex-officio* Chairman of the Vidyalaya Management Committee can
-   help out by exercising his/her discretionary quota. There is also a
-   Professor-in-Charge whom you may contact for helpful advice in case
-   of difficulty. The Campus School also has a kindergarten school for
+   reserved for children of IIT Bombay employees. The Campus School also has a kindergarten school for
    children above the age of three. For younger kids there is a
    private creche (Shishu Vihar, located at the time of writing in
    bungalows A-4 and A-5 in the Lakeside area of Campus near the Main
@@ -620,24 +581,23 @@ Immediately on joining:
    is provided in later chapters.
 
 10. You will need to apply for a Permanent Account Number (PAN) which
-    is to be used in all your income tax returns; it is also needed by
+    is to file income tax returns; it is also needed by
     the banks for large volume transactions. There are many agents
     (e.g. UTI at Ghatkopar or in Galleria, Hiranandani Gardens) who
-    can take care of it - the Administration Section should be able to
+    can help you with this - the Administration Section should be able to
     guide you. You need to provide copies of your photograph and
     address proof for the same. It may also be possible to get it
     online at [this
     website](https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html). While
-    you are at it, it is good to get a PAN for your spouse as well,
-    whether or not they are employed.
+    you are at it, it is good to get a PAN for your spouse as well.
 
 11. Among the first things you will want to get is a mobile
     connectivity. As much for communicating with family, friends,
     colleagues, and students as for the fact that it is the preferred
     medium of authentication for many kinds of digital transactions
     (through a One Time Password, or OTP). The Manager (Telephones) in
-    the Institute (internal number 8997), who sits next to the
-    Exchange in the Main Building, can help you to get a mobile
+    the Institute (internal number 8997), next to the
+    Exchange in the Main Building, can help you to get a prepaid or postpaid mobile
     connection (prepaid or postpaid).
 
 12. It is advisable to also get an Aadhar card
@@ -646,20 +606,19 @@ Immediately on joining:
     at which an application can be lodged. It is a good idea to take
     this for your whole family in one go.
 
-13. You will need to get a bank account so that your salary can be
-    deposited at the bank. There are branches of two banks on campus,
+13. You need to open a bank account where your salary will be deposited. There are branches of two banks on campus,
     **viz.** State Bank of India and Canara Bank. Please drop in there
     with your identity proof and a photograph and open a bank
     account. You may require one of your colleagues holding an account
     in the same branch to provide an introduction. There are several
     private banks (HDFC, ICICI, Axis Bank, South Indian Bank), public
     sector banks (e.g. Oriental Bank of Commerce, Andhra Bank, Vijaya
-    Bank etc.), and foreign banks (HSBC) around IIT, particularly in
+    Bank etc.), and foreign banks (HSBC) around IIT Bombay, particularly in
     the area known as Hiranandani Gardens. However, please note that
-    salary is normally credited into either Canara Bank or State Bank
+    salary is normally credited to either Canara Bank or State Bank
     of India accounts.
 
-## Regularization/Confirmation of Service
+## Regularization/Confirmation of Service {#sec:regularization}
 
 Under the current norms (**viz.** [7th Pay Commission
 rules](https://www.education.gov.in/sites/upload_files/mhrd/files/7th%20CPC%20Order%20CFTIs.pdf),
@@ -672,11 +631,7 @@ appointees are entitled to all facilities that regular faculty members
 may avail. If you are appointed at this level, the administration
 keeps track of when you complete the requirement of 3 years of
 experience (the experience gained after the date of PhD defence is
-counted), and sends a form to your department, that you have to fill
-for your appointment to be regularized. This form, in which you have
-to provide details of your accomplishments since obtaining the PhD
-degree, has to be filled out and returned with your Head's forwarding
-comments, to the Dean (FA). In case you have prior experience that the
+counted), and sends a form to you through your academic unit which you should fill as a part of regularization process. In this form you have to fill in details of all you academic accomplishments obtained after your Ph.D. degree and a summary of your academic activities after joining IIT Bombay. This form is forwarded to Dean (FA) by the Head of academic unit after adding appropriate recommendations. The Dean (FA) forwards this to the Director with his/her recommendations. In case you have prior experience that the
 administration is unaware of, that you feel should be counted against
 the 3-year requirement, you may make a representation through your
 Head of Department to Dean (FA), along with with documentary evidence
@@ -684,52 +639,72 @@ of the experience you are claiming.
 
 A faculty member recruited to any cadre is placed on probation for a
 period of 1 year. At the end of this period, administration requires
-you to fill another form (on your accomplishments during the probation
-year) and submit the same to Dean (FA) through the Head of your
-Department for confirmation of your appointment.
+you to fill another form (where you fill in your academic accomplishments during the probation year) and submit the same to Dean (FA) through the Head of your
+academic unit for confirmation of your appointment.
 
-## Housing
+## More on Housing
 
-The institute has undergone significant expansion and increase in number of students over the last decade and a half. The increase in student numbers has led to a commensurate increase in the number of faculty members on the campus. Thus, the present dwelling numbers on the campus are insufficient. Though, new constructions are underway, there is expected to be shortage of housing on campus for some more time. In most cases, the new faculty may take up on-campus housing flatlets like the Staff Hostel, Vihar House and CSRE D Types. However, some faculty may want a “proper apartment” owing to family constraints or due to non-availability of the flatlets. In such situations, some may opt for off-campus housing. These off-campus housing once identified and allotted are treated as an extension of the IIT Bombay housing. There are several considerations to be made when scouting for an apartment. Below are a few points to be considered with regard to off-campus housing.
+The institute has undergone significant expansion and increase in number of students over the last decade and a half. The increase in student numbers has led to a commensurate increase in the number of faculty members on the campus. Thus, the present dwelling numbers on the campus are insufficient. Though, new constructions are underway, there is an expected shortage of housing on campus for some more time. In most cases, the new faculty may take up on-campus housing flatlets like the Staff Hostel, Vihar House and CSRE D Types. However, some faculty may want a “proper apartment” owing to family constraints or due to non-availability of the flatlets. In such situations, some may opt for off-campus housing. These off-campus housing once identified and allotted are treated as an extension of the IIT Bombay housing. There are several considerations to be made when scouting for an apartment. Below are a few points to be considered with regard to off-campus housing.
 
 The institute provides temporary accommodation in the Guest House to the new faculty member immediately after they join, up to a period of 1 month. The guest house charges are applicable and have to be borne by the faculty if this initial period of 30 days is exceeded. It is thus recommended that a search for off-campus housing be initiated as soon as the joining formalities are completed.
 
-An off-campus rented apartment requires consideration of the amount of rent, brokerage, escalation clause, and issues related to maintenance and movement charges. The institute has evolved a policy on the amount of rent that can be paid. The decisions regarding the amount of rent, brokerage, and escalation clause are usually handled by the Associate Dean IPS-2 and its Office. As a first step, new faculty members  are advised to contact the office of Associate Dean-2 Infrastructure and Planning (IPS) to obtain information on the rental limits and other rules regarding off-campus accommodation. It is recommended that the initial negotiated rent is limited to within the stipulated amount. The terms and issues regarding the escalation are handled by the Associate Dean IPS-2’s office. The maintenance and movement charges are usually expected to be borne by the faculty.
+An off-campus rented apartment requires consideration of the amount of rent, brokerage, escalation clause, and issues related to maintenance and movement charges. The institute has evolved a policy on the amount of rent that can be paid. The decisions regarding the amount of rent, brokerage, and escalation clause are usually handled by the Associate Dean IPS-2 and his/her Office. As a first step, new faculty members  are advised to contact the office of Associate Dean-2 Infrastructure and Planning (IPS) to obtain information on the rental limits and other rules regarding off-campus accommodation. It is recommended that the initial negotiated rent is limited to within the stipulated amount. The terms and issues regarding the escalation are handled by the Associate Dean IPS-2’s office. The maintenance and movement charges are usually expected to be borne by the faculty.
 
-The Associate Dean IPS-2’s office may also offer help for searching and to identify estate agents that can facilitate the search for apartments for a suitable and affordable apartment. A list of previously rented apartments or apartments newly offered on rent may be already be available with the Office of the Associate Dean IPS-2. These may considered by new faculty for potential allotment. The identification of the apartment could also be done personally with the help of an agent, or by consulting websites that offer such solutions.
+The Associate Dean IPS-2’s office may also offer help for searching and to identify estate agents who can facilitate the search for apartments. A list of previously rented apartments or apartments newly offered on rent may be already be available with the Office of the Associate Dean IPS-2. These may be considered by new faculty for potential allotment. The identification of the apartment could also be done personally with the help of an agent, or by consulting websites that offer such solutions.
 
 The contract or the lease agreement is drawn with IIT Bombay as the party and the letter of allotment is then issued by the Accommodation Allotment Committee (AAC). The duration of the lease should be checked carefully, since, it may be possible that these rented premises may have to occupied for an extended period of time. After moving to the apartment, the usual day to day maintenance is expected to be handled by the allottee.
 
-The institute has rules and regulations regarding allotment and entitlement of housing to faculty and staff of the institute. The details of these can be found on the Dean IPS website. The off-campus housing is treated as transit accommodation provided by IIT Bombay. Thus, availing the off-campus housing does not affect the entitlement or the seniority of the faculty within the ambit of the defined rules. The rented premises may have to vacated due to several reasons with the happy one being movement to campus.
+The institute has rules and regulations regarding allotment and entitlement of housing to faculty and staff of the institute. The details of these can be found on the Dean IPS website. The off-campus housing is treated as transit accommodation provided by IIT Bombay. Thus, availing the off-campus housing does not affect the entitlement or the seniority of the faculty within the ambit of the defined rules. The rented premises may have to vacated due to several reasons with the happy one being on-campus accommodation.
+
+## Resources for Teaching and Research
+To get started in the Institute, you can familiarize yourself with the resources available for helping you teach and conduct research effectively. The [Academic Rules](#sec:acadrules) discuss all aspects related to courses, curricula and other teaching related aspects. The Institute, while encouraging you to apply for external grants to support your research, also provides you a Seed grant to get you started on your research projects. More details on this are available [here](#sec:researchfunding). You also have access to a Research and Development Fund (RDF) that can be used with more flexibility for your research related activities. Your academic unit would also have a Department Development Fund to support development activities of interest to your department as a whole. These are discussed in greater detail [here](#sec:rdfddf).
+
+In addition to research projects, one may also take on [consultancy projects](sec:consultancy) for external organizations. Finally, the [Continuing Education Programme (CEP)](sec:cep) permits you to conduct courses for external organizations through the Institute.
+
+## Lab Space Allotment
+
+As a new faculty (and if you need lab space), you need to contact the
+Head of your academic unit discuss with him / her
+about your requirements in advance.
+
+1. After you have been allocated lab space, it may take time to convert it into a proper, functional lab, and this would need your active involvement. You may also need to talk to the Head of the academic units about the funding required to get the civil, air-conditioning and interior work done through the Estate Office, Electrical Maintenance Division and Design Cell respectively, and so on. Some senior faculty members may also be able to informally mentor you on getting these jobs done efficiently.
+
+2. Please talk to the Head of your academic unit, and find out about existing facilities on campus that might help you get started with something quickly.
+
+3. You may also consider building shared labs with other faculty who work in similar research areas. This might help reduce the resources required (including space), get you a partner to share in the effort, and thereby move things faster till you establish your own laboratory.
+
+Please consider volunteering to help your Head of your academic unit on resource planning so that
+these issues become progressively easier for future colleagues who
+come after you.
 
 ## Medical Facilities
-During the period of service, a staff member and his dependents (the term _dependent_ is clearly defined in the Service Rules, see Chapter 3) are provided medical facilities at the IIT Hospital, and whenever required, at various hospitals in the city which are empanelled by the Institute. Medical facility for employee and spouse is also available after retirement on a contributory basis (see the section on PRMS below).
+During the period of service, a staff member and his/her dependents (the term _dependent_ is clearly defined in the Service Rules) are provided medical facilities at the IIT Hospital, and whenever required, at various hospitals in the city which are empanelled by the Institute. Medical facility for employee and spouse is also available after retirement on a contributory basis (see the section on PRMS below).
 
 ### IIT Bombay Hospital
-The Institute has a reasonably well-equipped Hospital with both in-patient and out-patient facilities. In addition to several full time doctors, there are several visiting specialists who attend the Hospital on certain days and are available for consultation. The Hospital also provides for dental care as well as for homeopathic medicine. Basic diagnostic facilities are provided at the Institute Hospital. These include pathology, X-Rays, Sonography, ECG etc. The Hospital also has a physiotherapy section. The Hospital administration is headed by a Chief Medical Officer (CMO)[^cmo]. A Committee known as the "Hospital and Health Advisory Committee (HHAC)" headed by a Professor of the Institute acts as a general policy watchdog for the Hospital and related issues. This Committee reviews Hospital policies from time to time and recommends measures that need to be taken to improve Hospital services. All major reimbursement claims are also recommended for approval by this committee.
+The Institute has a reasonably well-equipped Hospital with both in-patient and out-patient facilities. In addition to several full time doctors, there are several visiting specialists who attend the Hospital on certain days and are available for consultation. The Hospital also provides for dental care as well as for homeopathic medicine. Basic diagnostic facilities are provided at the Institute Hospital. These include pathology, X-Rays, Sonography, ECG etc. The Hospital also has a physiotherapy section. The Hospital administration is headed by a Chief Medical Officer (CMO)[^cmo]. A Committee known as the ["Hospital and Health Advisory Committee (HHAC)"](https://www.iitb.ac.in/hospital/HHAC.html), headed by a Professor of the Institute acts as a general policy watchdog for the Hospital and related issues. This Committee reviews Hospital policies from time to time and recommends measures that need to be taken to improve Hospital services. All major reimbursement claims are also recommended for approval by this committee.
 
 [^cmo]: Currently, Dr. Nisha Shah.
 
 ### Your medical file
-The Hospital maintains a family file for every employee, which is available in the outer office. For an outpatient (OPD) consultation, the file has to be presented at the Hospital reception, who will print out a blank prescription slip. Before your face becomes familiar with the Hospital staff, you may be asked for your identity card, which also spells out your medical entitlement. Please do not take offence on such request.  The slip along with the file is to be taken to the doctor who you wish to see. Each visit to the doctor costs you _one rupee_ which is directly debited from the salary.
+The Hospital maintains a family file for every employee, which is available in the outer office. For an outpatient (OPD) consultation, the file has to be presented at the Hospital reception, who will print out a blank prescription slip. Before your face becomes familiar with the Hospital staff, you may be asked for your identity card, which also spells out your medical entitlement. The slip along with the file is to be taken to the doctor who you wish to consult. Each visit to the doctor costs you _one rupee_ which is directly debited from the salary.
 
 ### Healthcare
 
 For regular medical officers (doctors) of the Hospital, there is no
 system of taking an appointment. For visiting specialists, one has to
-take an appointment. Some of the specialists will only give
-appointments when recommended by a regular medical officer. For
+take an appointment. Some of the specialists will give
+appointments only when recommended by a regular medical officer. For
 scheduling such an appointment, you have to contact the reception.
 
-Any medicine prescribed by the doctor on duty can be obtained from the Pharmacy attached to the Hospital. If a prescribed medicine is not available, one has to take a separate prescription for the same to purchase it from the market. The Institute reimburses the cost of medicines purchased from outside which could not be supplied from the Institute Pharmacy. Similarly, the cost of consultation, pathological or radiological investigations carried out outside the IIT Hospital on recommendation of the Institute doctors are also reimbursable. In some cases, only 80% of the cost is reimbursable. There are some fine prints to reimbursement rules (for instance, cost of spectacles or contact lenses or the cost of dental treatment in an outside clinic or hospital etc. are not reimbursable even when recommended by a medical officer of the Hospital). You can get a list of recognized hospitals and reimbursements at [https://www.iitb.ac.in/hospital/hindi/RecognisedHospitalList_tabular.html](https://www.iitb.ac.in/hospital/hindi/RecognisedHospitalList_tabular.html).
+Any medicine prescribed by the doctor on duty can be obtained from the Pharmacy attached to the Hospital. If a prescribed medicine is not available, one has to take a separate prescription for the same to purchase it from a medical shop outside the campus. The Institute reimburses the cost of medicines purchased from medical shops outside which could not be supplied from the Institute Pharmacy. Similarly, the cost of consultation, pathological or radiological investigations carried out outside the IIT Hospital on recommendation of the Institute doctors are also reimbursable. In some cases, only 80% of the cost is reimbursable. There are some fine prints to reimbursement rules (for instance, cost of spectacles or contact lenses or the cost of dental treatment in an outside clinic or hospital etc. are not reimbursable even when recommended by a medical officer of the Hospital). You can get a list of recognized hospitals and reimbursements at [https://www.iitb.ac.in/hospital/hindi/RecognisedHospitalList_tabular.html](https://www.iitb.ac.in/hospital/hindi/RecognisedHospitalList_tabular.html).
 
-In case of illnesses which require hospitalization of a specialized nature (as may be determined by the C.M.O.), a patient may be referred to one of the many hospitals in the city which are recognized by I.I.T. The entitlement in the hospitals (i.e. the type of room or bed that can be availed) depends on the employee’s salary and it is good to enquire about exact entitlement from the administration. While expenses in all Government Hospitals and several charitable hospitals (such as Sushrusha Hosp., Dadar, and the Tata Memorial Hospital) is reimbursed 100%, the Institute only reimburses 80% of the cost in recognized Hospitals with sophisticated facilities and some specialty Hospitals[^hwebsite].
+In case of illnesses which require hospitalization of a specialized nature (as may be determined by the C.M.O.), a patient may be referred to one of the many hospitals in the city which are recognized by IIT Bombay. The entitlement in the hospitals (that is,  the type of room or bed that can be availed) depends on the employee’s salary and it is useful to enquire about exact entitlement from the administration. While expenses in all Government Hospitals and several charitable hospitals (such as Sushrusha Hosp., Dadar, and the Tata Memorial Hospital) is reimbursed 100%, the Institute only reimburses 80% of the cost in recognized Hospitals with sophisticated facilities and some specialty Hospitals[^hwebsite].
 
 While basic pathology is available in the Hospital, the Institute Hospital has an arrangement with a few specialized pathology laboratories[^ranbaxy] for some advanced tests. For this purpose staff from these labs visit the Institute Hospital on specified days to collect samples. Hospital Doctor’s recommendation is required for use of this facility.
 
 The Institute recognizes a few radiological centres for investigations with MRI, C.T. Scan, Digital X-rays etc. Hospital Doctor’s recommendation is required for use of this facility.
 
-The Institute Hospital provides all major vaccinations for children. It is a good idea for parents to retain records of such vaccinations, as such data is increasingly being required for various purposes in future.
+The Institute Hospital provides all major vaccinations for children. It is a good idea for parents to retain records of such vaccinations, as such data is increasingly being required for various purposes in future. In the current times, IIT Bombay  hospital is also facilitating vaccination against COVID.
 
 The hospital has an ambulance which works 24 × 7 for transportation of patients within the campus and for transporting patients to hospitals outside when referred to by the IIT Hospital.
 
@@ -749,7 +724,7 @@ For the benefit of staff members staying outside the campus (as also for staff o
 
 [^hosplist]: These hospitals, at present, are: Pragati Mitra Mandal (Mulund(W)), Smt. Nand Kunverben Rasiklal Seth Hosp. (Borivali (W)), Malad Jain Yuvak Mandal Med. Relief Centre (Malad (W)), Lions Clinic (Matunga), Vasani Diagnostic Centre (Andheri) and Seth Nanji Gangji Charitable Polyclinic (Dombivali). See the hospital website for up-to-date information.
 
-For reimbursement, separate forms for OPD (inclusive of cost of medicine purchased from outside) and indoor treatment,  available in the Hospital office[^websiteforms], should be filled up and submitted along with cash memos within three months. Please note that except in case of emergency, no reimbursement is permissible unless the reference was made by the IIT Hospital to the outside hospital.
+For reimbursement, separate forms for OPD (inclusive of cost of medicine purchased from outside) and indoor treatment,  available in the Hospital office[^websiteforms], should be filled up and submitted along with cash memos within three months. Please note that except in case of emergency, no reimbursement is permissible unless the reference was made by the IIT Bombay Hospital to the outside hospital.
 
 [^websiteforms]: These and most other forms you may require are also downloadable from http://asc.iitb.ac.in.
 
@@ -758,14 +733,14 @@ For reimbursement, separate forms for OPD (inclusive of cost of medicine purchas
 There are three schools on the campus for children: Kendriya Vidyalaya, Campus School, and KG School; plus a full-fledged child care (day care) and play school, Sishu Vihar. The Campus School also has a kindergarten school for children above the age of three. For younger kids there is a private creche (Sishu Vihar, temporarily located at the time of writing in bungalows A-4 and A-5 in the Lakeside area of Campus near the Main Gate), and run by an NGO. There are also several private schools in Powai and nearby areas that are well known.
 
 ### Kendriya Vidyalaya (Central School) IIT Powai
-This is part of the Kendriya Vidyalaya Sangathan (KVS) network and is usually ranked among the top government day (i.e. not boarding) schools in India. It has classes I through XII, and is affiliated to the Central Board of Secondary Education (CBSE). Most of the seats here are reserved for the children of IIT employees; with a small fraction reserved for other Central Government organizations. You might have some anxious moments before your child gets admission, but eventually it works out, in almost all cases. In case of exceptional difficulty in getting admission into the Kendriya Vidyalaya, our Director, who is ex-officio the Chairman of the Vidyalaya Management Committee can help out by exercising their discretionary quota. There is also a Professor-in-Charge who you may contact for helpful advice in case of difficulty. More details about KV IIT Bombay may be found on [its webpage](http://www.kviitmumbai.com/English-Homepage).
+This is part of the Kendriya Vidyalaya Sangathan (KVS) network and is usually ranked among the top government day (that is,  not boarding) schools in India. It has classes I through XII, and is affiliated to the Central Board of Secondary Education (CBSE). Most of the seats here are reserved for the children of IIT Bombay employees; with a small fraction reserved for other Central Government organizations. You might have some anxious moments before your child gets admission, but eventually it works out, in almost all cases. In case of exceptional difficulty in getting admission into the Kendriya Vidyalaya, our Director, who is ex-officio the Chairman of the Vidyalaya Management Committee can help out by exercising their discretionary quota. There is also a Professor-in-Charge who you may contact for helpful advice in case of difficulty. More details about KV IIT Bombay may be found on [its webpage](http://www.kviitmumbai.com/English-Homepage).
 
 
 ### Campus School and Jr. College
 The IIT Campus School and Jr. College has classes I through XII, and is affiliated to the Maharashtra State Board. It is exclusively for the children of IIT employees. Here, the IIT Bombay Director is the Chairman of the School Council, and IIT faculty serve as Associate Chairman and Conveners of Administrative and Academic policy. More details about the Campus School are available [here](http://www.iitcampusschoolmumbai.in/).
 
 ### KG School
-The Kindergarten (KG) School comprising two classes (Lower KG and Upper KG) and two shifts, is for children from three to five years of age. Details of Admissions, Facilities, etc. about the KG School may be found [here](http://home.iitb.ac.in/~kgschool/index.html).
+The Kindergarten (KG) School comprising two classes (Lower KG and Upper KG) and two shifts, is for children from three to five years of age. Details of admissions, facilities, etc. that the KG School offers may be found [here](http://home.iitb.ac.in/~kgschool/index.html).
 
 
 ### Shishu Vihar Child Care Centre
@@ -783,10 +758,7 @@ curriculum development. Their education and experience not only
 enables them to understand the needs of children, but also inspires
 them to choose healthy and effective practices in child care.
 
-At the time of writing, Shishu Vihar is located in bungalows A-4 and
-A-5 in the Lakeside area of Campus near the Main Gate. The following
-are its time slots and programs.
-
+Shishu Vihar, which is located near Main Gate, has the following time slots and programs.
 
 Slots                                    Hours      Timing
 ---------------------------------------  ---------  ------------------
@@ -826,27 +798,6 @@ Day Care (FD/AS)      18 months to 12 years   Children are exposed to
 
 Some more details about Shishu Vihar may be found [here](https://www.facebook.com/pg/Sishu-Vihar-441328895915841/about/).
 
-## Resources for Teaching and Research
-To get started in the Institute, you can familiarize yourself with the resources available for helping you teach and conduct research effectively. The [Academic Rules](#sec:acadrules) discuss all aspects related to courses, curricula and other teaching related aspects. The Institute, while encouraging you to apply for external grants to support your research, also provides you a Seed grant to get you started on your research projects. More details on this are available [here](#sec:researchfunding). You also have access to a Research and Development Fund (RDF) that can be used with more flexibility for your research. Your academic unit would also have a Department Development Fund to support development activities of interest to your department as a whole. These are discussed in greater detail [here](#sec:rdfddf).
-
-In addition to research projects, one may also take on [consultancy projects](sec:consultancy) for external organizations. Finally, the [Continuing Education Programme (CEP)](sec:cep) permits you to conduct courses for external organizations through the Institute.
-
-## Lab Space Allotment
-
-As a new faculty (and if you need lab space), you need to contact the
-Head of your Department / Centre / School and discuss with him / her
-about your requirements in advance.
-
-1. After you have been allocated lab space, it may take time to convert it into a proper, functional lab, and this would need your active involvement. You may also need to talk to the Head about the funding required to get the civil, air-conditioning and interior work done through the Estate Office, Electrical Maintenance Division and Design Cell respectively, and so on. Some senior faculty members may also be able to informally mentor you on getting these jobs done efficiently.
-
-2. Please talk to the Head, and find out about existing facilities on campus that might help you get started with something quickly.
-
-3. You may also consider building shared labs with other faculty who work in similar research areas. This might help reduce the resources required (including space), get you a partner to share in the effort, and thereby move things faster till you establish your own laboratory.
-
-Please consider volunteering to help your Head on resource planning so
-these issues become progressively easier for future colleagues who
-come after you.
-
 ## Life in Powai and beyond
 
 (This section has external links for your information. IIT Bombay cannot take any responsibility for these.)
@@ -868,14 +819,14 @@ get you to your destination on time with more certainty. A lot of hope
 rests on the upcoming metro network. Its construction, however, has
 added to traffic woes right now, but upon completion, it will benefit
 commuters from IIT Bombay and the nearby areas. [Here is the dream
-anyway](https://en.wikipedia.org/wiki/Mumbai_Metro).
+anyway](https://en.wikipedia.org/wiki/Mumbai_Metro). TODO Appendix links
 
 Powai and neighbouring areas beyond the Campus, particularly
 Hiranandani Gardens, have evolved into a bustling and 'happening' part
-of Mumbai with regard to restaurants, cafes, pubs etc. (It is also
+of Mumbai with regard to restaurants, cafes etc. It is also
 generally well-provisioned, in terms of everything from doctors and
 chemists to yoga and arts classes - however, one does not need to
-leave Campus for most of these!)
+leave Campus for most of these!
 
 ## Should you choose to leave
 
@@ -893,7 +844,7 @@ be given for such an act. Those who are covered under the old pension
 scheme may also opt for `voluntary retirement' from the service of the
 Institute by giving a three months' notice after having served the
 Institute for a minimum period of 20 years. Voluntary retirement is
-discussed in a later section.
+discussed in the chapter on retirement benefits.
 
 # Rules & Regulations
 ## Rules for salary, allowances etc.
@@ -905,7 +856,7 @@ financial year in which the return is filed[^taxyear]. The salary slip
 is made available to every employee around the end of the month in
 their SAP login, and it provides details of earnings, deductions and
 the net pay that will be credited to the bank account of the
-employee. The salary slip of every employee is uploaded in the
+employee. The salary slip of every employee is uploaded on the
 internal website of the Institute
 [http://ep.iitb.ac.in](http://ep.iitb.ac.in).
 
@@ -942,7 +893,7 @@ The salary that you get has several components.
    Your salary within the pay band is fixed at the time of your
    appointment and increases every year by an _increment_, as defined
    in the 7th Pay Commission Pay Matrix. The various cadres, processes
-   for selections, and salary scales (i.e., Pay Levels as listed
+   for selections, and salary scales (that is, , Pay Levels as listed
    above) for the faculty are as follows. Note that they are
    automatically moved to the higher levels as they gain experience
    through their career.
@@ -950,9 +901,9 @@ The salary that you get has several components.
    - _Assistant Professor:_ Assistant Professors fall into the
      following levels, based on their experience:
 	 - _0 to 1 year of post-PhD experience (Assistant Professor Grade II):_ Pay
-Level 10, with starting a salary of ₹ 84,700 plus D.A..
+Level 10, with starting a salary of ₹ 84,700 plus D.A.
 	 - _1 to 3 years of post-PhD experience (Assistant Professor Grade II):_ Pay
-       Level 11, with a starting salary of ₹ 89,900 plus D.A..
+       Level 11, with a starting salary of ₹ 89,900 plus D.A.
 	 - _3 years or more of post-PhD experience (Assistant Professor Grade I):_ Pay Level 12, with a
        starting salary of ₹ 101,500 plus D.A.
 	 - _After 3 years in Pay Level 12 (Assistant Professor Grade I)_: Pay Level 13A1 ₹ 131,400 plus D.A.
@@ -970,8 +921,7 @@ Level 10, with starting a salary of ₹ 84,700 plus D.A..
 	 the candidate)[^gradeexample]. While, technically,
 	 appointment to this position does not automatically imply
 	 ultimate absorption in the IIT, we have adopted a system of
-	 internal assessment as explained in section 3 of Chapter 2 for
-	 regularization of such positions.
+	 internal assessment as explained [in the section on regularization](#sec:regularization).
 
    - _Associate Professor:_  Pay Level 13A2
 
@@ -982,8 +932,8 @@ Level 10, with starting a salary of ₹ 84,700 plus D.A..
 
    In addition, the following scales are applicable as appropriate to faculty:
 
-   - _Professor (HAG Scale):_ From August 18, 2009, a senior cadre of
-   Professors has been created. This scale pay for this cadre is known
+   - _Professor (HAG Scale):_ From 18th August 2009, a senior cadre of
+   Professors has been created. The scale pay for this cadre is known
    as HAG (Higher Academic Grade). The minimum eligibility criteria
    for this scale is six years of service as a Professor. A maximum of
    40% of the total number of Professors can be placed in this
@@ -992,21 +942,17 @@ Level 10, with starting a salary of ₹ 84,700 plus D.A..
 
    - _Institute and Endowed Chairs for faculty:_ As a means of
    recognizing outstanding performance, the Institute has several
-   Chairs. While most of these are at the Professor's level (50
-   Institute and 34 endowed chairs), there are a few at other levels
+   Chair Professor positions. While most of these are at the Professor's level, there are a few at other levels
    also.  Funding for several of these comes from endowments, and is
    managed by the Dean (ACR)'s office, which also takes an active role
-   in raising funds for further chairs. The selection to these chairs
-   is carried out by Dean (FA). Each chair is given for a period of 3
-   years, and the chair is re-advertised at the end of that
+   in raising funds for further chairs. The selection to these Chairs is done by a Selection Commitees. The tenure of the Chair Professorship position is for a period of three years, and the chair is re-advertised at the end of that
    period. Faculty who hold chairs receive a salary top up of ₹
    30,000 per month and a contingency grant of ₹ 90,000 per year, in
-   addition to their salaries. Details are available on the Dean
-   (FA)'s webpage.
+   addition to their salaries.
 
 3. _Dearness Allowance:_ A component termed as Dearness Allowance to
    take care of rising prices due to inflation is also a part of your
-   pay packet. The rate of Dearness Allowance is revised by the
+   pay package. The rate of Dearness Allowance is revised by the
    Government every January and July based on consumer price indices.
 
 4. _House Rent Allowance (HRA):_ If you do not stay in
@@ -1015,7 +961,7 @@ Level 10, with starting a salary of ₹ 84,700 plus D.A..
    payable even when you stay in an accommodation owned by
    you. (Interestingly, if both spouses are employees of the
    Institute, both can claim HRA if the accommodation is rented or is
-   owned. However, if the spouse has a Government accommodation, HRA
+   owned. However, if either of them has a Government accommodation, HRA
    cannot be claimed by either). HRA is taxable. If, however, you live
    in a rented accommodation, the HRA that you receive may be fully or
    partially exempt from income tax. The amount of exemption that can
@@ -1088,18 +1034,14 @@ When you receive your salary slip, you will find some deductions as well. The pr
    filed. From the assessment year 2013-14 e-filing of your income tax
    return has been made mandatory. While initially you may find the
    process a bit cumbersome, it is actually fairly
-   straightforward. There are some minor problems, which a more
-   experienced colleague of yours will be able to help out with. You
+   straightforward. You
    will need to complete a one-time registration process at the
    [Income Tax e-Filing
    website](http://www.incometaxindiaefiling.gov.in). Your PAN number
    will be your user-id. You will also be required to link your
    Aadhaar to your PAN at this stage. You can view your tax credit (form 26AS) once
    you login (you will also be able to see it at your net banking
-   website). Download the appropriate ITR form (usually, ITR-1 or
-   ITR-2), fill up an Excel or Java based form, and submit. (Though
-   many in the Institute hate it, e-filing is smooth on a Microsoft
-   platform. The Java program works effectively as well).  On
+   website). The income tax return can be filled up directly on the e-Filing website.  On
    successful submission of your return, the system will generate an
    acknowledgement (called ITR-V). You can either choose to e-verify
    your return submission using an Aadhaar based OTP. Otherwise, take a print out of this
@@ -1130,24 +1072,24 @@ When you receive your salary slip, you will find some deductions as well. The pr
 
 Once every two years, you are eligible for a paid travel to your home
 town. For the purpose of LTC, block years are defined for two years
-starting January 1st of an even year (e.g. 2020) to December 31st of
+starting 1st January of an even year (e.g. 2020)  to 31st December of
 an odd year. If you do not avail LTC during this block year it
 generally lapses. However, it has been the practice of the Government
-to allow for a grace year, i.e. LTC for the block year 2020-21 can be
-availed (i.e. outward journey commenced) up to 31st December 2022.
+to allow for a grace year, that is,  LTC for the block year 2020-21 can be
+availed (that is,  outward journey commenced) up to 31st December 2022.
 
 Two of the above blocks are combined together to define a four year
 block, e.g., the block 2020-21 and the next block 2022-23 define a
-four year block 2020-2023. In this four year block, one can take LTC
-for home town in one two-year block and another LTC to anywhere in
-India (including home town) in the other two-year block. The four-year
-block also has a grace period of one year, i.e. the 2020-23 block must
-be utilized (i.e. outward journey commenced) before 31.12.2024.
+four year block 2020-2023. In this four year block, one can avail LTC
+for home town travel in one two-year block and another LTC to anywhere in
+India (including home town) in the other second two-year block. The four-year
+block also has a grace period of one year, that is, the 2020-23 block must
+be utilized (that is, outward journey commenced) before 31.12.2024.
 
 #### Eligibility
 
 You must have completed one year of service in the block to be
-eligible for LTC in the block, i.e. those who are appointed up to
+eligible for LTC in the block, that is,  those who are appointed up to
 31-12-2020. are eligible for LTC in the block year 2020-21 but those
 appointed after this day are not eligible.
 
@@ -1156,9 +1098,7 @@ not be taken up together. All return journeys must be completed within
 six months of outward journey.
 
 If both the spouses are working for the Institute, they can claim LTC
-separately only if the declared dependents are different, i.e. if the
-wife has declared her parents to be dependent on her, she can claim
-for them separately. The children can avail LTC only from one of the
+separately only if the declared dependents are different. The children can avail LTC only from one of the
 parents. If you take LTC for spouse under your LTC entitlement, he/she
 cannot independently claim LTC for self. Each spouse can declare
 separate “Home Town” and take LTC for their respective hometowns.
@@ -1171,7 +1111,7 @@ service, an employee can avail one LTC every year. The definition of
 the block years remain the same. (Illustration: Suppose an employee
 joined in 2019. He/she can travel on LTC to his/her home town in 2020
 and 2021, and he/she may avail one hometown and one anywhere in India
-LTC 2021-2022. In the next block, i.e. 2023-2026 he/she can avail
+LTC 2021-2022. In the next block, that is,  2023-2026 he/she can avail
 three home towns and one anywhere in India, till he/she completes
 eight years of service.) After the first 8 years of service, the
 regular LTC rules described earlier apply.
@@ -1239,26 +1179,22 @@ LTC claim as soon as the return journey is completed.
 
 A faculty member is entitled to reimbursement of telephone (landline
 at home and/or mobile connection) expenses up to ₹ 18,000/- (₹
-21,600/- for a Professor) per financial year. The amount includes an
-amount of ₹ 4800/- towards internet connection at home. Since internet
-connections for all campus residence are provided by the Institute,
-the amounts accordingly reduced to ₹ 13,200 (₹ 16,800 for a Professor)
+21,600/- for a Professor) per financial year. The amount includes ₹ 4800/- towards internet connection at home. Since internet
+connections for all campus residents are provided by the Institute,
+the amounts accordingly reduce to ₹ 13,200 (₹ 16,800 for a Professor)
 for campus residents. For those not staying on campus (including those
 staying in Institute-leased accommodation off campus) the full amount
 is available for reimbursement provided they have supporting evidence
 for internet connection at home.
 
 To claim this, telephone bills (including mobile bills and bills for
-internet charges) should be submitted to the accounts section. Though
-bills can be submitted as and when the faculty desires, it is
-customary to submit consolidated claim either annually or
-semi-annually. As it is a reimbursement, no tax liability is due on
+internet charges) should be submitted to the accounts section. The faculty may choose to submit bills monthly, semi-annually or annually. As it is a reimbursement, no tax liability is due on
 this amount.
 
 ### Children's Education Allowance
-Expenses incurred in putting up to two children through school (from
+Expenses incurred in admitting up to to two children through school (from
 nursery to twelfth class) can be reimbursed subject to an annual
-ceiling of ₹ 15,000. Allowed expenses which can be claimed under this
+ceiling of ₹ 15,000. Allowed expenses that can be claimed under this
 head include tuition fee, admission fee, laboratory fee, special fee
 charged for electronics, agriculture, sports fee, Library fee, cost of
 purchase on set of textbooks and note books, two sets of uniforms
@@ -1276,7 +1212,7 @@ the Pay Level of the faculty member at the time of the operation (it
 then remains unchanged for the entire service).
 
 ## Cumulative Professional Development Allowance (CPDA)
-The CPDA is an MOE provision under which The Institute provides
+The CPDA is an MOE provision under which the institute provides
 faculty at all levels with some level of support for travel (including
 international) and contingency expenses. At the time of writing, the
 allowance amounts to ₹ 3 lakhs for a block period of 3 years. It is to
@@ -1285,15 +1221,9 @@ any extraordinary leave.
 
 ### Rules governing CPDA
 The CPDA funds are primarily intended to support travel to make
-oral/poster presentations at international conferences. Please note
+oral/poster presentations at international or national conferences. Please note
 that most government-supported projects do not allow travel funds to
-be used for international travel. So, unless you have less-restricted
-funds such as funds in your RDF account, or from an industry R&D
-project or consulting project, this might be a bottleneck for
-attending international conferences – and that is where the CPDA
-helps. That said, CPDA funds can be spent for national conference
-travel; though, for reasons mentioned above, it would be judicious to
-use other funds for this. CPDA funds can also be utilised on
+be used for international travel. CPDA funds can also be utilised on
 reimbursement basis for paying the membership fee of various
 professional bodies, books and contingent expenses.
 
@@ -1317,15 +1247,13 @@ out of the total allocation in the last year.
 
 Availability of 1 lakh contingency fund is divided as follows:
     a. Up to ₹ 33,000/- available in first year
-    b. Unspent from(a) + ₹ 33,000/- available in second year
-    c. Unspent from(a) + (b) + ₹ 34,000/- available in third year
-
-
+    b. Unspent from (a) + ₹ 33,000/- available in second year
+    c. Unspent from (a) + (b) + ₹ 34,000/- available in third year
   - If ₹ 2 lakhs from the CPDA conference funds are not used to attend
     a conference, up to ₹ 50,000 may be availed for expenses towards
     books.
   - CPDA will not be available to the Faculty members who will proceed
-    on lien and EOL (During the period of lien or EOL).
+    on lien and extraordinary leave (During the period of lien or extraordinary leave).
 
 The daily allowance provided to Faculty Members for participation in
 International conferences are as follows:
@@ -1346,7 +1274,7 @@ on Government work.
 
 If the full hospitality has been provided (boarding and lodging) by
 the organizers only per diem of 25% of the rates mentioned in the
-table above, i.e. $28.75.
+table above, that is,  $28.75 will be paid.
 
 <!-- WRONG: In no case can conference expenditure be more than ₹ 2 lakh, with a -->
 <!-- corresponding reduction of 1 lakh allocated for contingency -->
@@ -1371,14 +1299,12 @@ block period) for the following activities:
 a. This is provided to all regular faculty members through a separate project
 code at IRCC for individual faculty and is implemented online.
 
-b. This amount is available for a block period of three years.
-
-c. Any unspent amount at the end of a block period will lapse and a
+b. Any unspent amount at the end of a block period will lapse and a
 new block will begin thereafter.
 
-d. This amount may be utilised for any or all of the three purposes as
-mentioned above, within the limit of the said amount of ₹ 3 lakhs
-that is the grant may be used for any of the components IR-IT, IR-IP
+c. This amount may be utilised for any or all of the three purposes as
+mentioned above, within the limit of the said amount of ₹ 3 lakhs,
+that is, the grant may be used for any of the components IR-IT, IR-IP
 or IR-P, fully or partially in any combination.
 
 e. Expenditure above ₹ 3 lakhs within the block period have to be
@@ -1395,7 +1321,8 @@ period, the grant eligibility will be:
    - For service period of 2 years and above: ₹ 3 lakhs
    - For service period of more than 1 year but less than 2 years: ₹ 2 lakhs
    - For service period of 1 year and less: ₹ 1 lakh
-   - The details of the use of the grant for the three activities are given below.
+
+The details of the use of the grant for the three activities are given below.
 
 <!-- TODO: CPDA ALSO ABOVE APPLY -->
 
@@ -1411,7 +1338,6 @@ The IR-IT component in the block grant may be used for the following:
    e. Giving invited talks and initiating or continuing on-going collaborative research work, where partial support towards the visit is made available by the host institution (such as local travel / hospitality, partial travel support etc.)
    f. Attending specialised workshops based on invitation and partial support by the organisers
 
-*Guidelines for implementation*:
 The grant use is subject to the following:
 
    a. The grant is available only for faculty member for his/her travel and not for students or project staff.
@@ -1448,6 +1374,28 @@ Guidelines:
    b. Support for publications will be based on ‘essentiality’ of the need and subject to approval by Dean R&D.
    c. Such support shall not be given for papers being published in open access journals even if they are SCI / Web of Science indexed unless there is a very strong certification of good quality of the journal, by the Academic entity.
    d. It is desirable that part of the costs for publications as above is claimed from other sources such as projects / RDF / DDF and part from the IR-P component of the block grant.
+
+
+## Research and Development Fund (RDF) and Department Development Fund (DDF) rules {#sec:rdfddf}
+
+IRCC, the office of the Dean R&D, incentivizes faculty to pursue
+extramural R&D funding by ploughing a portion (15% at the time of
+writing) of the overheads from sponsored projects back into the
+Principal Investigators’ Research Development Fund (RDF); unspent
+funds in research or consulting projects may also be moved into the
+RDF account at the time of closing, with the requisite
+approvals. Thus, there is an RDF account for every faculty member in
+the IRCC website (Drona), which practically runs like an open-ended
+project account. Details are available
+[here](https://drona.ircc.iitb.ac.in/home/faculty/rdf).
+
+IRCC ploughs back another percentage (again, 15% at the time of
+writing) of the overheads from sponsored projects back into a
+Departmental Development Fund (DDF). The funds therein are intended to
+be utilized by the Head for departmental needs, usually in the nature
+of Consumables, Maintenance, and Travel – these could range from
+teaching lab consumables and maintenance to student conference travel
+support.
 
 
 ## Loans
@@ -1505,6 +1453,94 @@ As per the 7th Pay Commission rules, the daily allowance entitlements are given 
 
 <!-- TODO INTERNATIONAL TRAVEL? -->
 
+## Leave and Vacation
+
+During the period of service, an employee is eligible for various
+forms of leave. Technically, no leave is a matter of right and has to
+be sanctioned/approved by the competent authority. However, except under unusual circumstances (for instance,
+if a group of employees wish to take mass casual leave to register
+protest against something) and discipline related cases, leave is
+generally refused. Departments may sometimes have reasons for not
+recommending sanction of leave in case your services are required for
+any purpose. The following are general guidelines and are not
+exhaustive. For complete information, faculty members should refer to
+the Institute’s statutes or consult the Administration section of the
+Institute.
+
+### Casual Leave
+As the name suggests, this form of leave is to meet casual requirements of an individual.
+
+1. A faculty member can avail a maximum of 8 days of casual leave in a calendar year. However, the maximum contiguous period for which casual leave can be availed is not more than 5 days. Saturdays/Sundays and holidays may be prefixed or suffixed to casual leave and will not count towards casual leave. For those who join in the middle of a calendar year, proportionate amount of casual leave is allowed. Casual leave can even be taken for half a day, that is,  morning session or afternoon session.
+2. Casual leave cannot be appended to any other form of leave other than vacation.
+3. Unutilized casual leave expires on 31st December every year and is not carried over.
+4. Generally, no reason has to be given for going on casual leave. The ERP interface has a provision to apply for casual leave. Strictly speaking, one has to take an advance sanction for casual leave as well. However, in case of unforeseen circumstances one can apply on ERP post-facto. It is a good practice to keep the Head or at least one of your colleagues informed of such an absence.
+
+### Special Casual Leave
+Special casual leave for a period not exceeding 15 days in a year may be granted to a faculty member for legitimate academic/administrative absence, for instance, for attending conferences, undertaking examinership in an university, etc.
+
+### Vacation
+Vacation is available only to the faculty members of the Institute.
+
+1. A faculty member is entitled to 60 days of vacation during the year. The year for the purpose of vacation is the academic year, that is,  from 1 July to 30 June of the following year. A faculty member joining the Institute any time during the first semester (July-November) is eligible for full vacation while those joining in the second semester (January-April) will be entitled to 30 days of vacation in the year of joining.
+2. The conventional vacation period comprises the months of May, June and December. However, the Institute announces the exact dates every year depending on its academic schedule.
+3. No separate application is made for availing vacation. Each faculty member has to provide his/her vacation plans by filling up the appropriate section on the ERP leave form online.
+4. If a faculty member does not avail the full 60 days vacation in any academic year, 50% of unavailed vacation is converted to Earned Leave and is credited to the earned leave account of the faculty member on 1st July of the next academic year. Thus if a faculty avails of a total of $x$ days of vacation during the vacation period, $(60-x)/2$ days of earned leave is credited to his/her earned leave account.
+
+### Earned Leave
+Earned leave, unlike vacation, can be availed any time during the year with prior sanction. Unlike non-academic staff, the only way in which a faculty accumulates earned leave is by virtue of not having availed the entitled vacation in a given academic year. Half of the unutilized vacation is credited as earned leave on July 1st every year.
+
+1. Earned leave can be accumulated up to a maximum of 300 days. The unutilized amount of earned leave can be encashed only at the time of superannuation from service. However, a limited number of days of earned leave can be encashed at the time of availing LTC. Such encashment will not exceed 10 days in each instance with a cumulative maximum of 60 days during the entire span of service.
+2. Overflowing of Earned Leave: Half of unutilized vacation is credited as earned leave on July 1st, even when a faculty has already accumulated 300 days of earned leave in his account. This overflowing earned leave must be availed during the same academic year after which it lapses.
+3. Earned leave can be combined with all types of leave other than casual leave.
+
+### Half-Pay Leave and Commuted Leave
+An employee is entitled to 20 days of half-pay leave for every completed year of service. As the name suggests, the employee will be paid half the salary during such leave period.
+
+1. Half-pay leave is credited in advance on January 1st and July 1st every year by calculating the expected period of service of an employee during the following six months. (The credit given is 5/3 days for every month expected to be completed.)
+2. Half pay leave can be availed for personal reasons or for medical purposes.
+3. An employee can avail half-pay leave even when he/she has earned leave to his/her credit.
+4. When a half-pay leave is sought to be availed for employee's medical requirement, an employee may opt to avail Commuted Leave by surrendering two days of half pay leave for every day of leave required. In such a case, the employee draws full salary.
+5.  Leave can be commuted for non-medical purposes  (i) by women employees, for a maximum of 60 days, if taken in continuity of a maternity leave or when she adopts a child less than one year old (ii) for pursuing a course of study for a total period not exceeding 90 days during entire service.
+
+### Maternity and Paternity Leaves
+1. Maternity leave with full pay for a maximum of 180 days at each instance can be availed by female employees with less than two surviving children. Leave of any kind due and admissible (including commuted leave for a period not exceeding 60 days and leave not due) can be granted in continuation with maternity leave for a maximum period of two years.
+2. Paternity leave of 15 days can be granted to a male employee with less than two surviving children. Such leave can be taken in the period up to 15 days before delivery and 6 months after the delivery.
+
+### Child Care Leave
+Women employees may be granted a child care leave to take care of their two eldest surviving children below the age of 18 years at the time of need (such as sickness, examination etc.)  for a period not exceeding two years (730 days)  during the entire period of service may be granted. Such leave must be pre-approved by the authorities.  It can be availed for not less than 15 days at a time, and on not more than three occasions in a year. During the period of such leave, the employee is eligible to draw salary received by her immediately before proceeding on such leave. (TODO: Does this have implications in service?)
+
+### Special Leave & Sabbatical Leave
+During the entire period of service, a faculty member is permitted to avail long leaves for a total duration not exceeding three years for academic purposes. The two primary categories of such leave with full pay are Special Leave and Sabbatical Leave. Applications should be forwarded through the Head of the academic unit to the Dean (FA) who makes suitable recommendation to the Director (the approving authority). All such applications must be forwarded with recommendation from the Head of the academic unit. The academic unit must be satisfied that the academic programmes of the academic unit will not be adversely affected by granting of such leave and also make alternative arrangements for taking care of students who may be working under the concerned faculty member. Further, the faculty member is also required to make arrangements for ongoing projects, and such arrangement must be intimated to the Dean (R&D) in a form available with the IRCC.
+
+1. Special leave is generally granted to faculty members to accept academic assignments abroad for availing scholarships and fellowships such as Humboldt Foundation fellowship, Boyscast fellowship, Commonwealth fellowship etc. The faculty member must have put in at least 3 years of service and should have applied for such fellowships through proper channel (that is, , the applications should have been forwarded by the Institute). During the special leave, the faculty draws full salary in the Institute in addition to the fellowship amounts.
+2. Sabbatical leave is granted for accepting temporary academic assignments in Indian or foreign universities or research institutions, availing fellowships, writing a book etc. The faculty member should have put in a minimum of six years of service in the Institute for availing a one year sabbatical. The Dean (FA) may recommend a shorter and proportionate amount of sabbatical for a faculty who falls short of the minimum requirement. For a subsequent sabbatical, there must be a gap of at least 3 years for a one semester sabbatical and six years for a two semesters sabbatical.
+3. The Institute requires a bond to be executed by the faculty members proceeding on a sabbatical, undertaking to serve the Institute for a minimum period of three years on return from sabbatical (the period of bond is two years for a one semester sabbatical). If the faculty member resigns before completion of the bond period, he/she will be required to refund the salary paid by the Institute during the sabbatical period.
+3. As a policy, the Institute does not extend a sabbatical. However, a faculty member may request for appending a maximum of 4 months of earned leave to the sabbatical. In case the faculty does not join back the duty after this period, the entire period of sabbatical will be considered as leave without pay or adjusted fully or partially against leave due to the faculty.
+
+### Extraordinary Leave (EOL)
+Leave without pay, which does not normally count towards increment or
+other service and retirement benefits may be granted to a faculty
+member at the Director's discretion when no other form of leave is
+available to the employee, or, when in spite of leave being available,
+the employee specifically desires for the same.
+
+### Leave not due
+Leave not due, at half-pay salary may be granted to an employee who has no leave to his/her credit. Such leave will be adjusted against half-pay leave that may accrue at future date.
+
+### Lien
+
+A faculty member may request for keeping lien on his/her post for accepting a job either in India or abroad. Such jobs may be for assignments in private or public sector undertakings. To be eligible for lien, a faculty member must have put in at least 5 years of service after confirmation. The period of lien can be one year at a stretch or two years if the period of service is over 10 years. (Lien period can be for a period of five years for those appointed as Directors or CEOs in a Government organization or a public sector unit.)
+
+1.  The employee has to sign an agreement on a stamp paper with the Institute before proceeding on lien.
+2. No salary is paid to the employee from the Institute while on lien. However, the service during period of lien qualifies for retirement benefit. The employee (or his employer during the lien period) pays a contribution towards pension-cum gratuity benefit determined by the Institute as per standard Government calculation, an amount which depends also on the length of service rendered in the Institute. This contribution must be received by the Institute by 31$^{st}$ March of every year, or if the employee so desires, every month. It must be emphasized that when the Institute sanctions a lien to the employee, it does not enter into an agreement with his/her temporary employer and the responsibility of remitting all amounts payable to the Institute lies with the employee only.
+3. The employee should continue to pay his/her own contribution to CPF/GPF/NPS during the period of lien. Such contribution should be remitted to the Institute every month or before 31st March of every financial year.
+4. The employee has to pay the leave salary contribution. When an employee pays the leave salary contribution, the Institute leave account of the employee is credited or debited when the employee takes leave in his/her host organization. The leave salary contribution to be paid is roughly 11% of the pay drawn from the host organization (or the pay that the employee would have drawn, had he/she not gone on lien.) The payment of leave salary contribution may be waived by the Director on request in which case the leave account of the employee remains frozen during period of lien.
+5. Keeping your accommodation during Lien: The institute generally permits a faculty member to retain the quarter allotted for a period of one year only during the lien period. The license fee payable during this period will be the same as the employee normally pays. The Director may permit a faculty to keep the quarter during the second year of lien, but on an enhanced license fee which is four times the normal license fee. The employee has to arrange to pay the bills received from the Estate Office towards license fee and other utility charges every month.
+
+### Foreign visits
+
+Visits to foreign countries, whether for personal or official purposes, requires consent of the Institute. A letter addressed to the Dean (Faculty Affairs) for permission for overseas travel before undertaking travel is mandatory.
+
 ## Obtaining authorizations and certificates
 You might find yourself needing various kinds of certificates to be
 submitted for obtaining documents, such as PAN Card from Income Tax
@@ -1559,7 +1595,7 @@ public money. These are detailed in the [Department of Expenditure
 (Ministry of Finance)
 webpage](https://doe.gov.in/order-circular/general-financial-rules2017-0). The
 salient features are outlined below. As a faculty member at IIT
-Bombay, it is useful to be cognizant of these as you get into
+Bombay, it is useful to be cognizant of these as you get involved in
 receiving and spending money, particularly from government sources,
 for your research programmes, or for department/institute purposes.
 
@@ -1569,9 +1605,9 @@ shall be brought into government accounts without delay. The rules
 stipulate that no authority may incur any expenditure or enter into
 any liability involving expenditure or transfer of money or investment
 or deposit from public fund, unless the same has been sanctioned by
-the appropriate authority. Any expenditure incurred for any kind of
+the appropriate authority. Any expenditure incurred for an
 activity (like conference expenditure, training expenditure, purchase,
-Leave Travel Concession, medical bills etc.) may be incurred only with
+Leave Travel Concession, medical bills etc.) requires
 prior approval of the competent authority. The financial powers of the
 Institute have been delegated to various Institute functionaries with
 the approval of the BoG.
@@ -1582,8 +1618,8 @@ Advertised Tender Enquiry procurement, along with local purchase
 committee rules based on market survey.
 
 The GFR prescribe how to purchase high value plant, machinery etc. of
-a complex and technical nature under two bids systems i.e. technical
-bid and financial bid. I also talk about vendor registration, rate
+a complex and technical nature under two bids systems that is,  technical
+bid and financial bid. It also talks about vendor registration, rate
 contract, contents of biding document, Earnest Money Deposit, and
 performance guarantee. It emphasises transparency, competition,
 fairness and elimination of arbitrariness in the procurement process
@@ -1622,96 +1658,6 @@ a portal where sellers can post products and price discovery occurs
 automatically. More details on purchasing processes can be found in
 the [GeM SOP](https://bighome.iitb.ac.in/index.php/s/4nzdNMMmsXECqyD).
 
-## Leave and Vacation
-
-During the period of service, an employee is eligible for various
-forms of leave. Technically, no leave is a matter of right and has to
-be sanctioned/approved by the competent authority, which in the case
-of faculty members, is the Dean (Faculty Affairs) of the
-Institute. However, except under unusual circumstances (for instance,
-if a group of employees wish to take mass casual leave to register
-protest against something) and discipline related cases, leave is
-generally refused. Departments may sometimes have reasons for not
-recommending sanction of leave in case your services are required for
-any purpose. The following are general guidelines and are not
-exhaustive. For complete information, faculty members should refer to
-the Institute’s statutes or consult the Administration section of the
-Institute.
-
-### Casual Leave
-As the name suggests, this form of leave is to meet casual requirements of an individual.
-
-1. A faculty member can avail a maximum of 8 days of casual leave in a calendar year. However, the maximum contiguous period for which casual leave can be taken is not more than 5 days. Saturdays/Sundays and holidays may be prefixed or suffixed to casual leave and will not count towards casual leave. For those who join in the middle of a calendar year, proportionate amount of casual leave is allowed. Casual leave can even be taken for half a day, i.e. morning session or afternoon session.
-2. Casual leave cannot be appended to any other form of leave other than vacation.
-3. Unutilized casual leave expires on 31st December every year and is not carried over.
-4. Generally, no reason has to be given for going on casual leave. The ERP interface has a provision to apply for casual leave. Strictly speaking, one has to take an advance sanction for casual leave as well. However, in case of unforeseen circumstances one can apply on ERP post-facto. It is a good practice to keep the Head or at least one of your colleagues informed of such an absence.
-
-### Special Casual Leave
-Special casual leave for a period not exceeding 15 days in a year may be granted to a faculty member for legitimate academic/administrative absence, for instance, for attending conferences, undertaking examinership in an university, etc. (Special casual leave of varying duration is also available for undergoing operations required for family planning purposes. Administration section should be consulted for details.)
-
-### Vacation
-Vacation is special, and is available only to the faculty members of the Institute.
-
-1. A faculty member is entitled to 60 days of vacation during the year. The year for the purpose of vacation is the academic year, i.e. from 1 July to 30 June of the following year. A faculty member joining the Institute any time during the first semester (July-November) is eligible for full vacation while those joining in the second semester (January-April) will be entitled to 30 days of vacation in the year of joining.
-2. The conventional vacation period comprises the months of May, June and December. However, the Institute announces the exact dates every year depending on its academic schedule.
-3. No separate application is made for availing vacation. Each faculty member has to provide his/her vacation plans by filling up the appropriate section on the ERP leave form online.
-4. If a faculty member does not avail the full 60 days vacation in any academic year, 50% of unavailed vacation is converted to Earned Leave and is credited to the earned leave account of the faculty member on 1st July of the next academic year. Thus if a faculty avails of a total of $x$ days of vacation during the vacation period, $(60-x)/2$ days of earned leave is credited to his/her earned leave account.
-
-### Earned Leave
-Earned leave, unlike vacation, can be availed any time during the year with prior sanction. Unlike non-academic staff, the only way in which a faculty accumulates earned leave is by virtue of not having availed the entitled vacation in a given academic year. Half of the unutilized vacation is credited as earned leave on July 1st every year.
-
-1. Earned leave can be accumulated up to a maximum of 300 days. The unutilized amount of earned leave can be encashed only at the time of superannuation from service. However, a limited number of days of earned leave can be encashed at the time of availing LTC. Such encashment will not exceed 10 days in each instance with a cumulative maximum of 60 days during the entire span of service.
-2. Overflowing of Earned Leave: Half of unutilized vacation is credited as earned leave on July 1st, even when a faculty has already accumulated 300 days of earned leave in his account. This overflowing earned leave must be availed during the same academic year after which it lapses.
-3. Earned leave can be combined with all types of leave other than casual leave.
-
-### Half-Pay Leave and Commuted Leave
-An employee is entitled to 20 days of half-pay leave for every completed year of service. As the name suggests, the employee will be paid half the salary during such leave period.
-
-1. Half-pay leave is credited in advance on January 1st and July 1st every year by calculating the expected period of service of an employee during the following six months. (The credit given is 5/3 days for every month expected to be completed.)
-2. Half pay leave can be availed for personal reasons or for medical purposes.
-3. An employee can avail half-pay leave even when he/she has earned leave to his/her credit.
-4. When a half-pay leave is sought to be availed for employee's medical requirement, an employee may opt to avail Commuted Leave by surrendering two days of half pay leave for every day of leave required. In such a case, the employee draws full salary.
-5.  Leave can be commuted for non-medical purposes  (i) by women employees, for a maximum of 60 days, if taken in continuity of a maternity leave or when she adopts a child less than one year old (ii) for pursuing a course of study for a total period not exceeding 90 days during entire service.
-
-### Maternity and Paternity Leaves
-1. Maternity leave with full pay for a maximum of 180 days at each instance can be availed by female employees with less than two surviving children. Leave of any kind due and admissible (including commuted leave for a period not exceeding 60 days and leave not due) can be granted in continuation with maternity leave for a maximum period of two years.
-2. Paternity leave of 15 days can be granted to a male employee with less than two surviving children during the confinement of his wife for childbirth. Such leave can be taken in the period up to 15 days before delivery and 6 months after the delivery.
-
-### Child Care Leave
-A child care leave to facilitate women employees to take care of their two eldest surviving children below the age of 18 years at the time of need (such as sickness, examination etc.)  for a period not exceeding two years (730 days)  during the entire period of service may be granted. Such leave must be pre-approved by the authorities.  It can be availed for not less than 15 days at a time, and on not more than three occasions in a year. During the period of such leave, the employee is eligible to draw salary received by her immediately before proceeding on such leave.
-
-### Special Leave & Sabbatical Leave
-During the entire period of service, a faculty member is permitted to avail long leaves for a total duration not exceeding three years for academic purposes. The two primary categories of such leave with full pay are Special Leave and Sabbatical Leave. Applications should be forwarded through the Head of the Department to the Dean (FA) who makes suitable recommendation to the Director (the approving authority). All such applications must be forwarded with recommendation from the Head of the Department. The Department must be satisfied that the academic programmes of the Department will not be adversely affected by granting of such leave and also make alternative arrangements for taking care of students who may be working under the concerned faculty member. Further, the faculty member is also required to make arrangements for ongoing projects, and such arrangement must be intimated to the Dean (R&D) in a form available with the IRCC.
-
-1. Special leave is generally granted to faculty members to accept academic assignments abroad for availing scholarships and fellowships such as Humboldt Foundation fellowship, Boyscast fellowship, Commonwealth fellowship etc. The faculty member must have put in at least 3 years of service and should have applied for such fellowships through proper channel (i.e., the applications should have been forwarded by the Institute). During the special leave, the faculty draws full salary in the Institute in addition to the fellowship amounts.
-2. Sabbatical leave is granted for accepting temporary academic assignments in Indian or foreign universities or research institutions, availing fellowships, writing a book etc. The faculty member should have put in a minimum of six years of service in the Institute for availing a one year sabbatical. The Dean (FA) may recommend a shorter and proportionate amount of sabbatical for a faculty who falls short of the minimum requirement. For a subsequent sabbatical, there must be a gap of at least 3 years for a one semester sabbatical and six years for a two semesters sabbatical.
-3. The Institute requires a bond to be executed by the faculty members proceeding on a sabbatical, undertaking to serve the Institute for a minimum period of three years on return from sabbatical (the period of bond is two years for a one semester sabbatical). If the faculty member resigns before completion of the bond period, he/she will be required to refund the salary paid by the Institute during the sabbatical period.
-3. As a policy, the Institute does not extend a sabbatical. However, a faculty member may request for appending a maximum of 4 months of earned leave to the sabbatical. In case the faculty does not join back the duty after this period, the entire period of sabbatical will be considered as leave without pay or adjusted fully or partially against leave due to the faculty.
-
-### Extraordinary Leave
-Leave without pay, which does not normally count towards increment or
-other service and retirement benefits may be granted to a faculty
-member at the Director's discretion when no other form of leave is
-available to the employee, or, when in spite of leave being available,
-the employee specifically desires for the same.
-
-### Leave not due
-Leave not due, at half-pay salary may be granted to an employee who has no leave to his/her credit. Such leave will be adjusted against half-pay leave that may accrue at future date.
-
-### Lien
-
-A faculty member may request for keeping lien on his/her post for accepting a job either in India or abroad. Such jobs may be for assignments in private or public sector undertakings. To be eligible for lien a faculty member must have put in at least 5 years of service after confirmation. The period of lien can be one year at a stretch or two years if the period of service is over 10 years. (Lien period can be for a period of Five years for those appointed as Directors or CEOs in a Government organization or a PSU.)
-
-1.  The employee has to sign an agreement on a stamp paper with the Institute before proceeding on lien.
-2. No salary is paid to the employee from the Institute while on lien. However, the service during period of lien qualifies for retirement benefit. The employee (or his employer during the lien period) pays a contribution towards pension-cum gratuity benefit determined by the Institute as per standard Government calculation, an amount which depends also on the length of service rendered in the Institute. This contribution must be received by the Institute by 31$^{st}$ March of every year, or if the employee so desires, every month. It must be emphasized that when the Institute sanctions a lien to the employee, it does not enter into an agreement with his/her temporary employer and the responsibility of remitting all amounts payable to the Institute lies with the employee only.
-3. The employee should continue to pay his/her own contribution to CPF/GPF/NPS during the period of lien. Such contribution should be remitted to the Institute every month or before 31st March of every financial year.
-4. The employee has to pay the leave salary contribution. When an employee pays the leave salary contribution, the Institute leave account of the employee is credited or debited when the employee takes leave in his/her host organization. The leave salary contribution to be paid is roughly 11% of the pay drawn from the host organization (or the pay that the employee would have drawn, had he/she not gone on lien.) The payment of leave salary contribution may be waived by the Director on request in which case the leave account of the employee remains frozen during period of lien.
-5. Keeping your Accommodation during Lien: The institute generally permits a faculty member to retain the quarter allotted for a period of one year only during the lien period. The license fee payable during this period will be the same as the employee normally pays. The Director may permit a faculty to keep the quarter during the second year of lien, but on an enhanced license fee which is four times the normal license fee. The employee has to arrange to pay the bills received from the Estate Office towards license fee and other utility charges every month.
-
-### Foreign visits
-
-Visits to foreign countries, whether for personal or official purposes, requires consent of the Institute. A letter addressed to the Dean (Faculty Affairs) for permission for overseas travel before undertaking travel.
-
 ## Ethics and Code of Conduct
 As a faculty member of a premier Institute of the country, you are always under public scrutiny. It is necessary to maintain a high degree of decorum and integrity at all times. Clearly, it is not possible to give a complete list of what is acceptable and what is not. This section, therefore, deals only with such items as we believe you should be well informed about.
 
@@ -1720,7 +1666,7 @@ As a faculty member of a premier Institute of the country, you are always under 
 1. _Dealing with the Press:_ Much as we like to see our name in print, the only place where your printed name can freely appear without raising eyebrows (or may be raising eyebrows in an agreeable way!) is in a professional journal. You do not need to take any permission to send a technical manuscript for publication. If what you are writing or talking about is of literary, artistic or scientific value only, you may even write to newspapers or periodicals. However, talking to the press (this includes all forms of interaction with print and electronic media) on any other matter  should generally be avoided, and left to functionaries in the main building. If you would like to express your views on an issue, you need to take the Director's permission. If you want to have a press coverage of your published scientific article, you need to contact PRO after taking permission from the Director.
 2. Joining a political party or canvassing in an election is banned. (You can, of course, contest an election in a professional body.)
 3. Criticism of the Institute in any mass media (print or electronic) is not permitted. (To give vent to your frustration if any, the Computer Centre of the institute has provided a discussion group called the 'discuss-faculty' where you can write and engage your colleagues in a debate on matters about which you feel strongly. This newsgroup is not moderated but it is good to use restrained language).
-3. _Redressal of Grievances:_: If you have a grievance, try to sort it out by meeting the concerned Dean, the Deputy Director or the Director. If you would like to make a written representation, the first course is the Director. If his response leaves you dissatisfied, you may make representation to the Chairman of the Board. Such representation should be through the Director. In extreme cases, you may take your grievance to the Visitor (who is the President of India). However, in all cases, you should go through what is known as proper channel, i.e., route all your representation through HOD, Director and the Chairman, in that order. The forwarding authority does not have the right to stop your representation being forwarded upwards excepting in circumstances such as (i) a similar petition made earlier has been disposed of and no new facts are brought out in the new petition, (ii) your representation is not to the appropriate authority, or (iii) the petition is against a decision which is final by any law or statute. In such cases, the appropriate authority will write you a reply explaining the reasons why your petition may not be forwarded.
+3. _Redressal of Grievances:_: If you have a grievance, try to sort it out by meeting the concerned Dean, the Deputy Directors or the Director. If you would like to make a written representation, the first course is the Director. If his response leaves you dissatisfied, you may make representation to the Chairman of the Board. Such representation should be through the Director. In extreme cases, you may take your grievance to the Visitor (who is the President of India). However, in all cases, you should go through what is known as proper channel, that is, , route all your representation through HOD, Director and the Chairman, in that order. The forwarding authority does not have the right to stop your representation being forwarded upwards excepting in circumstances such as (i) a similar petition made earlier has been disposed of and no new facts are brought out in the new petition, (ii) your representation is not to the appropriate authority, or (iii) the petition is against a decision which is final by any law or statute. In such cases, the appropriate authority will write you a reply explaining the reasons why your petition may not be forwarded.
 4. You may, of course, seek to redress grievances in a court of law without any permission. However, it is in good taste to first exhaust all possibilities of finding a solution to  your problems within the internal framework as stated above.
 5. _Social media usage policy_: Social media posts from IIT Bombay connected official accounts are governed by rules specified in [this document](https://www.iitb.ac.in/sites/www.iitb.ac.in/files/Guidelines%20For%20Use%20Of%20Offical%20IIT%20Bombay%20Accounts%20On%20Social%20Media_2.pdf).
 
@@ -1765,10 +1711,7 @@ harassment complaints through its ICC. An inquiry by the ICC has the
 status of an official inquiry under the Civil Service Rules, and
 employees have to cooperate with the Cell in its investigations. In
 addition, sexual harassment is an offence under rule 3C of the Central
-Civil Services (Conduct) Rules. More details about the Gender Cell may
-be found here; links to the IIT Bombay policy document, the Sexual
-Harassment at the Workplace Act, and a government handbook on sexual
-harassment are given here. More details about the Gender Cell may be found
+Civil Services (Conduct) Rules. More details about the Gender Cell may be found
 [here](http://www.gendercell.iitb.ac.in/); links to the IIT Bombay policy
 document, the Sexual Harassment at the Workplace Act, and a government
 handbook on sexual harassment, are given
@@ -1787,10 +1730,10 @@ organsation), it is mandatory to take permission or obtain a
 no-objection from the Dean (FA) to do so. Most reasonable requests are
 generally accepted, but breach of procedure is taken seriously by the
 Institute.
-## Right to Information
-In 2005, the Indian Parliament enacted a legislation known as the Right to Information (RTI) Act, which empowers a citizen to get any information from the Government or from any publicly funded institution. Exceptions are few and an educational institute does not qualify for exemption. This requires faculty members to be extra careful. For instance, any one can ask for the marking scheme adopted while awarding grades or, for that matter, a copy of the mark sheets of all students in a course. A query from the Institute’s Public Information Officer[^pio] must be answered within a stipulated time limit. Details of RTI is available on IIT Bombay's website.
 
-[^pio]: Currently, Ms. Prajakta Juwekar, Deputy Registrar (Administration)
+## Right to Information
+
+In 2005, the Indian Parliament enacted a legislation known as the Right to Information (RTI) Act, which empowers a citizen to get any information from the Government or from any publicly funded institution. Exceptions are few and an educational institute does not qualify for exemption. This requires faculty members to be extra careful. For instance, any one can ask for the marking scheme adopted while awarding grades or, for that matter, a copy of the mark sheets of all students in a course. A query from the Institute’s Public Information Officer must be answered within a stipulated time limit. Details of RTI is available on IIT Bombay's website.
 
 # The Institute's Hopes and Expectations
 For most faculty members joining this Institute, this will be the first ‘job’, at least in an academic set-up. Since, in such a set up, it is largely up to the individual to plan out her activities and career, it is but natural that one is a little apprehensive as to how to manage one’s time in the initial years. While there are always some senior faculty and elder statesmen in the department who will guide you in this respect, the following sections give some idea of what is expected of you, and introduce you to the various Institute-supported activities that you will probably get involved in as a faculty member.
@@ -1798,7 +1741,7 @@ For most faculty members joining this Institute, this will be the first ‘job�
 ## What the Institute expects of you
 When you join as an Assistant Professor, in order to assist you to settle in and get your research underway quickly and efficiently, the Institute and the department extend certain facilities. These are:
 
-1. A seed grant of ₹ 20 lakh plus support for one PhD student in the project mode. Higher seed grant amounts may be considered for equipment intensive research (you need to see the Dean (R&D) regarding this, soon after you join).
+1. A seed grant of ₹ 20 lakh plus support for one PhD student in the project mode. Higher seed grant amounts may be considered for equipment intensive research (you need to consult Dean (R&D) office for information regarding this, soon after you join).
 
 2. Space: A minimum of a faculty cabin (10 × 15’) and a working space of 300 sq. ft. to be identified by the department before he/she joins, and made available on joining.
 
@@ -1869,7 +1812,7 @@ course, for example, depend on the number of Lectures per week (2
 credits per lecture hour), the number of Tutorials per week (2 credits
 per tutorial hour) and the number of Practicals or Laboratory hours
 per week (1 credit per hour). Most theory courses are worth 6 credits
-and are made up of 2 lecture hours and a tutorial hour per week (i.e.,
+and are made up of 2 lecture hours and a tutorial hour per week (that is, ,
 a 2-1-0-6 structure). Credits are also assigned to activities such as
 seminars and projects. The assessment of a student’s performance in a
 course is by continuous evaluation through the duration of the course,
@@ -1970,7 +1913,6 @@ conditions apply on expenditures from the seed grant (base amount):
        budget.
 
 ### Sponsored Research Project
-Initiation of Sponsored Research Projects
 Sponsored research projects may be initiated by submitting project
 proposals to various/appropriate funding agency. The project proposals
 should be submitted in a suitable format given by the concerned
@@ -2015,7 +1957,7 @@ be submitted by the PI to the funding agency.
 
 ## Awards for Teaching and Research
 
-While good teaching and research is likely reward enough, both you and the Institute would benefit from greater visibility and recognition of your achievements. Within IIT Bombay, the Excellence in Teaching Award recognizes good teaching, as discussed below. For research accomplishments, the Institute has the following awards:
+While good teaching and research is likely reward enough, both you and the Institute would benefit from greater visibility and recognition of your achievements. Within IIT Bombay, the S. P. Sukhatme Excellence in Teaching Award is awarded to 15 faculty members across the instiute. Department teaching awards, based on student feedback, also recognise your teaching efforts. For research accomplishments, the Institute has the following awards:
 
 - Prof. S. C. Bhattacharya Excellence Award in Pure Sciences
 - Prof. H. H. Mathur Excellence Award in Applied Sciences
@@ -2099,19 +2041,14 @@ The following services for specific activities managed by ASC are available thro
 
 ### Application Process
 
-Faculty assessment for promotion to the next higher positions are
-usually done twice a year. The schedule of faculty assessment and
+The schedule of faculty assessment and
 promotion is announced by Dean (Faculty Affairs) after due approval by
 the Director.
 
 Applications are invited from faculty members who satisfy the minimum
 qualifications and experience criteria as per MOE norms for the
-respective position. These applications are invited typically in
-January and August of each year. The applications received in January
-are processed during February-May time period and the applications
-received in August are processed during September-November time
-period. The application form requires each candidate to furnish
-information about their work during the assessment period (i.e. period
+respective position. The application form requires each candidate to furnish
+information about their work during the assessment period (that is,  period
 being held in the current position).
 
 ### Experience (Required on the date of application):
@@ -2136,6 +2073,23 @@ Ph.D. students, publications in reputed journals and conferences,
 patents, laboratory/course development and/or other recognized
 relevant professional activities.
 
+### Institute Faculty Advisory Committee
+
+The Institute Faculty Advisory Committee (IFAC) as an advisory body to the
+Dean (FA) on various matters of faculty interest, and matters of
+faculty development.
+
+_IFAC Composition:_ The committee is constituted by the Director and chaired by the Dean (FA). IFAC has the Deputy Director (AIA) as a permanent invitee. The committee is reconstituted every two years with the existing members in each category being replaced by Heads of departments not represented in the committee.
+
+_IFAC Role:_ The IFAC has the following broad roles. Apart from these roles, the Director may request IFAC to consider and make recommendations on matters related to faculty affairs.
+
+  1. Consideration of short listing criteria of department for entry level as well as promotion for different faculty positions
+  2. Pre-processing of applications of internal candidates for promotions
+  3. Processing of nominations for Chair Professor positions
+  4. Nominations of faculty members for various national /international awards
+  5. Faculty development and mentorship
+  6. Faculty self-assessment
+
 ### Shortlisting Process
 
 The applications submitted by the internal candidates are first
@@ -2145,7 +2099,7 @@ shortlisting criteria as approved by Institute Faculty Advisory
 Committee (IFAC). The shortlisting criteria framed by each department
 ensures that (i) the effort put in by the candidate in the current
 position is adequately recognized and (ii) promotion to the next
-higher position in the minimum period (i.e., just after the minimum
+higher position in the minimum period (that is, , just after the minimum
 mandated number of years of experience have been completed) requires
 performance at a high level as judged by the standards of the average
 performance of the department or subgroup within the department to
@@ -2216,23 +2170,6 @@ then issued by the Director after necessary approval by the Board and
 following other institute norms and procedures regarding salary and
 other terms etc.
 
-### Institute Faculty Advisory Committee
-
-The Institute Faculty Advisory Committee (IFAC) as an advisory body to the
-Dean (FA) on various matters of faculty interest, and matters of
-faculty development.
-
-_IFAC Composition:_ The committee is constituted by the Director and chaired by the Dean (FA). IFAC has the Deputy Director (AIA) as a permanent invitee. The committee is reconstituted every two years with the existing members in each category being replaced by Heads of departments not represented in the committee.
-
-_IFAC Role:_ The IFAC has the following broad roles. Apart from these roles, the Director may request IFAC to consider and make recommendations on matters related to faculty affairs.
-
-  1. Consideration of short listing criteria of department for entry level as well as promotion for different faculty positions
-  2. Pre-processing of applications of internal candidates for promotions
-  3. Processing of nominations for Chair Professor positions
-  4. Nominations of faculty members for various national /international awards
-  5. Faculty development and mentorship
-  6. Faculty self-assessment
-
 ### Method for Determining Professors to be Moved to HAG scale
 
 1. _Composition of D-HAG Committee:_ Scoring should be done by a
@@ -2282,7 +2219,7 @@ seniority list.
 Points are computed for the applicant based on the following criteria.
 
 - **Teaching (A1)**: A teaching score that is at least 0.5 times less 1 time the six year annual department average teaching score counts for of 1 point. A teaching score that is more than the six year annual department and less than twice the department average counts for 3 points. Finally, a teaching evaluation score in excess of twice the department average counts for 5 points. In addition, the following recommendations are considered:
-  1. Courses taught by the faculty member in the evaluation period (i.e. after promotion to professor) are to be counted.
+  1. Courses taught by the faculty member in the evaluation period (that is,  after promotion to professor) are to be counted.
   2. “1” course is defined as a full semester lecture course. Include summer courses delivered in full lecture/lab.
   3. For a course with sections, each section of a course can be considered as a separate course.
   4. Lab course = 0.3, 0.5 or 1.0 of a regular lecture course, based on credits, department norms and actual effort per faculty.
@@ -2336,7 +2273,7 @@ Candidates who meet the following criteria after IFAC approval are to be recomme
 ### Annual performance appraisal
 
 The annual performance appraisal process is in the form of a
-self-assessment. The process should be completed by 31st January of
+self-assessment. The process should be completed by 31st March of
 every year and the forms will be filled up online by individual
 faculty member. The self-assessment form includes sections on
 Teaching, Research and Administration being mandatory and the sections
@@ -2353,31 +2290,30 @@ basis for shortlisting candidates for selection to higher posts.
 
 Teaching is considered to be an important component of faculty activities. That said, most new faculty come in with strong research experience, but modest teaching experience, if any. It helps that most new faculty are given about a semester off from teaching in the beginning - this is often departmental policy; in some cases, there may not be a choice if the faculty member joins after a semester has started. Here are a few tips to help with teaching, and preparing for it.
 
- 1. When you are assigned a course to teach, you can look at the
-    Academic section of the ASC website
-    (https://asc.iitb.ac.in/acadmenu/index.jsp) for course details
-    such as syllabus and textbooks, as well as timing and venue. In
-    general, it is mandatory to adhere to the specified syllabus,
-    especially for core courses. However, instructors can enhance
-    their course offerings with additional topics and learning content.
- 2. You may talk to the Head and ask for the previous instructors
-    (this information is also available on ASC). That is assuming this
-    is an existing course, not a new one you are starting; the
-    procedure for starting a new course is described in the [form for proposing a new academic course](http://www.iitb.ac.in/newacadhome/RevisedCourseProposalFormat20154March.pdf). Senior faculty members who have taught the course may be
-    able to help you with teaching material such as slides, homework
-    problems, recommendations for textbooks, capable teaching
-    assistants (TAs) and so forth.
- 3. A recent alumni supported initiative, called the Parimal and
-    Pramod Chaudhari Centre for Learning and Teaching (CLT), now
-    provides a plethora of resources for teaching, drawing on internal
-    and external expertise and experience. These include:
-
+1. When you are assigned a course to teach, you can look at the
+   Academic section of the ASC website
+   (https://asc.iitb.ac.in/acadmenu/index.jsp) for course details
+   such as syllabus and textbooks, as well as timing and venue. In
+   general, it is mandatory to adhere to the specified syllabus,
+   especially for core courses. However, instructors can enhance
+   their course offerings with additional topics and learning content.
+2. You may talk to the Head and ask for details of the previous instructors
+   (this information is also available on ASC). That is assuming this
+   is an existing course, not a new one you are starting; the
+   procedure for starting a new course is described in the [form for proposing a new academic course](http://www.iitb.ac.in/newacadhome/RevisedCourseProposalFormat20154March.pdf). Senior faculty members who have taught the course may be
+   able to help you with teaching material such as slides, homework
+   problems, recommendations for textbooks, capable teaching
+   assistants (TAs) and so forth.
+3. A recent alumni supported initiative, called the Parimal and
+   Pramod Chaudhari Centre for Learning and Teaching (PPCCLT), now
+   provides a plethora of resources for teaching, drawing on internal
+   and external expertise and experience. These include:
     a. (Annual) Faculty Development Workshops
 	b. TLC Café - featuring training sessions for faculty on effective teaching
 	c. Community of Practice (CoP) platform for sharing best teaching practices
-    d. Active learning classroom (under construction at the time of	writing). Please check out the [PPCCLT	website](http://www.ppcclt.iitb.ac.in) for more details. They welcome and need faculty involvement to be effective, so please	  consider it.
+    d. Active learning classroom (under construction at the time of	writing). Please check out the [PPCCLT	website](http://www.ppcclt.iitb.ac.in) for more details.They welcome and need faculty involvement to be effective, so please	  consider it.
 
- 4. There are several resources available to you to prepare video lectures (getting your regular lectures recorded, or, recording in a studio), and put them online if you desire. These include:
+4. There are several resources available to you to prepare video lectures (getting your regular lectures recorded, or, recording in a studio), and put them online if you desire. These include:
 
    a. Centre for Distance Engineering Education Programme (CDEEP) –
       which helps to prepare video lectures. Details are available on
@@ -2398,19 +2334,13 @@ Teaching is considered to be an important component of faculty activities. That 
       academic content, it provides skills training, teachers
       training, and lifelong learning type content.
 
- 5. IIT Bombay is one of the few institutes in the country to have an
-    academic program in Education Technology. Faculty here pursue
-    research in technology-enhanced learning, pedagogical tools and
-    strategies. If you are interested in exploring new
-    technologies/methodologies in your class, they might be happy to
-    collaborate with you. Details about this Inter-Disciplinary
-    Programme is available [here](http://www.et.iitb.ac.in/).
-
-## Guidelines for Excellence in Teaching Awards
-
-Since the guidelines for excellence in teaching awards are currently
-undergoing revision, you may refer to recent Senate meeting minutes
-for updates on this.
+5. IIT Bombay is one of the few institutes in the country to have an
+   academic program in Education Technology. Faculty here pursue
+   research in technology-enhanced learning, pedagogical tools and
+   strategies. If you are interested in exploring new
+   technologies/methodologies in your class, they might be happy to
+   collaborate with you. Details about this Inter-Disciplinary
+   Programme is available [here](http://www.et.iitb.ac.in/).
 
 <!-- There are two categories of excellence in teaching awards. A) -->
 <!-- Institute Awards: Fifteen per year; B) Department Awards: -->
@@ -2446,7 +2376,11 @@ for updates on this.
 <!-- 	  for Institute awards, he/she will be ineligible for the -->
 <!-- 	  Dept. award. -->
 
-## Guidelines for Research Awards
+## Guidelines for Awards
+
+Since the guidelines for excellence in teaching awards are currently
+undergoing revision, you may refer to recent Senate meeting minutes
+for updates on this.
 
 There are six categories of research awards in IIT Bombay, among which
 two are instituted in honour of two former Professors of the institute
@@ -2459,6 +2393,7 @@ Lakhs. They are
 Earlier recipients of this awards are available at the [IRCC website](http://www.ircc.iitb.ac.in/IRCC-Webpage/rnd/ResearchAwards.jsp?AwardType=NationalInstituteIITB).
 
 Guidelines for nominations for these two awards are:
+
   - This is a one-time award given based on research work undertaken at IIT Bombay during the last ten years.
   - There is no age bar for these awards.
   - Nomination for the award can be made by any full Professor of the Institute. Self-nomination is not allowed.
@@ -2537,7 +2472,8 @@ In the former case, the work is taken up in good faith between the
 consultant and the client, the obligations and responsibilities of both parties being limited by the standard terms and conditions. The latter case refers to projects that usually involve non-disclosure agreements, detailed negotiations of contract terms and signing of contracts in the form of agreement or MOU.
 
 Consultancy and related services offered will be divided mainly into two categories:
- - *Category E*: Expert Advice and Development Projects:- This type of project will be Expertise intensive and based on the expertise of the Consultant. For example
+
+ - *Category E*: Expert Advice and Development Projects:- This type of project will be Expertise intensive and based on the expertise of the Consultant. For example,
 
    - Analytical studies Cause - and - remedy studies
    - Simulation/ modeling/ optimization
@@ -2550,7 +2486,7 @@ Consultancy and related services offered will be divided mainly into two categor
    - Validation of designs/drawings
    - Retainership of faculty in advisory capacity over specified periods
 
-  - *Category T*: Testing Projects:- This type of project will be
+ - *Category T*: Testing Projects:- This type of project will be
     Infrastructure intensive and will be based on extensive usage of
     the institute infrastructure. For example
 	- Calibration
@@ -2702,34 +2638,13 @@ deducted as appropriate.
 
 Note: Earnings for Technology Transfer, Revenue Sharing and Royalty will be governed by the Intellectual Property Policy of the Institute.
 
-## Research and Development Fund (RDF) and Department Development Fund (DDF) rules {#sec:rdfddf}
-
-IRCC, the office of the Dean R&D, incentivizes faculty to pursue
-extramural R&D funding by ploughing a portion (15% at the time of
-writing) of the overheads from sponsored projects back into the
-Principal Investigators’ Research Development Fund (RDF); unspent
-funds in research or consulting projects may also be moved into the
-RDF account at the time of closing, with the requisite
-approvals. Thus, there is an RDF account for every faculty member in
-the IRCC website (Drona), which practically runs like an open-ended
-project account. Details are available
-[here](https://drona.ircc.iitb.ac.in/home/faculty/rdf).
-
-IRCC ploughs back another percentage (again, 15% at the time of
-writing) of the overheads from sponsored projects back into a
-Departmental Development Fund (DDF). The funds therein are intended to
-be utilized by the Head for departmental needs, usually in the nature
-of Consumables, Maintenance, and Travel – these could range from
-teaching lab consumables and maintenance to student conference travel
-support.
-
 ## Directorship in Companies
 
 The Institute encourages faculty to develop industrial relations and
 permits employees to be on the Board of Directors of
 companies. However, you are required to obtain the Director’s consent
 before taking up such a position; the application for the same may be
-sent to the Director through the Dean (FA). You may accept a sitting
+sent to the Director through the Dean (FA), with the approval of Dean (R&D). You may accept a sitting
 fee given to members of the Board for attending meetings.
 
 ## Starting a company based on your research/ technological breakthroughs
@@ -2739,8 +2654,8 @@ or enterprise on campus. This requires that permission be obtained by
 applying to the Director, through the Dean (FA)[^imcwork].  The
 application process involves, among other things, application of due
 diligence to ensure there is no conflict of interest involved. A
-company called the _Society for Innovation and Entrepreneurship
-(SINE)_[^sine]  has been created for the sole purpose of facilitating
+company called the [_Society for Innovation and Entrepreneurship
+(SINE)_](https://sineiitb.org/)[^sine]  has been created for the sole purpose of facilitating
 the transition from laboratory to marketplace by providing incubation
 facilities, and is the sole vehicle for translation of
 research/technological breakthroughs by the Institute's faculty
@@ -2757,7 +2672,7 @@ The various designations in the faculty cadres along with their responsibilities
 
 1. **Regular faculty**:
    - *Appointment details*: Full time permanent appointments at any
-     level (Assistant, Associate and full Professors) . These are made
+     level (Assistant, Associate and full Professors). These are made
      through a selection committee or through invitation by BOG.
    - *R&D activities*:
       - They are eligible for a one time seed grant from the Institute. They can also take up all types of R&D Projects, including consultancy projects.
@@ -2847,7 +2762,7 @@ Visit the Institute on a part time basis, generally for teaching (up to three da
 9. **Professors of Practice**:
    - *Appointment details*:
      - They must be top professionals (CEO/CTO) with significant experience, typically about 20 years.
-     - Honorary appointment to be made by Institute based on the recommendation of the Institute Standing Committee; the salary will be paid from the projects as applicable.
+     - Appointment to be made by Institute based on the recommendation of the Institute Standing Committee.
    - *Academic activities*:
      - Design, development and offering of new practice-oriented courses.
      - Advise students in their projects linking them with appropriate external stakeholders.
@@ -2860,14 +2775,14 @@ Visit the Institute on a part time basis, generally for teaching (up to three da
 10. **Non-faculty Project PIs**:
    - *Appointment details*:
      - Temporary research personnel who would like to carry out GoI funded projects at the Institute e.g.: Women Scientist, Fast Track etc.
-	 - Honorary appointment to be made by Institute based on the recommendation of the Institute Standing Committee; the salary will be paid from the projects as applicable.
+	 - Appointment to be made by Institute based on the recommendation of the Institute Standing Committee; the salary will be paid from the projects as applicable.
      - Those who wish to apply for Ramanujan, Ramalingaswami, INSPIRE fellowships must first apply for regular faculty positions in the Institute and get selected before applying for these fellowships.
    - *R&D activities*: Project proposals will be routed to the Head of
      the Academic Unit as for review / approval and forwarding by
      Institute [even though appointment is through Dean (FA)]. IRCC
      will be responsible only for implementation of these projects.
    - *Academic activities*: None.
-   - *Administration related activities*: As assigned by the HoD.
+   - *Administration related activities*: As assigned by the Head of the academic unit.
 
 11. **Retired Faculty (less than three years from superannuation)**:
    - *Appointment details*: Regular Faculty who are nearing superannuation
@@ -2939,19 +2854,19 @@ While this chapter was originally written primarily for faculty who joined the I
 What happens after you have served out your active life with the Institute? Most look at the period of retirement with a certain amount of anxiety because they anticipate a sharp drop in income. It is, therefore, prudent to do some planning reasonably early in life, certainly by the time you are approaching 50.
 
 ### Superannuation
-This is the term used for official completion of your regular appointment. It happens on the last day of the month in which you complete 65 years of age. For example, If your birthday falls on the 1st of the June, you will superannuate on the last day of the previous month (i.e. May 31st). However, if your birthday is between 2nd and 30th of June, then you will superannuate on 30th June. Usually, the Director offers you a cup of tea and hands over a few retirement cheques on this day.
+This is the term used for official completion of your regular appointment. It happens on the last day of the month in which you complete 65 years of age. For example, If your birthday falls on the 1st of the June, you will superannuate on the last day of the previous month (that is,  May 31st). However, if your birthday is between 2nd and 30th of June, then you will superannuate on 30th June. Usually, the Director offers you a cup of tea and hands over a few retirement cheques on this day.
 
 ### Re-employment
-Faculty members are usually reappointed till the last day of the academic semester (i.e., either till 31st December or 30th June, depending on the birth date) in the year in which they complete 65, based on a recommendation from the department. During the period of re-employment, those who receive pension cheques as well as a component of salary in such a way that the two together do not exceed the last drawn salary. Further, many service benefits come to an end. The reappointment letter from the Director will make it clear as to what benefits will still be available. As per the current practice, the medical facilities will continue during the period of re-employment. As per Govt. of India rules, you will continue to be eligible for LTC provided there is no break between the regular appointment and the re-employment.
+Faculty members are usually reappointed till the last day of the academic semester (that is, , either till 31st December or 30th June, depending on the birth date) in the year in which they complete 65, based on a recommendation from the department. During the period of re-employment, those who receive pension cheques as well as a component of salary in such a way that the two together do not exceed the last drawn salary. Further, many service benefits come to an end. The re-appointment letter from the Director will make it clear as to what benefits will still be available. As per the current practice, the medical facilities will continue during the period of re-employment. As per Govt. of India rules, you will continue to be eligible for LTC provided there is no break between the regular appointment and the re-employment.
 
 ### Retirement schemes
-For those who joined the Institute before 2004, there were two retirement schemes to choose from (unfortunately, of late the ministry is not allowing a change of option), _viz._ Contributory Provident Fund-cum-gratuity Scheme (CPF) and General Provident Fund-cum-Pension-cum-gratuity Scheme (GPF). The salient features of these schemes are as follows.
+For those who joined the Institute before 2004, there were two retirement schemes to choose from, _viz._ Contributory Provident Fund-cum-gratuity Scheme (CPF) and General Provident Fund-cum-Pension-cum-gratuity Scheme (GPF). The salient features of these schemes are as follows.
 
 1. _GPF:_ If you have chosen this scheme, you are eligible to draw a pension throughout your remaining life at a rate to be shown below. Further, after your death, your spouse will be eligible for a _family pension_ too.
- a. _Pension:_ The maximum rate of pension is half the basic pay at the time of retirement, or 50% of the average monthly remuneration drawn during the last ten months of service, whichever is beneficial[^retireavg], along with the applicable rate of D.A. This requires having put in a minimum of 20 years of service, for voluntary retirees, and 10 years of qualifying service for superannuating faculty (the duration not counting extra-ordinary leave or unauthorized absence dies non or periods of suspension which are followed by major penalties).
+ a. _Pension:_ The maximum rate of pension is half the basic pay at the time of retirement, or 50% of the average monthly remuneration drawn during the last ten months of service, whichever is beneficial[^retireavg], along with the applicable rate of D.A. This requires having put in a minimum of 20 years of service, for voluntary retirees, and 10 years of qualifying service for superannuating faculty (the duration not counting extra-ordinary leave or unauthorized absence or periods of suspension, which are followed by major penalties).
 
  b. _Commutation of Pension:_ It is possible to offer to the Institute
-     that a percentage of your pension be commuted, i.e. you opt to
+     that a percentage of your pension be commuted, that is,  you opt to
      receive a one time lump-sum amount and a smaller pension. The
      maximum commutation possible is 40% of the basic pension. This
      offer may be made to the Institute either at the time of
@@ -2965,7 +2880,7 @@ For those who joined the Institute before 2004, there were two retirement scheme
      Suppose your basic salary was ₹ 224,100/- at the time of
      retirement. Your basic pension is ₹ 122,050/- at the time of
      superannuation (age 66 on your next birthday). You offer to
-     receive 40% less as monthly pension, i.e. receive ₹ 48,820/- per
+     receive 40% less as monthly pension, that is,  receive ₹ 48,820/- per
      month less as basic pension. The amount of lump sum payment is
      given by the following formula.  $$ \mbox{Lump sum amount} =
      \text{₹} 48,820 \times12 \times 7.591 = \text{₹} 44,47,111 $$ The
@@ -3006,7 +2921,7 @@ For those who joined the Institute before 2004, there were two retirement scheme
     maximum of ₹ 20 Lakhs. The emolument includes basic pay and
     D.A. drawn by the employee on the day of superannuation.
 
-2. Contributory Provident Fund (CPF): If you have opted for this
+2. _Contributory Provident Fund (CPF)_: If you have opted for this
    scheme, no pension is payable to you. However, the gratuity
    as described under GPF scheme is payable. In this scheme,
    your contribution is a minimum 10% of your basic pay with
@@ -3034,7 +2949,7 @@ the half pay leave will only be cashed at half rate and no commutation
 is permitted (for instance, if an employee has, at the time of
 retirement, 200 days of earned leave and 300 days of half-pay leave to
 his/her credit, encashment will be for 200 full days and 100 half
-days, i.e. a total of 250 full days; the balance of half pay leave
+days, that is,  a total of 250 full days; the balance of half pay leave
 will lapse). The rate of encashment is the total emoluments (basic +
 D.A.) per day on the date of retirement assuming a month to consist of
 30 days. The approximate encashment of 300 days of leave that a
@@ -3046,9 +2961,9 @@ of superannuation, a faculty member can expect:
 - Gratuity: ₹ 20,00,000
 - Leave encashment: ~ ₹ 26,21,970
 
-This totals to about ₹ 90,69,081.
+This totals to about ₹ 90,69,081. This is in addition to the GPF benefits for employees covered in that scheme.
 
-### National Pension Scheme (for those who joined the service on or after 1.1.2004)
+### National Pension Scheme (for those who joined the service on or after 1.1.2004) {#sec:npsnote}
 The [National Pension Scheme
 (NPS)](https://enps.nsdl.com/eNPS/NationalPensionSystem.html) is
 applicable for all employees who joined the Institute on or after
