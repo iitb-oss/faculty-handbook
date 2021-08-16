@@ -1886,11 +1886,10 @@ be submitted by the PI to the funding agency.
 
 While good teaching and research is likely reward enough, both you and the Institute would benefit from greater visibility and recognition of your achievements. Within IIT Bombay, the S. P. Sukhatme Excellence in Teaching Award is awarded to 15 faculty members across the instiute. Department teaching awards, based on student feedback, also recognise your teaching efforts. For research accomplishments, the Institute has the following awards:
 
-- Prof. S. C. Bhattacharya Excellence Award in Pure Sciences
-- Prof. H. H. Mathur Excellence Award in Applied Sciences
-- Dr. P. K. Patwardhan Technology Development Award
-- IIT Bombay Research Paper Award / Research Publication Award (From 2015 onwards)
-- Lifetime Achievement Award
+- IRCC Research Awards: Consists of the Research Publication Award, Research Dissemination Award, Early Research Achiever Award and Impactful Research Award.
+- Dr. P.K. Patwardhan Technology Development awards
+- Prof. Krithi Ramamritham Award for creative research
+- The Rakesh Mathur awards: Consists of  the Prof. S.C. Bhattacharya Award for Excellence in Pure Sciences and the Prof. H.H. Mathur Award for Excellence in Applied Sciences
 
 The procedure to apply for these awards is available on the [IRCC Awards webpage](https://rnd.iitb.ac.in/awards).
 
