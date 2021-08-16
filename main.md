@@ -230,7 +230,7 @@ Deans. They are as follows:
       air-conditioners. Associate Dean - II
       (IPS) also serves as the Chairman, Accommodation Allotment
       Committee (AAC); that is, (s)he is directly responsible for Housing
-      related matters. A [later section of this handbook](sec:morehousing) will provide
+      related matters. A [later section of this handbook](#sec:morehousing) will provide
       more detail on this. The post of Associate Dean - III (IPS) has
       also been proposed and is awaiting approval as of mid-2021.
 
@@ -503,7 +503,7 @@ Immediately on joining:
    easy access is highly recommended, so that printouts can be taken
    on demand.
 
-   For more on housing related matters, please refer to the [relevant section of the appendix](sec:morehousing).
+   For more on housing related matters, please refer to the [relevant section of the appendix](#sec:morehousing).
 
 4. An LPG connection is essential if you plan to cook at home. The
    simplest way is to take your accommodation allotment letter to
@@ -522,7 +522,7 @@ Immediately on joining:
    form, a form declaring your dependents, a form for joining the New
    Pension Scheme (NPS) and Group Term Scheme Insurance (GTIS).
    a. New faculty have to join the NPS, details of which are given in
-   a the [chapter on retirement benefits](sec:npsnote). (For people who joined 1$^{\text{st}}$ January, 2004, there
+   a the [chapter on retirement benefits](#sec:npsnote). (For people who joined 1$^{\text{st}}$ January, 2004, there
    was a Pension scheme or a non-pension Contributory Provident Fund).
 
    b. You also need to join the compulsory Group Term Insurance Scheme
@@ -584,7 +584,7 @@ Immediately on joining:
    private creche (Shishu Vihar, located at the time of writing in
    bungalows A-4 and A-5 in the Lakeside area of Campus near the Main
    Gate), and run by an NGO. Detailed information on all of the above
-   is provided in [the appendix](sec:moreschools).
+   is provided in [the appendix](#sec:moreschools).
 
 10. You will need to apply for a Permanent Account Number (PAN) which
     is to file income tax returns; it is also needed by
@@ -651,7 +651,7 @@ academic unit for confirmation of your appointment.
 ## Resources for Teaching and Research
 To get started in the Institute, you can familiarize yourself with the resources available for helping you teach and conduct research effectively. The [Academic Rules](#sec:acadrules) discuss all aspects related to courses, curricula and other teaching related aspects. The Institute, while encouraging you to apply for external grants to support your research, also provides you a Seed grant to get you started on your research projects. More details on this are available [here](#sec:researchfunding). You also have access to a Research and Development Fund (RDF) that can be used with more flexibility for your research related activities. Your academic unit would also have a Department Development Fund to support development activities of interest to your department as a whole. These are discussed in greater detail [here](#sec:rdfddf).
 
-In addition to research projects, one may also take on [consultancy projects](sec:consultancy) for external organizations. Finally, the [Continuing Education Programme (CEP)](sec:cep) permits you to conduct courses for external organizations through the Institute.
+In addition to research projects, one may also take on [consultancy projects](sec:consultancy) for external organizations. Finally, the [Continuing Education Programme (CEP)](#sec:cep) permits you to conduct courses for external organizations through the Institute.
 
 ## Lab Space Allotment
 
@@ -722,7 +722,7 @@ For reimbursement, separate forms for OPD (inclusive of cost of medicine purchas
 
 ## Schooling at IIT Bombay
 
-There are three schools on the campus for children: Kendriya Vidyalaya, Campus School, and KG School; plus a full-fledged child care (day care) and play school, Sishu Vihar. The Campus School also has a kindergarten school for children above the age of three. For younger kids there is a private creche (Sishu Vihar, temporarily located at the time of writing in bungalows A-4 and A-5 in the Lakeside area of Campus near the Main Gate), and run by an NGO. There are also several private schools in Powai and nearby areas that are well known. Complete details on these are available in [the appendix](sec:moreschools).
+There are three schools on the campus for children: Kendriya Vidyalaya, Campus School, and KG School; plus a full-fledged child care (day care) and play school, Sishu Vihar. The Campus School also has a kindergarten school for children above the age of three. For younger kids there is a private creche (Sishu Vihar, temporarily located at the time of writing in bungalows A-4 and A-5 in the Lakeside area of Campus near the Main Gate), and run by an NGO. There are also several private schools in Powai and nearby areas that are well known. Complete details on these are available in [the appendix](#sec:moreschools).
 
 ## Life in Powai and beyond
 
@@ -1696,7 +1696,7 @@ one’s contributions are to be assessed, these weightages shall apply.
 
 It is possible, as one grows into one’s career and gets into the positions of an Associate Professor and Professor, that these profiles may change somewhat: teaching may become easier, one may get more involved with departmental and Institute’s administration, etc. The Institute therefore recognizes that these weightages may change at these levels, at the choice of the faculty member.
 
-The various designations of faculty in the Institute, along with their responsibilities, is listed in the [next chapter](sec:facultygrades).
+The various designations of faculty in the Institute, along with their responsibilities, is listed in the [next chapter](#sec:facultygrades).
 
 <!---
 The Board of Governors has approved a proposal, based on the above considerations, to implement a process of Annual self assessment for all faculty, beginning 2014. The Institute Faculty Affairs Committee (IFAC), an advisory body to the Dean (FA), has finalized the templates for carrying out this assessment, and the details are available on Dean (FA)'s webpage http://internal.iitb.ac.in/imcwork/faculty/ (also linked from the Institute's main webpage, under 'Internal links').
@@ -3027,7 +3027,7 @@ online are available at the [NPS CRA website](https://npscra.nsdl.co.in/).
 <!--       usually get tips from neighbours or - if you are living -->
 <!--       off-campus - the security personnel in your apartment complex. -->
 
-# Appendices {.unlisted .unnumbered}
+# Appendices
 
 ## More on Housing {#sec:morehousing}
 
