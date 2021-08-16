@@ -329,7 +329,7 @@ Below is a list of departments, centres,schools and other functional units.
 1. [Centre for Technology Alternatives for Rural Areas (CTARA)](https://www.ctara.iitb.ac.in/)
 1. [Centre for Urban Science and Engineering (C-USE)](https://cuse.iitb.ac.in/)
 1. Centre for Liberal Arts, Science and Engineering (C-LASE)
-1. [[Centre for Machine Intelligence and Data Science (C-MInDS)]](https://www.minds.iitb.ac.in/)
+1. [Centre for Machine Intelligence and Data Science (C-MInDS)](https://www.minds.iitb.ac.in/)
 1. Koita Centre for Digital Health (KCDH)
 
 **Interdisciplinary Programs**
