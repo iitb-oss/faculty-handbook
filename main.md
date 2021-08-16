@@ -18,7 +18,7 @@ header-includes:
   ```
 ---
 
-# Preface
+**Preface**
 
 <!-- Faculty Handbook is the single most important document, which  consolidates much of the information that the faculty members need during their careers at IIT Bombay.  This is the third edition of the hand book; the first two were brought out in … and 2014. -->
 
@@ -56,7 +56,7 @@ followed by those at Madras (1959), Kanpur (1959) and Delhi
 (1961). Though the names of the cities Bombay and Madras were later
 changed respectively to Mumbai and Chennai, the Institutes at these
 two places retain the original names. Thus our institute is IIT
-Bombay, or, abbreviated to IITB.  IIT Bombay celebrated its Golden
+Bombay, or, abbreviated to IIT Bombay.  IIT Bombay celebrated its Golden
 Jubilee in 2008 and Diamond Jubilee in 2018.
 
 In 1994, a sixth IIT was established in Guwahati, Assam. Seven years
@@ -88,7 +88,7 @@ paperwork requiring their approval through the Ministry of Education (MOE).
 At the very top of all the IITs' administration is the [IIT
 Council](https://www.iitsystem.ac.in). The Chairman of the Council is
 the Minister of Education, which is the central
-ministry under which our Institute comes. The Council is an
+ministry under which our Institute belongs to. The Council is an
 organization with a large (ex-officio) members, e.g. the
 Chairmen and the Directors of all IITs, Chairman and Director of IISc,
 Bangalore, Director General of CSIR, Chairman UGC and a few nominated
@@ -121,7 +121,7 @@ of Governors.
 Two crucial Institute committees, namely the _Finance Committee_ and
 the _Building and Works Committee_ report to the Board. Any proposal,
 which requires major fund allocation is generally routed through the
-Finance Committee, acts as the watchdog of the Institute funds. The
+Finance Committee that acts as the watchdog of the Institute funds. The
 Financial Advisor to MOE is a member of the Finance Committee. The
 Building and Works Committee is responsible for all the major
 construction projects in the institute, and has the power to make
@@ -143,7 +143,7 @@ of examiners, before it is presented to the Senate for approval.
 
 All (full) Professors of the Institute are _ex officio_ members of the
 Senate. It also has some rotating members from the non-professorial
-faculty, student representatives, a few members from outside the
+faculty, student representatives, and a few members from outside the
 Institute. The Registrar of the Institute is the Secretary of the
 Senate.
 
@@ -156,7 +156,7 @@ Prof. Devang Khakhar
 --->
 
 The Director is the CEO of the Institute and runs the Institute as per
-the policies decided by the Board. He/She Director is appointed by the
+the policies decided by the Board. The Director is appointed by the
 Government of India and usually has a tenure of five years, which may
 be extended until (s)he reaches the age of superannuation.
 
@@ -172,12 +172,10 @@ in the interest of smooth administration. There are eight (8)
 Deans. They are as follows:
 
    1. The _Dean (Faculty Affairs, FA)_ is practically the 'Head of
-   Human Resources' as far as faculty members are concerned. His/her
-   job is to look at matters connected with the faculty (and institute
+   Human Resources' as far as faculty members are concerned. The Dean (FA) looks at matters connected with the faculty (and institute
    post-doctoral fellows) and their welfare, including recruitment,
-   appraisal, special leaves of absence and retirement - for which
-   his/her office interfaces with the relevant Department. Similarly,
-   they might interface with the offices of other Deans on other
+   appraisal, special leaves of absence and retirement in consultation with the relevant Department. Similarly,
+   the Dean (FA) Office might interface with the offices of other Deans on other
    matters pertaining to faculty welfare, e.g. with Dean
    (Infrastructure, Planning & Support, IPS) on housing. That said,
    the Dean (FA) office is not quite a 'single-window' at the time of
@@ -195,7 +193,7 @@ Deans. They are as follows:
       called the [Industrial Research and Consultancy
       Center](https://www.ircc.iitb.ac.in/) (IRCC) to take care of
       sponsored projects and consultancy matters. There is an
-      Associate Dean (R&D) to help the Dean (R&D) discharge their
+      Associate Dean (R&D) assists the Dean (R&D) to discharge his/her
       responsibilities. Later sections of this handbook
       will provide more detail on a few R&D related topics.
 
@@ -303,7 +301,7 @@ also the Head of the administration.
 ## Academic Units & their internal administration
 
 The broad disciplines
-in which IITB has its teaching and research activities are those of
+in which IIT Bombay has its teaching and research activities are those of
 Engineering, Science, Humanities & Social Sciences, Management, Design, Educational Technology,
 Entrepreneurship, and Policy ([more
 details](http://www.iitb.ac.in/en/education/academic-divisions)). Academic
@@ -692,7 +690,7 @@ Department for confirmation of your appointment.
 
 ## Housing
 
-The institute has undergone significant expansion and increase in number of students over the last decade and a half. The increase in student numbers has led to a commensurate increase in the number of faculty members on the campus. Thus, the present dwelling numbers on the campus are insufficient. Though, new constructions are underway, there is expected to be shortage of housing on campus for some more time. In most cases, the new faculty may take up on-campus housing flatlets like the Staff Hostel, Vihar House and CSRE D Types. However, some faculty may want a “proper apartment” owing to family constraints or due to non-availability of the flatlets. In such situations, some may opt for off-campus housing. These off-campus housing once identified and allotted are treated as an extension of the IITB housing. There are several considerations to be made when scouting for an apartment. Below are a few points to be considered with regard to off-campus housing.
+The institute has undergone significant expansion and increase in number of students over the last decade and a half. The increase in student numbers has led to a commensurate increase in the number of faculty members on the campus. Thus, the present dwelling numbers on the campus are insufficient. Though, new constructions are underway, there is expected to be shortage of housing on campus for some more time. In most cases, the new faculty may take up on-campus housing flatlets like the Staff Hostel, Vihar House and CSRE D Types. However, some faculty may want a “proper apartment” owing to family constraints or due to non-availability of the flatlets. In such situations, some may opt for off-campus housing. These off-campus housing once identified and allotted are treated as an extension of the IIT Bombay housing. There are several considerations to be made when scouting for an apartment. Below are a few points to be considered with regard to off-campus housing.
 
 The institute provides temporary accommodation in the Guest House to the new faculty member immediately after they join, up to a period of 1 month. The guest house charges are applicable and have to be borne by the faculty if this initial period of 30 days is exceeded. It is thus recommended that a search for off-campus housing be initiated as soon as the joining formalities are completed.
 
@@ -702,12 +700,12 @@ The Associate Dean IPS-2’s office may also offer help for searching and to ide
 
 The contract or the lease agreement is drawn with IIT Bombay as the party and the letter of allotment is then issued by the Accommodation Allotment Committee (AAC). The duration of the lease should be checked carefully, since, it may be possible that these rented premises may have to occupied for an extended period of time. After moving to the apartment, the usual day to day maintenance is expected to be handled by the allottee.
 
-The institute has rules and regulations regarding allotment and entitlement of housing to faculty and staff of the institute. The details of these can be found on the Dean IPS website. The off-campus housing is treated as transit accommodation provided by IITB. Thus, availing the off-campus housing does not affect the entitlement or the seniority of the faculty within the ambit of the defined rules. The rented premises may have to vacated due to several reasons with the happy one being movement to campus.
+The institute has rules and regulations regarding allotment and entitlement of housing to faculty and staff of the institute. The details of these can be found on the Dean IPS website. The off-campus housing is treated as transit accommodation provided by IIT Bombay. Thus, availing the off-campus housing does not affect the entitlement or the seniority of the faculty within the ambit of the defined rules. The rented premises may have to vacated due to several reasons with the happy one being movement to campus.
 
 ## Medical Facilities
 During the period of service, a staff member and his dependents (the term _dependent_ is clearly defined in the Service Rules, see Chapter 3) are provided medical facilities at the IIT Hospital, and whenever required, at various hospitals in the city which are empanelled by the Institute. Medical facility for employee and spouse is also available after retirement on a contributory basis (see the section on PRMS below).
 
-### IITB Hospital
+### IIT Bombay Hospital
 The Institute has a reasonably well-equipped Hospital with both in-patient and out-patient facilities. In addition to several full time doctors, there are several visiting specialists who attend the Hospital on certain days and are available for consultation. The Hospital also provides for dental care as well as for homeopathic medicine. Basic diagnostic facilities are provided at the Institute Hospital. These include pathology, X-Rays, Sonography, ECG etc. The Hospital also has a physiotherapy section. The Hospital administration is headed by a Chief Medical Officer (CMO)[^cmo]. A Committee known as the "Hospital and Health Advisory Committee (HHAC)" headed by a Professor of the Institute acts as a general policy watchdog for the Hospital and related issues. This Committee reviews Hospital policies from time to time and recommends measures that need to be taken to improve Hospital services. All major reimbursement claims are also recommended for approval by this committee.
 
 [^cmo]: Currently, Dr. Nisha Shah.
@@ -747,7 +745,7 @@ Though they may not be officially your dependents, the Institute offers OPD faci
 
 When an employee or a dependent is admitted to an outside hospital, up to 80% of the estimated cost can be provided as an advance to the employee.
 
-For the benefit of staff members staying outside the campus (as also for staff on vacation/leave), a list of Medicare Centres/Hospitals[^hosplist] is approved for OPD treatment. Medicines purchased on prescription by doctors from these hospitals are reimbursed fully. However, further referrals from these hospitals to outside hospitals need to be sanctioned by the IITB Hospital.
+For the benefit of staff members staying outside the campus (as also for staff on vacation/leave), a list of Medicare Centres/Hospitals[^hosplist] is approved for OPD treatment. Medicines purchased on prescription by doctors from these hospitals are reimbursed fully. However, further referrals from these hospitals to outside hospitals need to be sanctioned by the IIT Bombay Hospital.
 
 [^hosplist]: These hospitals, at present, are: Pragati Mitra Mandal (Mulund(W)), Smt. Nand Kunverben Rasiklal Seth Hosp. (Borivali (W)), Malad Jain Yuvak Mandal Med. Relief Centre (Malad (W)), Lions Clinic (Matunga), Vasani Diagnostic Centre (Andheri) and Seth Nanji Gangji Charitable Polyclinic (Dombivali). See the hospital website for up-to-date information.
 
@@ -764,7 +762,7 @@ This is part of the Kendriya Vidyalaya Sangathan (KVS) network and is usually ra
 
 
 ### Campus School and Jr. College
-The IIT Campus School and Jr. College has classes I through XII, and is affiliated to the Maharashtra State Board. It is exclusively for the children of IIT employees. Here, the IITB Director is the Chairman of the School Council, and IIT faculty serve as Associate Chairman and Conveners of Administrative and Academic policy. More details about the Campus School are available [here](http://www.iitcampusschoolmumbai.in/).
+The IIT Campus School and Jr. College has classes I through XII, and is affiliated to the Maharashtra State Board. It is exclusively for the children of IIT employees. Here, the IIT Bombay Director is the Chairman of the School Council, and IIT faculty serve as Associate Chairman and Conveners of Administrative and Academic policy. More details about the Campus School are available [here](http://www.iitcampusschoolmumbai.in/).
 
 ### KG School
 The Kindergarten (KG) School comprising two classes (Lower KG and Upper KG) and two shifts, is for children from three to five years of age. Details of Admissions, Facilities, etc. about the KG School may be found [here](http://home.iitb.ac.in/~kgschool/index.html).
@@ -775,7 +773,7 @@ The Kindergarten (KG) School comprising two classes (Lower KG and Upper KG) and 
 Shishu Vihar is a not-for-profit child care centre, managed by an
 association of parents, catering primarily to the child care needs of
 working parents in IIT Bombay. The Shishu Vihar Management Committee
-(SVMC) is a body of IITB Official Representatives and elected member
+(SVMC) is a body of IIT Bombay Official Representatives and elected member
 parents. SVMC is responsible for the overall policy, human resources,
 and financial management of the centre.
 
@@ -831,7 +829,7 @@ Some more details about Shishu Vihar may be found [here](https://www.facebook.co
 ## Resources for Teaching and Research
 To get started in the Institute, you can familiarize yourself with the resources available for helping you teach and conduct research effectively. The [Academic Rules](#sec:acadrules) discuss all aspects related to courses, curricula and other teaching related aspects. The Institute, while encouraging you to apply for external grants to support your research, also provides you a Seed grant to get you started on your research projects. More details on this are available [here](#sec:researchfunding). You also have access to a Research and Development Fund (RDF) that can be used with more flexibility for your research. Your academic unit would also have a Department Development Fund to support development activities of interest to your department as a whole. These are discussed in greater detail [here](#sec:rdfddf).
 
-In addition to research projects, one may also take on [consultancy projects](sec:consultancy) that for external organzations. Finally, the [Continuing Education Programme (CEP)](sec:cep) permits you to conduct courses for external organizations through the Institute.
+In addition to research projects, one may also take on [consultancy projects](sec:consultancy) for external organizations. Finally, the [Continuing Education Programme (CEP)](sec:cep) permits you to conduct courses for external organizations through the Institute.
 
 ## Lab Space Allotment
 
@@ -851,7 +849,7 @@ come after you.
 
 ## Life in Powai and beyond
 
-(This section has external links for your information. IITB cannot take any responsibility for these.)
+(This section has external links for your information. IIT Bombay cannot take any responsibility for these.)
 
 The city of Mumbai offers a wealth of cultural and entertainment
 resources to its residents, befitting a global metropolis. This
@@ -869,7 +867,7 @@ on weekends. In many situations, the well-developed train network may
 get you to your destination on time with more certainty. A lot of hope
 rests on the upcoming metro network. Its construction, however, has
 added to traffic woes right now, but upon completion, it will benefit
-commuters from IITB and the nearby areas. [Here is the dream
+commuters from IIT Bombay and the nearby areas. [Here is the dream
 anyway](https://en.wikipedia.org/wiki/Mumbai_Metro).
 
 Powai and neighbouring areas beyond the Campus, particularly
@@ -1215,7 +1213,7 @@ case-by-case basis, by the Ministry of Civil Aviation (MCA).
 
 [^economyclass]: As what is (hopefully a temporary) austerity measure,
 business class travel is presently suspended for LTC. Extending the
-same logic, at IITB, faculty members are strongly advised to travel
+same logic, at IIT Bombay, faculty members are strongly advised to travel
 only by economy class irrespective of eligibility, even when on
 official travel.
 
@@ -1258,12 +1256,12 @@ semi-annually. As it is a reimbursement, no tax liability is due on
 this amount.
 
 ### Children's Education Allowance
-Expense incurred in putting up to two children through school (from
+Expenses incurred in putting up to two children through school (from
 nursery to twelfth class) can be reimbursed subject to an annual
 ceiling of ₹ 15,000. Allowed expenses which can be claimed under this
 head include tuition fee, admission fee, laboratory fee, special fee
 charged for electronics, agriculture, sports fee, Library fee, cost of
-purchase on set of text books and note books, two sets of uniforms
+purchase on set of textbooks and note books, two sets of uniforms
 (including one pair of shoes) etc. Reimbursement can be claimed at the
 rate of ₹ 3,750 per quarter or for the full amount in the last quarter
 of the financial year. The quantum of reimbursement for disabled
@@ -1597,7 +1595,7 @@ GFR 2017 also describes Works, Grants-in-aid and Loans apart from
 Inventory Management and Contract Management. Works mean new
 construction, site preparation, additions and alterations to existing
 works, special repairs to newly purchase or previously abandoned
-buildings or structures including remodelling or replacement. At IITB,
+buildings or structures including remodelling or replacement. At IIT Bombay,
 these are done by the office of the Dean IPS. So the various Do’s and
 Don’ts for "Works" are given in GFR 2017 under "Works" head.
 
@@ -1724,7 +1722,7 @@ As a faculty member of a premier Institute of the country, you are always under 
 3. Criticism of the Institute in any mass media (print or electronic) is not permitted. (To give vent to your frustration if any, the Computer Centre of the institute has provided a discussion group called the 'discuss-faculty' where you can write and engage your colleagues in a debate on matters about which you feel strongly. This newsgroup is not moderated but it is good to use restrained language).
 3. _Redressal of Grievances:_: If you have a grievance, try to sort it out by meeting the concerned Dean, the Deputy Director or the Director. If you would like to make a written representation, the first course is the Director. If his response leaves you dissatisfied, you may make representation to the Chairman of the Board. Such representation should be through the Director. In extreme cases, you may take your grievance to the Visitor (who is the President of India). However, in all cases, you should go through what is known as proper channel, i.e., route all your representation through HOD, Director and the Chairman, in that order. The forwarding authority does not have the right to stop your representation being forwarded upwards excepting in circumstances such as (i) a similar petition made earlier has been disposed of and no new facts are brought out in the new petition, (ii) your representation is not to the appropriate authority, or (iii) the petition is against a decision which is final by any law or statute. In such cases, the appropriate authority will write you a reply explaining the reasons why your petition may not be forwarded.
 4. You may, of course, seek to redress grievances in a court of law without any permission. However, it is in good taste to first exhaust all possibilities of finding a solution to  your problems within the internal framework as stated above.
-5. _Social media usage policy_: Social media posts from IITB connected official accounts are governed by rules specified in [this document](https://www.iitb.ac.in/sites/www.iitb.ac.in/files/Guidelines%20For%20Use%20Of%20Offical%20IIT%20Bombay%20Accounts%20On%20Social%20Media_2.pdf).
+5. _Social media usage policy_: Social media posts from IIT Bombay connected official accounts are governed by rules specified in [this document](https://www.iitb.ac.in/sites/www.iitb.ac.in/files/Guidelines%20For%20Use%20Of%20Offical%20IIT%20Bombay%20Accounts%20On%20Social%20Media_2.pdf).
 
 ### Sexual Harassment and Gender Cell
 
@@ -1768,10 +1766,10 @@ status of an official inquiry under the Civil Service Rules, and
 employees have to cooperate with the Cell in its investigations. In
 addition, sexual harassment is an offence under rule 3C of the Central
 Civil Services (Conduct) Rules. More details about the Gender Cell may
-be found here; links to the IITB policy document, the Sexual
+be found here; links to the IIT Bombay policy document, the Sexual
 Harassment at the Workplace Act, and a government handbook on sexual
 harassment are given here. More details about the Gender Cell may be found
-[here](http://www.gendercell.iitb.ac.in/); links to the IITB policy
+[here](http://www.gendercell.iitb.ac.in/); links to the IIT Bombay policy
 document, the Sexual Harassment at the Workplace Act, and a government
 handbook on sexual harassment, are given
 [here](https://www.gendercell.iitb.ac.in/icc.html).
@@ -1790,7 +1788,7 @@ no-objection from the Dean (FA) to do so. Most reasonable requests are
 generally accepted, but breach of procedure is taken seriously by the
 Institute.
 ## Right to Information
-In 2005, the Indian Parliament enacted a legislation known as the Right to Information (RTI) Act, which empowers a citizen to get any information from the Government or from any publicly funded institution. Exceptions are few and an educational institute does not qualify for exemption. This requires faculty members to be extra careful. For instance, any one can ask for the marking scheme adopted while awarding grades or, for that matter, a copy of the mark sheets of all students in a course. A query from the Institute’s Public Information Officer[^pio] must be answered within a stipulated time limit. Details of RTI is available on IITB's website.
+In 2005, the Indian Parliament enacted a legislation known as the Right to Information (RTI) Act, which empowers a citizen to get any information from the Government or from any publicly funded institution. Exceptions are few and an educational institute does not qualify for exemption. This requires faculty members to be extra careful. For instance, any one can ask for the marking scheme adopted while awarding grades or, for that matter, a copy of the mark sheets of all students in a course. A query from the Institute’s Public Information Officer[^pio] must be answered within a stipulated time limit. Details of RTI is available on IIT Bombay's website.
 
 [^pio]: Currently, Ms. Prajakta Juwekar, Deputy Registrar (Administration)
 
@@ -1863,8 +1861,8 @@ area of expertise. Such courses go through a process of approval,
 first at the departmental level, then at the level of the appropriate
 Program committee (PC) of the Senate, and finally at the Senate.
 
-### Evaluation Scheme at IITB
-IITB follows a credit system for its educational programmes, in which
+### Evaluation Scheme at IIT Bombay
+IIT Bombay follows a credit system for its educational programmes, in which
 the credits assigned to an academic activity are indicative of the
 quantum of work involved in that activity. Thus, the credits for a
 course, for example, depend on the number of Lectures per week (2
@@ -1916,7 +1914,7 @@ supervision entails certain basic criteria.
  c. The DPGC/ IDPC/ PGC may consider continuation of the original Supervisor on his/her return to the Institute, as Co-­Supervisor of his/her students depending on the period for which he/she has supervised the Ph.D. Programmes of the students concerned.
  d. Any such arrangements made shall be forwarded to PGAPEC for prior approval.
 7. Change of supervisor is generally not advised and should be sought as a last resort. Under exceptional circumstances, if a student chooses to terminate the relationship, then it will only be permitted on recommendation of the DPGC/IDPC/PGCA. Every effort should be made to allow a fair transition for both the faculty and the concerned student.
-8. Student supervision can also be done jointly with faculty or staff of other universities or educational institutes. In some cases, such as the IITB-Monash Research Academy, the Institute facilitates joint advising of students across Institutes. In other cases, permission may be sought from the Dean (AP) having co-guides from outside IITB.
+8. Student supervision can also be done jointly with faculty or staff of other universities or educational institutes. In some cases, such as the IITB-Monash Research Academy, the Institute facilitates joint advising of students across Institutes. In other cases, permission may be sought from the Dean (AP) having co-guides from outside IIT Bombay.
 
 
 ## Research Funding {#sec:researchfunding}
@@ -2017,7 +2015,7 @@ be submitted by the PI to the funding agency.
 
 ## Awards for Teaching and Research
 
-While good teaching and research is likely reward enough, the both you and the Institute would benefit from greater visibility and recognition of your achievements. Within IITB, the Excellence in Teaching Award recognizes good teaching, as discussed below. For research accomplishments, the Institute has the following awards:
+While good teaching and research is likely reward enough, both you and the Institute would benefit from greater visibility and recognition of your achievements. Within IIT Bombay, the Excellence in Teaching Award recognizes good teaching, as discussed below. For research accomplishments, the Institute has the following awards:
 
 - Prof. S. C. Bhattacharya Excellence Award in Pure Sciences
 - Prof. H. H. Mathur Excellence Award in Applied Sciences
@@ -2187,7 +2185,7 @@ selected academic referees, primarily for their inputs on the research
 carried out by the candidate, as seen by her important publications
 (reprints of such publications may form part of the dossier sent). The
 letters requesting peer input also state in concise terms the range of
-activities considered as important for a faculty member in IITB, so
+activities considered as important for a faculty member in IIT Bombay, so
 that the referees can judge the quantum of research output in a proper
 context. A minimum of three to four peer reviews are considered
 necessary before a selection committee can be constituted.
@@ -2750,7 +2748,7 @@ members to commercial enterprises. The [National Innovation and
 Startup Policy](https://nisp.mic.gov.in/) also offers incentives to
 promote student driven startups and innovations.
 
-[^imcwork]: See link at http://internal.iitb.ac.in/imcwork/faculty/ , also linked from the main IITB webpage, for details.
+[^imcwork]: See link at http://internal.iitb.ac.in/imcwork/faculty/ , also linked from the main IIT Bombay webpage, for details.
 
 [^sine]: Details of the vision and mission, as well as the rules and procedures for incubating a company under SINE are available at http://www.sineiitb.org/
 
@@ -2891,7 +2889,7 @@ Visit the Institute on a part time basis, generally for teaching (up to three da
 The Institute has two schemes to take care of your and your spouse's medical requirements after retirement. Both the schemes are contributory.
 
 1. _Contributory Medical Scheme (CMS):_ The scheme entitles you and your spouse to avail of OPD treatment in the IIT Hospital. You have to pay a one time ₹ 8000/- to join the scheme. All OPD facilities of the IIT Hospital (consultancy, diagnostic tests etc.) can be availed by employee and his/her spouse. Medicines available at the Pharmacy are also given to CMS members without charge. However, no indoor hospitalization is possible and no reimbursement of any kind is provided.
-2. _Post-Retirement Medical Scheme (PRMS):_ Under this scheme, there are two types of medical benefits provided to IITB employees. These are:
+2. _Post-Retirement Medical Scheme (PRMS):_ Under this scheme, there are two types of medical benefits provided to IIT Bombay employees. These are:
  a) In-service medical benefits
  b) Out-service medical benefits
 
