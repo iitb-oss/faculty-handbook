@@ -19,7 +19,7 @@ header-includes:
   ```
 ---
 
-**Preface**
+# Preface {.unlisted .unnumbered}
 
 <!-- Faculty Handbook is the single most important document, which  consolidates much of the information that the faculty members need during their careers at IIT Bombay.  This is the third edition of the hand book; the first two were brought out in … and 2014. -->
 
@@ -3027,7 +3027,7 @@ online are available at the [NPS CRA website](https://npscra.nsdl.co.in/).
 <!--       usually get tips from neighbours or - if you are living -->
 <!--       off-campus - the security personnel in your apartment complex. -->
 
-# Appendices
+# Appendices {.unlisted .unnumbered}
 
 ## More on Housing {#sec:morehousing}
 
