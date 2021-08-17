@@ -4,7 +4,7 @@ out.pdf: main.md
 	pandoc --template=template.tex --pdf-engine=xelatex --toc --toc-depth=2 --top-level-division=chapter -V colorlinks=true \
 -V linkcolor=blue \
 -V urlcolor=blue \
--V toccolor=red -o out.pdf main.md
+-V toccolor=blue -o out.pdf main.md
 
 out.tex: main.md
 	pandoc --pdf-engine=xelatex --toc --top-level-division=chapter --toc-depth=2 -V colorlinks=true \
