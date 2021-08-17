@@ -2,7 +2,7 @@ all: out.pdf out.html out.odt
 
 out.pdf: main.md
 	pandoc --template=template.tex --pdf-engine=xelatex --toc --toc-depth=2 --top-level-division=chapter -V colorlinks=true \
--V linkcolor=red \
+-V linkcolor=blue \
 -V urlcolor=blue \
 -V toccolor=red -o out.pdf main.md
 

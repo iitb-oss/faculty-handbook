@@ -64,7 +64,7 @@ Jubilee in 2018.
 In 1994, a sixth IIT was established in Guwahati, Assam. Seven years
 later, in the year 2001, one of the oldest engineering colleges of the
 country situated in Roorkee, Uttarakhand, was given the status of an
-IIT in its 150$^{\text{th}} anniversary year. The Government of India decided to
+IIT in its 150$^{\text{th}}$ anniversary year. The Government of India decided to
 open eight more IITs from the academic year 2008-2009. These are
 located in Bhubaneswar (Odisha), Gandhinagar (Gujarat), Hyderabad
 (Telengana), Indore (Madhya Pradesh), Mandi (Himachal Pradesh), Patna
@@ -109,7 +109,7 @@ _post facto_ by the BOG.
 
 The Board has 11 members. In addition to the Chairman (appointed by
 MOE) and the Director of the Institute, who are _ex officio_ members
-of the Board, one nominee each of the governments of the states
+of the Board, one nominee from each of the governments of the states
 Maharashtra, Goa and the Union Territory of Dadra and Nagar Haveli,
 which comprise the zone in which the Institute is situated, are
 members of the Board.  There are four nominees, having special
@@ -173,15 +173,11 @@ Director have been delegated, up to certain limits, to various Deans
 in the interest of smooth administration. There are eight (8)
 Deans. They are as follows:
 
-   1. The _Dean (Faculty Affairs, FA)_ is practically the 'Head of
-   Human Resources' as far as faculty members are concerned. The Dean (FA) looks at matters connected with the faculty (and institute
-   post-doctoral fellows) and their welfare, including recruitment,
-   appraisal, special leaves of absence and retirement in consultation with the relevant Department. Similarly,
+   1. The _Dean (Faculty Affairs, FA)_ The Dean (FA) is responsible for conducting faculty recruitments, hiring institute postdoctoral fellows, appraisals, and recommending special leaves of absence in consultation with the relevant academic unit. Similarly,
    the Dean (FA) Office might interface with the offices of other Deans on other
    matters pertaining to faculty welfare, e.g. with Dean
    (Infrastructure, Planning & Support, IPS) on housing. That said,
-   the Dean (FA) office is not quite a 'single-window' at the time of
-   writing - for example, as a faculty member, one may also need to
+   the Dean (FA) office is not quite a 'single-window' - for example, as a faculty member, one may also need to
    interact directly with the office of the Dean (IPS) for housing.
 
    2. The _Dean (Alumni Corporate Relations, ACR)_ looks after
@@ -196,7 +192,7 @@ Deans. They are as follows:
       Center](https://www.ircc.iitb.ac.in/) (IRCC) to take care of
       sponsored projects and consultancy matters as well as filing patents. There is an
       Associate Dean (R&D) assists the Dean (R&D) to discharge his/her
-      responsibilities. Later sections of this handbook
+      responsibilities. [Later sections](#sec:researchfunding) of this handbook
       will provide more detail on a few R&D related topics.
 
    4. The _Dean (Academic Programmes, AP)_ leads the [Academic
@@ -207,7 +203,7 @@ Deans. They are as follows:
       PGPC) of the Institute which processes all academic proposals
       received from academic units such as Departments, Schools and
       Centres. The Dean (AP) is assisted in his/her work by an
-      Associate Dean (AP). Later sections of this handbook will provide
+      Associate Dean (AP). [Later sections](#sec:acadrules) of this handbook will provide
       more detail on a few topics related to Academic Programmes.
 
    5. The _Dean (Infrastructure, Planning and Support, IPS)_ looks
@@ -410,7 +406,7 @@ you need to do just before and after your arrival.
 
 ## Joining and settling down
 
-First, once you have decided on the date of your arrival, please write
+Once you have decided on the date of your arrival, please write
 an email to your Head of the Department with a copy (cc) to the Dean
 (FA), requesting her/him to arrange an accommodation in the Institute Guest House,
 where you can check in upon arrival.  You may also request
@@ -419,8 +415,7 @@ to arrange for a transportation to bring you to the campus from airport/railway 
 The Institute provides for Relocation Allowance to new faculty ([more
 details](http://www.iitb.ac.in/en/careers/faculty-facilities)). Please
 remember to keep your receipts/air-tickets etc. for claiming this
-reimbursement up to a maximum of Rs. 1 lakh. Remember to claim the reimbursement as soon as you complete the joining formalities and relocate. This applies to all
-future official travel as well!  If you accept the relocation
+reimbursement up to a maximum of Rs. 1 lakh. Remember to claim the reimbursement as soon as you complete the joining formalities and relocate. Settling accounts on time applies to all financial transactions as well! If you accept the relocation
 allowance, you have to agree to serve the Institute for a minimum
 period of three years. If you leave the Institute before this period,
 the Institute may ask you to return the relocation amount paid, either
@@ -451,7 +446,7 @@ Immediately on joining:
 1. You have to make a visit to the Administration Section in the Main
    Building to complete the joining formalities. For this purpose you
    need:
-   a. Original and copies of all academic certificates from SSC (10$^{\text{th}}
+   a. Original and copies of all academic certificates from SSC (10$^{\text{th}}$
    Board) to Ph.D. and proof of date of birth.
    b. Several passport size photographs for various purposes.
    c. If you were previously employed, a certificate stating that you
@@ -530,11 +525,7 @@ Immediately on joining:
    (GTIS), and the premium for this will be deducted from the monthly
    salary.
 
-   Please find a circular in respect of Group Term Insurance Policy implemented from 01-05-2021 at following link: http://bighome.iitb.ac.in/index.php/s/6MnXxoXEACxsn5y
-
-   Nomination Form is available at : https://bighome.iitb.ac.in/index.php/s/qjR3b5DrekmW8Xw
-
-   List of staff covered under the GTIP is available at: http://bighome.iitb.ac.in/index.php/s/HLZ3tFongDGiNDG
+   Please find a circular in respect of Group Term Insurance Policy implemented from 01-05-2021 [here](http://bighome.iitb.ac.in/index.php/s/6MnXxoXEACxsn5y). You also need the [nomination form](https://bighome.iitb.ac.in/index.php/s/qjR3b5DrekmW8Xw). Finally, this is the [list of staff currently covered GTIP](http://bighome.iitb.ac.in/index.php/s/HLZ3tFongDGiNDG).
 
    b. Attestation Form is to be filled up so that the Institute can
    verify that you have not been involved in any criminal activities
@@ -569,9 +560,9 @@ Immediately on joining:
    Library, Security Section, Hospital etc. Identity cards will be issued to you and family members after a visit to the Security section, located on the ground floor of the Main
    Building. For the employee, the identity card doubles as the
    Library card as well. You will have an employee salary code number
-   which you will need in connection with all payments and financial
+   that is needed for all payments and financial
    transactions within the Institute. It will be useful to memorize
-   this even though you may usually have your identity card  handy.
+   this even though you have your identity card  handy.
 
 9. After joining formalities are completed, you may have to pay attention to
    other issues, like getting your child/children admitted to a school. The campus
@@ -579,7 +570,7 @@ Immediately on joining:
    affiliated to the Central Board of Secondary Education (CBSE) and
    the other, the Campus School, affiliated to the Maharashtra State
    Board. Campus School is exclusively for the children of IIT Bombay
-   employees, while in the Kendriya Vidyalaya most of the seats are
+   employees, while in the Kendriya Vidyalaya, most of the seats are
    reserved for children of IIT Bombay employees. The Campus School also has a kindergarten school for
    children above the age of three. For younger kids there is a
    private creche (Shishu Vihar, located at the time of writing in
@@ -649,8 +640,76 @@ period of 1 year. At the end of this period, administration requires
 you to fill another form (where you fill in your academic accomplishments during the probation year) and submit the same to Dean (FA) through the Head of your
 academic unit for confirmation of your appointment.
 
+## ERP-SAP Activities
+IIT Bombay has recently deployed leading Enterprise Resource Planning
+software (ERP) from SAP which provides an IT enabled platform for
+managing business processes such as purchase, payment, payroll, HR
+actions as well as estate management. Student life cycle management,
+however, is handled through the homegrown software created by the
+Application Software Center (ASC). Several other home grown and open
+source IT systems continue to handle key business processes.
+
+Currently, following IT systems are available to faculty members:
+
+  - [ASC](https://asc.iitb.ac.in) is the home grown system for
+    managing academic processes. Faculty members use this interface
+    for viewing academic programs, courses, bulletin and students
+    related information. The ASC portal allows online submission of
+    course grades and viewing past grading statistics. Access to ASC
+    is available through your LDAP credentials. Helpdesk e-mail is
+    [asc.help@iitb.ac.in](mailto:asc.help@iitb.ac.in).
+  - [Drona](https://drona.iitb.ac.in) is the homegrown IT system which
+    is used for submitting sponsored and consultancy project proposals
+    and managing all project related activities. Drona is integrated
+    with ERP and is independently managed by IRCC. Access to Drona is
+    available through LDAP credentials.
+  - [Employee Self Service Portal](https://ep.iitb.ac.in) is the SAP
+    portal to view and manage all personal actions such as leave,
+    salary, staff assessment and various HR actions. This portal is
+    currently undergoing enhancements. When fully deployed, the portal
+    shall allow 40 different actions including 'application and
+    settlement' of advances, loans, CPDA, LTC, TA and IR-ITPP
+    payments. The ERP portal requires allocation of user license as
+    well as a SAP user ID which is same as your employee code. Online
+    application form is available on ASC portal for requesting new SAP
+    user id.  Helpdesk:
+    [helpdesk.hcm@iitb.ac.in](mailto:helpdesk.hcm@iitb.ac.in).
+  - [ERP portal](https://erp.iitb.ac.in) is available to faculty
+    members for managing all purchase and payment activities. This
+    portal allows execution of a variety of transactions and allows
+    faculty members to view status of purchases, payments as well as
+    fund availability in personal projects. ERP portal is accessible
+    through your SAP login credentials. Several ERP support services
+    are available post login on ASC portal through series of
+    interfaces at ASC $\rightarrow$ ERP Master data
+    $\rightarrow$. Helpdesks:
+    [helpdesk.basis@iitb.ac.in](mailto:helpdesk.basis@iitb.ac.in) ,
+    [EDP@iitb.ac.in](mailto:EDP@iitb.ac.in).
+  - Teaching and learning management is handled through the [Moodle open
+    source portal](https://moodle.iitb.ac.in) which is integrated with
+    ERP servers. Helpdesk: [moodle.help@iitb.ac.in](mailto:moodle.help@iitb.ac.in).
+
+The following services for specific activities managed by ASC are available through LDAP login:
+
+ - [https://support.iitb.ac.in](https://support.iitb.ac.in) is the complaints ticketing portal for maintenance related services.
+ - [https://surveys.iitb.ac.in](https://surveys.iitb.ac.in) is a self-service portal used for creating your own surveys and content sharing pages.
+ - [https://portal.iitb.ac.in/IRBS](https://portal.iitb.ac.in/IRBS) is the interface to book classrooms and view room occupancy/availability.
+ - [https://portal.iitb.ac.in/VRP](https://portal.iitb.ac.in/VRP) is a portal used for submitting/tracking ERP related service requests
+
+### Resources for ERP support:
+  - **Department storekeeper**: For any problem related to purchase and payments from institute funds.
+  - **Departmental ERP helpdesk stationed in each department**: For
+    any problem related to purchase from project funds, payment of
+    honorarium to students and finding out project balances.
+  - [helpdesk.basis@iitb.ac.in](mailto:helpdesk.basis@iitb.ac.in): For
+    ERP password not working, problems with authorization for carrying
+    out ERP transactions.
+  - [Helpdesk.hcm@iitb.ac.in](mailto:Helpdesk.hcm@iitb.ac.in): For
+    problems with leave application or any other issue on ESS portal.
+  - All services provided by ASC: [asc.help@iitb.ac.in](mailto:asc.help@iitb.ac.in).
+
 ## Resources for Teaching and Research
-To get started in the Institute, you can familiarize yourself with the resources available for helping you teach and conduct research effectively. The [Academic Rules](#sec:acadrules) discuss all aspects related to courses, curricula and other teaching related aspects. The Institute, while encouraging you to apply for external grants to support your research, also provides you a Seed grant to get you started on your research projects. More details on this are available [here](#sec:researchfunding). You also have access to a Research and Development Fund (RDF) that can be used with more flexibility for your research related activities. Your academic unit would also have a Department Development Fund to support development activities of interest to your department as a whole. These are discussed in greater detail [here](#sec:rdfddf).
+To get started in the Institute, you can familiarize yourself with the resources available for helping you teach and conduct research effectively. The [Academic Rules](#sec:acadrules) discuss all aspects related to courses, curricula and other teaching related aspects, and [Resources for Teaching](#sec:teachingresources) lists some resources to help with teaching. The Institute, while encouraging you to apply for external grants to support your research, also provides you a Seed grant to get you started on your research projects. More details on this are available [here](#sec:researchfunding). You also have access to a Research and Development Fund (RDF) that can be used with more flexibility for your research related activities. Your academic unit would also have a Department Development Fund to support development activities of interest to your department as a whole. These are discussed in greater detail [here](#sec:rdfddf).
 
 In addition to research projects, one may also take on [consultancy projects](sec:consultancy) for external organizations. Finally, the [Continuing Education Programme (CEP)](#sec:cep) permits you to conduct courses for external organizations through the Institute.
 
@@ -720,10 +779,6 @@ For the benefit of staff members staying outside the campus (as also for staff o
 For reimbursement, separate forms for OPD (inclusive of cost of medicine purchased from outside) and indoor treatment,  available in the Hospital office[^websiteforms], should be filled up and submitted along with cash memos within three months. Please note that **except in case of emergency**, no reimbursement is permissible unless the reference was made by the IIT Bombay Hospital to the outside hospital.
 
 [^websiteforms]: These and most other forms you may require are also downloadable from http://asc.iitb.ac.in.
-
-## Schooling at IIT Bombay
-
-There are three schools on the campus for children: Kendriya Vidyalaya, Campus School, and KG School; plus a full-fledged child care (day care) and play school, Sishu Vihar. The Campus School also has a kindergarten school for children above the age of three. For younger kids there is a private creche (Sishu Vihar, temporarily located at the time of writing in bungalows A-4 and A-5 in the Lakeside area of Campus near the Main Gate), and run by an NGO. There are also several private schools in Powai and nearby areas that are well known. Complete details on these are available in [the appendix](#sec:moreschools).
 
 ## Life in Powai and beyond
 
@@ -898,6 +953,96 @@ supervision entails certain basic criteria.
 8. Student supervision can also be done jointly with faculty or staff of other universities or educational institutes. In some cases, such as the IITB-Monash Research Academy, the Institute facilitates joint advising of students across Institutes. In other cases, permission may be sought from the Dean (AP) having co-guides from outside IIT Bombay.
 
 
+## Resources for Teaching {#sec:teachingresources}
+
+Teaching is considered to be an important component of faculty activities. That said, most new faculty come in with strong research experience, but modest teaching experience, if any. It helps that most new faculty are given about a semester off from teaching in the beginning - this is often departmental policy; in some cases, there may not be a choice if the faculty member joins after a semester has started. Here are a few tips to help with teaching, and preparing for it.
+
+1. When you are assigned a course to teach, you can look at the
+   Academic section of the ASC website
+   (https://asc.iitb.ac.in/acadmenu/index.jsp) for course details
+   such as syllabus and textbooks, as well as timing and venue. In
+   general, it is mandatory to adhere to the specified syllabus,
+   especially for core courses. However, instructors can enhance
+   their course offerings with additional topics and learning content.
+2. You may talk to the Head and ask for details of the previous instructors
+   (this information is also available on ASC). That is assuming this
+   is an existing course, not a new one you are starting; the
+   procedure for starting a new course is described in the [form for proposing a new academic course](http://www.iitb.ac.in/newacadhome/RevisedCourseProposalFormat20154March.pdf). Senior faculty members who have taught the course may be
+   able to help you with teaching material such as slides, homework
+   problems, recommendations for textbooks, capable teaching
+   assistants (TAs) and so forth.
+3. A recent alumni supported initiative, called the Parimal and
+   Pramod Chaudhari Centre for Learning and Teaching (PPCCLT), now
+   provides a plethora of resources for teaching, drawing on internal
+   and external expertise and experience. These include:
+    a. (Annual) Faculty Development Workshops
+	b. TLC Café - featuring training sessions for faculty on effective teaching
+	c. Community of Practice (CoP) platform for sharing best teaching practices
+    d. Active learning classroom (under construction at the time of	writing). Please check out the [PPCCLT	website](http://www.ppcclt.iitb.ac.in) for more details.They welcome and need faculty involvement to be effective, so please	  consider it.
+
+4. There are several resources available to you to prepare video lectures (getting your regular lectures recorded, or, recording in a studio), and put them online if you desire. These include:
+
+   a. Centre for Distance Engineering Education Programme (CDEEP) –
+      which helps to prepare video lectures. Details are available on
+      their [website](http://www.cdeep.iitb.ac.in/). Please look in
+      the Related Projects section, for information on
+      pedagogy-related projects, usually MOE-supported, like TEQIP,
+      GIAN, and NMEICT.
+
+   b. [NPTEL](http://www.cdeep.iitb.ac.in/NPTEL2) - a nationwide
+      program supported by MOE for high-quality content development
+      in science/technology and dissemination through Massive Open
+      Online Courses (MOOCs), with facility for testing and
+      certification.
+
+   c. [IITBx](https://www.iitbombayx.in/) – this is an online platform
+      for MOOCs, specializing in hybrid MOOCs that feature flipped
+      classrooms, live interaction and so forth; in addition to more
+      academic content, it provides skills training, teachers
+      training, and lifelong learning type content.
+
+5. IIT Bombay is one of the few institutes in the country to have an
+   academic program in Education Technology. Faculty here pursue
+   research in technology-enhanced learning, pedagogical tools and
+   strategies. If you are interested in exploring new
+   technologies/methodologies in your class, they might be happy to
+   collaborate with you. Details about this Inter-Disciplinary
+   Programme is available [here](http://www.et.iitb.ac.in/).
+
+<!-- There are two categories of excellence in teaching awards. A) -->
+<!-- Institute Awards: Fifteen per year; B) Department Awards: -->
+<!-- Approximately Thirty per year. The guidelines for the excellence in -->
+<!-- teaching award are as follow: -->
+
+<!--    1. Course feedback data for each semester and each of the four categories of courses (B.Tech. common, UG courses, PG courses, 2 yr MSc courses) will be examined and, if warranted, transformed to follow a normal distribution using the Box-Cox transformations. The average and standard deviation of each data set (original data in case already normal or transformed data which is normal) will be determined. The average of the particular distribution will be subtracted from a faculty member’s score and then divided by the relevant standard deviation. The constant 3 will be added to this. This is the normalised score for that faculty member. A faculty member will get a “normalised” score for each semester that he/she teaches. The average of such scores over several courses will be computed. A rank list of faculty members will be generated based on the above score. -->
+
+<!--    2. Fifteen Institute awards will be given each year. They will be -->
+<!--       given to the top 15 scorers. The rank list will be obtained -->
+<!--       considering the best 15 scores over the last 10 years for each -->
+<!--       faculty member. -->
+
+<!--    3. Department awards will be given (about 30 in the Institute; -->
+<!-- 	  approx. 1 per faculty strength of 20 in a department). The rank -->
+<!-- 	  list will be obtained by considering the best 8 scores over the -->
+<!-- 	  last 5 years for each faculty member in that department. -->
+
+<!--    4. Academic units with strength significantly less than 20 will be -->
+<!--       combined with other such units to decide Dept awards. -->
+
+<!--    5. On getting an Institute award, the faculty member will be -->
+<!-- 	  ineligible to be considered for the same for the next ten -->
+<!-- 	  academic years. Further, he/she will be ineligible to be -->
+<!-- 	  considered for a Dept. award for the next 5 years. On getting a -->
+<!-- 	  Dept award, the faculty member will be ineligible to be -->
+<!-- 	  considered for the same for the next five academic -->
+<!-- 	  years. However, in this period, he/she will be eligible for -->
+<!-- 	  consideration for an Institute award in case he/she has not been -->
+<!-- 	  awarded the same in the previous 10 years. -->
+
+<!--    6. For a given year, if a faculty member is included in the list -->
+<!-- 	  for Institute awards, he/she will be ineligible for the -->
+<!-- 	  Dept. award. -->
+
 ## Research Funding {#sec:researchfunding}
 
 Research funding could be one of the following three types
@@ -992,87 +1137,6 @@ Convener of the Academic Unit to Dean(R&D).
 After the proposal is approved online by the Dean(R&D), IRCC will
 issue the "Endorsement of the Institution" letter which will have to
 be submitted by the PI to the funding agency.
-
-## Awards for Teaching and Research
-
-While good teaching and research is likely reward enough, both you and the Institute would benefit from greater visibility and recognition of your achievements. Within IIT Bombay, the S. P. Sukhatme Excellence in Teaching Award is awarded to 15 faculty members across the instiute. Department teaching awards, based on student feedback, also recognise your teaching efforts. For research accomplishments, the Institute has the following awards:
-
-- IRCC Research Awards: Consists of the Research Publication Award, Research Dissemination Award, Early Research Achiever Award and Impactful Research Award.
-- Dr. P.K. Patwardhan Technology Development awards
-- Prof. Krithi Ramamritham Award for creative research
-- The Rakesh Mathur awards: Consists of  the Prof. S.C. Bhattacharya Award for Excellence in Pure Sciences and the Prof. H.H. Mathur Award for Excellence in Applied Sciences
-
-The procedure to apply for these awards is available on the [IRCC Awards webpage](https://rnd.iitb.ac.in/awards).
-
-There are also several external awards and fellowships that you can apply for. One such list (from IIT Kanpur) is available [here](https://www.iitk.ac.in/dofa/awards-honors).
-
-## ERP-SAP Activities
-IIT Bombay has recently deployed leading Enterprise Resource Planning
-software (ERP) from SAP which provides an IT enabled platform for
-managing business processes such as purchase, payment, payroll, HR
-actions as well as estate management. Student life cycle management,
-however, is handled through the homegrown software created by the
-Application Software Center (ASC). Several other home grown and open
-source IT systems continue to handle key business processes.
-
-Currently, following IT systems are available to faculty members:
-
-  - [ASC](https://asc.iitb.ac.in) is the home grown system for
-    managing academic processes. Faculty members use this interface
-    for viewing academic programs, courses, bulletin and students
-    related information. The ASC portal allows online submission of
-    course grades and viewing past grading statistics. Access to ASC
-    is available through your LDAP credentials. Helpdesk e-mail is
-    [asc.help@iitb.ac.in](mailto:asc.help@iitb.ac.in).
-  - [Drona](https://drona.iitb.ac.in) is the homegrown IT system which
-    is used for submitting sponsored and consultancy project proposals
-    and managing all project related activities. Drona is integrated
-    with ERP and is independently managed by IRCC. Access to Drona is
-    available through LDAP credentials.
-  - [Employee Self Service Portal](https://ep.iitb.ac.in) is the SAP
-    portal to view and manage all personal actions such as leave,
-    salary, staff assessment and various HR actions. This portal is
-    currently undergoing enhancements. When fully deployed, the portal
-    shall allow 40 different actions including 'application and
-    settlement' of advances, loans, CPDA, LTC, TA and IR-ITPP
-    payments. The ERP portal requires allocation of user license as
-    well as a SAP user ID which is same as your employee code. Online
-    application form is available on ASC portal for requesting new SAP
-    user id.  Helpdesk:
-    [helpdesk.hcm@iitb.ac.in](mailto:helpdesk.hcm@iitb.ac.in).
-  - [ERP portal](https://erp.iitb.ac.in) is available to faculty
-    members for managing all purchase and payment activities. This
-    portal allows execution of a variety of transactions and allows
-    faculty members to view status of purchases, payments as well as
-    fund availability in personal projects. ERP portal is accessible
-    through your SAP login credentials. Several ERP support services
-    are available post login on ASC portal through series of
-    interfaces at ASC $\rightarrow$ ERP Master data
-    $\rightarrow$. Helpdesks:
-    [helpdesk.basis@iitb.ac.in](mailto:helpdesk.basis@iitb.ac.in) ,
-    [EDP@iitb.ac.in](mailto:EDP@iitb.ac.in).
-  - Teaching and learning management is handled through the [Moodle open
-    source portal](https://moodle.iitb.ac.in) which is integrated with
-    ERP servers. Helpdesk: [moodle.help@iitb.ac.in](mailto:moodle.help@iitb.ac.in).
-
-The following services for specific activities managed by ASC are available through LDAP login:
-
- - [https://support.iitb.ac.in](https://support.iitb.ac.in) is the complaints ticketing portal for maintenance related services.
- - [https://surveys.iitb.ac.in](https://surveys.iitb.ac.in) is a self-service portal used for creating your own surveys and content sharing pages.
- - [https://portal.iitb.ac.in/IRBS](https://portal.iitb.ac.in/IRBS) is the interface to book classrooms and view room occupancy/availability.
- - [https://portal.iitb.ac.in/VRP](https://portal.iitb.ac.in/VRP) is a portal used for submitting/tracking ERP related service requests
-
-### Resources for ERP support:
-  - **Department storekeeper**: For any problem related to purchase and payments from institute funds.
-  - **Departmental ERP helpdesk stationed in each department**: For
-    any problem related to purchase from project funds, payment of
-    honorarium to students and finding out project balances.
-  - [helpdesk.basis@iitb.ac.in](mailto:helpdesk.basis@iitb.ac.in): For
-    ERP password not working, problems with authorization for carrying
-    out ERP transactions.
-  - [Helpdesk.hcm@iitb.ac.in](mailto:Helpdesk.hcm@iitb.ac.in): For
-    problems with leave application or any other issue on ESS portal.
-  - All services provided by ASC: [asc.help@iitb.ac.in](mailto:asc.help@iitb.ac.in).
 
 ## Assessment and Promotion Policies
 
@@ -1266,7 +1330,7 @@ Points are computed for the applicant based on the following criteria.
   8. A half-semester course is to be given 0.5 credit of a full course.
   9. Departments which run/maintain facilities used extensively by other entities may optionally consider operation of such facilities as equivalent to 0.5 course.
   10. No credit to be given for course that consists entirely of coordination and uses external resources/lecturers.
-  11. If score is 3 by above rules, and further the teaching score computed for excellence in teaching award for the previous 5 years (under the new scheme) is at or above the 80$^{\text{th}} percentile of department faculty scores, increment score to 5.
+  11. If score is 3 by above rules, and further the teaching score computed for excellence in teaching award for the previous 5 years (under the new scheme) is at or above the 80$^{\text{th}}$ percentile of department faculty scores, increment score to 5.
   12. If score is 3 by above rule-set, plus a textbook published during period of evaluation, increment score to 5
 - **Academic Research (A2)**: 1 point is awarded if M.Tech. / M.Sc. theses are guided. 3 points are awarded if the  Ph.D and M.Tech./M.Sc. theses have been guided _and_ the number of publications is 1.5 to 3 times current department publication norms for promotion from Associate to full Professor. Finally, if in addition to the previous point, the number of publications is more than 3 times current department publication norms for promotion from Associate to full Professor, 5 points are awarded. In addition, the following recommendations are considered:
 
@@ -1323,106 +1387,14 @@ modifications introduced as a result of the experience gained, IFAC
 may consider using the cumulative record of self-assessments as a
 basis for shortlisting candidates for selection to higher posts.
 
-## Resources for Teaching
+## Awards
 
-Teaching is considered to be an important component of faculty activities. That said, most new faculty come in with strong research experience, but modest teaching experience, if any. It helps that most new faculty are given about a semester off from teaching in the beginning - this is often departmental policy; in some cases, there may not be a choice if the faculty member joins after a semester has started. Here are a few tips to help with teaching, and preparing for it.
-
-1. When you are assigned a course to teach, you can look at the
-   Academic section of the ASC website
-   (https://asc.iitb.ac.in/acadmenu/index.jsp) for course details
-   such as syllabus and textbooks, as well as timing and venue. In
-   general, it is mandatory to adhere to the specified syllabus,
-   especially for core courses. However, instructors can enhance
-   their course offerings with additional topics and learning content.
-2. You may talk to the Head and ask for details of the previous instructors
-   (this information is also available on ASC). That is assuming this
-   is an existing course, not a new one you are starting; the
-   procedure for starting a new course is described in the [form for proposing a new academic course](http://www.iitb.ac.in/newacadhome/RevisedCourseProposalFormat20154March.pdf). Senior faculty members who have taught the course may be
-   able to help you with teaching material such as slides, homework
-   problems, recommendations for textbooks, capable teaching
-   assistants (TAs) and so forth.
-3. A recent alumni supported initiative, called the Parimal and
-   Pramod Chaudhari Centre for Learning and Teaching (PPCCLT), now
-   provides a plethora of resources for teaching, drawing on internal
-   and external expertise and experience. These include:
-    a. (Annual) Faculty Development Workshops
-	b. TLC Café - featuring training sessions for faculty on effective teaching
-	c. Community of Practice (CoP) platform for sharing best teaching practices
-    d. Active learning classroom (under construction at the time of	writing). Please check out the [PPCCLT	website](http://www.ppcclt.iitb.ac.in) for more details.They welcome and need faculty involvement to be effective, so please	  consider it.
-
-4. There are several resources available to you to prepare video lectures (getting your regular lectures recorded, or, recording in a studio), and put them online if you desire. These include:
-
-   a. Centre for Distance Engineering Education Programme (CDEEP) –
-      which helps to prepare video lectures. Details are available on
-      their [website](http://www.cdeep.iitb.ac.in/). Please look in
-      the Related Projects section, for information on
-      pedagogy-related projects, usually MOE-supported, like TEQIP,
-      GIAN, and NMEICT.
-
-   b. [NPTEL](http://www.cdeep.iitb.ac.in/NPTEL2) - a nationwide
-      program supported by MOE for high-quality content development
-      in science/technology and dissemination through Massive Open
-      Online Courses (MOOCs), with facility for testing and
-      certification.
-
-   c. [IITBx](https://www.iitbombayx.in/) – this is an online platform
-      for MOOCs, specializing in hybrid MOOCs that feature flipped
-      classrooms, live interaction and so forth; in addition to more
-      academic content, it provides skills training, teachers
-      training, and lifelong learning type content.
-
-5. IIT Bombay is one of the few institutes in the country to have an
-   academic program in Education Technology. Faculty here pursue
-   research in technology-enhanced learning, pedagogical tools and
-   strategies. If you are interested in exploring new
-   technologies/methodologies in your class, they might be happy to
-   collaborate with you. Details about this Inter-Disciplinary
-   Programme is available [here](http://www.et.iitb.ac.in/).
-
-<!-- There are two categories of excellence in teaching awards. A) -->
-<!-- Institute Awards: Fifteen per year; B) Department Awards: -->
-<!-- Approximately Thirty per year. The guidelines for the excellence in -->
-<!-- teaching award are as follow: -->
-
-<!--    1. Course feedback data for each semester and each of the four categories of courses (B.Tech. common, UG courses, PG courses, 2 yr MSc courses) will be examined and, if warranted, transformed to follow a normal distribution using the Box-Cox transformations. The average and standard deviation of each data set (original data in case already normal or transformed data which is normal) will be determined. The average of the particular distribution will be subtracted from a faculty member’s score and then divided by the relevant standard deviation. The constant 3 will be added to this. This is the normalised score for that faculty member. A faculty member will get a “normalised” score for each semester that he/she teaches. The average of such scores over several courses will be computed. A rank list of faculty members will be generated based on the above score. -->
-
-<!--    2. Fifteen Institute awards will be given each year. They will be -->
-<!--       given to the top 15 scorers. The rank list will be obtained -->
-<!--       considering the best 15 scores over the last 10 years for each -->
-<!--       faculty member. -->
-
-<!--    3. Department awards will be given (about 30 in the Institute; -->
-<!-- 	  approx. 1 per faculty strength of 20 in a department). The rank -->
-<!-- 	  list will be obtained by considering the best 8 scores over the -->
-<!-- 	  last 5 years for each faculty member in that department. -->
-
-<!--    4. Academic units with strength significantly less than 20 will be -->
-<!--       combined with other such units to decide Dept awards. -->
-
-<!--    5. On getting an Institute award, the faculty member will be -->
-<!-- 	  ineligible to be considered for the same for the next ten -->
-<!-- 	  academic years. Further, he/she will be ineligible to be -->
-<!-- 	  considered for a Dept. award for the next 5 years. On getting a -->
-<!-- 	  Dept award, the faculty member will be ineligible to be -->
-<!-- 	  considered for the same for the next five academic -->
-<!-- 	  years. However, in this period, he/she will be eligible for -->
-<!-- 	  consideration for an Institute award in case he/she has not been -->
-<!-- 	  awarded the same in the previous 10 years. -->
-
-<!--    6. For a given year, if a faculty member is included in the list -->
-<!-- 	  for Institute awards, he/she will be ineligible for the -->
-<!-- 	  Dept. award. -->
-
-## Guidelines for Awards
-
-Since the guidelines for excellence in teaching awards are currently
+While good teaching and research is likely reward enough, both you and the Institute would benefit from greater visibility and recognition of your achievements. Within IIT Bombay, the S. P. Sukhatme Excellence in Teaching Award is awarded to 15 faculty members across the institute every year. Department teaching awards also recognise your teaching efforts. The teaching awards are based on student feedback. Since the guidelines for excellence in teaching awards are currently
 undergoing revision, you may refer to recent Senate meeting minutes
 for updates on this.
 
-There are six categories of research awards in IIT Bombay, among which
-two are instituted in honour of two former Professors of the institute
-and each of these awards carries a cash incentive of ₹ 1.5
-Lakhs. They are
+There are several categories of research awards in IIT Bombay, among which
+the Rakesh Mathur awards for the Excellence in Research are instituted in honour of two former Professors of the institute, and each of these awards carries a cash incentive of ₹ 1.5 lakhs. They are
 
   - Prof. S.C. Bhattacharya Award for Excellence in Pure Sciences
   - Prof. H.H. Mathur Award for Excellence in Applied Sciences
@@ -1431,12 +1403,13 @@ Earlier recipients of this awards are available at the [IRCC website](http://www
 
 Guidelines for nominations for these two awards are:
 
-  - This is a one-time award given based on research work undertaken at IIT Bombay during the last ten years.
+  - This is a one-time award given based on research work undertaken at IIT Bombay during the last ten years.
   - There is no age bar for these awards.
   - Nomination for the award can be made by any full Professor of the Institute. Self-nomination is not allowed.
-  - Institute functionaries, with the exception of Heads of Academic Units, are not eligible for these awards.
+	- Institute functionaries, with the exception of Heads of Academic Units, are not eligible for these awards.
 
-The other categories are (known as IRCC research award):
+
+The IRCC Research awards include:
 
 1. _Research Publication Award (up to 5 awards for the year):_ To
    recognize original research results which have appeared in peer
@@ -1462,12 +1435,17 @@ The other categories are (known as IRCC research award):
    completed 4 years of service in IIT Bombay and must not be more
    than 40 years of age. An individual can get this award only once in
    his/her career.
-
 Each of the IRCC awards will consist of a citation and a cash prize of ₹ 50,000/-
 (Rupees Fifty Thousands only). The cash prize will be given to nominated
 researcher (candidate) at IIT Bombay. In addition, the awardee(s) will
 be invited to submit a research proposal to IRCC for possible funding of
 up to ₹5,00,000/- (Rupees Five Lakhs only).
+
+
+Other IRCC awards include the Dr. P.K. Patwardhan Technology Development awards and the Prof. Krithi Ramamritham Award for creative research. More details and the procedure to apply for these awards is available on the [IRCC Awards webpage](https://rnd.iitb.ac.in/awards).
+
+There are also several external awards and fellowships that you can apply for. One such list (from IIT Kanpur) is available [here](https://www.iitk.ac.in/dofa/awards-honors).
+
 
 
 ## Continuing Education Programmes {#sec:cep}
@@ -1705,7 +1683,7 @@ promote student driven startups and innovations.
 [^sine]: Details of the vision and mission, as well as the rules and procedures for incubating a company under SINE are available at http://www.sineiitb.org/
 
 # Rules & Regulations
-## Rules for salary, allowances etc.
+## Salary, allowances etc.
 Your salary is paid directly to your bank account on the last day of
 the month. The _Financial Year_ for tax purposes is from April 1$^{\text{st}}$ of
 a given year to March 31$^{\text{st}}$ of the following year. The income tax uses
@@ -1726,13 +1704,13 @@ internal website of the Institute
 The salary that you get has several components.
 
 1. _Pay at Pay Level:_ Since several readers may be familiar with the
-   provisions of the 6$^{\text{th}} Pay Commission, and new readers are likely to
-   join directly under 7$^{\text{th}} Pay Commission rules, we outline the pay
-   scales with reference to the 7$^{\text{th}} Pay Commission.
+   provisions of the 6$^{\text{th}}$ Pay Commission, and new readers are likely to
+   join directly under 7$^{\text{th}}$ Pay Commission rules, we outline the pay
+   scales with reference to the 7$^{\text{th}}$ Pay Commission.
 
    What used to be the _Pay Band and Academic Grade Pay (AGP)_ in the
-   6$^{\text{th}} Pay Commission has been replaced, after implementation of the
-   7$^{\text{th}} pay Commission, by an amount defined by a salary at a _Pay
+   6$^{\text{th}}$ Pay Commission has been replaced, after implementation of the
+   7$^{\text{th}}$ pay Commission, by an amount defined by a salary at a _Pay
    Level_. The position to which you are appointed (or move to after
    selection to a higher post) defines the salary. All Government
    servants in India are placed in one of these _pay levels_. Faculty
@@ -1750,7 +1728,7 @@ The salary that you get has several components.
 
    Your salary within the pay band is fixed at the time of your
    appointment and increases every year by an _increment_, as defined
-   in the 7$^{\text{th}} Pay Commission Pay Matrix. The various cadres, processes
+   in the 7$^{\text{th}}$ Pay Commission Pay Matrix. The various cadres, processes
    for selections, and salary scales (that is, , Pay Levels as listed
    above) for the faculty are as follows. Note that they are
    automatically moved to the higher levels as they gain experience
@@ -1790,7 +1768,7 @@ Level 10, with starting a salary of ₹ 84,700 plus D.A.
 
    In addition, the following scales are applicable as appropriate to faculty:
 
-   - _Professor (HAG Scale):_ From 18$^{\text{th}} August 2009, a senior cadre of
+   - _Professor (HAG Scale):_ From 18$^{\text{th}}$ August 2009, a senior cadre of
    Professors has been created. The scale pay for this cadre is known
    as HAG (Higher Administrative Grade). The minimum eligibility criteria
    for this scale is six years of service as a Professor. A maximum of
@@ -1877,7 +1855,7 @@ increment is given from the day when the employee rejoins the duty.
    18                   95300   113800   167400
    19                   98200   117200
 
-Table:  7$^{\text{th}} Commission Pay Matrix
+Table:  7$^{\text{th}}$ Commission Pay Matrix
 
 ### Deductions
 When you receive your salary slip, you will find some deductions as well. The primary deductions are:
@@ -2234,7 +2212,7 @@ Guidelines:
    d. It is desirable that part of the costs for publications as above is claimed from other sources such as projects / RDF / DDF and part from the IR-P component of the block grant.
 
 
-## Research and Development Fund (RDF) and Department Development Fund (DDF) rules {#sec:rdfddf}
+## Research Development Fund (RDF) and Department Development Fund (DDF) rules {#sec:rdfddf}
 
 IRCC, the office of the Dean R&D, incentivizes faculty to pursue
 extramural R&D funding by ploughing a portion (15% at the time of
@@ -2291,7 +2269,7 @@ available), you could claim up to ₹ 24/- per kilometer.
 
 ### Daily allowance
 
-As per the 7$^{\text{th}} Pay Commission rules, the daily allowance entitlements are given below:
+As per the 7$^{\text{th}}$ Pay Commission rules, the daily allowance entitlements are given below:
 
 *Pay Level*     Entitlement
 ----------      -----------
@@ -2407,44 +2385,44 @@ Passport Office, Voter ID card from Election Commission etc. The
 procedure for requesting these certificates may be categorized it into
 two:
 
-  a. Where the faculty member may directly write to the concerned
-  section of Administration (AR-Admin 1/Establishment Section) for
-  issuance of certificate. The application can be made on plain paper
-  directly to the Administration, addressed to the Registrar / Deputy
-  Registrar / Assistant Registrar:
+ a. Where the faculty member may directly write to the concerned
+ section of Administration (AR-Admin 1/Establishment Section) for
+ issuance of certificate. The application can be made on plain paper
+ directly to the Administration, addressed to the Registrar / Deputy
+ Registrar / Assistant Registrar:
 
-   1. Address Proof
-   2. for obtaining Domicile certificate
-   3. Opening of Bank Account
-   4. Identity Certificate – for obtaining fresh passport (for self and spouse)
-   5. NOC – for renewal of Passport
-   6. NOC – for children above 18 years
-   7. Tatkal passport (for self and dependent)
-   8. For obtaining Ration Card
-   9. For obtaining PAN Card
-   10. For obtaining Housing Loan from Bank
-   11. LIC Policy
-   12. KG School Admission for grandchildren – Children should be in the Service record.
-      (On roll and Retired employees)
-   13. KV School Admission for grandchildren – Children should be in the Service record.
-      (On roll and Retired employees)
-   14. Senior Citizen
-   15. Octroi exemption
-   16. Other purpose
+  1. Address Proof
+  2. for obtaining Domicile certificate
+  3. Opening of Bank Account
+  4. Identity Certificate – for obtaining fresh passport (for self and spouse)
+  5. NOC – for renewal of Passport
+  6. NOC – for children above 18 years
+  7. Tatkal passport (for self and dependent)
+  8. For obtaining Ration Card
+  9. For obtaining PAN Card
+  10. For obtaining Housing Loan from Bank
+  11. LIC Policy
+  12. KG School Admission for grandchildren – Children should be in the Service record.
+     (On roll and Retired employees)
+  13. KV School Admission for grandchildren – Children should be in the Service record.
+     (On roll and Retired employees)
+  14. Senior Citizen
+  15. Octroi exemption
+  16. Other purpose
 
-  b. Where the faculty member may directly write to the concerned
-  section of Administration (AR-Admin). In these cases, the
-  application should be addressed to the Dean (Faculty Affairs), and
-  forwarded on plain paper through Head:
+ b. Where the faculty member may directly write to the concerned
+ section of Administration (AR-Admin). In these cases, the
+ application should be addressed to the Dean (Faculty Affairs), and
+ forwarded on plain paper through Head:
 
-   1. NOC - for test / interview
-   2. NOC - for VISA (for attending conference)
-   3. NOC - for VISA (Personal visit): should also apply through ERP Portal
-   4. Experience Certificate after resignation or termination: If
-      resignation / termination letter is forwarded through proper
-      channel and all closing formalities are completed, a formal
-      request letter from applicant is enough.
-   5. Vigilance Certificate: Request should be forwarded through HoD.
+  1. NOC - for test / interview
+  2. NOC - for VISA (for attending conference)
+  3. NOC - for VISA (Personal visit): should also apply through ERP Portal
+  4. Experience Certificate after resignation or termination: If
+     resignation / termination letter is forwarded through proper
+     channel and all closing formalities are completed, a formal
+     request letter from applicant is enough.
+  5. Vigilance Certificate: Request should be forwarded through HoD.
 
 ## General Financial Rules
 The General Financial Rules (GFR) are a set of rules to be followed in
@@ -2726,65 +2704,17 @@ Visit the Institute on a part time basis, generally for teaching (up to three da
 
 # Retirement and Post-Retirement Benefits
 
-## Healthcare after retirement
-
-The Institute has two schemes to take care of your and your spouse's medical requirements after retirement. Both the schemes are contributory.
-
-1. _Contributory Medical Scheme (CMS):_ The scheme entitles you and your spouse to avail of OPD treatment in the IIT Hospital. You have to pay a one time ₹ 8000/- to join the scheme. All OPD facilities of the IIT Hospital (consultancy, diagnostic tests etc.) can be availed by employee and his/her spouse. Medicines available at the Pharmacy are also given to CMS members without charge. However, no indoor hospitalization is possible and no reimbursement of any kind is provided.
-2. _Post-Retirement Medical Scheme (PRMS):_ Under this scheme, there are two types of medical benefits provided to IIT Bombay employees. These are:
- a) In-service medical benefits
- b) Out-service medical benefits
-
-In-service medical benefits are those given to Institute employee
-during their active service at the Institute. Here, the Institute
-employee, if eligible, can take the facility of the Institute Hospital
-for various purposes as available & further can be referred to
-Institute empanelled hospital on the recommendation of the CMO/MO/SMO,
-wherein the expenditure incurred is reimbursed as per Institute
-rules. More details are available here:
-
-Out-service medical benefits afforded after retirement comprise the
-Post-Retirement Medical Scheme. Further, there are two types of scheme
-for retirees.
-
- a. Old PRMS
- b. New PRMS
-
-The Old PRMS is for those who retired prior to 11-Mar-2015. Those who
-join/joined the Institute’s service on or after that date are/shall be
-governed by New PRMS which is/will be a part of the service condition
-on joining the Institute.
-
-Therefore, all those who were on roll of the Institute on 11$^{\text{th}} March
-2015, as permanent employees were entitled to join the scheme on
-exercising an option in this regard within three months of adoption of
-the scheme by the Board of governors, whereas for those who join the
-Institute / confirmed after that date the scheme is mandatory.
-
-Under this scheme, a monthly subscription is to be paid by all the
-members of the scheme based on their pay scales to avail the benefits
-of this scheme post retirement. To summarise, it is a cover of medical
-treatment on hospitalization up to a limit. It does not cover
-out-patient expenses, only expenses on admission to a (empanelled)
-hospital. A maximum of 50% of the eligible cover can be availed as
-claim in the first 5 years after retirement from the Institute.
-
-
-The amount of contribution, Sum Assured, how the Sum Assured grows
-with time, empanelled hospitals, and so on, are detailed in [this
-webpage](https://www.iitb.ac.in/en/about-iitbombay/new-post-retirement-medical-scheme-2015-onwards).
-
-## Retirement Benefits
+## Post-retirement Benefits
 While this chapter was originally written primarily for faculty who joined the Institute before 2004 (or who joined later, but with transfer of previous services rendered in Govt or Institutions like IITs), suitable additions/provisions which apply to faculty who joined on or after 1$^{\text{st}}$ January, 2004 (National Pension Scheme) have now been incorporated.
 
 ### Pension, Gratuity, Commutation of Pension etc.
 What happens after you have served out your active life with the Institute? Most look at the period of retirement with a certain amount of anxiety because they anticipate a sharp drop in income. It is, therefore, prudent to do some planning reasonably early in life, certainly by the time you are approaching 50.
 
 ### Superannuation
-This is the term used for official completion of your regular appointment. It happens on the last day of the month in which you complete 65 years of age. For example, If your birthday falls on the 1$^{\text{st}}$ of the June, you will superannuate on the last day of the previous month (that is,  May 31$^{\text{st}}$). However, if your birthday is between 2nd and 30$^{\text{th}} of June, then you will superannuate on 30$^{\text{th}} June. Usually, the Director offers you a cup of tea and hands over a few retirement cheques on this day.
+This is the term used for official completion of your regular appointment. It happens on the last day of the month in which you complete 65 years of age. For example, If your birthday falls on the 1$^{\text{st}}$ of the June, you will superannuate on the last day of the previous month (that is,  May 31$^{\text{st}}$). However, if your birthday is between 2nd and 30$^{\text{th}}$ of June, then you will superannuate on 30$^{\text{th}}$ June. Usually, the Director offers you a cup of tea and hands over a few retirement cheques on this day.
 
 ### Re-employment
-Faculty members are usually reappointed till the last day of the academic semester (that is, , either till 31$^{\text{st}}$ December or 30$^{\text{th}} June, depending on the birth date) in the year in which they complete 65, based on a recommendation from the department. During the period of re-employment, those who receive pension cheques as well as a component of salary in such a way that the two together do not exceed the last drawn salary. Further, many service benefits come to an end. The re-appointment letter from the Director will make it clear as to what benefits will still be available. As per the current practice, the medical facilities will continue during the period of re-employment. As per Govt. of India rules, you will continue to be eligible for LTC provided there is no break between the regular appointment and the re-employment.
+Faculty members are usually reappointed till the last day of the academic semester (that is, , either till 31$^{\text{st}}$ December or 30$^{\text{th}}$ June, depending on the birth date) in the year in which they complete 65, based on a recommendation from the department. During the period of re-employment, those who receive pension cheques as well as a component of salary in such a way that the two together do not exceed the last drawn salary. Further, many service benefits come to an end. The re-appointment letter from the Director will make it clear as to what benefits will still be available. As per the current practice, the medical facilities will continue during the period of re-employment. As per Govt. of India rules, you will continue to be eligible for LTC provided there is no break between the regular appointment and the re-employment.
 
 ### Retirement schemes
 For those who joined the Institute before 2004, there were two retirement schemes to choose from, _viz._ Contributory Provident Fund-cum-gratuity Scheme (CPF) and General Provident Fund-cum-Pension-cum-gratuity Scheme (GPF). The salient features of these schemes are as follows.
@@ -3026,6 +2956,55 @@ online are available at the [NPS CRA website](https://npscra.nsdl.co.in/).
 <!--    6. For domestic staff services (cleaning, cooking etc.) you can -->
 <!--       usually get tips from neighbours or - if you are living -->
 <!--       off-campus - the security personnel in your apartment complex. -->
+
+
+## Healthcare post-retirement
+
+The Institute has two schemes to take care of your and your spouse's medical requirements after retirement. Both the schemes are contributory.
+
+1. _Contributory Medical Scheme (CMS):_ The scheme entitles you and your spouse to avail of OPD treatment in the IIT Hospital. You have to pay a one time ₹ 8000/- to join the scheme. All OPD facilities of the IIT Hospital (consultancy, diagnostic tests etc.) can be availed by employee and his/her spouse. Medicines available at the Pharmacy are also given to CMS members without charge. However, no indoor hospitalization is possible and no reimbursement of any kind is provided.
+2. _Post-Retirement Medical Scheme (PRMS):_ Under this scheme, there are two types of medical benefits provided to IIT Bombay employees. These are:
+ a) In-service medical benefits
+ b) Out-service medical benefits
+
+In-service medical benefits are those given to Institute employee
+during their active service at the Institute. Here, the Institute
+employee, if eligible, can take the facility of the Institute Hospital
+for various purposes as available & further can be referred to
+Institute empanelled hospital on the recommendation of the CMO/MO/SMO,
+wherein the expenditure incurred is reimbursed as per Institute
+rules. More details are available here:
+
+Out-service medical benefits afforded after retirement comprise the
+Post-Retirement Medical Scheme. Further, there are two types of scheme
+for retirees.
+
+ a. Old PRMS
+ b. New PRMS
+
+The Old PRMS is for those who retired prior to 11-Mar-2015. Those who
+join/joined the Institute’s service on or after that date are/shall be
+governed by New PRMS which is/will be a part of the service condition
+on joining the Institute.
+
+Therefore, all those who were on roll of the Institute on 11$^{\text{th}}$ March
+2015, as permanent employees were entitled to join the scheme on
+exercising an option in this regard within three months of adoption of
+the scheme by the Board of governors, whereas for those who join the
+Institute / confirmed after that date the scheme is mandatory.
+
+Under this scheme, a monthly subscription is to be paid by all the
+members of the scheme based on their pay scales to avail the benefits
+of this scheme post retirement. To summarise, it is a cover of medical
+treatment on hospitalization up to a limit. It does not cover
+out-patient expenses, only expenses on admission to a (empanelled)
+hospital. A maximum of 50% of the eligible cover can be availed as
+claim in the first 5 years after retirement from the Institute.
+
+
+The amount of contribution, Sum Assured, how the Sum Assured grows
+with time, empanelled hospitals, and so on, are detailed in [this
+webpage](https://www.iitb.ac.in/en/about-iitbombay/new-post-retirement-medical-scheme-2015-onwards).
 
 # Appendices {.unlisted .unnumbered}
 
