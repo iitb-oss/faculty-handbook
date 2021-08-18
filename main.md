@@ -2039,14 +2039,6 @@ rate of ₹ 3,750 per quarter or for the full amount in the last quarter
 of the financial year. The quantum of reimbursement for disabled
 children is twice this amount.
 
-### Family Planning Allowance
-If an employee or the spouse has undergone a sterilization operation
-(subject to some conditions) and have no more than two surviving
-children, he/she will be eligible for a special allowance which varies
-between ₹ 800 to ₹ 1000 per month for a faculty member depending on
-the Pay Level of the faculty member at the time of the operation (it
-then remains unchanged for the entire service).
-
 ## Cumulative Professional Development Allowance (CPDA)
 The CPDA is an MOE provision under which the institute provides
 faculty at all levels with some level of support for travel (including
@@ -2233,14 +2225,6 @@ of Consumables, Maintenance, and Travel – these could range from
 teaching lab consumables and maintenance to student conference travel
 support.
 
-
-## Loans
-The Institute provides loans for purchase of a car, motorcycle,
-scooter or a personal computer. These loans bear interest.  The
-Institute also has provision for a loan for buying a flat or building
-a house. Details of these may be ascertained from the
-Administration. Forms for availing these loans are available by
-logging into [ASC](https://asc.iitb.ac.in).
 
 ## Entitlement for work related travel
 
