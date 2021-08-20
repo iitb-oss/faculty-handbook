@@ -2718,28 +2718,28 @@ For those who joined the Institute before 2004, there were two retirement scheme
      below (the example is actually appropriate to a Professor
      retiring at the top of the band):
 
-     Suppose your basic salary was ₹ 224,100/- at the time of
-     retirement. Your basic pension is ₹ 122,050/- at the time of
-     superannuation (age 66 on your next birthday). You offer to
-     receive 40% less as monthly pension, that is,  receive ₹ 48,820/- per
-     month less as basic pension. The amount of lump sum payment is
-     given by the following formula.  $$ \mbox{Lump sum amount} =
-     \text{₹} 48,820 \times12 \times 7.591 = \text{₹} 44,47,111 $$ The
-     unusual factor 7.591 is a factor representing the number of years
-     the Government has decided that it is willing to pay you as a
-     lump sum if your age next birthday is 66 at the time you opt for
-     commutation[^commutation].  Note that, though your basic pension
-     will be reduced by ₹ 48,820/- in the above example, the Dearness
-     Allowance is payable on the regular pension amount of ₹
-     122,050/-. Thus, the take home pension amount for a HAG scale
-     Professor would be ₹ 73,230 + D.A (17% of ₹ 122,050 = ₹
-     20,748.50) = ₹ 93,978.50. Full pension will be restored to you
-     after 15 years of receiving the commutation amount. As you grow
-     older, till the age of 80, the pension amount changes because the
-     D.A. changes. However, when you reach the age of 80, the basic
-     pension increases by 20%, at 85: 30% at 90: 40% and at 95:
-     50%. And if you hit a century in your life, the basic pension
-     doubles!
+    Suppose your basic salary was ₹ 224,100/- per month at the time of
+    retirement. Your basic pension is ₹ 122,050/- per month at the
+    time of superannuation (age 66 on your next birthday). You offer
+    to receive 40% less as monthly pension, that is, receive ₹
+    48,820/- per month less as basic pension. The amount of lump sum
+    payment is given by the following formula.  $$ \mbox{Lump sum
+    amount} = \text{₹} 48,820 \times12 \times 7.591 = \text{₹}
+    44,47,111 $$ The unusual factor 7.591 is a factor representing the
+    number of years the Government has decided that it is willing to
+    pay you as a lump sum if your age next birthday is 66 at the time
+    you opt for commutation[^commutation].  Note that, though your
+    basic pension will be reduced by ₹ 48,820/- in the above example,
+    the Dearness Allowance is payable on the regular pension amount of
+    ₹ 122,050/-. Thus, the take home pension amount for a HAG scale
+    Professor would be ₹ 73,230 + D.A (17% of ₹ 122,050 = ₹ 20,748.50)
+    = ₹ 93,978.50. Full pension will be restored to you after 15 years
+    of receiving the commutation amount. As you grow older, till the
+    age of 80, the pension amount changes because the
+    D.A. changes. However, when you reach the age of 80, the basic
+    pension increases by 20%, at 85: 30% at 90: 40% and at 95:
+    50%. And if you hit a century in your life, the basic pension
+    doubles!
 
  c. _Family Pension:_ After the death of the employee, a reduced pension is payable to dependent family members (not payable to dependent parents if spouse and/or dependent children exist). All such dependents must have been declared before superannuation and must have continued to remain qualified as dependents. The family pension is calculated as 60% of the basic pension defined earlier.
 
