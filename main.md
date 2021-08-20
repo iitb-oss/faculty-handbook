@@ -2592,8 +2592,13 @@ The various designations in the faculty cadres along with their responsibilities
        department committees appointed by the Director (such as DPC,
        DUGC, DPGC, Search committees, etc.).
 
-4. **Emeritus Fellow (on contract but not on scale)**:
-   - *Appointment details*: Appointment of retired faculty for a period of two-three years. Not to be treated as regular faculty. (The terms of appointment will be included in their appointment letter)
+4. **Professor on Contract and Emeritus Fellow**:
+   - *Appointment details*:
+     - **Professors on Contract** are eminent scientists and academics who have retired from Central/State Government entities/Autonomous Bodies/Private Organisations, but are yet to attain the age of retirement of regular faculty members at IIT Bombay (or 70 years), to take up full time faculty positions. They are appointed to take up full time contract positions on scale for a three year term extendable to five years (or till they are 70; whichever is earlier). They are entitled to all the benefits offered to regular faculty members such as CPDA and leave.
+     - **Emeritus Fellow** position is considered a prestigious appointment. The nominees for Emeritus Fellows should have consistently excelled in (a) service (b) research and (c) teaching. Their performance in at least two of the above
+three activities should be better than the department average in the last 10 years. The appointees should have been recognized nationally through awards, Fellowships of national academies etc. Emeritus Fellowship should not be considered for teaching requirements alone.
+
+       Departments may consider additional criteria to recommend/nominate retiring faculty members for Emeritus Fellowship. Departments may also decide not to recommend any faculty member for Emeritus Fellowship.
    - *R&D activities*: Same as #3
    - *Academic activities*: Same as #3. In addition, they will be invited to the senate.
    - *Administration related activities*: Same as #3.
@@ -2627,7 +2632,8 @@ The various designations in the faculty cadres along with their responsibilities
 
 7. **Visiting Faculty**:
    - *Appointment details*: Visit the Institute for a duration ranging from a few weeks to three years on a continued basis: such faculty would have a permanent position elsewhere in academia, industry or other organizations.
-Visit the Institute on a part time basis, generally for teaching (up to three days a week).
+Visit the Institute on a part time basis, generally for teaching (up to three days a week). There are 4 types of short term visiting faculty: Visiting Assistant Professor, Visiting Associate Professor, Visiting Professor and Distinguished
+Visiting Professor.
    - *R&D activities*:
       - Cannot be PIs or Co-PIs.
 	  - No financial/administrative powers in projects.
@@ -2640,7 +2646,7 @@ Visit the Institute on a part time basis, generally for teaching (up to three da
    - *Administration related activities*: No administrative activities allowed.
 
 8. **Adjunct Faculty**:
-   - *Appointment details*: Visit the Institute on a part time basis, generally for teaching (up to four days a week).
+   - *Appointment details*: Generally for retired IITB faculty members or external experts appointed to teach full or half courses. These appointments may be for 1-3 days a week depending on the course load, responsibilities and frequency of visits. Adjunct faculty members do not get Institute accommodation. However, they may stay in theguest house on payment basis at official rates provided rooms are available. Pension, if any, is not deducted from salary for such appointments.
    - *R&D activities*:
       - Can be associated only as an  Investigator and only in Sponsored research projects.
       - May be retained as external consultant in projects, as per norms.
@@ -2652,6 +2658,7 @@ Visit the Institute on a part time basis, generally for teaching (up to three da
    - *Appointment details*:
      - They must be top professionals (CEO/CTO) with significant experience, typically about 20 years.
      - Appointment to be made by Institute based on the recommendation of the Institute Standing Committee.
+     - They should have at least a Bachelor's degree Engineering / Sciences/ Design / Humanities or a related technical field. A Master’s or a Ph. D. degree would be welcome. Advanced degrees may also be in business or related fields.
    - *Academic activities*:
      - Design, development and offering of new practice-oriented courses.
      - Advise students in their projects linking them with appropriate external stakeholders.
@@ -2685,6 +2692,12 @@ Visit the Institute on a part time basis, generally for teaching (up to three da
    - *Academic activities*: All terms and conditions will be as approved by the Director.
    - *Administration related activities*: All terms and conditions will be as approved by the Director.
 
+13. **Foreign Faculty and Guest Faculty**:
+   - *Appointment details*: Appointed as full-time faculty members, and selection procedure is similar to that of regular faculty appointments through a Selection Committee meeting. However, Ministry approval must be sought before the offer is made.
+     It is a contract position for a period of five years that can be extended. They are entitled to all the benefits offered to regular faculty members such as CPDA and leave.
+   - *R&D activities*: All terms and conditions will be as for regular faculty.
+   - *Academic activities*: All terms and conditions will be as for regular faculty.
+   - *Administration related activities*: All terms and conditions will be as for regular faculty.
 
 # Retirement and Post-Retirement Benefits
 
