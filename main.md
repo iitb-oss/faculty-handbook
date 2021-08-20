@@ -1058,7 +1058,7 @@ their research activities at the Institute. Details of this grant are
 as follows:
 
 1. The faculty member should request for a seed grant within 6 months from the date of joining the Institute.
-2. The duration of the seed grant project will not be more than 3 years and will be closed after that.
+2. The duration of the seed grant project will usually not be more than 3 years and will be closed after that.
 3. Seed grant proposals should highlight the objectives, expected outcome, time frame, budget with appropriate justification (especially for equipment) and other relevant details. Specify the equipment proposed to be procured under the seed grant.
 4. Seed grant consists of a base amount up to ₹ 7/- lakhs (₹ seven
 lakhs) that can be apportioned under EQP (equipment), CON
