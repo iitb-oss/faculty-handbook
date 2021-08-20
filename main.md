@@ -2030,12 +2030,12 @@ this amount.
 ### Children's Education Allowance
 Expenses incurred in admitting up to to two children through school (from
 nursery to twelfth class) can be reimbursed subject to an annual
-ceiling of ₹ 15,000. Allowed expenses that can be claimed under this
+ceiling of ₹ 27,000. Allowed expenses that can be claimed under this
 head include tuition fee, admission fee, laboratory fee, special fee
 charged for electronics, agriculture, sports fee, Library fee, cost of
 purchase on set of textbooks and note books, two sets of uniforms
 (including one pair of shoes) etc. Reimbursement can be claimed at the
-rate of ₹ 3,750 per quarter or for the full amount in the last quarter
+rate of ₹ 6,750 per quarter or for the full amount in the last quarter
 of the financial year. The quantum of reimbursement for disabled
 children is twice this amount.
 
