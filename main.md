@@ -3003,6 +3003,42 @@ The amount of contribution, Sum Assured, how the Sum Assured grows
 with time, empanelled hospitals, and so on, are detailed in [this
 webpage](https://www.iitb.ac.in/en/about-iitbombay/new-post-retirement-medical-scheme-2015-onwards).
 
+## Campus amenities for retired faculty
+
+Retired faculty are eligible for some miscelleaneous benefits:
+
+**Identity card for retired faculty and spouse**: Retired faculty
+members and their spouse are eligible to be issued Institute identity
+cards. One may fill the application form for this available with the
+Security section and submit the same to the faculty establishment
+section in the 2nd floor main building for necessary verification and
+further processing.
+
+**Relationship manager**: In order to ensure that progress related to
+requests and pending matters pertaining to retired faculty members are
+monitored properly, and to facilitate a single point of contact in
+case of any query from retired fraternity, a Relationship Manager is
+available in the Faculty Administration section. Currently,
+Ms. Rajshri Gaikwad in Admin looks after this. She may be contacted at
+extension 7943.
+
+**Guest house facility**: Retired institute faculty members are
+eligible to avail the guest house facility of the Institute against
+concessional rates. Current chargers are Rs 1,200 per single occupancy
+and Rs 2,000 per double occupancy per day. Guest rooms can be booked by
+sending an e-mail request to the Registrar or Manager, Guest House, at
+[mangergh@iitb.ac.in](mailto:mangergh@iitb.ac.in).
+
+**Gulmohar Lawn**: Facility to avail Gulmohar lawn for marriage of
+Son/Daughter or for functions like marriage anniversary of self etc. are
+open to retired faculty members. Current applicable charges for this
+facility is Rs 22,000/- along with a refundable deposit of Rs 10,000.
+The facility can be availed by sending a written request in the format
+available in ASC website (downloadable forms) to the Executive Engineer
+(Estate) who will authorise payment after verifying the availability.
+Similarly, the facility to use Gulmohar 3rd floor and terrace is also
+available against nominal payment. 
+
 # Appendices {.unlisted .unnumbered}
 
 ## More on Housing {#sec:morehousing}
