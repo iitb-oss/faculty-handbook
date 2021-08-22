@@ -1074,8 +1074,8 @@ conditions apply on expenditures from the seed grant (base amount):
 6. Faculty members needing additional funding should seek the same from the concerned Academic Unit, which could review the request and provide support from its own funds such as DDF as per its own policies / guidelines.
 7. Equipment grant may be augmented by up to ₹ 1 crore subject to the following:
    a. This augmentation is to be used exclusively to procure major equipment / facility of a specialized nature, if required for the proposed research work. It is NOT meant as a general grant to be used over time for miscellaneous EQP purchases; these should be procured out of the 13 or 20 lakhs (basic equipment + part or whole of base amount).
-   b. Faculty member must have submitted at least one research proposal to an external agency for funding. If need be, Institute will give a letter of ‘additional financial support’ to be used while seeking funding from external agencies.
-   c. Request for additional support will be evaluated by a committee consisting of the Associate Dean (R&D), Head of the Academic Unit and at least one faculty member conversant with the research topic of the faculty member seeking funding.
+   b. Faculty member must have secured at least one research proposal to an external agency for funding. If need be, Institute will give a letter of ‘additional financial support’ to be used while seeking funding from external agencies.
+   c. Request for additional support will be evaluated the Research Infrastructure Fund Committee (RIFC). Based on the review by RIFC, a suitable recommendation is made for possible funding to Deputy Director (Finance and External Affairs) and Director for approval.
    d. Faculty member must give an undertaking that the equipment will be made available to other users in the Institute. Potential users of the equipment and the extent to which the equipment will be made available to other users must be included in the proposal seeking additional funding.
    e. Purchase of equipment with this additional amount must be initiated within 3 months of the date of approval of the grant.
    f. Request for the augmented funds may be made anytime within the first two years of the Seed Grant project, so that the total period of Seed Grant support remains 3 years.
@@ -1456,7 +1456,7 @@ The Institute has rather liberal rules on consultancy, in order to
 facilitate the interaction of its faculty members with industry. All
 your consultancy work must be processed through the Institute (Dean
 R&D). The rules thereof are summarized
-[here](https://drona.ircc.iitb.ac.in/home/projects/consultancy-projects).
+[here](https://rndhelp.ircc.iitb.ac.in/projects/consultancy-projects/revised-consultancy-practice-rules-and-norms-2003).
 
 IIT Bombay offers Consultancy services to industries, the service sector,
 Govt. departments and other National and International agencies in
@@ -1522,10 +1522,10 @@ Consultancy work taken up by Consultants is subject to the following
 limits:
 
    1. The time spent on consultancy and related assignments shall be
-      limited to the equivalent of 52 working days in a year,
-      preferably at the rate of one working day per week. In addition,
-      Consultants may be permitted to utilize, on an average one non
-      working day per week.
+      limited to the equivalent of 52 working days in a year at the
+      rate of one working day per week. In addition, Consultants may
+      be permitted to utilize, on an average one non working day per
+      week.
 
    2. Consultancy assignments may be taken up by all faculty members
       and implemented, within the constraints indicated above,
@@ -2111,7 +2111,7 @@ table above, that is,  $28.75 will be paid.
 <!-- TODO: Link to CPDA form -->
 
 ## IRCC International Travel Patent and Publication (IR-ITPP) grant
-IRCC provides support for international travel, international patenting charges and publication through its ITPP scheme, which is over and above the CPDA. Details may be found [here](https://drona.ircc.iitb.ac.in/home/faculty/iritpp).
+IRCC provides support for international travel, international patenting charges and publication through its IR-ITPP scheme, which is over and above the CPDA. Details may be found [here](https://rndhelp.ircc.iitb.ac.in/faculty/iritpp).
 
 ### Overview
 The salient features of IR-ITPP grants are as follows: A grant of ₹ 3
@@ -2206,16 +2206,16 @@ Guidelines:
 
 ## Research Development Fund (RDF) and Department Development Fund (DDF) rules {#sec:rdfddf}
 
-IRCC, the office of the Dean R&D, incentivizes faculty to pursue
+The Institute incentivizes faculty to pursue
 extramural R&D funding by ploughing a portion (15% at the time of
 writing) of the overheads from sponsored projects back into the
 Principal Investigators’ Research Development Fund (RDF); unspent
-funds in research or consulting projects may also be moved into the
+funds in private industry funded projects or consulting projects may also be moved into the
 RDF account at the time of closing, with the requisite
 approvals. Thus, there is an RDF account for every faculty member in
 the IRCC website (Drona), which practically runs like an open-ended
 project account. Details are available
-[here](https://drona.ircc.iitb.ac.in/home/faculty/rdf).
+[here](https://rndhelp.ircc.iitb.ac.in/faculty/rdf).
 
 IRCC ploughs back another percentage (again, 15% at the time of
 writing) of the overheads from sponsored projects back into a
