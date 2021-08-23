@@ -415,7 +415,7 @@ to arrange for a transportation to bring you to the campus from airport/railway 
 The Institute provides for Relocation Allowance to new faculty ([more
 details](http://www.iitb.ac.in/en/careers/faculty-facilities)). Please
 remember to keep your receipts/air-tickets etc. for claiming this
-reimbursement up to a maximum of Rs. 1 lakh. Remember to claim the reimbursement as soon as you complete the joining formalities and relocate. Settling accounts on time applies to all financial transactions as well! If you accept the relocation
+reimbursement up to a maximum of ₹ 1 lakh. Remember to claim the reimbursement as soon as you complete the joining formalities and relocate. Settling accounts on time applies to all financial transactions as well! If you accept the relocation
 allowance, you have to agree to serve the Institute for a minimum
 period of three years. If you leave the Institute before this period,
 the Institute may ask you to return the relocation amount paid, either
@@ -3024,20 +3024,29 @@ extension 7943.
 
 **Guest house facility**: Retired institute faculty members are
 eligible to avail the guest house facility of the Institute against
-concessional rates. Current chargers are Rs 1,200 per single occupancy
-and Rs 2,000 per double occupancy per day. Guest rooms can be booked by
+concessional rates. Current chargers are ₹ 1,200 per single occupancy
+and ₹ 2,000 per double occupancy per day. Guest rooms can be booked by
 sending an e-mail request to the Registrar or Manager, Guest House, at
 [mangergh@iitb.ac.in](mailto:mangergh@iitb.ac.in).
 
 **Gulmohar Lawn**: Facility to avail Gulmohar lawn for marriage of
 Son/Daughter or for functions like marriage anniversary of self etc. are
 open to retired faculty members. Current applicable charges for this
-facility is Rs 22,000/- along with a refundable deposit of Rs 10,000.
+facility is ₹ 22,000/- along with a refundable deposit of ₹ 10,000.
 The facility can be availed by sending a written request in the format
 available in ASC website (downloadable forms) to the Executive Engineer
 (Estate) who will authorise payment after verifying the availability.
 Similarly, the facility to use Gulmohar 3rd floor and terrace is also
 available against nominal payment. 
+
+
+**Library access**: Faculty and Group A Officers retired from IIT
+Bombay are eligible for Library membership by paying ₹ 200 for annual
+membership, or by paying ₹ 1000 as life membership fee. Two books can
+be borrowed for a period of 30 days, and reference and consultation
+services will be provided to them.  Electronic Resources access
+facility (such as access to e-journals) is not available for retired
+faculty and Group A Officers.
 
 # Appendices {.unlisted .unnumbered}
 
