@@ -88,12 +88,12 @@ paperwork requiring their approval through the Ministry of Education (MOE).
 
 ### The IIT Council
 At the very top of all the IITs' administration is the [IIT
-Council](https://www.iitsystem.ac.in). The Chairman of the Council is
+Council](https://www.iitsystem.ac.in). The Chairperson of the Council is
 the Minister of Education, which is the central
 ministry under which our Institute belongs to. The Council is an
 organization with a large (ex-officio) members, e.g. the
-Chairmen and the Directors of all IITs, Chairman and Director of IISc,
-Bangalore, Director General of CSIR, Chairman UGC and a few nominated
+Chairmen and the Directors of all IITs, Chairperson and Director of IISc,
+Bangalore, Director General of CSIR, Chairperson UGC and a few nominated
 members.
 
 ### The Board of Governors
@@ -103,11 +103,11 @@ body of the institute, which meets, at least four times a year. Almost
 all major policy decisions have to be approved by the Board. For
 instance, all appointments, major purchases, constructions
 etc. require approval and authorization of the Board. The meetings of
-the Board are generally held once in three months. The Chairman of the
+the Board are generally held once in three months. The Chairperson of the
 Board approves urgent items that cannot wait for the next Board
 Meeting; these are approved _post facto_ by the BOG.
 
-The Board has 11 members. In addition to the Chairman (appointed by
+The Board has 11 members. In addition to the Chairperson (appointed by
 MOE) and the Director of the Institute, who are _ex officio_ members
 of the Board, one nominee from each of the governments of the states
 Maharashtra, Goa and the Union Territory of Dadra and Nagar Haveli,
@@ -222,7 +222,7 @@ Deans. They are as follows:
       infrastructure maintenance, while Associate Dean -II (IPS)
       focuses on power supply and electrical maintenance including
       air-conditioners. Associate Dean - II
-      (IPS) also serves as the Chairman, Accommodation Allotment
+      (IPS) also serves as the Chairperson, Accommodation Allotment
       Committee (AAC); that is, (s)he is directly responsible for Housing
       related matters. A [later section of this handbook](#sec:morehousing) will provide
       more detail on this. The post of Associate Dean - III (IPS) has
@@ -1259,10 +1259,10 @@ present a research summary during the personal interview. The
 selection committee recommends whether or not the candidate may be
 promoted to the competent authority.
 
-### Chairman BoG Approval
+### Chairperson BoG Approval
 
 The selection committee recommendations and decisions are placed
-before the Chairman BoG for approval.  The appointment letters are
+before the Chairperson BoG for approval.  The appointment letters are
 then issued by the Director after necessary approval by the Board and
 following other institute norms and procedures regarding salary and
 other terms etc.
@@ -2482,8 +2482,8 @@ As a faculty member of a premier Institute of the country, you are always under 
 1. _Dealing with the Press:_ Much as we like to see our name in print, the only place where your printed name can freely appear without raising eyebrows (or may be raising eyebrows in an agreeable way!) is in a professional journal. You do not need to take any permission to send a technical manuscript for publication. If what you are writing or talking about is of literary, artistic or scientific value only, you may even write to newspapers or periodicals. However, talking to the press (this includes all forms of interaction with print and electronic media) on any other matter  should generally be avoided, and left to functionaries in the main building. If you would like to express your views on an issue, you need to take the Director's permission. If you want to have a press coverage of your published scientific article, you need to contact PRO after taking permission from the Director.
 2. Joining a political party or canvassing in an election is banned. (You can, of course, contest an election in a professional body.)
 3. Criticism of the Institute in any mass media (print or electronic) is not permitted. (To give vent to your frustration if any, the Computer Centre of the institute has provided a discussion group called the 'discuss-faculty' where you can write and engage your colleagues in a debate on matters about which you feel strongly. This newsgroup is not moderated but it is good to use restrained language).
-3. _Redressal of Grievances:_: If you have a grievance, try to sort it out by meeting the concerned Dean, the Deputy Directors or the Director. If you would like to make a written representation, the first course is the Director. If his response leaves you dissatisfied, you may make representation to the Chairman of the Board. Such representation should go through, Head, concerned Dean,
-Director and the Chairman in that order. In extreme cases, you may take your grievance to the Visitor (who is the President of India). However, in all cases, you should go through what is known as proper channel, that is, , route all your representation through HOD, Director and the Chairman, in that order. The forwarding authority does not have the right to stop your representation being forwarded upwards excepting in circumstances such as (i) a similar petition made earlier has been disposed of and no new facts are brought out in the new petition, (ii) your representation is not to the appropriate authority, or (iii) the petition is against a decision which is final by any law or statute. In such cases, the appropriate authority will write you a reply explaining the reasons why your petition may not be forwarded.
+3. _Redressal of Grievances:_: If you have a grievance, try to sort it out by meeting the concerned Dean, the Deputy Directors or the Director. If you would like to make a written representation, the first course is the Director. If his response leaves you dissatisfied, you may make representation to the Chairperson of the Board. Such representation should go through, Head, concerned Dean,
+Director and the Chairperson in that order. In extreme cases, you may take your grievance to the Visitor (who is the President of India). However, in all cases, you should go through what is known as proper channel, that is, , route all your representation through HOD, Director and the Chairperson, in that order. The forwarding authority does not have the right to stop your representation being forwarded upwards excepting in circumstances such as (i) a similar petition made earlier has been disposed of and no new facts are brought out in the new petition, (ii) your representation is not to the appropriate authority, or (iii) the petition is against a decision which is final by any law or statute. In such cases, the appropriate authority will write you a reply explaining the reasons why your petition may not be forwarded.
 4. You may, of course, seek to redress grievances in a court of law without any permission. However, it is in good taste to first exhaust all possibilities of finding a solution to  your problems within the internal framework as stated above.
 5. _Social media usage policy_: Social media posts from IIT Bombay connected official accounts are governed by rules specified in [this document](https://www.iitb.ac.in/sites/www.iitb.ac.in/files/Guidelines%20For%20Use%20Of%20Offical%20IIT%20Bombay%20Accounts%20On%20Social%20Media_2.pdf).
 
@@ -3063,11 +3063,11 @@ The institute has rules and regulations regarding allotment and entitlement of h
 ## Schools in and around campus {#sec:moreschools}
 
 ### Kendriya Vidyalaya (Central School) IIT Powai
-This is part of the Kendriya Vidyalaya Sangathan (KVS) network and is usually ranked among the top government day (that is,  not boarding) schools in India. It has classes I through XII, and is affiliated to the Central Board of Secondary Education (CBSE). Most of the seats here are reserved for the children of IIT Bombay employees; with a small fraction reserved for other Central Government organizations. You might have some anxious moments before your child gets admission, but eventually it works out, in almost all cases. In case of exceptional difficulty in getting admission into the Kendriya Vidyalaya, our Director, who is ex-officio the Chairman of the Vidyalaya Management Committee can help out by exercising their discretionary quota. There is also a Professor-in-Charge who you may contact for helpful advice in case of difficulty. More details about KV IIT Bombay may be found on [its webpage](http://www.kviitmumbai.com/English-Homepage).
+This is part of the Kendriya Vidyalaya Sangathan (KVS) network and is usually ranked among the top government day (that is,  not boarding) schools in India. It has classes I through XII, and is affiliated to the Central Board of Secondary Education (CBSE). Most of the seats here are reserved for the children of IIT Bombay employees; with a small fraction reserved for other Central Government organizations. You might have some anxious moments before your child gets admission, but eventually it works out, in almost all cases. In case of exceptional difficulty in getting admission into the Kendriya Vidyalaya, our Director, who is ex-officio the Chairperson of the Vidyalaya Management Committee can help out by exercising their discretionary quota. There is also a Professor-in-Charge who you may contact for helpful advice in case of difficulty. More details about KV IIT Bombay may be found on [its webpage](http://www.kviitmumbai.com/English-Homepage).
 
 
 ### Campus School and Jr. College
-The IIT Campus School and Jr. College has classes I through XII, and is affiliated to the Maharashtra State Board. It is exclusively for the children of IIT employees. Here, the IIT Bombay Director is the Chairman of the School Council, and IIT faculty serve as Associate Chairman and Conveners of Administrative and Academic policy. More details about the Campus School are available [here](http://www.iitcampusschoolmumbai.in/).
+The IIT Campus School and Jr. College has classes I through XII, and is affiliated to the Maharashtra State Board. It is exclusively for the children of IIT employees. Here, the IIT Bombay Director is the Chairperson of the School Council, and IIT faculty serve as Associate Chairperson and Conveners of Administrative and Academic policy. More details about the Campus School are available [here](http://www.iitcampusschoolmumbai.in/).
 
 ### KG School
 The Kindergarten (KG) School comprising two classes (Lower KG and Upper KG) and two shifts, is for children from three to five years of age. Details of admissions, facilities, etc. that the KG School offers may be found [here](http://home.iitb.ac.in/~kgschool/index.html).
