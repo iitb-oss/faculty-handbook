@@ -408,23 +408,24 @@ an email to your Head of the academic unit with a copy (cc) to the Dean
 where you can check in upon arrival.  You may also request
 to arrange for a transportation to bring you to the campus from airport/railway station.
 
-The Institute provides for Relocation Allowance to new faculty ([more
-details](http://www.iitb.ac.in/en/careers/faculty-facilities)). Please
-remember to keep your receipts/air-tickets etc. for claiming this
-reimbursement up to a maximum of ₹ 1 lakh. Remember to claim the reimbursement as soon as you complete the joining formalities and relocate. Settling accounts on time applies to all financial transactions as well! If you accept the relocation
+The Institute provides for Relocation Allowance to new faculty as
+mentioned in your offer letter. As soon as you complete the joining
+formalities and relocate, you may submit the receipts and air tickets
+to claim this allowance. Settling accounts on time applies to all
+financial transactions! If you accept the relocation
 allowance, you have to agree to serve the Institute for a minimum
-period of three years. If you leave the Institute before this period,
-the Institute may ask you to return the relocation amount paid, either
-fully or partially.
+period of three years. In case you choose to leave the Institute earlier,
+the relocation allowance paid by the Institute may have to be returned
+either partially or fully.
 
-If you are joining as an Assistant Professor, you
-are eligible to receive the [Young Faculty Award (YFA) endowed by our
+If you are joining as an Assistant Professor, you are eligible to
+receive the [Young Faculty Award (YFA) endowed by our
 alumni](http://www.iitb.ac.in/alumni/en/contribution-purpose/young-faculty-awards). Please
 do spend a few minutes to send a letter of appreciation to our Alumni
-Association - through the Office of the Dean (ACR) for their
-gift. The paperwork for the YFA requires a legal process called
-franking - which can be done with the help of the Administration Section in
-the Main Building.
+Association - through the Office of the Dean (ACR). The paperwork for
+the YFA requires a legal process called Franking that can be completed
+with the assistance of the Administration Section in the Main
+Building.
 
 The relocation allowance and YFA are also admissible to Assistant
 Professors (Grade - II), appointed through statutorily constituted
@@ -458,17 +459,15 @@ Immediately on joining:
    Associate Dean-II (IPS) where your options for *ad hoc*
    accommodation will be explained to you. At the time of writing,
    most new faculty members spend the first few years in off-campus
-   accommodation. This could be a flat already leased out to IIT
-   Bombay, or a flat that you find and get IIT Bombay to lease for
-   you. IIT Bombay will take care of the rent up to a limit of about ₹
-   40,000 - which should get you a small 2BHK (2 bedroom, 1 Hall, 1
-   Kitchen) flat in the vicinity of Campus. If you are keen to stay
-   on-campus and rather lucky, you may get a Staff Hostel
-   flat/quarter - 1 BHK (1 Bedroom, 1 Hall, 1 Kitchen) allotted to
-   you. There may be a trade-off here between campus life and the
-   bigger accommodation that you are likely to get outside.
+   accommodation. This could be an accommodation already leased out to
+   IIT Bombay, or one of your choice that you can get IIT Bombay to
+   lease for you. IIT Bombay will take care of the rent up to a limit
+   of about ₹ 40,000/- per month, which should get you a flat in the
+   vicinity of the campus. If you are keen to stay on-campus, you may
+   be allotted a Staff Hostel flat/quarter - 1 BHK (1 Bedroom, 1 Hall, 1
+   Kitchen) allotted to you.
 
-   After two to three years, you may expect to get a better quality flat on
+   After two to three years, you may expect to get a better accommodation on
    campus allotted to you as ‘regular accommodation’. (If you happen
    to have joined the Institute directly as a Professor, you may be
    eligible to get a C-type quarter - 2 or 3 BHK - as your ad-hoc
@@ -478,8 +477,8 @@ Immediately on joining:
 
    The on-campus quarters do not come furnished and you will have to
    furnish it yourself. A home telephone connected to the internal
-   exchange will be provided which does not have outside call
-   facilities. You may decide to get a personal landline or mobile
+   exchange will be provided which does not have external call
+   facility. You may decide to get a personal landline or mobile
    phone connection either from MTNL or from one of the other private
    operators. The Manager Telephones, whose office is in the Telephone
    Exchange (Main Building) generally would be able to share
@@ -523,12 +522,11 @@ Immediately on joining:
 
    Please find a circular in respect of Group Term Insurance Policy implemented from 01-05-2021 [here](http://bighome.iitb.ac.in/index.php/s/6MnXxoXEACxsn5y). You also need the [nomination form](https://bighome.iitb.ac.in/index.php/s/qjR3b5DrekmW8Xw). Finally, this is the [list of staff currently covered GTIP](http://bighome.iitb.ac.in/index.php/s/HLZ3tFongDGiNDG).
 
-   b. Attestation Form is to be filled up so that the Institute can
-   verify that you have not been involved in any criminal activities
-   in the past. You will have to provide all addresses where you have
-   resided during the preceding five years. **A clearance from the
-   police is mandatory before your services are made permanent (a
-   process termed as confirmation).**
+   b. Attestation Form is to be filled up so that the Institute can do
+   a mandatory background check. You will have to provide all
+   addresses where you have resided during the preceding five
+   years. **A clearance from the police is mandatory before your
+   services are made permanent (a process termed as confirmation).**
 
    c. You will have to make a declaration of your dependents who will
    be eligible for various service facilities like Leave Travel
@@ -539,17 +537,16 @@ Immediately on joining:
    considered dependents till they start earning or till they get
    married, whichever is earlier. You can declare your parents as
    dependent provided that they do not have independent income
-   exceeding a certain limit, _viz._ ₹ 9,000 + dearness relief per
-   month at the time of writing.
+   exceeding a certain limit as per prevailing policy (about ₹
+   120,000/- per annum at the time of writing).
 
 7. Now that you have completed the formalities of Administration Section, please
    return to your academic unit and fill up a joining report form which
    will be signed by the Head of the academic unit and sent to the
    Administration. The academic unit will provide you with an office
-   space equipped with a telephone (with limited local andb STD (long
-   distance) facility) and, of course, stationery. A personal desktop
-   computer or laptop with printer and internet connection with internet connection should also be made available within a few
-   days.
+   space equipped with a telephone (with limited local and long
+   distance calling facility), a personal desktop
+   computer or laptop with printer and internet connection.
 
 8. Once the Administration processes your joining report, intimation
    of your having joined is sent to various sections such as the
@@ -561,7 +558,7 @@ Immediately on joining:
    this even though you have your identity card  handy.
 
 9. After joining formalities are completed, you may have to pay attention to
-   other issues, like getting your child/children admitted to a school. The campus
+   other important matters, like getting your child/children admitted to a school. The campus
    has two schools, one Kendriya Vidyalaya (Central School),
    affiliated to the Central Board of Secondary Education (CBSE) and
    the other, the Campus School, affiliated to the Maharashtra State
@@ -574,13 +571,10 @@ Immediately on joining:
    Gate), and run by an NGO. Detailed information on all of the above
    is provided in [the appendix](#sec:moreschools).
 
-10. You will need to apply for a Permanent Account Number (PAN) which
-    is to file income tax returns; it is also needed by
-    the banks for large volume transactions. There are many agents
-    (e.g. UTI at Ghatkopar or in Galleria, Hiranandani Gardens) who
-    can help you with this - the Administration Section should be able to
-    guide you. You need to provide copies of your photograph and
-    address proof for the same. It may also be possible to get it
+10. You will need to apply for a Permanent Account Number (PAN) (if
+    you don't have one already), which is used to file income tax
+    returns. You need to provide copies of your photograph and address
+    proof for the same. It may also be possible to get the PAN card
     online at [this
     website](https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html). While
     you are at it, it is good to get a PAN for your spouse as well.
@@ -625,11 +619,18 @@ appointees are entitled to all facilities that regular faculty members
 may avail. If you are appointed at this level, the administration
 keeps track of when you complete the requirement of 3 years of
 experience (the experience gained after the date of PhD defence is
-counted), and sends a form to you through your academic unit which you should fill as a part of regularization process. In this form you have to fill in details of all you academic accomplishments obtained after your Ph.D. degree and a summary of your academic activities after joining IIT Bombay. This form is forwarded to Dean (FA) by the Head of academic unit after adding appropriate recommendations. The Dean (FA) forwards this to the Director with his/her recommendations. In case you have prior experience that the
-administration is unaware of, that you feel should be counted against
-the 3-year requirement, you may make a representation through your
-Head of academic unit to Dean (FA), along with with documentary evidence
-of the experience you are claiming.
+counted), and sends a form to you through your academic unit which you
+should fill as a part of regularization process. In this form you have
+to fill in details of all you academic accomplishments obtained after
+your Ph.D. degree and a summary of your academic activities after
+joining IIT Bombay. This form is forwarded to Dean (FA) by the Head of
+academic unit after adding appropriate recommendations. The Dean (FA)
+forwards this to the Director with his/her recommendations. In case
+you have prior experience that the administration is unaware of, that
+you feel should be considered against the 3-year requirement, you may make
+a representation through your Head of academic unit to Dean (FA),
+along with with documentary evidence of the experience you are
+claiming.
 
 A faculty member recruited to any cadre is placed on probation for a
 period of 1 year. At the end of this period, administration requires
@@ -715,7 +716,7 @@ As a new faculty (and if you need lab space), you need to contact the
 Head of your academic unit discuss with him / her
 about your requirements in advance.
 
-1. After you have been allocated lab space, it may take time to convert it into a proper, functional lab, and this would need your active involvement. You may also need to talk to the Head of the academic units about the funding required to get the civil, air-conditioning and interior work done through the Estate Office, Electrical Maintenance Division and Design Cell respectively, and so on. Some senior faculty members may also be able to informally mentor you on getting these jobs done efficiently.
+1. After you have been allocated lab space, it may take time to convert it into a proper, functional lab, and this would need your active involvement. You may also need to talk to the Head of the academic units about the funding required to get the civil, air-conditioning and interior work done through the Estate Office, Electrical Maintenance Division and Design Cell, respectively. Some senior faculty members may also be able to informally mentor you on getting these jobs done efficiently.
 
 2. Please talk to the Head of your academic unit, and find out about existing facilities on campus that might help you get started with something quickly.
 
@@ -734,7 +735,7 @@ The Institute has a reasonably well-equipped Hospital with both in-patient and o
 [^cmo]: Currently, Dr. Nisha Shah.
 
 ### Your medical file
-The Hospital maintains a family file for every employee, which is available in the outer office. For an outpatient (OPD) consultation, the file has to be presented at the Hospital reception, who will print out a blank prescription slip. Before your face becomes familiar with the Hospital staff, you may be asked for your identity card, which also spells out your medical entitlement. The slip along with the file is to be taken to the doctor who you wish to consult. Each visit to the doctor costs you _one rupee_ which is directly debited from the salary.
+The Hospital maintains a family file for every employee, which is available in the outer office. For an outpatient (OPD) consultation, the file has to be presented at the Hospital reception, who will print out a blank prescription slip. The slip along with the file is to be taken to the doctor who you wish to consult. Each visit to the doctor costs you _one rupee_ which is directly debited from the salary.
 
 ### Healthcare
 
@@ -752,7 +753,8 @@ While basic pathology is available in the Hospital, the Institute Hospital has a
 
 The Institute recognizes a few radiological centres for investigations with MRI, C.T. Scan, Digital X-rays etc. Hospital Doctor’s recommendation is required for use of this facility.
 
-The Institute Hospital provides all major vaccinations for children. It is a good idea for parents to retain records of such vaccinations, as such data is increasingly being required for various purposes in future. In the current times, IIT Bombay  hospital is also facilitating vaccination against COVID.
+The Institute Hospital provides all major vaccinations for
+children. You are advised to retain records of such vaccinations, as such data is increasingly being required for various purposes in future. In the current times, IIT Bombay  hospital is also facilitating vaccination against COVID.
 
 The hospital has an ambulance which works 24 × 7 for transportation of patients within the campus and for transporting patients to hospitals outside when referred to by the IIT Hospital.
 
@@ -797,14 +799,14 @@ get you to your destination on time with more certainty. A lot of hope
 rests on the upcoming metro network. Its construction, however, has
 added to traffic woes right now, but upon completion, it will benefit
 commuters from IIT Bombay and the nearby areas. [Here is the dream
-anyway](https://en.wikipedia.org/wiki/Mumbai_Metro). TODO Appendix links
+anyway](https://en.wikipedia.org/wiki/Mumbai_Metro).
 
 Powai and neighbouring areas beyond the Campus, particularly
-Hiranandani Gardens, have evolved into a bustling and 'happening' part
-of Mumbai with regard to restaurants, cafes etc. It is also
-generally well-provisioned, in terms of everything from doctors and
-chemists to yoga and arts classes - however, one does not need to
-leave Campus for most of these!
+Hiranandani Gardens, have evolved into a bustling part of Mumbai with
+regard to restaurants, cafes etc. It is also generally
+well-provisioned, in terms of everything from doctors and chemists to
+yoga and arts classes - however, one does not need to leave Campus for
+most of these!
 
 ## Should you choose to leave
 
@@ -1709,14 +1711,14 @@ The salary that you get has several components.
    scales with reference to the 7$^{\text{th}}$ Pay Commission.
 
    What used to be the _Pay Band and Academic Grade Pay (AGP)_ in the
-   6$^{\text{th}}$ Pay Commission has been replaced, after implementation of the
-   7$^{\text{th}}$ pay Commission, by an amount defined by a salary at a _Pay
-   Level_. The position to which you are appointed (or move to after
-   selection to a higher post) defines the salary. All Government
-   servants in India are placed in one of these _pay levels_. Faculty
-   members in Institutes such as IITs are placed in one of the
-   following pay levels. D.A. stands for "Dearness Allowance",
-   described subsequently.
+   6$^{\text{th}}$ Pay Commission has been replaced, after
+   implementation of the 7$^{\text{th}}$ pay Commission, by an amount
+   defined by a salary at a _Pay Level_. The position to which you are
+   appointed (or move to after selection to a higher post) defines the
+   salary. All Government servants in India are placed in one of these
+   _pay levels_. Faculty members in Institutes such as IITs are placed
+   in one of the following pay levels. D.A. stands for "Dearness
+   Allowance", described subsequently.
 
    - *Pay Level 10*: Salary range ₹ 57,000 to ₹ 98,200 (plus D.A.)
    - *Pay Level 11*: Salary range ₹ 68,900 to ₹ 117,200 (plus D.A.)
