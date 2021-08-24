@@ -188,7 +188,7 @@ Deans. They are as follows:
       called the [Industrial Research and Consultancy
       Center](https://www.ircc.iitb.ac.in/) (IRCC) to take care of
       sponsored projects and consultancy matters as well as filing patents. There is an
-      Associate Dean (R&D) assists the Dean (R&D) to discharge his/her
+      Associate Dean (R&D) who assists the Dean (R&D) to discharge his/her
       responsibilities. [Later sections](#sec:researchfunding) of this handbook
       will provide more detail on a few R&D related topics.
 
@@ -832,7 +832,11 @@ When you join as an Assistant Professor, in order to assist you to settle in and
 
 1. A seed grant of ₹ 20 lakh plus support for one PhD student in the project mode. Higher seed grant amounts may be considered for equipment intensive research (you need to consult Dean (R&D) office for information regarding this, soon after you join).
 
-2. Space: A minimum of a faculty cabin (10 × 15’) and a working space of 300 sq. ft. to be identified by the academic unit before he/she joins, and made available on joining.
+2. Space: A minimum of a faculty cabin (10' × 15’) and a working space
+   of 300 sq. ft. to be identified by the academic unit before he/she
+   joins, and made available on joining. 10 feet $\times$ 30 feet
+   space is called a "bay" in IIT Boombay parlance, so a faculty cabin
+   is typically half a bay.
 
 3. Reduced teaching load (say a course associateship) in the first semester (unless the faculty member wants to be involved in intensive teaching right from the start). Similarly, administrative load to be kept to a minimum in the initial semester.
 
@@ -929,7 +933,7 @@ gets a feedback on the effectiveness of her teaching through a system
 of on-line course evaluation by students, which happens at the end of
 the teaching semester.
 
-Students should be encouraged to participate in the mid-term and end-term course evaluation processes. The feedback from midterm evaluation process may be used constructively for improvement in the course delivery. Teaching evaluations should be taken seriously and a self-introspection helps one become a better teacher.
+Students should be encouraged to participate in the mid-term and end-term course feedback processes. The feedback from midterm evaluation process may be used constructively for improvement in the course delivery. Teaching evaluations should be taken seriously, and introspection helps one become a better teacher.
 
 
 ### PhD supervision
@@ -942,11 +946,15 @@ supervision entails certain basic criteria.
 2. At any given time, the number of Institute research scholars (TAs and/or RAs) working with under your supervision shall not exceed five. The DPGC/PGC of the academic unit can decide on the total number of research students of all categories working with him/her.
 3. As a supervisor, you are expected to supervise the student till satisfactory results are achieved.
 4. A supervisor must keep a check that the students being supervised deliver the Annual Progress Seminar (APS) every twelve months after joining the program. The APS report must contain information describing the research that has been performed in the completed year and submit it to the Research Progress Committee. The student must then deliver an open seminar, which all interested members of the academic unit are free to attend, where he/she will be examined by the RPC. The objective of the seminar is to provide feedback about the research completed by the student in the past year, and provide suggestions for continuing and refining his/her research. With the progress of a student’s PhD, the work presented is expected to evolve from a thorough understanding of fundamental concepts and reported literature to an in-depth solution to a novel research problem. The RPC lays emphasis on publications in reputed international journals, filing invention disclosures and patents based on nature of the research output, and also encourages the student to present his/her work in international conferences and workshops.
-5. You can also serve as a co-supervisor if any student chooses to do so, and it is approved by the DPGC.
+5. You can also serve as a co-supervisor if any student chooses to
+   have more than one supervisor, and if this is approved by the DPGC.
 6. If you are going on long leave, such as lien/sabbatical leave/special leave/deputation etc., you must propose an alternate arrangement to continue the academic activities of your students.
  a. Whenever a Supervisor leaves the Institute permanently or temporarily for a period greater than or equal to one year, the DPGCs/IDPCs/PGCs shall provide new supervisor(s) for the students being supervised by him/her before his/her departure.
  b. Whenever a Supervisor leaves the Institute temporarily for a period less than one year, the DPGCs/IDPCs/PGC shall make an alternate arrangement for the guidance of his/her students.
- c. The DPGC/ IDPC/ PGC may consider continuation of the original Supervisor on his/her return to the Institute, as Co-­Supervisor of his/her students depending on the period for which he/she has supervised the Ph.D. Programmes of the students concerned.
+ c. The DPGC/ IDPC/ PGC may consider continuation of the original
+ Supervisor upon his/her return to the Institute, as Co-Supervisor of
+ his/her students depending on the period for which he/she has
+ supervised the Ph.D. programmes of the students concerned.
  d. Any such arrangements made shall be forwarded to PGAPEC for prior approval.
 7. Change of supervisor is generally not advised and should be sought as a last resort. Under exceptional circumstances, if a student chooses to terminate the relationship, then it will only be permitted on recommendation of the DPGC/IDPC/PGCA. Every effort should be made to allow a fair transition for both the faculty and the concerned student.
 8. Student supervision can also be done jointly with faculty or staff of other universities or educational institutes. In some cases, such as the IITB-Monash Research Academy, the Institute facilitates joint advising of students across Institutes. In other cases, permission may be sought from the Dean (AP) having co-guides from outside IIT Bombay.
@@ -1147,7 +1155,7 @@ the Director.
 Applications are invited from faculty members who satisfy the minimum
 qualifications and experience criteria as per MOE norms for the
 respective position. The application form requires each candidate to furnish
-information about their work during the assessment period (that is,  period
+information about their work during the assessment period (that is, period
 being held in the current position).
 
 ### Experience (Required on the date of application):
@@ -1198,7 +1206,7 @@ shortlisting criteria as approved by Institute Faculty Advisory
 Committee (IFAC). The shortlisting criteria framed by each academic unit
 ensures that (i) the effort put in by the candidate in the current
 position is adequately recognized and (ii) promotion to the next
-higher position in the minimum period (that is, , just after the minimum
+higher position in the minimum period (that is, just after the minimum
 mandated number of years of experience have been completed) requires
 performance at a high level as judged by the standards of the average
 performance of the academic unit or subgroup within the academic unit to
@@ -1222,13 +1230,13 @@ research.
 ### IFAC Review
 
 Each application is required to have eight (8) peer reviews. Out of
-these 8, at-most 4 reviewers can be suggested by the candidate while 4
-reviewers would be identified by the academic unit. All applications
-considered by the academic units with their recommendations are presented
-to the IFAC by the Heads of the respective academic units for
-consideration. IFAC takes into account the shortlisting done by the
-academic unit and verifies that the criteria approved by the IFAC have
-been satisfied.
+these 8, at most 4 reviewers can be suggested by the candidate while
+the remaining reviewers would be identified by the academic unit. All
+applications considered by the academic units with their
+recommendations are presented to the IFAC by the Heads of the
+respective academic units for consideration. IFAC takes into account
+the shortlisting done by the academic unit and verifies that the
+criteria approved by the IFAC have been satisfied.
 
 ### Peer Review
 
@@ -1246,20 +1254,20 @@ necessary before a selection committee can be constituted.
 ### Selection Committee and Interview
 
 The Dean (FA) recommends to the Director the setting up of a selection
-committee for the candidates of an academic unit with composition as per
-IIT Bombay statute. All the applications received by the academic unit,
-the shortlisting criteria of the academic unit and all candidates
-considered by the academic unit are placed before the selection committee
-for its consideration and approval. After the due constitution of the
-statutory selection committees, interview schedules are published by
-the administration, and the candidates are invited for personal
-interview. All the internal candidates must present a seminar based on
-the research performed during the assessment period in the
-academic unit. External expert members of the selection committee may be
-invited for the seminar. In addition, candidates are also asked to
-present a research summary during the personal interview. The
-selection committee recommends whether or not the candidate may be
-promoted to the competent authority.
+committee for the candidates of an academic unit with composition as
+per IIT Bombay statutes. All the applications received by the academic
+unit, the shortlisting criteria of the academic unit and all
+candidates considered by the academic unit are placed before the
+selection committee for its consideration and approval. After the due
+constitution of the statutory selection committees, interview
+schedules are published by the administration, and the candidates are
+invited for personal interview. All the internal candidates must
+present a seminar based on the research performed during the
+assessment period in the academic unit. External expert members of the
+selection committee may be invited for the seminar. In addition,
+candidates are also asked to present a research summary during the
+personal interview. The selection committee recommends to the
+competent authority whether or not a candidate may be promoted.
 
 ### Chairperson BoG Approval
 
@@ -1283,8 +1291,8 @@ other terms etc.
    earlier years and another list B of professors who have at least
    six years of experience from the date of joining as professor and
    thus deemed eligible. Eligible professors in list B will fill up
-   the data in the new HAG form appended below and submit it with
-   their CV to the Convener of the D-HAG.
+   the data in the HAG form and submit it with their CV to the
+   Convener of the D-HAG.
 
 3. Computation and scrutiny of scores as per the new guidelines: D-HAG
    is responsible for computing scores for each faculty member who has
@@ -1310,16 +1318,22 @@ yet in HAG scale. In case there are more recommended faculty than
 vacancies, the list is to be sorted by seniority based on date of
 promotion as professor (joining date for those who join directly as
 professor); ties are to be broken by date of birth as per existing
-practise. Vacancies in HAG scale are to be filled as per this
+practice. Vacancies in HAG scale are to be filled as per this
 seniority list.
 
 #### Score calculation method
 
 Points are computed for the applicant based on the following criteria.
 
-- **Teaching (A1)**: A teaching score that is at least 0.5 times less 1 time the six year annual academic unit average teaching score counts for of 1 point. A teaching score that is more than the six year annual academic unit and less than twice the academic unit average counts for 3 points. Finally, a teaching evaluation score in excess of twice the academic unit average counts for 5 points. In addition, the following recommendations are considered:
+- **Teaching (A1)**: A teaching score that is not less than half of
+  the six year annual academic unit average teaching score counts for
+  1 point. A teaching score that is more than the six year annual
+  academic unit and less than twice the academic unit average counts
+  for 3 points. Finally, a teaching evaluation score in excess of
+  twice the academic unit average counts for 5 points. In addition,
+  the following recommendations are considered:
   1. Courses taught by the faculty member in the evaluation period (that is,  after promotion to professor) are to be counted.
-  2. “1” course is defined as a full semester lecture course. Include summer courses delivered in full lecture/lab.
+  2. “1” course is defined as a full semester lecture course. This includes summer courses delivered in full lecture/lab.
   3. For a course with sections, each section of a course can be considered as a separate course.
   4. Lab course = 0.3, 0.5 or 1.0 of a regular lecture course, based on credits, academic unit norms and actual effort per faculty.
   5. Academic unit's average is to be computed based on course load in the previous 6 years.
@@ -1338,7 +1352,7 @@ Points are computed for the applicant based on the following criteria.
 conferment of recognition need not be in assessment period.
   4. 2 extra points (subject to maximum total of 5) may be awarded for any other exceptional achievements, subject to approval of IFAC.
 - **Sponsored Research (B1)**: Applicants with no projects get a score of 0. The total count of projects of candidate initiated during the assessment period (see notes below for fractional counts) are to
-be compared with 6 $\times$ the academic unit average of projects initiated over last 6 years is first computed. Candidates with count < 6 $\times$ the academic unit average will receive 1 point. Those with
+be compared with 6 $\times$ the academic unit average of projects initiated over last 6 years. Candidates with count < 6 $\times$ the academic unit average will receive 1 point. Those with
 scores in (1 to 2) times (6 $\times$ academic unit average) will get 3
 points. Those with score > 2 times (6 $\times$ academic unit average) will receive 5 points. The additional recommendations are:
   1. Information about projects and funding are to be taken from IRCC online records
@@ -1360,7 +1374,7 @@ points. Those with score > 2 times (6 $\times$ academic unit average) will recei
   8. Committee to consider deciding “significant/ Extensive” based on academic unit average over last 6 years).
 - **Administration (B3)**: Points are to be awarded for each year of administrative service on Senate approved positions, as per list below. Maximum score is 5, and fractional parts of total score are to be discarded after addition.
   1. Warden, Associate Warden, Associate Dean, Heads of Centres, Professor in Charge, Convenor of IDPs, UGAPEC, PGAPEC: 0.5 point per year
-  2. Dean, Head of academic units: 1 point per year 3.
+  2. Dean, Head of academic units: 1 point per year.
   3. Director, Deputy Director: 1.5 points for each year.
   4. GATE/JEE Chair: 1.5 points per term
   5. GATE/JEE Vice Chair: 1 point per term
@@ -1729,7 +1743,7 @@ The salary that you get has several components.
    Your salary within the pay band is fixed at the time of your
    appointment and increases every year by an _increment_, as defined
    in the 7$^{\text{th}}$ Pay Commission Pay Matrix. The various cadres, processes
-   for selections, and salary scales (that is, , Pay Levels as listed
+   for selections, and salary scales (that is, Pay Levels as listed
    above) for the faculty are as follows. Note that they are
    automatically moved to the higher levels as they gain experience
    through their career.
@@ -1956,7 +1970,7 @@ regular LTC rules described earlier apply.
 Normally, Government employees cannot encash their accumulated earned
 leave excepting at the time of retirement. However, at the time of
 taking LTC an employee is permitted to encash up to 10 days of
-accumulated earned leave subject to the condition that such encashment
+accumulated earned leave with prior approval, subject to the condition that such encashment
 will not exceed 60 days during the entire career of an employee. If
 both husband and wife are employees, each can encash such earned leave
 even when they are traveling together.  The encashment of earned leave
@@ -2065,7 +2079,8 @@ US $ 250 per day for the period of conference and two additional days
 (for travel) preceding/succeeding the conference, subject to a maximum
 of (5+2) days. In case of shortage of funds, the excess expenditure
 can be met from projects and travel grants from other funding
-agencies.
+agencies. Mobiles and personal computers / laptops etc. are not
+permitted to be purchased using contingency grant.
 
 Out of the maximum allocation of contingency fund of ₹ 1 lakh in the
 block of three years, an amount up to ₹ 33,000 can be spent in the
@@ -2327,12 +2342,12 @@ An employee is entitled to 20 days of half-pay leave for every completed year of
 2. Paternity leave of 15 days can be granted to a male employee with less than two surviving children. Such leave can be taken in the period up to 15 days before delivery and 6 months after the delivery.
 
 ### Child Care Leave
-Women employees may be granted a child care leave to take care of their two eldest surviving children below the age of 18 years at the time of need (such as sickness, examination etc.)  for a period not exceeding two years (730 days)  during the entire period of service may be granted. Such leave must be pre-approved by the authorities.  It can be availed for not less than 15 days at a time, and on not more than three occasions in a year. During the period of such leave, the employee is eligible to draw salary received by her immediately before proceeding on such leave. (TODO: Does this have implications in service?)
+Women employees may be granted child care leave to take care of their two eldest surviving children below the age of 18 years at the time of need (such as sickness, examination etc.) for a period not exceeding two years (730 days)  during the entire period of service. Such leave must be pre-approved by the authorities.  It can be availed for not less than 15 days at a time, and on not more than three occasions in a year. During the period of such leave, the employee is eligible to draw salary received by her immediately before proceeding on such leave. (TODO: Does this have implications in service?)
 
 ### Special Leave & Sabbatical Leave
 During the entire period of service, a faculty member is permitted to avail long leaves for a total duration not exceeding three years for academic purposes. The two primary categories of such leave with full pay are Special Leave and Sabbatical Leave. Applications should be forwarded through the Head of the academic unit to the Dean (FA) who makes suitable recommendation to the Director (the approving authority). All such applications must be forwarded with recommendation from the Head of the academic unit. The academic unit must be satisfied that the academic programmes of the academic unit will not be adversely affected by granting of such leave and also make alternative arrangements for taking care of students who may be working under the concerned faculty member. Further, the faculty member is also required to make arrangements for ongoing projects, and such arrangement must be intimated to the Dean (R&D) in a form available with the IRCC.
 
-1. Special leave is generally granted to faculty members to accept academic assignments abroad for availing scholarships and fellowships such as Humboldt Foundation fellowship, Boyscast fellowship, Commonwealth fellowship etc. The faculty member must have put in at least 3 years of service and should have applied for such fellowships through proper channel (that is, , the applications should have been forwarded by the Institute). During the special leave, the faculty draws full salary in the Institute in addition to the fellowship amounts.
+1. Special leave is generally granted to faculty members to accept academic assignments abroad for availing scholarships and fellowships such as Humboldt Foundation fellowship, Boyscast fellowship, Commonwealth fellowship etc. The faculty member must have put in at least 3 years of service and should have applied for such fellowships through proper channel (that is, the applications should have been forwarded by the Institute). During the special leave, the faculty draws full salary in the Institute in addition to the fellowship amounts.
 2. Sabbatical leave is granted for accepting temporary academic assignments in Indian or foreign universities or research institutions, availing fellowships, writing a book etc. The faculty member should have put in a minimum of six years of service in the Institute for availing a one year sabbatical. The Dean (FA) may recommend a shorter and proportionate amount of sabbatical for a faculty who falls short of the minimum requirement. For a subsequent sabbatical, there must be a gap of at least 3 years for a one semester sabbatical and six years for a two semesters sabbatical.
 3. The Institute requires a bond to be executed by the faculty members proceeding on a sabbatical, undertaking to serve the Institute for a minimum period of three years on return from sabbatical (the period of bond is two years for a one semester sabbatical). If the faculty member resigns before completion of the bond period, he/she will be required to refund the salary paid by the Institute during the sabbatical period.
 3. As a policy, the Institute does not extend a sabbatical. However, a faculty member may request for appending a maximum of 4 months of earned leave to the sabbatical. In case the faculty does not join back the duty after this period, the entire period of sabbatical will be considered as leave without pay or adjusted fully or partially against leave due to the faculty.
@@ -2487,7 +2502,7 @@ As a faculty member of a premier Institute of the country, you are always under 
 2. Joining a political party or canvassing in an election is banned. (You can, of course, contest an election in a professional body.)
 3. Criticism of the Institute in any mass media (print or electronic) is not permitted. (To give vent to your frustration if any, the Computer Centre of the institute has provided a discussion group called the 'discuss-faculty' where you can write and engage your colleagues in a debate on matters about which you feel strongly. This newsgroup is not moderated but it is good to use restrained language).
 3. _Redressal of Grievances:_: If you have a grievance, try to sort it out by meeting the concerned Dean, the Deputy Directors or the Director. If you would like to make a written representation, the first course is the Director. If his response leaves you dissatisfied, you may make representation to the Chairperson of the Board. Such representation should go through, Head, concerned Dean,
-Director and the Chairperson in that order. In extreme cases, you may take your grievance to the Visitor (who is the President of India). However, in all cases, you should go through what is known as proper channel, that is, , route all your representation through HOD, Director and the Chairperson, in that order. The forwarding authority does not have the right to stop your representation being forwarded upwards excepting in circumstances such as (i) a similar petition made earlier has been disposed of and no new facts are brought out in the new petition, (ii) your representation is not to the appropriate authority, or (iii) the petition is against a decision which is final by any law or statute. In such cases, the appropriate authority will write you a reply explaining the reasons why your petition may not be forwarded.
+Director and the Chairperson in that order. In extreme cases, you may take your grievance to the Visitor (who is the President of India). However, in all cases, you should go through what is known as proper channel, that is, route all your representation through HOD, Director and the Chairperson, in that order. The forwarding authority does not have the right to stop your representation being forwarded upwards excepting in circumstances such as (i) a similar petition made earlier has been disposed of and no new facts are brought out in the new petition, (ii) your representation is not to the appropriate authority, or (iii) the petition is against a decision which is final by any law or statute. In such cases, the appropriate authority will write you a reply explaining the reasons why your petition may not be forwarded.
 4. You may, of course, seek to redress grievances in a court of law without any permission. However, it is in good taste to first exhaust all possibilities of finding a solution to  your problems within the internal framework as stated above.
 5. _Social media usage policy_: Social media posts from IIT Bombay connected official accounts are governed by rules specified in [this document](https://www.iitb.ac.in/sites/www.iitb.ac.in/files/Guidelines%20For%20Use%20Of%20Offical%20IIT%20Bombay%20Accounts%20On%20Social%20Media_2.pdf).
 
@@ -2749,7 +2764,15 @@ While this chapter was originally written primarily for faculty who joined the I
 What happens after you have served out your active life with the Institute? Most look at the period of retirement with a certain amount of anxiety because they anticipate a sharp drop in income. It is, therefore, prudent to do some planning reasonably early in life, certainly by the time you are approaching 50.
 
 ### Superannuation
-This is the term used for official completion of your regular appointment. It happens on the last day of the month in which you complete 65 years of age. For example, If your birthday falls on the 1$^{\text{st}}$ of the June, you will superannuate on the last day of the previous month (that is,  May 31$^{\text{st}}$). However, if your birthday is between 2nd and 30$^{\text{th}}$ of June, then you will superannuate on 30$^{\text{th}}$ June. Usually, the Director offers you a cup of tea and hands over a few retirement cheques on this day.
+This is the term used for official completion of your regular
+appointment. It happens on the last day of the month in which you
+complete 65 years of age. For example, If your birthday falls on the
+1$^{\text{st}}$ of the June, you will superannuate on the last day of
+the previous month (that is, May 31$^{\text{st}}$). However, if your
+birthday is between 2nd and 30$^{\text{th}}$ of June, then you will
+superannuate on 30$^{\text{th}}$ June. Usually, the Director will meet
+the faculty over a cup of tea and will hand over a few retirement
+cheques on this day.
 
 ### Re-employment
 Faculty members are usually reappointed till the last day of the
@@ -2834,7 +2857,7 @@ For those who joined the Institute before 2004, there were two retirement scheme
 
 [^retireavg]: 50% of retiring salary will always be equal to or more than the 10 month average except in rare cases of a demotion or punishment during the last phase of service.
 
-[^commutation]: The factor reduces if you make the offer later, becoming 7.431,7.262, 7.083 and 6.897 if the age on your next birthday at the time of making the offer is respectively 67,68, 69 and 70. The factor for a person whose age next birthday is 65 is 7.731.
+[^commutation]: The factor reduces if you make the offer later, becoming 7.431,7.262, 7.083 and 6.897 if the age on your next birthday at the time of making the offer is respectively 67,68, 69 and 70. The factor for a person whose age next birthday is 65 is
 
 ### Encashment of Leave at the time of Superannuation
 A maximum 300 days of earned leave may be accumulated by an
