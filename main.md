@@ -188,7 +188,7 @@ Deans. They are as follows:
       called the [Industrial Research and Consultancy
       Center](https://www.ircc.iitb.ac.in/) (IRCC) to take care of
       sponsored projects and consultancy matters as well as filing patents. There is an
-      Associate Dean (R&D) assists the Dean (R&D) to discharge his/her
+      Associate Dean (R&D) who assists the Dean (R&D) to discharge his/her
       responsibilities. [Later sections](#sec:researchfunding) of this handbook
       will provide more detail on a few R&D related topics.
 
@@ -834,7 +834,11 @@ When you join as an Assistant Professor, in order to assist you to settle in and
 
 1. A seed grant of ₹ 20 lakh plus support for one PhD student in the project mode. Higher seed grant amounts may be considered for equipment intensive research (you need to consult Dean (R&D) office for information regarding this, soon after you join).
 
-2. Space: A minimum of a faculty cabin (10 × 15’) and a working space of 300 sq. ft. to be identified by the academic unit before he/she joins, and made available on joining.
+2. Space: A minimum of a faculty cabin (10' × 15’) and a working space
+   of 300 sq. ft. to be identified by the academic unit before he/she
+   joins, and made available on joining. 10 feet $\times$ 30 feet
+   space is called a "bay" in IIT Boombay parlance, so a faculty cabin
+   is typically half a bay.
 
 3. Reduced teaching load (say a course associateship) in the first semester (unless the faculty member wants to be involved in intensive teaching right from the start). Similarly, administrative load to be kept to a minimum in the initial semester.
 
@@ -931,7 +935,7 @@ gets a feedback on the effectiveness of her teaching through a system
 of on-line course evaluation by students, which happens at the end of
 the teaching semester.
 
-Students should be encouraged to participate in the mid-term and end-term course evaluation processes. The feedback from midterm evaluation process may be used constructively for improvement in the course delivery. Teaching evaluations should be taken seriously and a self-introspection helps one become a better teacher.
+Students should be encouraged to participate in the mid-term and end-term course feedback processes. The feedback from midterm evaluation process may be used constructively for improvement in the course delivery. Teaching evaluations should be taken seriously, and introspection helps one become a better teacher.
 
 
 ### PhD supervision
@@ -944,11 +948,15 @@ supervision entails certain basic criteria.
 2. At any given time, the number of Institute research scholars (TAs and/or RAs) working with under your supervision shall not exceed five. The DPGC/PGC of the academic unit can decide on the total number of research students of all categories working with him/her.
 3. As a supervisor, you are expected to supervise the student till satisfactory results are achieved.
 4. A supervisor must keep a check that the students being supervised deliver the Annual Progress Seminar (APS) every twelve months after joining the program. The APS report must contain information describing the research that has been performed in the completed year and submit it to the Research Progress Committee. The student must then deliver an open seminar, which all interested members of the academic unit are free to attend, where he/she will be examined by the RPC. The objective of the seminar is to provide feedback about the research completed by the student in the past year, and provide suggestions for continuing and refining his/her research. With the progress of a student’s PhD, the work presented is expected to evolve from a thorough understanding of fundamental concepts and reported literature to an in-depth solution to a novel research problem. The RPC lays emphasis on publications in reputed international journals, filing invention disclosures and patents based on nature of the research output, and also encourages the student to present his/her work in international conferences and workshops.
-5. You can also serve as a co-supervisor if any student chooses to do so, and it is approved by the DPGC.
+5. You can also serve as a co-supervisor if any student chooses to
+   have more than one supervisor, and if this is approved by the DPGC.
 6. If you are going on long leave, such as lien/sabbatical leave/special leave/deputation etc., you must propose an alternate arrangement to continue the academic activities of your students.
  a. Whenever a Supervisor leaves the Institute permanently or temporarily for a period greater than or equal to one year, the DPGCs/IDPCs/PGCs shall provide new supervisor(s) for the students being supervised by him/her before his/her departure.
  b. Whenever a Supervisor leaves the Institute temporarily for a period less than one year, the DPGCs/IDPCs/PGC shall make an alternate arrangement for the guidance of his/her students.
- c. The DPGC/ IDPC/ PGC may consider continuation of the original Supervisor on his/her return to the Institute, as Co-­Supervisor of his/her students depending on the period for which he/she has supervised the Ph.D. Programmes of the students concerned.
+ c. The DPGC/ IDPC/ PGC may consider continuation of the original
+ Supervisor upon his/her return to the Institute, as Co-Supervisor of
+ his/her students depending on the period for which he/she has
+ supervised the Ph.D. programmes of the students concerned.
  d. Any such arrangements made shall be forwarded to PGAPEC for prior approval.
 7. Change of supervisor is generally not advised and should be sought as a last resort. Under exceptional circumstances, if a student chooses to terminate the relationship, then it will only be permitted on recommendation of the DPGC/IDPC/PGCA. Every effort should be made to allow a fair transition for both the faculty and the concerned student.
 8. Student supervision can also be done jointly with faculty or staff of other universities or educational institutes. In some cases, such as the IITB-Monash Research Academy, the Institute facilitates joint advising of students across Institutes. In other cases, permission may be sought from the Dean (AP) having co-guides from outside IIT Bombay.
@@ -1149,7 +1157,7 @@ the Director.
 Applications are invited from faculty members who satisfy the minimum
 qualifications and experience criteria as per MOE norms for the
 respective position. The application form requires each candidate to furnish
-information about their work during the assessment period (that is,  period
+information about their work during the assessment period (that is, period
 being held in the current position).
 
 ### Experience (Required on the date of application):
@@ -1200,7 +1208,7 @@ shortlisting criteria as approved by Institute Faculty Advisory
 Committee (IFAC). The shortlisting criteria framed by each academic unit
 ensures that (i) the effort put in by the candidate in the current
 position is adequately recognized and (ii) promotion to the next
-higher position in the minimum period (that is, , just after the minimum
+higher position in the minimum period (that is, just after the minimum
 mandated number of years of experience have been completed) requires
 performance at a high level as judged by the standards of the average
 performance of the academic unit or subgroup within the academic unit to
@@ -1224,13 +1232,13 @@ research.
 ### IFAC Review
 
 Each application is required to have eight (8) peer reviews. Out of
-these 8, at-most 4 reviewers can be suggested by the candidate while 4
-reviewers would be identified by the academic unit. All applications
-considered by the academic units with their recommendations are presented
-to the IFAC by the Heads of the respective academic units for
-consideration. IFAC takes into account the shortlisting done by the
-academic unit and verifies that the criteria approved by the IFAC have
-been satisfied.
+these 8, at most 4 reviewers can be suggested by the candidate while
+the remaining reviewers would be identified by the academic unit. All
+applications considered by the academic units with their
+recommendations are presented to the IFAC by the Heads of the
+respective academic units for consideration. IFAC takes into account
+the shortlisting done by the academic unit and verifies that the
+criteria approved by the IFAC have been satisfied.
 
 ### Peer Review
 
@@ -1248,20 +1256,20 @@ necessary before a selection committee can be constituted.
 ### Selection Committee and Interview
 
 The Dean (FA) recommends to the Director the setting up of a selection
-committee for the candidates of an academic unit with composition as per
-IIT Bombay statute. All the applications received by the academic unit,
-the shortlisting criteria of the academic unit and all candidates
-considered by the academic unit are placed before the selection committee
-for its consideration and approval. After the due constitution of the
-statutory selection committees, interview schedules are published by
-the administration, and the candidates are invited for personal
-interview. All the internal candidates must present a seminar based on
-the research performed during the assessment period in the
-academic unit. External expert members of the selection committee may be
-invited for the seminar. In addition, candidates are also asked to
-present a research summary during the personal interview. The
-selection committee recommends whether or not the candidate may be
-promoted to the competent authority.
+committee for the candidates of an academic unit with composition as
+per IIT Bombay statutes. All the applications received by the academic
+unit, the shortlisting criteria of the academic unit and all
+candidates considered by the academic unit are placed before the
+selection committee for its consideration and approval. After the due
+constitution of the statutory selection committees, interview
+schedules are published by the administration, and the candidates are
+invited for personal interview. All the internal candidates must
+present a seminar based on the research performed during the
+assessment period in the academic unit. External expert members of the
+selection committee may be invited for the seminar. In addition,
+candidates are also asked to present a research summary during the
+personal interview. The selection committee recommends to the
+competent authority whether or not a candidate may be promoted.
 
 ### Chairperson BoG Approval
 
@@ -1285,8 +1293,8 @@ other terms etc.
    earlier years and another list B of professors who have at least
    six years of experience from the date of joining as professor and
    thus deemed eligible. Eligible professors in list B will fill up
-   the data in the new HAG form appended below and submit it with
-   their CV to the Convener of the D-HAG.
+   the data in the HAG form and submit it with their CV to the
+   Convener of the D-HAG.
 
 3. Computation and scrutiny of scores as per the new guidelines: D-HAG
    is responsible for computing scores for each faculty member who has
@@ -1312,16 +1320,22 @@ yet in HAG scale. In case there are more recommended faculty than
 vacancies, the list is to be sorted by seniority based on date of
 promotion as professor (joining date for those who join directly as
 professor); ties are to be broken by date of birth as per existing
-practise. Vacancies in HAG scale are to be filled as per this
+practice. Vacancies in HAG scale are to be filled as per this
 seniority list.
 
 #### Score calculation method
 
 Points are computed for the applicant based on the following criteria.
 
-- **Teaching (A1)**: A teaching score that is at least 0.5 times less 1 time the six year annual academic unit average teaching score counts for of 1 point. A teaching score that is more than the six year annual academic unit and less than twice the academic unit average counts for 3 points. Finally, a teaching evaluation score in excess of twice the academic unit average counts for 5 points. In addition, the following recommendations are considered:
+- **Teaching (A1)**: A teaching score that is not less than half of
+  the six year annual academic unit average teaching score counts for
+  1 point. A teaching score that is more than the six year annual
+  academic unit and less than twice the academic unit average counts
+  for 3 points. Finally, a teaching evaluation score in excess of
+  twice the academic unit average counts for 5 points. In addition,
+  the following recommendations are considered:
   1. Courses taught by the faculty member in the evaluation period (that is,  after promotion to professor) are to be counted.
-  2. “1” course is defined as a full semester lecture course. Include summer courses delivered in full lecture/lab.
+  2. “1” course is defined as a full semester lecture course. This includes summer courses delivered in full lecture/lab.
   3. For a course with sections, each section of a course can be considered as a separate course.
   4. Lab course = 0.3, 0.5 or 1.0 of a regular lecture course, based on credits, academic unit norms and actual effort per faculty.
   5. Academic unit's average is to be computed based on course load in the previous 6 years.
@@ -1340,7 +1354,7 @@ Points are computed for the applicant based on the following criteria.
 conferment of recognition need not be in assessment period.
   4. 2 extra points (subject to maximum total of 5) may be awarded for any other exceptional achievements, subject to approval of IFAC.
 - **Sponsored Research (B1)**: Applicants with no projects get a score of 0. The total count of projects of candidate initiated during the assessment period (see notes below for fractional counts) are to
-be compared with 6 $\times$ the academic unit average of projects initiated over last 6 years is first computed. Candidates with count < 6 $\times$ the academic unit average will receive 1 point. Those with
+be compared with 6 $\times$ the academic unit average of projects initiated over last 6 years. Candidates with count < 6 $\times$ the academic unit average will receive 1 point. Those with
 scores in (1 to 2) times (6 $\times$ academic unit average) will get 3
 points. Those with score > 2 times (6 $\times$ academic unit average) will receive 5 points. The additional recommendations are:
   1. Information about projects and funding are to be taken from IRCC online records
@@ -1362,7 +1376,7 @@ points. Those with score > 2 times (6 $\times$ academic unit average) will recei
   8. Committee to consider deciding “significant/ Extensive” based on academic unit average over last 6 years).
 - **Administration (B3)**: Points are to be awarded for each year of administrative service on Senate approved positions, as per list below. Maximum score is 5, and fractional parts of total score are to be discarded after addition.
   1. Warden, Associate Warden, Associate Dean, Heads of Centres, Professor in Charge, Convenor of IDPs, UGAPEC, PGAPEC: 0.5 point per year
-  2. Dean, Head of academic units: 1 point per year 3.
+  2. Dean, Head of academic units: 1 point per year.
   3. Director, Deputy Director: 1.5 points for each year.
   4. GATE/JEE Chair: 1.5 points per term
   5. GATE/JEE Vice Chair: 1 point per term
@@ -1575,7 +1589,7 @@ limits:
        if the scope is altered, a fresh estimate may be considered.
 
    12. The minimum charges applicable in respect of consultancy jobs
-       will be ₹10,000 excluding any applicable tax.
+       will be ₹10,000/- excluding any applicable tax.
 
    13. It is desirable that Preliminary Diagnostic Discussions / Site
        Visits, leading to the generation of consultancy proposals may
@@ -1648,9 +1662,9 @@ The process for approval is as follows:
 The disbursement of CF and CPTS will entail a deduction of 30% as the
 Institute share for Consultant’s (or CPTS) earnings. This deduction
 will be on the actual amount disbursed as CF (CPTS). For example, a
-disbursement of \text{₹} 1,00,000 as consultancy fee would entail a
-deduction of \text{₹} 30,000 as Institute share, and the remaining
-\text{₹} 70,000 will be sent to the salary account, where TDS will be
+disbursement of \text{₹} 1,00,000/- as consultancy fee would entail a
+deduction of \text{₹} 30,000/- as Institute share, and the remaining
+\text{₹} 70,000/- will be sent to the salary account, where TDS will be
 deducted as appropriate.
 
 Note: Earnings for Technology Transfer, Revenue Sharing and Royalty will be governed by the Intellectual Property Policy of the Institute.
@@ -1720,18 +1734,25 @@ The salary that you get has several components.
    in one of the following pay levels. D.A. stands for "Dearness
    Allowance", described subsequently.
 
-   - *Pay Level 10*: Salary range ₹ 57,000 to ₹ 98,200 (plus D.A.)
-   - *Pay Level 11*: Salary range ₹ 68,900 to ₹ 117,200 (plus D.A.)
-   - *Pay Level 12*: Salary range ₹ 101,500 to ₹ 167,400 (plus D.A.)
-   - *Pay Level 13A1*: Salary range ₹ 131,400 to ₹ 204,700 (plus D.A.)
-   - *Pay Level 13A2*: Salary range ₹ 139,600 to ₹ 211,300 (plus D.A.)
-   - *Pay Level 14A*: Salary range ₹ 144,200 to ₹ 211,800 (plus D.A.)
-   - *Pay Level 15*: Salary range ₹ 182,200 to ₹ 224,100 (plus D.A.)
+   - *Pay Level 10*: Salary range ₹ 57,000/- to ₹ 98,200/- (plus D.A.)
+     per month.
+   - *Pay Level 11*: Salary range ₹ 68,900/- to ₹ 117,200/- (plus
+     D.A.) per month.
+   - *Pay Level 12*: Salary range ₹ 101,500/- to ₹ 167,400/- (plus
+     D.A.) per month.
+   - *Pay Level 13A1*: Salary range ₹ 131,400/- to ₹ 204,700/- (plus
+     D.A.) per month.
+   - *Pay Level 13A2*: Salary range ₹ 139,600/- to ₹ 211,300/- (plus
+     D.A.) per month.
+   - *Pay Level 14A*: Salary range ₹ 144,200/- to ₹ 211,800/- (plus
+     D.A.) per month.
+   - *Pay Level 15*: Salary range ₹ 182,200/- to ₹ 224,100/- (plus
+     D.A.) per month.
 
    Your salary within the pay band is fixed at the time of your
    appointment and increases every year by an _increment_, as defined
    in the 7$^{\text{th}}$ Pay Commission Pay Matrix. The various cadres, processes
-   for selections, and salary scales (that is, , Pay Levels as listed
+   for selections, and salary scales (that is, Pay Levels as listed
    above) for the faculty are as follows. Note that they are
    automatically moved to the higher levels as they gain experience
    through their career.
@@ -1739,12 +1760,13 @@ The salary that you get has several components.
    - _Assistant Professor:_ Assistant Professors fall into the
      following levels, based on their experience:
 	 - _0 to 1 year of post-PhD experience (Assistant Professor Grade II):_ Pay
-Level 10, with starting a salary of ₹ 84,700 plus D.A.
+Level 10, with starting a salary of ₹ 84,700/- plus D.A. per month.
 	 - _1 to 3 years of post-PhD experience (Assistant Professor Grade II):_ Pay
-       Level 11, with a starting salary of ₹ 89,900 plus D.A.
+       Level 11, with a starting salary of ₹ 89,900/- plus D.A. per month.
 	 - _3 years or more of post-PhD experience (Assistant Professor Grade I):_ Pay Level 12, with a
-       starting salary of ₹ 101,500 plus D.A.
-	 - _After 3 years in Pay Level 12 (Assistant Professor Grade I)_: Pay Level 13A1 ₹ 131,400 plus D.A.
+       starting salary of ₹ 101,500/- plus D.A. per month.
+	 - _After 3 years in Pay Level 12 (Assistant Professor Grade I)_:
+       Pay Level 13A1 ₹ 131,400/- plus D.A. per month.
 
 	 If you have joined IIT after having served for some time as
 	 Assistant Professor in another IIT or a central University or
@@ -1776,7 +1798,7 @@ Level 10, with starting a salary of ₹ 84,700 plus D.A.
    for this scale is six years of service as a Professor. A maximum of
    40% of the total number of Professors can be placed in this
    scale. The corresponding Pay Level is 15, and the salary range is
-   from ₹ 182,000 to ₹ 224,100. Typically, it takes about 12 years to become a HAG scale Professor after becoming Professor.
+   from ₹ 182,000/- to ₹ 224,100/- per month. Typically, it takes about 12 years to become a HAG scale Professor after becoming Professor.
 
    - _Institute and Endowed Chairs for faculty:_ As a means of
    recognizing outstanding performance, the Institute has several
@@ -1785,7 +1807,7 @@ Level 10, with starting a salary of ₹ 84,700 plus D.A.
    managed by the Dean (ACR)'s office, which also takes an active role
    in raising funds for further chairs. The selection to these Chairs is done by a Selection Commitees. The tenure of the Chair Professorship position is for a period of three years, and the chair is re-advertised at the end of that
    period. Faculty who hold chairs receive a salary top up of ₹
-   30,000 per month and a contingency grant of ₹ 90,000 per year, in
+   30,000/- per month and a contingency grant of ₹ 90,000/- per year, in
    addition to their salaries.
 
 3. _Dearness Allowance:_ A component termed as Dearness Allowance to
@@ -1810,7 +1832,7 @@ Level 10, with starting a salary of ₹ 84,700 plus D.A.
 5. _Transport Allowance:_ All employees, irrespective of whether they
    live within the campus or commute from outside, are eligible to
    receive a transport allowance. For those in the faculty cadre, the
-   rate of transport allowance is ₹ 7,200 per month. In addition, the
+   rate of transport allowance is ₹ 7,200/- per month. In addition, the
    Dearness Allowance at prevailing rate is payable on this amount as
    well. (Note: The transport allowance payable to the blind or
    orthopedically handicapped employees is double this rate).
@@ -1958,7 +1980,7 @@ regular LTC rules described earlier apply.
 Normally, Government employees cannot encash their accumulated earned
 leave excepting at the time of retirement. However, at the time of
 taking LTC an employee is permitted to encash up to 10 days of
-accumulated earned leave subject to the condition that such encashment
+accumulated earned leave with prior approval, subject to the condition that such encashment
 will not exceed 60 days during the entire career of an employee. If
 both husband and wife are employees, each can encash such earned leave
 even when they are traveling together.  The encashment of earned leave
@@ -2032,12 +2054,12 @@ this amount.
 ### Children's Education Allowance
 Expenses incurred in admitting up to to two children through school (from
 nursery to twelfth class) can be reimbursed subject to an annual
-ceiling of ₹ 27,000. Allowed expenses that can be claimed under this
+ceiling of ₹ 27,000/- per annum. Allowed expenses that can be claimed under this
 head include tuition fee, admission fee, laboratory fee, special fee
 charged for electronics, agriculture, sports fee, Library fee, cost of
 purchase on set of textbooks and note books, two sets of uniforms
 (including one pair of shoes) etc. Reimbursement can be claimed at the
-rate of ₹ 6,750 per quarter or for the full amount in the last quarter
+rate of ₹ 6,750/- per quarter or for the full amount in the last quarter
 of the financial year. The quantum of reimbursement for disabled
 children is twice this amount.
 
@@ -2067,11 +2089,12 @@ US $ 250 per day for the period of conference and two additional days
 (for travel) preceding/succeeding the conference, subject to a maximum
 of (5+2) days. In case of shortage of funds, the excess expenditure
 can be met from projects and travel grants from other funding
-agencies.
+agencies. Mobiles and personal computers / laptops etc. are not
+permitted to be purchased using contingency grant.
 
 Out of the maximum allocation of contingency fund of ₹ 1 lakh in the
-block of three years, an amount up to ₹ 33,000 can be spent in the
-first year, a further ₹ 33,000 plus the unused portion of the first
+block of three years, an amount up to ₹ 33,000/- can be spent in the
+first year, a further ₹ 33,000/- plus the unused portion of the first
 year's allocation in the second year, and the entire unspent balance
 out of the total allocation in the last year.
 
@@ -2259,18 +2282,18 @@ As per the 7$^{\text{th}}$ Pay Commission rules, the daily allowance entitlement
 
 *Pay Level*     Entitlement
 ----------      -----------
-14 and above    Reimbursement of hotel accommodation/guest house of up to ₹7,500 per day.
+14 and above    Reimbursement of hotel accommodation/guest house of up to ₹7,500/- per day.
                 Reimbursement of AC taxi charges as per actual expenditure commensurate
                 with official engagements for travel within the city and
-                Reimbursement of food bills not exceeding ₹1,200 per day
-12 and 13       Reimbursement of hotel accommodation/guest house of up to ₹4,500 per day.
+                Reimbursement of food bills not exceeding ₹1,200/- per day
+12 and 13       Reimbursement of hotel accommodation/guest house of up to ₹4,500/- per day.
                 Reimbursement of AC taxi charges of up to 50 km per day
                 for travel within the city and
-                Reimbursement of food bills not exceeding ₹1,000 per day
-9 to 11         Reimbursement of hotel accommodation/guest house of up to ₹2,250 per day.
-                Reimbursement of non-AC taxi charges of up to ₹338 per day
+                Reimbursement of food bills not exceeding ₹1,000/- per day
+9 to 11         Reimbursement of hotel accommodation/guest house of up to ₹2,250/- per day.
+                Reimbursement of non-AC taxi charges of up to ₹338/- per day
                 for travel within the city and
-                Reimbursement of food bills not exceeding ₹900 per day
+                Reimbursement of food bills not exceeding ₹900/- per day
 
 
 <!-- TODO INTERNATIONAL TRAVEL? -->
@@ -2329,12 +2352,12 @@ An employee is entitled to 20 days of half-pay leave for every completed year of
 2. Paternity leave of 15 days can be granted to a male employee with less than two surviving children. Such leave can be taken in the period up to 15 days before delivery and 6 months after the delivery.
 
 ### Child Care Leave
-Women employees may be granted a child care leave to take care of their two eldest surviving children below the age of 18 years at the time of need (such as sickness, examination etc.)  for a period not exceeding two years (730 days)  during the entire period of service may be granted. Such leave must be pre-approved by the authorities.  It can be availed for not less than 15 days at a time, and on not more than three occasions in a year. During the period of such leave, the employee is eligible to draw salary received by her immediately before proceeding on such leave. (TODO: Does this have implications in service?)
+Women employees may be granted child care leave to take care of their two eldest surviving children below the age of 18 years at the time of need (such as sickness, examination etc.) for a period not exceeding two years (730 days)  during the entire period of service. Such leave must be pre-approved by the authorities.  It can be availed for not less than 15 days at a time, and on not more than three occasions in a year. During the period of such leave, the employee is eligible to draw salary received by her immediately before proceeding on such leave. (TODO: Does this have implications in service?)
 
 ### Special Leave & Sabbatical Leave
 During the entire period of service, a faculty member is permitted to avail long leaves for a total duration not exceeding three years for academic purposes. The two primary categories of such leave with full pay are Special Leave and Sabbatical Leave. Applications should be forwarded through the Head of the academic unit to the Dean (FA) who makes suitable recommendation to the Director (the approving authority). All such applications must be forwarded with recommendation from the Head of the academic unit. The academic unit must be satisfied that the academic programmes of the academic unit will not be adversely affected by granting of such leave and also make alternative arrangements for taking care of students who may be working under the concerned faculty member. Further, the faculty member is also required to make arrangements for ongoing projects, and such arrangement must be intimated to the Dean (R&D) in a form available with the IRCC.
 
-1. Special leave is generally granted to faculty members to accept academic assignments abroad for availing scholarships and fellowships such as Humboldt Foundation fellowship, Boyscast fellowship, Commonwealth fellowship etc. The faculty member must have put in at least 3 years of service and should have applied for such fellowships through proper channel (that is, , the applications should have been forwarded by the Institute). During the special leave, the faculty draws full salary in the Institute in addition to the fellowship amounts.
+1. Special leave is generally granted to faculty members to accept academic assignments abroad for availing scholarships and fellowships such as Humboldt Foundation fellowship, Boyscast fellowship, Commonwealth fellowship etc. The faculty member must have put in at least 3 years of service and should have applied for such fellowships through proper channel (that is, the applications should have been forwarded by the Institute). During the special leave, the faculty draws full salary in the Institute in addition to the fellowship amounts.
 2. Sabbatical leave is granted for accepting temporary academic assignments in Indian or foreign universities or research institutions, availing fellowships, writing a book etc. The faculty member should have put in a minimum of six years of service in the Institute for availing a one year sabbatical. The Dean (FA) may recommend a shorter and proportionate amount of sabbatical for a faculty who falls short of the minimum requirement. For a subsequent sabbatical, there must be a gap of at least 3 years for a one semester sabbatical and six years for a two semesters sabbatical.
 3. The Institute requires a bond to be executed by the faculty members proceeding on a sabbatical, undertaking to serve the Institute for a minimum period of three years on return from sabbatical (the period of bond is two years for a one semester sabbatical). If the faculty member resigns before completion of the bond period, he/she will be required to refund the salary paid by the Institute during the sabbatical period.
 3. As a policy, the Institute does not extend a sabbatical. However, a faculty member may request for appending a maximum of 4 months of earned leave to the sabbatical. In case the faculty does not join back the duty after this period, the entire period of sabbatical will be considered as leave without pay or adjusted fully or partially against leave due to the faculty.
@@ -2489,7 +2512,7 @@ As a faculty member of a premier Institute of the country, you are always under 
 2. Joining a political party or canvassing in an election is banned. (You can, of course, contest an election in a professional body.)
 3. Criticism of the Institute in any mass media (print or electronic) is not permitted. (To give vent to your frustration if any, the Computer Centre of the institute has provided a discussion group called the 'discuss-faculty' where you can write and engage your colleagues in a debate on matters about which you feel strongly. This newsgroup is not moderated but it is good to use restrained language).
 3. _Redressal of Grievances:_: If you have a grievance, try to sort it out by meeting the concerned Dean, the Deputy Directors or the Director. If you would like to make a written representation, the first course is the Director. If his response leaves you dissatisfied, you may make representation to the Chairperson of the Board. Such representation should go through, Head, concerned Dean,
-Director and the Chairperson in that order. In extreme cases, you may take your grievance to the Visitor (who is the President of India). However, in all cases, you should go through what is known as proper channel, that is, , route all your representation through HOD, Director and the Chairperson, in that order. The forwarding authority does not have the right to stop your representation being forwarded upwards excepting in circumstances such as (i) a similar petition made earlier has been disposed of and no new facts are brought out in the new petition, (ii) your representation is not to the appropriate authority, or (iii) the petition is against a decision which is final by any law or statute. In such cases, the appropriate authority will write you a reply explaining the reasons why your petition may not be forwarded.
+Director and the Chairperson in that order. In extreme cases, you may take your grievance to the Visitor (who is the President of India). However, in all cases, you should go through what is known as proper channel, that is, route all your representation through HOD, Director and the Chairperson, in that order. The forwarding authority does not have the right to stop your representation being forwarded upwards excepting in circumstances such as (i) a similar petition made earlier has been disposed of and no new facts are brought out in the new petition, (ii) your representation is not to the appropriate authority, or (iii) the petition is against a decision which is final by any law or statute. In such cases, the appropriate authority will write you a reply explaining the reasons why your petition may not be forwarded.
 4. You may, of course, seek to redress grievances in a court of law without any permission. However, it is in good taste to first exhaust all possibilities of finding a solution to  your problems within the internal framework as stated above.
 5. _Social media usage policy_: Social media posts from IIT Bombay connected official accounts are governed by rules specified in [this document](https://www.iitb.ac.in/sites/www.iitb.ac.in/files/Guidelines%20For%20Use%20Of%20Offical%20IIT%20Bombay%20Accounts%20On%20Social%20Media_2.pdf).
 
@@ -2559,23 +2582,25 @@ Institute.
 In 2005, the Indian Parliament enacted a legislation known as the Right to Information (RTI) Act, which empowers a citizen to get any information from the Government or from any publicly funded institution. Exceptions are few and an educational institute does not qualify for exemption. This requires faculty members to be extra careful. For instance, any one can ask for the marking scheme adopted while awarding grades or, for that matter, a copy of the mark sheets of all students in a course. A query from the Institute’s Public Information Officer must be answered within a stipulated time limit. Details of RTI is available on IIT Bombay's website.
 
 # Faculty designations and responsibilities {#sec:facultygrades}
-The various designations in the faculty cadres along with their responsibilities to the Institute is listed below:
+This chapter lists the various faculty designations and appointment
+details.
 
-1. **Regular faculty**:
-   - *Appointment details*: Full time permanent appointments at any
-     level (Assistant, Associate and full Professors). These are made
-     through a selection committee or through invitation by
-     BOG. Assistant Professor (Grade-II) is offered by Selection
-     Committee to candidates who do not have 3 year
-     post-Ph.D. experience. The regularization process is initiated
-     once they complete three years post Ph.D. requirement.
-   - *Academic activities*: Teaching, research, student guidance, other academic activities of the institute.
-   - *R&D activities*:
-	  - Eligible for a one time seed grant from the Institute.
-      - Can take up all types of R&D Projects, including consultancy projects. 
-      - Can promote companies in SINE.
-      - Can be Directors of companies as per Institute norms.
-   - *Administration related activities*: Expected to be actively involveved in administrative responsibilities as assigned by academic units and the institute.
+## Regular faculty
+
+ - *Appointment details*: Full time permanent appointments at any
+   level (Assistant, Associate and full Professors). These are made
+   through a selection committee or through invitation by
+   BOG. Assistant Professor (Grade-II) is offered by Selection
+   Committee to candidates who do not have 3 year
+   post-Ph.D. experience. The regularization process is initiated
+   once they complete three years post Ph.D. requirement.
+ - *Academic activities*: Teaching, research, student guidance, other academic activities of the institute.
+ - *R&D activities*:
+    - Eligible for a one time seed grant from the Institute.
+    - Can take up all types of R&D Projects, including consultancy projects. 
+    - Can promote companies in SINE.
+    - Can be Directors of companies as per Institute norms.
+ - *Administration related activities*: Expected to be actively involveved in administrative responsibilities as assigned by academic units and the institute.
 
 <!-- 2. **Assistant Professor (Grade-II)**: -->
 <!--    - *Appointment details*: Equivalent to regular faculty; appointed thus because they are short of the 3-year post-PhD experience required for appointment as regular Assistant Professor; likely to be regularized when this requirement is met. -->
@@ -2586,118 +2611,159 @@ The various designations in the faculty cadres along with their responsibilities
 <!--    - *Academic activities*: They can guide students, and participate in all academic activities of the institute. -->
 <!--    - *Administration related activities*: They can take up admin work as delegated by the Institute/department from time to time. -->
 
-3. **On contract (on scale) and Distinguished Professor**:
-   - *Appointment details*: Appointed (through a recommendation by Institute Standing Committee for faculty appointment) for specific duration and may/may not be considered for regularisation (includes faculty on exchange from other IITs).
-   - *R&D activities*: Same as #1, except that
-	 - They are not eligible for Seed Grant
-	 - They may be PIs, but a Co-PI who has to give a declaration that
-       he/she will take responsibility of the project deliverables is mandatory.
-   - *Academic activities*: They can be Guides, but with a mandatory Co-Guide, depending on the duration of the appointment; Co-guide has to give a declaration to take responsibility of the students.
-   - *Administration related activities*:
-     - Cannot be members of any statutory committees or of any
-       department committees appointed by the Director (such as DPC,
-       DUGC, DPGC, Search committees, etc.).
+## Short Term Visiting Faculty
 
-4. **Professor on Contract and Emeritus Fellow**:
-   - *Appointment details*:
-     - **Professors on Contract** are eminent scientists and academics who have retired from Central/State Government entities/Autonomous Bodies/Private Organisations, but are yet to attain the age of retirement of regular faculty members at IIT Bombay (or 70 years), to take up full time faculty positions. They are appointed to take up full time contract positions on scale for a three year term extendable to five years (or till they are 70; whichever is earlier). They are entitled to all the benefits offered to regular faculty members such as CPDA and leave.
-     - **Emeritus Fellow** position is considered a prestigious appointment. The nominees for Emeritus Fellows should have consistently excelled in (a) service (b) research and (c) teaching. Their performance in at least two of the above
-three activities should be better than the academic unit average in the last 10 years. The appointees should have been recognized nationally through awards, Fellowships of national academies etc. Emeritus Fellowship should not be considered for teaching requirements alone.
+Short term visiting faculty positions are meant for faculty members or
+specialists employed elsewhere who are invited for research
+collaborations, or for delivering short courses, to research scholars
+and faculty members consisting of at least two lectures per
+week. The specific appointments in this category along with the
+salaries prevailing at the time of writing are
 
-       Departments may consider additional criteria to recommend/nominate retiring faculty members for Emeritus Fellowship. Departments may also decide not to recommend any faculty member for Emeritus Fellowship.
-   - *R&D activities*: Same as #3
-   - *Academic activities*: Same as #3. In addition, they will be invited to the senate.
-   - *Administration related activities*: Same as #3.
+ - Visiting Assistant Professor (salary of ₹ 1,25,000/- per month on
+   pro rata basis)
+ - Visiting Associate Professor (salary of ₹ 1,75,000/- per month on
+   pro rata basis)
+ - Visiting Professor (salary of ₹ 2,00,000/- per month on
+   pro rata basis)
+ - Distinguished Visiting Professor (salary of ₹ 2,25,000/- per month
+   on pro rata basis, and guest house accommodation charges borne by
+   the institute)
 
-5. **Emeritus Professor**:
-   - *Appointment details*: Honorary Position given to faculty for their contribution to the institute. Only titular appointments.
-   - *R&D activities*:
-      - May be only mentors for R&D projects and not Investigators.
-	  - Could be taken as external consultants in projects undertaken by other regular faculty.
-   - *Academic activities*:
-     - Cannot be Guides/ Co-Guides for students.
-     - Cannot be members of RPC.
-     - Can be external Co-guides, subject to prior approval of Dean (AP).
-   - *Administration related activities*: No administrative activities allowed.
+The following are the terms and conditions that govern short term
+visiting faculty appointments and their duties:
 
-6. **Emeritus Scientist**:
-   - *Appointment details*: Retired professionals carrying out
-     specific R&D projects funded by government agencies, at the
-     Institute (Institute’s offer will be for a visiting honorary
-     position, based on a recommendation by the standing Institute
-     Standing Committee but the salary/fellowship will come from the
-     project/scheme).
-   - *R&D activities*:
-     - Will be able to operate only their projects.
-     - All such applications will need to be routed through Dean (FA).
-     - IRCC will implement the project as per norms.
-     - Not eligible to submit new projects through IRCC.
-     - No RDF accrual from overheads, only to IRCC and to DDF.
-   - *Academic activities*: Same as #5.
-   - *Administration related activities*: Same as #5.
+ - *Appointment details*: Proposals are scrutinised by the academic
+   unit's policy committee and its recommendations are sent to Dean
+   (FA). These are then discussed and approved in the Standing
+   Committee Meeting.
+ - *Academic activities*: They can be Guides, but with a mandatory Co-Guide, depending on the duration of the appointment; Co-guide has to give a declaration to take responsibility of the students.
+ - *R&D activities*: Same as regular faculty, except that
+    - They are not eligible for Seed Grant
+    - They may be PIs, but a Co-PI who has to give a declaration that
+      he/she will take responsibility of the project deliverables is mandatory.
+ - *Administration related activities*:
+   - Cannot be members of any statutory committees or of any
+     department committees appointed by the Director (such as DPC,
+     DUGC, DPGC, Search committees, etc.).
 
-7. **Visiting Faculty**:
-   - *Appointment details*: Visit the Institute for a duration ranging from a few weeks to three years on a continued basis: such faculty would have a permanent position elsewhere in academia, industry or other organizations.
-Visit the Institute on a part time basis, generally for teaching (up to three days a week). There are 4 types of short term visiting faculty: Visiting Assistant Professor, Visiting Associate Professor, Visiting Professor and Distinguished
-Visiting Professor.
-   - *R&D activities*:
-      - Cannot be PIs or Co-PIs.
-	  - No financial/administrative powers in projects.
-	  - Can participate only in technical activities of Sponsored projects
-	 - May be retained as external consultant in consultancy projects as per norms.
-	 -  No faculty fee allowed in projects other than through the external consultant mode.
+## Adjunct Faculty
+Adjunct faculty are typically retired IIT Bombay faculty members or
+external experts appointed to teach full or half courses. These
+appointments along with their salary per day of week are:
+
+- Adjunct Assistant Professor (salary of ₹ 25,000/- for 1 day per week
+  on pro rata basis)
+- Adjunct Associate Professor (salary of ₹ 30,000/- for 1 day per week
+  on pro rata basis)
+- Adjunct Professor (salary of ₹ 40,000/- for 1 day per week
+  on pro rata basis)
+
+Adjunct faculty members do not get Institute accommodation. However,
+they may stay in the guest house on payment basis at official rates
+provided rooms are available.  Pension, if any, is not deducted from
+salary for such appointments.
+
+
+The following are the terms and conditions that govern adjunct faculty
+appointments and their duties:
+   - *Appointment details*: TODO
    - *Academic activities*:
      - Can be Co-Guides for M.Tech / M.Sc students / PhD students based on duration of association.
      - Cannot be members of RPCs.
-   - *Administration related activities*: No administrative activities allowed.
-
-8. **Adjunct Faculty**:
-   - *Appointment details*: Generally for retired IITB faculty members or external experts appointed to teach full or half courses. These appointments may be for 1-3 days a week depending on the course load, responsibilities and frequency of visits. Adjunct faculty members do not get Institute accommodation. However, they may stay in theguest house on payment basis at official rates provided rooms are available. Pension, if any, is not deducted from salary for such appointments.
    - *R&D activities*:
       - Can be associated only as an  Investigator and only in Sponsored research projects.
       - May be retained as external consultant in projects, as per norms.
       - No faculty fee allowed in projects other than through the external consultant mode.
-   - *Academic activities*: Same as #7.
-   - *Administration related activities*: Same as #7.
+   - *Administration related activities*: No administrative activities allowed.
 
-9. **Professors of Practice**:
-   - *Appointment details*:
-     - They must be top professionals (CEO/CTO) with significant experience, typically about 20 years.
-     - Appointment to be made by Institute based on the recommendation of the Institute Standing Committee.
-     - They should have at least a Bachelor's degree Engineering / Sciences/ Design / Humanities or a related technical field. A Master’s or a Ph. D. degree would be welcome. Advanced degrees may also be in business or related fields.
-   - *Academic activities*:
-     - Design, development and offering of new practice-oriented courses.
-     - Advise students in their projects linking them with appropriate external stakeholders.
-     - Engage in department building activities including creation of new
-       programmes and Centres and enhancement of scope and activities of the department.
-     - Develop Continuing Education Programmes, undertake outreach activities and conduct extension programmes
-     - Encourage students in innovation and entrepreneurship projects and provide necessary mentorship for these activities; and contribute to enhanced industry academia collaborations.
-     - Professors of Practice are expected to guide Master’s students in their research and be co-guides to Ph. D. students.
+## Professor on Contract and Emeritus Fellow
+**Professors on Contract** are eminent scientists and academics who have
+retired from Central or State government entities, Autonomous Bodies
+or private organisations, but are yet to attain the age of retirement
+of regular faculty members at IIT Bombay (or 70 years) who take up
+full time faculty positions.  They are appointed to take up full time
+contract positions on scale for a three year term extendable to five
+years (or till they are 70; whichever is earlier).  Their salary is
+fixed as the last drawn salary *minus* any pension that they may be
+receiving. They are entitled to all the benefits offered to regular
+faculty members such as CPDA and leave.
 
-10. **Non-faculty Project PIs**:
-   - *Appointment details*:
-     - Temporary research personnel who would like to carry out GoI funded projects at the Institute e.g.: Women Scientist, Fast Track etc.
-	 - Appointment to be made by Institute based on the recommendation of the Institute Standing Committee; the salary will be paid from the projects as applicable.
-     - Those who wish to apply for Ramanujan, Ramalingaswami, INSPIRE fellowships must first apply for regular faculty positions in the Institute and get selected before applying for these fellowships.
-   - *R&D activities*: Project proposals will be routed to the Head of
-     the Academic Unit as for review / approval and forwarding by
-     Institute [even though appointment is through Dean (FA)]. IRCC
-     will be responsible only for implementation of these projects.
-   - *Academic activities*: None.
-   - *Administration related activities*: As assigned by the Head of the academic unit.
+An **Emeritus Fellow** position is considered a prestigious
+appointment. The nominees for Emeritus Fellows should have
+consistently excelled in (a) service (b) research and (c)
+teaching. Their performance in at least two of the above three
+activities should be better than the academic unit average in the last
+10 years. The appointees should have been recognized nationally
+through awards, Fellowships of national academies etc. Emeritus
+Fellowship should not be considered for teaching requirements alone.
+Departments may consider additional criteria to recommend/nominate
+retiring faculty members for Emeritus Fellowship. Departments may also
+decide not to recommend any faculty member for Emeritus
+Fellowship. The salary at the time of writing is 
 
-11. **Retired Faculty (less than three years from superannuation)**:
-   - *Appointment details*: Regular Faculty who are nearing superannuation
-   - *R&D activities*: Same as #3 except the mandatory Co-PI requirement may be waived depending upon the duration of the project.
-   - *Academic activities*: Same as #3.
-   - *Administration related activities*: Same as #1.
 
-12. **Foreign Faculty and Guest Faculty**:
-   - *Appointment details*: Appointed as full-time faculty members, and selection procedure is similar to that of regular faculty appointments through a Selection Committee meeting. However, Ministry approval must be sought before the offer is made.
-     It is a contract position for a period of five years that can be extended. They are entitled to all the benefits offered to regular faculty members such as CPDA and leave.
+The following are the terms and conditions that govern Professor on
+Contract and Emeritus Fellow appointments and their duties:
+   - *Appointment details*: TODO
+   - *R&D activities*: Same as for regular faculty, except that they
+     are not eligible for Seed Grant, and they may be PIs, but a Co-PI who has to give a declaration that he/she
+will take responsibility of the project deliverables is mandatory.
+   - *Academic activities*: They can be Guides, but with a mandatory Co-Guide, depending on the duration of the appointment; Co-guide has to give a declaration to take responsibility of the students. In addition, they will be invited to the senate.
+   - *Administration related activities*:  Cannot be members of any statutory committees or of any department
+committees appointed by the Director (such as DPC, DUGC, DPGC,
+Search committees, etc.).
+
+## Professor of Practice
+
+Candidates for this position are expected to be top professionals
+(CEO/CTO) with significant experience, typically about 20 years.  They
+should have at least a Bachelor's degree Engineering / Sciences /
+Design / Humanities or a related technical field. A Master's or a
+Ph. D. degree would be welcome. Advanced degrees may be in business or
+related fields.  Professors of Practice must be leaders who remain
+current with the best practices and emerging technological trends in
+their fields. Advanced degrees may also be in business or related fields.
+
+The salary for Professors of Practice is fixed at ₹ 2,00,000/- per
+month at the time of writing. They are entitled to all the benefits
+offered to regular faculty members such as CPDA and leave.  In
+addition, they are also given a one time contingency grant of ₹
+2,00,000/-.
+
+The following are the terms and conditions that govern Professor of
+Practice appointments and their duties:
+ - *Appointment details*:
+   - Academic units must develop a job description, including qualifications consistent with the required credentials for the position.
+   - Academic units should seek faculty feedback, faculty should interact with the PoP candidates, peer review may be sought if necessary and the candidates should give a seminar in the department before forwarding the case to the Standing  Committee.
+   - Appointments could be up to five years which can be extended based on the performance and requirements of the Institute.
+   - The appointment will be approved by the Standing Committee of the Institute.
+ - *Academic activities*:
+   - Design, development and offering of new practice-oriented courses.
+   - Advise students in their projects linking them with appropriate external stakeholders.
+   - Engage in department building activities including creation of new
+     programmes and Centres and enhancement of scope and activities of the department.
+   - Develop Continuing Education Programmes, undertake outreach activities and conduct extension programmes
+   - Encourage students in innovation and entrepreneurship projects and provide necessary mentorship for these activities; and contribute to enhanced industry academia collaborations.
+   - Professors of Practice are expected to guide Master’s students in their research and be co-guides to Ph. D. students.
+
+## Foreign Faculty and Guest Faculty
+**Foreign faculty** members can be appointed to work like regular
+faculty members, on similar pay scales. However, there are some notable differences in
+appointment terms:
+   - *Appointment details*: Appointed as full-time faculty members, and selection procedure is similar to that of regular faculty appointments through a Selection Committee meeting. However, Ministry approval must be sought before the offer is made.  It is a contract position for a period of five years that can be extended. They are entitled to all the benefits offered to regular faculty members such as CPDA and leave.
    - *R&D activities*: All terms and conditions will be as for regular faculty.
    - *Academic activities*: All terms and conditions will be as for regular faculty.
    - *Administration related activities*: All terms and conditions will be as for regular faculty.
+
+**Guest faculty** are experts from other Institutions/Industry who are
+invited to deliver lectures/offer courses to the students of various
+academic programs of our Institute. The academic unit's policy
+committee recommends and the Institute Standing committee approves the
+appointment of Guest Faculty. They are paid an honorarium of ₹
+3,000/- per hour on a pro-rata basis from the Department.
+
+
 
 # Retirement and Post-Retirement Benefits
 
@@ -2708,7 +2774,15 @@ While this chapter was originally written primarily for faculty who joined the I
 What happens after you have served out your active life with the Institute? Most look at the period of retirement with a certain amount of anxiety because they anticipate a sharp drop in income. It is, therefore, prudent to do some planning reasonably early in life, certainly by the time you are approaching 50.
 
 ### Superannuation
-This is the term used for official completion of your regular appointment. It happens on the last day of the month in which you complete 65 years of age. For example, If your birthday falls on the 1$^{\text{st}}$ of the June, you will superannuate on the last day of the previous month (that is,  May 31$^{\text{st}}$). However, if your birthday is between 2nd and 30$^{\text{th}}$ of June, then you will superannuate on 30$^{\text{th}}$ June. Usually, the Director offers you a cup of tea and hands over a few retirement cheques on this day.
+This is the term used for official completion of your regular
+appointment. It happens on the last day of the month in which you
+complete 65 years of age. For example, If your birthday falls on the
+1$^{\text{st}}$ of the June, you will superannuate on the last day of
+the previous month (that is, May 31$^{\text{st}}$). However, if your
+birthday is between 2nd and 30$^{\text{th}}$ of June, then you will
+superannuate on 30$^{\text{th}}$ June. Usually, the Director will meet
+the faculty over a cup of tea and will hand over a few retirement
+cheques on this day.
 
 ### Re-employment
 Faculty members are usually reappointed till the last day of the
@@ -2793,7 +2867,7 @@ For those who joined the Institute before 2004, there were two retirement scheme
 
 [^retireavg]: 50% of retiring salary will always be equal to or more than the 10 month average except in rare cases of a demotion or punishment during the last phase of service.
 
-[^commutation]: The factor reduces if you make the offer later, becoming 7.431,7.262, 7.083 and 6.897 if the age on your next birthday at the time of making the offer is respectively 67,68, 69 and 70. The factor for a person whose age next birthday is 65 is 7.731.
+[^commutation]: The factor reduces if you make the offer later, becoming 7.431,7.262, 7.083 and 6.897 if the age on your next birthday at the time of making the offer is respectively 67,68, 69 and 70. The factor for a person whose age next birthday is 65 is
 
 ### Encashment of Leave at the time of Superannuation
 A maximum 300 days of earned leave may be accumulated by an
