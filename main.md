@@ -1099,7 +1099,6 @@ funding agency.
 
 Some of the sponsoring agencies and their URLs are given below:
 
-  - [All India Council for  Technical Education (AICTE)](www.aicte.ernet.in/)
   - [Aeronautics Research  & Development Board (ARDB)](www.drdo.org/boards/ardb/index.htm)
   - [Board of Research in  Nuclear Sciences (BRNS)](www.barc.ernet.in/webpages/brns/brns1.html)
   - [Central Board of Irrigation and Power (CBIP)](www.cbip.org/)
