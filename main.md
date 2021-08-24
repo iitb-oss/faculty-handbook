@@ -288,7 +288,7 @@ Broadly speaking:
  - In addition, there are **service centres** such as the **Computer
    Centre**, which do not host any academic or research programmes.
 
-Below is a list of departments, centres,schools and other functional units.
+Below is a list of departments, centres, schools and other functional units.
 
 **Academic Units**
 
@@ -359,15 +359,15 @@ The academic units mentioned above are headed, usually by a faculty
 member of the unit itself, and usually of the rank of Professor in the
 role of the Head. The Head of an academic unit has a term of three
 years. All paperwork and online approvals from the
-Department are routed through the Head. This includes nearly all
+academic unit are routed through the Head. This includes nearly all
 official applications going from a faculty member to the Institute.
 
 The Head of an academic unit functions with the aid of several
 committees.
 
-  - The largest and most important of these is the departmental
-    faculty itself, which meets **at least once every semester** for a
-    Faculty Meeting (**DFM**), and takes major decisions of broad impact.
+  - The largest and most important of these is the faculty itself,
+    which meets **at least once every semester** for a Faculty Meeting
+    (**DFM**), and takes major decisions of broad impact.
   - The Departmental Policy Committee (**DPC**) meets **at least
     twice** every semester and has the responsibility of framing
     policy on matters of interest to the Department. The DPC has the
@@ -382,7 +382,7 @@ committees.
 
 The deliberations of these committees, in the form of minutes, **is
 communicated to concerned functionaries in the central administration**,
-who are updated of the issues of the departmental faculty.
+who are updated of the issues of the faculty in the academic unit.
 
 # When You Join
 Welcome to IIT Bombay's faculty fraternity! The Institute promises
@@ -393,7 +393,7 @@ Australia etc.). Things you might have taken for granted abroad, may
 not be so straightforward here. The Institute administration is
 constantly improving its systems and processes - in particular, to
 smoothen the transition for new faculty - and is open to your
-suggestions in this regard. The Head of your Department/Centre is
+suggestions in this regard. The Head of your academic unit is
 officially your liaison with the Institute and, as such, may be freely
 approached for help if you face any issues. Also, most senior
 colleagues would be more than happy to guide and help informally -
@@ -403,7 +403,7 @@ you need to do just before and after your arrival.
 ## Joining and settling down
 
 Once you have decided on the date of your arrival, please write
-an email to your Head of the Department with a copy (cc) to the Dean
+an email to your Head of the academic unit with a copy (cc) to the Dean
 (FA), requesting her/him to arrange an accommodation in the Institute Guest House,
 where you can check in upon arrival.  You may also request
 to arrange for a transportation to bring you to the campus from airport/railway station.
@@ -543,9 +543,9 @@ Immediately on joining:
    month at the time of writing.
 
 7. Now that you have completed the formalities of Administration Section, please
-   return to your Department and fill up a joining report form which
-   will be signed by the Head of the Department and sent to the
-   Administration. The Department will provide you with an office
+   return to your academic unit and fill up a joining report form which
+   will be signed by the Head of the academic unit and sent to the
+   Administration. The academic unit will provide you with an office
    space equipped with a telephone (with limited local andb STD (long
    distance) facility) and, of course, stationery. A personal desktop
    computer or laptop with printer and internet connection with internet connection should also be made available within a few
@@ -628,7 +628,7 @@ experience (the experience gained after the date of PhD defence is
 counted), and sends a form to you through your academic unit which you should fill as a part of regularization process. In this form you have to fill in details of all you academic accomplishments obtained after your Ph.D. degree and a summary of your academic activities after joining IIT Bombay. This form is forwarded to Dean (FA) by the Head of academic unit after adding appropriate recommendations. The Dean (FA) forwards this to the Director with his/her recommendations. In case you have prior experience that the
 administration is unaware of, that you feel should be counted against
 the 3-year requirement, you may make a representation through your
-Head of Department to Dean (FA), along with with documentary evidence
+Head of academic unit to Dean (FA), along with with documentary evidence
 of the experience you are claiming.
 
 A faculty member recruited to any cadre is placed on probation for a
@@ -694,7 +694,7 @@ The following services for specific activities managed by ASC are available thro
 
 ### Resources for ERP support:
   - **Department storekeeper**: For any problem related to purchase and payments from institute funds.
-  - **Departmental ERP helpdesk stationed in each department**: For
+  - **Departmental ERP helpdesk stationed in each academic unit**: For
     any problem related to purchase from project funds, payment of
     honorarium to students and finding out project balances.
   - [helpdesk.basis@iitb.ac.in](mailto:helpdesk.basis@iitb.ac.in): For
@@ -705,7 +705,7 @@ The following services for specific activities managed by ASC are available thro
   - All services provided by ASC: [asc.help@iitb.ac.in](mailto:asc.help@iitb.ac.in).
 
 ## Resources for Teaching and Research
-To get started in the Institute, you can familiarize yourself with the resources available for helping you teach and conduct research effectively. The [Academic Rules](#sec:acadrules) discuss all aspects related to courses, curricula and other teaching related aspects, and [Resources for Teaching](#sec:teachingresources) lists some resources to help with teaching. The Institute, while encouraging you to apply for external grants to support your research, also provides you a Seed grant to get you started on your research projects. More details on this are available [here](#sec:researchfunding). You also have access to a Research and Development Fund (RDF) that can be used with more flexibility for your research related activities. Your academic unit would also have a Department Development Fund to support development activities of interest to your department as a whole. These are discussed in greater detail [here](#sec:rdfddf).
+To get started in the Institute, you can familiarize yourself with the resources available for helping you teach and conduct research effectively. The [Academic Rules](#sec:acadrules) discuss all aspects related to courses, curricula and other teaching related aspects, and [Resources for Teaching](#sec:teachingresources) lists some resources to help with teaching. The Institute, while encouraging you to apply for external grants to support your research, also provides you a Seed grant to get you started on your research projects. More details on this are available [here](#sec:researchfunding). You also have access to a Research and Development Fund (RDF) that can be used with more flexibility for your research related activities. Your academic unit would also have a Department Development Fund to support development activities of interest to your academic unit as a whole. These are discussed in greater detail [here](#sec:rdfddf).
 
 In addition to research projects, one may also take on [consultancy projects](sec:consultancy) for external organizations. Finally, the [Continuing Education Programme (CEP)](#sec:cep) permits you to conduct courses for external organizations through the Institute.
 
@@ -825,14 +825,14 @@ Institute for a minimum period of 20 years. Voluntary retirement is
 discussed in the chapter on retirement benefits.
 
 # The Institute's Hopes and Expectations
-For most faculty members joining this Institute, this will be the first ‘job’, at least in an academic set-up. Since, in such a set up, it is largely up to the individual to plan out her activities and career, it is but natural that one is a little apprehensive as to how to manage one’s time in the initial years. While there are always some senior faculty and elder statesmen in the department who will guide you in this respect, the following sections give some idea of what is expected of you, and introduce you to the various Institute-supported activities that you will probably get involved in as a faculty member.
+For most faculty members joining this Institute, this will be the first ‘job’, at least in an academic set-up. Since, in such a set up, it is largely up to the individual to plan out her activities and career, it is but natural that one is a little apprehensive as to how to manage one’s time in the initial years. While there are always some senior faculty and elder statesmen in the academic unit who will guide you in this respect, the following sections give some idea of what is expected of you, and introduce you to the various Institute-supported activities that you will probably get involved in as a faculty member.
 
 ## What the Institute expects of you
-When you join as an Assistant Professor, in order to assist you to settle in and get your research underway quickly and efficiently, the Institute and the department extend certain facilities. These are:
+When you join as an Assistant Professor, in order to assist you to settle in and get your research underway quickly and efficiently, the Institute and the academic unit extend certain facilities. These are:
 
 1. A seed grant of ₹ 20 lakh plus support for one PhD student in the project mode. Higher seed grant amounts may be considered for equipment intensive research (you need to consult Dean (R&D) office for information regarding this, soon after you join).
 
-2. Space: A minimum of a faculty cabin (10 × 15’) and a working space of 300 sq. ft. to be identified by the department before he/she joins, and made available on joining.
+2. Space: A minimum of a faculty cabin (10 × 15’) and a working space of 300 sq. ft. to be identified by the academic unit before he/she joins, and made available on joining.
 
 3. Reduced teaching load (say a course associateship) in the first semester (unless the faculty member wants to be involved in intensive teaching right from the start). Similarly, administrative load to be kept to a minimum in the initial semester.
 
@@ -856,7 +856,10 @@ one’s contributions are to be assessed, these weightages shall apply.
 
 [^servicedetails]: _Service_ includes administration as well as  contributions to the society at large and  to the profession. The latter contributions are usually through participation in  extension activities (continuing education, consultancy, etc., on which more in further sections),  membership of professional bodies, governmental committees, journal reviewerships and editorships, and so on.
 
-It is possible, as one grows into one’s career and gets into the positions of an Associate Professor and Professor, that these profiles may change somewhat: teaching may become easier, one may get more involved with departmental and Institute’s administration, etc. The Institute therefore recognizes that these weightages may change at these levels, at the choice of the faculty member.
+It is possible, as one grows into one’s career and gets into the
+positions of an Associate Professor and Professor, that these profiles
+may change somewhat: teaching may become easier, one may get more
+involved with the academic unit and Institute’s administration, etc. The Institute therefore recognizes that these weightages may change at these levels, at the choice of the faculty member.
 
 The various designations of faculty in the Institute, along with their responsibilities, is listed in the [next chapter](#sec:facultygrades).
 
@@ -890,7 +893,7 @@ irrespective of the discipline to which she belongs.
 ### Proposing a new course
 As a faculty member, you can propose new courses as electives in your
 area of expertise. Such courses go through a process of approval,
-first at the departmental level, then at the level of the appropriate
+first at the academic unit level, then at the level of the appropriate
 Program committee (PC) of the Senate, and finally at the Senate.
 
 ### Evaluation Scheme at IIT Bombay
@@ -932,13 +935,13 @@ Students should be encouraged to participate in the mid-term and end-term course
 ### PhD supervision
 Apart from teaching and instructing courses, you are also expected to
 do a fair amount of supervision at the UG/PG and PhD levels. While
-basic rules for guidance varies across departments, the PhD
+basic rules for guidance varies across academic units, the PhD
 supervision entails certain basic criteria.
 
 1. Only full time faculty are entitled to undertake PhD supervision.
 2. At any given time, the number of Institute research scholars (TAs and/or RAs) working with under your supervision shall not exceed five. The DPGC/PGC of the academic unit can decide on the total number of research students of all categories working with him/her.
 3. As a supervisor, you are expected to supervise the student till satisfactory results are achieved.
-4. A supervisor must keep a check that the students being supervised deliver the Annual Progress Seminar (APS) every twelve months after joining the program. The APS report must contain information describing the research that has been performed in the completed year and submit it to the Research Progress Committee. The student must then deliver an open seminar, which all interested members of the department are free to attend, where he/she will be examined by the RPC. The objective of the seminar is to provide feedback about the research completed by the student in the past year, and provide suggestions for continuing and refining his/her research. With the progress of a student’s PhD, the work presented is expected to evolve from a thorough understanding of fundamental concepts and reported literature to an in-depth solution to a novel research problem. The RPC lays emphasis on publications in reputed international journals, filing invention disclosures and patents based on nature of the research output, and also encourages the student to present his/her work in international conferences and workshops.
+4. A supervisor must keep a check that the students being supervised deliver the Annual Progress Seminar (APS) every twelve months after joining the program. The APS report must contain information describing the research that has been performed in the completed year and submit it to the Research Progress Committee. The student must then deliver an open seminar, which all interested members of the academic unit are free to attend, where he/she will be examined by the RPC. The objective of the seminar is to provide feedback about the research completed by the student in the past year, and provide suggestions for continuing and refining his/her research. With the progress of a student’s PhD, the work presented is expected to evolve from a thorough understanding of fundamental concepts and reported literature to an in-depth solution to a novel research problem. The RPC lays emphasis on publications in reputed international journals, filing invention disclosures and patents based on nature of the research output, and also encourages the student to present his/her work in international conferences and workshops.
 5. You can also serve as a co-supervisor if any student chooses to do so, and it is approved by the DPGC.
 6. If you are going on long leave, such as lien/sabbatical leave/special leave/deputation etc., you must propose an alternate arrangement to continue the academic activities of your students.
  a. Whenever a Supervisor leaves the Institute permanently or temporarily for a period greater than or equal to one year, the DPGCs/IDPCs/PGCs shall provide new supervisor(s) for the students being supervised by him/her before his/her departure.
@@ -951,7 +954,11 @@ supervision entails certain basic criteria.
 
 ## Resources for Teaching {#sec:teachingresources}
 
-Teaching is considered to be an important component of faculty activities. That said, most new faculty come in with strong research experience, but modest teaching experience, if any. It helps that most new faculty are given about a semester off from teaching in the beginning - this is often departmental policy; in some cases, there may not be a choice if the faculty member joins after a semester has started. Here are a few tips to help with teaching, and preparing for it.
+Teaching is considered to be an important component of faculty
+activities. That said, most new faculty come in with strong research
+experience, but modest teaching experience, if any. It helps that most
+new faculty are given about a semester off from teaching in the
+beginning - this is often academuc unit's policy; in some cases, there may not be a choice if the faculty member joins after a semester has started. Here are a few tips to help with teaching, and preparing for it.
 
 1. When you are assigned a course to teach, you can look at the
    Academic section of the ASC website
@@ -1115,13 +1122,9 @@ Some of the sponsoring agencies and their URLs are given below:
   - [Naval Research  Board  (NRB)](http://nrbdrdo.res.in/)
   - [Science and Engineering Research Board (SERB)](http://serbonline.in)
 
-Agencies which can be approached for travel grants for attending conference / seminar / workshop etc. are
-
-  - AICTE
-  - DST
-  - CSIR
-  - INSA
-  - UGC
+The agencies which can be approached for travel grants for attending
+conference / seminar / workshop etc. include DST, CSIR, INSA, UGC and
+the [All-India Council for Technical Education (AICTE)](https://www.aicte-india.org/).
 
 Project proposals, duly completed in all respects, will have to be
 submitted online by logging in through your LDAP login id.
@@ -1175,11 +1178,11 @@ The Institute Faculty Advisory Committee (IFAC) as an advisory body to the
 Dean (FA) on various matters of faculty interest, and matters of
 faculty development.
 
-_IFAC Composition:_ The committee is constituted by the Director and chaired by the Dean (FA). IFAC has the Deputy Director (AIA) as a permanent invitee. The committee is reconstituted every two years with the existing members in each category being replaced by Heads of departments not represented in the committee.
+_IFAC Composition:_ The committee is constituted by the Director and chaired by the Dean (FA). IFAC has the Deputy Director (AIA) as a permanent invitee. The committee is reconstituted every two years with the existing members in each category being replaced by Heads of academic units not represented in the committee.
 
 _IFAC Role:_ The IFAC has the following broad roles. Apart from these roles, the Director may request IFAC to consider and make recommendations on matters related to faculty affairs.
 
-  1. Consideration of short listing criteria of department for entry level as well as promotion for different faculty positions
+  1. Consideration of short listing criteria of academic unit for entry level as well as promotion for different faculty positions
   2. Pre-processing of applications of internal candidates for promotions
   3. Processing of nominations for Chair Professor positions
   4. Nominations of faculty members for various national /international awards
@@ -1189,28 +1192,28 @@ _IFAC Role:_ The IFAC has the following broad roles. Apart from these roles, the
 ### Shortlisting Process
 
 The applications submitted by the internal candidates are first
-shortlisted by their respective departments through the Department
-Policy Committee (DPC) or Professors’ Committee as per the department
+shortlisted by their respective academic units through the Department
+their Policy Committee or Professors’ Committee as per the academic units
 shortlisting criteria as approved by Institute Faculty Advisory
-Committee (IFAC). The shortlisting criteria framed by each department
+Committee (IFAC). The shortlisting criteria framed by each academic unit
 ensures that (i) the effort put in by the candidate in the current
 position is adequately recognized and (ii) promotion to the next
 higher position in the minimum period (that is, , just after the minimum
 mandated number of years of experience have been completed) requires
 performance at a high level as judged by the standards of the average
-performance of the department or subgroup within the department to
+performance of the academic unit or subgroup within the academic unit to
 which the candidate belongs (**such candidates are expected to have
-performed 33% more than the department average**). Each department
+performed 33% more than the academic unit's average**). Each academic unit
 recognizes the contributions of the candidate in Research, Teaching
 and Professional/Department/Institute Services. In addition to the
-performance criteria of the department approved by the IFAC, guidance
+performance criteria of the academic unit approved by the IFAC, guidance
 of one PhD scholar (in an advanced stage of her research) for the
 Associate Professor’s post, or two completed PhDs under the
 candidate’s guidance (at least one completed + one past the
 pre-synopsis stage) for the Professor’s post would normally be
 considered necessary. Any deviation from this norm would have to be
 appropriately justified at the IFAC meeting. During the shortlisting
-process, the Department may note, and give due importance to,
+process, the academic unit may note, and give due importance to,
 instances of exceptional performance, such as sustained excellence in
 teaching, publications of high impact/ in high impact-factor journals,
 highly successful translation and commercialization of the faculty’s
@@ -1220,11 +1223,11 @@ research.
 
 Each application is required to have eight (8) peer reviews. Out of
 these 8, at-most 4 reviewers can be suggested by the candidate while 4
-reviewers would be identified by the department. All applications
-considered by the departments with their recommendations are presented
-to the IFAC by the Heads of the respective departments for
+reviewers would be identified by the academic unit. All applications
+considered by the academic units with their recommendations are presented
+to the IFAC by the Heads of the respective academic units for
 consideration. IFAC takes into account the shortlisting done by the
-department and verifies that the criteria approved by the IFAC have
+academic unit and verifies that the criteria approved by the IFAC have
 been satisfied.
 
 ### Peer Review
@@ -1243,16 +1246,16 @@ necessary before a selection committee can be constituted.
 ### Selection Committee and Interview
 
 The Dean (FA) recommends to the Director the setting up of a selection
-committee for the candidates of a department with composition as per
-IIT Bombay statute. All the applications received by the department,
-the shortlisting criteria of the department and all candidates
-considered by the department are placed before the selection committee
+committee for the candidates of an academic unit with composition as per
+IIT Bombay statute. All the applications received by the academic unit,
+the shortlisting criteria of the academic unit and all candidates
+considered by the academic unit are placed before the selection committee
 for its consideration and approval. After the due constitution of the
 statutory selection committees, interview schedules are published by
 the administration, and the candidates are invited for personal
 interview. All the internal candidates must present a seminar based on
 the research performed during the assessment period in the
-department. External expert members of the selection committee may be
+academic unit. External expert members of the selection committee may be
 invited for the seminar. In addition, candidates are also asked to
 present a research summary during the personal interview. The
 selection committee recommends whether or not the candidate may be
@@ -1269,10 +1272,10 @@ other terms etc.
 ### Method for Determining Professors to be Moved to HAG scale
 
 1. _Composition of D-HAG Committee:_ Scoring should be done by a
-   committee called D-HAG constituted by the Head of the Department. The
+   committee called D-HAG constituted by the Head of the academic unit. The
    committee is to consist of 3 to 4 members, all of whom must be on
    HAG scale. In case there are not enough people on HAG scale in a
-   department, faculty on HAG scale from other departments may be
+   academic unit, faculty on HAG scale from other academic units may be
    inducted into the committee.
 
 2. _Submission of HAG form to D-HAG:_ Heads will be provided a list A
@@ -1291,8 +1294,8 @@ other terms etc.
    faculty member for feedback, before it is sent to IFAC. The
    Conveners of D-HAG committees will present the cases of professors
    who qualify for HAG scale in a meeting of IFAC. Justifications for
-   each score, including any additional department policies, and
-   department averages (such as number of courses and publications)
+   each score, including any additional academic unit policies, and
+   academic unit averages (such as number of courses and publications)
    must be provided to IFAC. IFAC will release a list of professors
    recommended for HAG scale.
 
@@ -1314,34 +1317,36 @@ seniority list.
 
 Points are computed for the applicant based on the following criteria.
 
-- **Teaching (A1)**: A teaching score that is at least 0.5 times less 1 time the six year annual department average teaching score counts for of 1 point. A teaching score that is more than the six year annual department and less than twice the department average counts for 3 points. Finally, a teaching evaluation score in excess of twice the department average counts for 5 points. In addition, the following recommendations are considered:
+- **Teaching (A1)**: A teaching score that is at least 0.5 times less 1 time the six year annual academic unit average teaching score counts for of 1 point. A teaching score that is more than the six year annual academic unit and less than twice the academic unit average counts for 3 points. Finally, a teaching evaluation score in excess of twice the academic unit average counts for 5 points. In addition, the following recommendations are considered:
   1. Courses taught by the faculty member in the evaluation period (that is,  after promotion to professor) are to be counted.
   2. “1” course is defined as a full semester lecture course. Include summer courses delivered in full lecture/lab.
   3. For a course with sections, each section of a course can be considered as a separate course.
-  4. Lab course = 0.3, 0.5 or 1.0 of a regular lecture course, based on credits, department norms and actual effort per faculty.
-  5. Department average is to be computed based on course load in the previous 6 years.
-  6. Departments may consider lab development as equal to 0.5 or 1 course depending on the effort involved.
+  4. Lab course = 0.3, 0.5 or 1.0 of a regular lecture course, based on credits, academic unit norms and actual effort per faculty.
+  5. Academic unit's average is to be computed based on course load in the previous 6 years.
+  6. Academic unit may consider lab development as equal to 0.5 or 1 course depending on the effort involved.
   7. A shared lecture courses by two instructors may be given 0.5 credit of a full Course.
   8. A half-semester course is to be given 0.5 credit of a full course.
-  9. Departments which run/maintain facilities used extensively by other entities may optionally consider operation of such facilities as equivalent to 0.5 course.
+  9. Academic units which run/maintain facilities used extensively by other entities may optionally consider operation of such facilities as equivalent to 0.5 course.
   10. No credit to be given for course that consists entirely of coordination and uses external resources/lecturers.
-  11. If score is 3 by above rules, and further the teaching score computed for excellence in teaching award for the previous 5 years (under the new scheme) is at or above the 80$^{\text{th}}$ percentile of department faculty scores, increment score to 5.
+  11. If score is 3 by above rules, and further the teaching score computed for excellence in teaching award for the previous 5 years (under the new scheme) is at or above the 80$^{\text{th}}$ percentile of academic unit faculty scores, increment score to 5.
   12. If score is 3 by above rule-set, plus a textbook published during period of evaluation, increment score to 5
-- **Academic Research (A2)**: 1 point is awarded if M.Tech. / M.Sc. theses are guided. 3 points are awarded if the  Ph.D and M.Tech./M.Sc. theses have been guided _and_ the number of publications is 1.5 to 3 times current department publication norms for promotion from Associate to full Professor. Finally, if in addition to the previous point, the number of publications is more than 3 times current department publication norms for promotion from Associate to full Professor, 5 points are awarded. In addition, the following recommendations are considered:
+- **Academic Research (A2)**: 1 point is awarded if M.Tech. / M.Sc. theses are guided. 3 points are awarded if the  Ph.D and M.Tech./M.Sc. theses have been guided _and_ the number of publications is 1.5 to 3 times current academic unit publication norms for promotion from Associate to full Professor. Finally, if in addition to the previous point, the number of publications is more than 3 times current academic unit publication norms for promotion from Associate to full Professor, 5 points are awarded. In addition, the following recommendations are considered:
 
   1. B.Tech/M.Sc. project guidance of a research kind may be optionally included (Departmental option)
-  2. Publication norms approved by IFAC for promotion are to be followed when counting number of publications (e.g. quality requirements on venue, extra weightage for very high quality venues, averages by specialization within the department, etc.)
+  2. Publication norms approved by IFAC for promotion are to be followed when counting number of publications (e.g. quality requirements on venue, extra weightage for very high quality venues, averages by specialization within the academic unit, etc.)
   3. 2 extra points (subject to maximum total of 5) may be awarded for national/international recognition of research, such as national level awards (Swarna Jayanti award, S. S. Bhatnagar award, Infosys award), fellowship of recognized national/international academies (NASI, INSA, INAE, IAS, AAS). Awards/fellowships/other recognitions other than those listed may be considered subject to approval of IFAC. Date of
 conferment of recognition need not be in assessment period.
   4. 2 extra points (subject to maximum total of 5) may be awarded for any other exceptional achievements, subject to approval of IFAC.
 - **Sponsored Research (B1)**: Applicants with no projects get a score of 0. The total count of projects of candidate initiated during the assessment period (see notes below for fractional counts) are to
-be compared with 6 $\times$ the department average of projects initiated over last 6 years is first computed. Candidates with count < 6 $\times$ the department average will receive 1 point. Those with
-scores in (1 to 2) times (6 $\times$ Department Average) will get 3 points. Those with score > 2 times (6 $\times$ Department Average) will receive 5 points. The additional recommendations are:
+be compared with 6 $\times$ the academic unit average of projects initiated over last 6 years is first computed. Candidates with count < 6 $\times$ the academic unit average will receive 1 point. Those with
+scores in (1 to 2) times (6 $\times$ academic unit average) will get 3
+points. Those with score > 2 times (6 $\times$ academic unit average) will receive 5 points. The additional recommendations are:
   1. Information about projects and funding are to be taken from IRCC online records
   2. For multi-investigative projects, fractional share of a professor should be as per share declared in IRCC.
-  3. For large departmental projects such as FIST, IRHPA etc., the departmental committee to consider contributions while apportioning credit.
+  3. For large departmental projects such as FIST, IRHPA etc., the
+     academic unit's committee to consider contributions while apportioning credit.
   4. A transferred technology = 1 sponsored project
-  5. Number/scope of projects and/or funding initiated in the assessment period may be taken into account when comparing with department average
+  5. Number/scope of projects and/or funding initiated in the assessment period may be taken into account when comparing with academic unit average
   6. Count of projects and funding as per IRCC
   7. 2 extra points (subject to maximum total of 5) may be awarded for exceptional achievements in sponsored research projects, subject to approval of IFAC.
 - **Extension Activities (B2)**: Significant participation in any one activity would yield in 1 point. Participation in any three activities yields 3 points, while any five yields 5 points. Activities include those listed below. Participation level in each activity may be judged as indicated with each activity.
@@ -1352,7 +1357,7 @@ scores in (1 to 2) times (6 $\times$ Department Average) will get 3 points. Thos
   5. Number of Continuing Education Programmes (Courses) conducted.
   6. Outreach activities
   7. 2 extra points may be given for exceptional performance in any one or more activities, subject to approval of IFAC.
-  8. Committee to consider deciding “significant/ Extensive” based on department average over last 6 years).
+  8. Committee to consider deciding “significant/ Extensive” based on academic unit average over last 6 years).
 - **Administration (B3)**: Points are to be awarded for each year of administrative service on Senate approved positions, as per list below. Maximum score is 5, and fractional parts of total score are to be discarded after addition.
   1. Warden, Associate Warden, Associate Dean, Heads of Centres, Professor in Charge, Convenor of IDPs, UGAPEC, PGAPEC: 0.5 point per year
   2. Dean, Head of academic units: 1 point per year 3.
@@ -1454,7 +1459,7 @@ R&D). The rules thereof are summarized
 [here](https://rndhelp.ircc.iitb.ac.in/projects/consultancy-projects/revised-consultancy-practice-rules-and-norms-2003).
 
 IIT Bombay offers Consultancy services to industries, the service sector,
-Govt. departments and other National and International agencies in
+Govt. academic units and other National and International agencies in
 all areas of expertise available in the Institute. The service
 offered shall be along the lines of 'Professional Services' and will
 hence carry with them obligations and ethical requirements associated
@@ -1625,7 +1630,7 @@ Once a consultancy project request is directed to PI the following steps are to 
     Expertise. For Cost Estimate Form, click as appropriate.
 
  6. When the project application is made, it is forwarded to the
-    department HOD for approval. The PI can see the status of his
+    academic unit HOD for approval. The PI can see the status of his
     application in Project Details.
 
  7. All the actions taken on your request will be informed to you by email.
@@ -1858,7 +1863,7 @@ When you receive your salary slip, you will find some deductions as well. The pr
 1. _Income Tax:_ Income tax rates are as per finance bill passed by
    the Parliament every year. It is possible to minimize your tax
    liability through some tax saving mechanisms. Almost every
-   Department has a local expert on such matters for advising you on
+   academic unit has a local expert on such matters for advising you on
    this. Filing an income tax return every year is compulsory. Unless
    the last date is extended, returns have to be filed by 31$^{\text{st}}$ July of
    the following financial year for which the return is being
@@ -2215,7 +2220,7 @@ project account. Details are available
 IRCC ploughs back another percentage (again, 15% at the time of
 writing) of the overheads from sponsored projects back into a
 Departmental Development Fund (DDF). The funds therein are intended to
-be utilized by the Head for departmental needs, usually in the nature
+be utilized by the Head of the academic unit for departmental needs, usually in the nature
 of Consumables, Maintenance, and Travel – these could range from
 teaching lab consumables and maintenance to student conference travel
 support.
@@ -2275,7 +2280,7 @@ forms of leave. Technically, no leave is a matter of right and has to
 be sanctioned/approved by the competent authority. However, except under unusual circumstances (for instance,
 if a group of employees wish to take mass casual leave to register
 protest against something) and discipline related cases, leave is
-generally NOT refused. Departments may sometimes have reasons for not
+generally NOT refused. Academic units may sometimes have reasons for not
 recommending sanction of leave in case your services are required for
 any purpose. The following are general guidelines and are not
 exhaustive. For complete information, faculty members should refer to
@@ -2412,7 +2417,7 @@ webpage](https://doe.gov.in/order-circular/general-financial-rules2017-0). The
 salient features are outlined below. As a faculty member at IIT
 Bombay, it is useful to be cognizant of these as you get involved in
 receiving and spending money, particularly from government sources,
-for your research programmes, or for department/institute purposes.
+for your research programmes, or for academic unit/institute purposes.
 
 As per GFR 2017, all money received by or on behalf of the government
 either as dues of government or for deposits, remittances or otherwise
@@ -2453,7 +2458,7 @@ Don’ts for "Works" are given in GFR 2017 under "Works" head.
 Inventory Management contains the basic rules applicable to all
 Ministry or Departments regarding inventory Management. This addresses
 receipt of goods and materials from Private suppliers, issue of goods
-within Department/Institutes, Buffer Stock, Physical Verification of
+within academic unit/Institutes, Buffer Stock, Physical Verification of
 Assets and Library books, Disposal of goods etc. They may be be viewed
 under “Inventory Management” section of the GFR-2017.
 
@@ -2557,23 +2562,27 @@ The various designations in the faculty cadres along with their responsibilities
 1. **Regular faculty**:
    - *Appointment details*: Full time permanent appointments at any
      level (Assistant, Associate and full Professors). These are made
-     through a selection committee or through invitation by BOG.
+     through a selection committee or through invitation by
+     BOG. Assistant Professor (Grade-II) is offered by Selection
+     Committee to candidates who do not have 3 year
+     post-Ph.D. experience. The regularization process is initiated
+     once they complete three years post Ph.D. requirement.
+   - *Academic activities*: Teaching, research, student guidance, other academic activities of the institute.
    - *R&D activities*:
-      - They are eligible for a one time seed grant from the Institute. They can also take up all types of R&D Projects, including consultancy projects.
-      - They can promote companies in SINE.
-      - They can be Directors of companies as per Institute norms.
-     - Eligible for one time seed grant, can take up all R&D Projects which includes consultancy
-   - *Academic activities*: They can guide students, and participate in all academic activities of the institute.
-   - *Administration related activities*: They can take up admin work as delegated by the Institute/department from time to time.
+	  - Eligible for a one time seed grant from the Institute.
+      - Can take up all types of R&D Projects, including consultancy projects. 
+      - Can promote companies in SINE.
+      - Can be Directors of companies as per Institute norms.
+   - *Administration related activities*: Expected to be actively involveved in administrative responsibilities as assigned by academic units and the institute.
 
-2. **Assistant Professor (Grade-II)**:
-   - *Appointment details*: Equivalent to regular faculty; appointed thus because they are short of the 3-year post-PhD experience required for appointment as regular Assistant Professor; likely to be regularized when this requirement is met.
-   - *R&D activities*:
-      - They are eligible for a one time seed grant from the Institute. They can also take up all types of R&D Projects, including consultancy projects.
-      - They can promote companies in SINE.
-      - They can be Directors of companies as per Institute norms.
-   - *Academic activities*: They can guide students, and participate in all academic activities of the institute.
-   - *Administration related activities*: They can take up admin work as delegated by the Institute/department from time to time.
+<!-- 2. **Assistant Professor (Grade-II)**: -->
+<!--    - *Appointment details*: Equivalent to regular faculty; appointed thus because they are short of the 3-year post-PhD experience required for appointment as regular Assistant Professor; likely to be regularized when this requirement is met. -->
+<!--    - *R&D activities*: -->
+<!--       - They are eligible for a one time seed grant from the Institute. They can also take up all types of R&D Projects, including consultancy projects. -->
+<!--       - They can promote companies in SINE. -->
+<!--       - They can be Directors of companies as per Institute norms. -->
+<!--    - *Academic activities*: They can guide students, and participate in all academic activities of the institute. -->
+<!--    - *Administration related activities*: They can take up admin work as delegated by the Institute/department from time to time. -->
 
 3. **On contract (on scale) and Distinguished Professor**:
    - *Appointment details*: Appointed (through a recommendation by Institute Standing Committee for faculty appointment) for specific duration and may/may not be considered for regularisation (includes faculty on exchange from other IITs).
@@ -2591,7 +2600,7 @@ The various designations in the faculty cadres along with their responsibilities
    - *Appointment details*:
      - **Professors on Contract** are eminent scientists and academics who have retired from Central/State Government entities/Autonomous Bodies/Private Organisations, but are yet to attain the age of retirement of regular faculty members at IIT Bombay (or 70 years), to take up full time faculty positions. They are appointed to take up full time contract positions on scale for a three year term extendable to five years (or till they are 70; whichever is earlier). They are entitled to all the benefits offered to regular faculty members such as CPDA and leave.
      - **Emeritus Fellow** position is considered a prestigious appointment. The nominees for Emeritus Fellows should have consistently excelled in (a) service (b) research and (c) teaching. Their performance in at least two of the above
-three activities should be better than the department average in the last 10 years. The appointees should have been recognized nationally through awards, Fellowships of national academies etc. Emeritus Fellowship should not be considered for teaching requirements alone.
+three activities should be better than the academic unit average in the last 10 years. The appointees should have been recognized nationally through awards, Fellowships of national academies etc. Emeritus Fellowship should not be considered for teaching requirements alone.
 
        Departments may consider additional criteria to recommend/nominate retiring faculty members for Emeritus Fellowship. Departments may also decide not to recommend any faculty member for Emeritus Fellowship.
    - *R&D activities*: Same as #3
@@ -2700,7 +2709,10 @@ What happens after you have served out your active life with the Institute? Most
 This is the term used for official completion of your regular appointment. It happens on the last day of the month in which you complete 65 years of age. For example, If your birthday falls on the 1$^{\text{st}}$ of the June, you will superannuate on the last day of the previous month (that is,  May 31$^{\text{st}}$). However, if your birthday is between 2nd and 30$^{\text{th}}$ of June, then you will superannuate on 30$^{\text{th}}$ June. Usually, the Director offers you a cup of tea and hands over a few retirement cheques on this day.
 
 ### Re-employment
-Faculty members are usually reappointed till the last day of the academic semester (that is, , either till 31$^{\text{st}}$ December or 30$^{\text{th}}$ June, depending on the birth date) in the year in which they complete 65, based on a recommendation from the department. During the period of re-employment, those who receive pension cheques as well as a component of salary in such a way that the two together do not exceed the last drawn salary. Further, many service benefits come to an end. The re-appointment letter from the Director will make it clear as to what benefits will still be available. As per the current practice, the medical facilities will continue during the period of re-employment. As per Govt. of India rules, you will continue to be eligible for LTC provided there is no break between the regular appointment and the re-employment.
+Faculty members are usually reappointed till the last day of the
+academic semester (that is, , either till 31$^{\text{st}}$ December or
+30$^{\text{th}}$ June, depending on the birth date) in the year in
+which they complete 65, based on a recommendation from the academic unit. During the period of re-employment, those who receive pension cheques as well as a component of salary in such a way that the two together do not exceed the last drawn salary. Further, many service benefits come to an end. The re-appointment letter from the Director will make it clear as to what benefits will still be available. As per the current practice, the medical facilities will continue during the period of re-employment. As per Govt. of India rules, you will continue to be eligible for LTC provided there is no break between the regular appointment and the re-employment.
 
 ### Retirement schemes
 For those who joined the Institute before 2004, there were two retirement schemes to choose from, _viz._ Contributory Provident Fund-cum-gratuity Scheme (CPF) and General Provident Fund-cum-Pension-cum-gratuity Scheme (GPF). The salient features of these schemes are as follows.
