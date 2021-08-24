@@ -1587,7 +1587,7 @@ limits:
        if the scope is altered, a fresh estimate may be considered.
 
    12. The minimum charges applicable in respect of consultancy jobs
-       will be ₹10,000 excluding any applicable tax.
+       will be ₹10,000/- excluding any applicable tax.
 
    13. It is desirable that Preliminary Diagnostic Discussions / Site
        Visits, leading to the generation of consultancy proposals may
@@ -1660,9 +1660,9 @@ The process for approval is as follows:
 The disbursement of CF and CPTS will entail a deduction of 30% as the
 Institute share for Consultant’s (or CPTS) earnings. This deduction
 will be on the actual amount disbursed as CF (CPTS). For example, a
-disbursement of \text{₹} 1,00,000 as consultancy fee would entail a
-deduction of \text{₹} 30,000 as Institute share, and the remaining
-\text{₹} 70,000 will be sent to the salary account, where TDS will be
+disbursement of \text{₹} 1,00,000/- as consultancy fee would entail a
+deduction of \text{₹} 30,000/- as Institute share, and the remaining
+\text{₹} 70,000/- will be sent to the salary account, where TDS will be
 deducted as appropriate.
 
 Note: Earnings for Technology Transfer, Revenue Sharing and Royalty will be governed by the Intellectual Property Policy of the Institute.
@@ -1732,13 +1732,20 @@ The salary that you get has several components.
    following pay levels. D.A. stands for "Dearness Allowance",
    described subsequently.
 
-   - *Pay Level 10*: Salary range ₹ 57,000 to ₹ 98,200 (plus D.A.)
-   - *Pay Level 11*: Salary range ₹ 68,900 to ₹ 117,200 (plus D.A.)
-   - *Pay Level 12*: Salary range ₹ 101,500 to ₹ 167,400 (plus D.A.)
-   - *Pay Level 13A1*: Salary range ₹ 131,400 to ₹ 204,700 (plus D.A.)
-   - *Pay Level 13A2*: Salary range ₹ 139,600 to ₹ 211,300 (plus D.A.)
-   - *Pay Level 14A*: Salary range ₹ 144,200 to ₹ 211,800 (plus D.A.)
-   - *Pay Level 15*: Salary range ₹ 182,200 to ₹ 224,100 (plus D.A.)
+   - *Pay Level 10*: Salary range ₹ 57,000/- to ₹ 98,200/- (plus D.A.)
+     per month.
+   - *Pay Level 11*: Salary range ₹ 68,900/- to ₹ 117,200/- (plus
+     D.A.) per month.
+   - *Pay Level 12*: Salary range ₹ 101,500/- to ₹ 167,400/- (plus
+     D.A.) per month.
+   - *Pay Level 13A1*: Salary range ₹ 131,400/- to ₹ 204,700/- (plus
+     D.A.) per month.
+   - *Pay Level 13A2*: Salary range ₹ 139,600/- to ₹ 211,300/- (plus
+     D.A.) per month.
+   - *Pay Level 14A*: Salary range ₹ 144,200/- to ₹ 211,800/- (plus
+     D.A.) per month.
+   - *Pay Level 15*: Salary range ₹ 182,200/- to ₹ 224,100/- (plus
+     D.A.) per month.
 
    Your salary within the pay band is fixed at the time of your
    appointment and increases every year by an _increment_, as defined
@@ -1751,12 +1758,13 @@ The salary that you get has several components.
    - _Assistant Professor:_ Assistant Professors fall into the
      following levels, based on their experience:
 	 - _0 to 1 year of post-PhD experience (Assistant Professor Grade II):_ Pay
-Level 10, with starting a salary of ₹ 84,700 plus D.A.
+Level 10, with starting a salary of ₹ 84,700/- plus D.A. per month.
 	 - _1 to 3 years of post-PhD experience (Assistant Professor Grade II):_ Pay
-       Level 11, with a starting salary of ₹ 89,900 plus D.A.
+       Level 11, with a starting salary of ₹ 89,900/- plus D.A. per month.
 	 - _3 years or more of post-PhD experience (Assistant Professor Grade I):_ Pay Level 12, with a
-       starting salary of ₹ 101,500 plus D.A.
-	 - _After 3 years in Pay Level 12 (Assistant Professor Grade I)_: Pay Level 13A1 ₹ 131,400 plus D.A.
+       starting salary of ₹ 101,500/- plus D.A. per month.
+	 - _After 3 years in Pay Level 12 (Assistant Professor Grade I)_:
+       Pay Level 13A1 ₹ 131,400/- plus D.A. per month.
 
 	 If you have joined IIT after having served for some time as
 	 Assistant Professor in another IIT or a central University or
@@ -1788,7 +1796,7 @@ Level 10, with starting a salary of ₹ 84,700 plus D.A.
    for this scale is six years of service as a Professor. A maximum of
    40% of the total number of Professors can be placed in this
    scale. The corresponding Pay Level is 15, and the salary range is
-   from ₹ 182,000 to ₹ 224,100. Typically, it takes about 12 years to become a HAG scale Professor after becoming Professor.
+   from ₹ 182,000/- to ₹ 224,100/- per month. Typically, it takes about 12 years to become a HAG scale Professor after becoming Professor.
 
    - _Institute and Endowed Chairs for faculty:_ As a means of
    recognizing outstanding performance, the Institute has several
@@ -1797,7 +1805,7 @@ Level 10, with starting a salary of ₹ 84,700 plus D.A.
    managed by the Dean (ACR)'s office, which also takes an active role
    in raising funds for further chairs. The selection to these Chairs is done by a Selection Commitees. The tenure of the Chair Professorship position is for a period of three years, and the chair is re-advertised at the end of that
    period. Faculty who hold chairs receive a salary top up of ₹
-   30,000 per month and a contingency grant of ₹ 90,000 per year, in
+   30,000/- per month and a contingency grant of ₹ 90,000/- per year, in
    addition to their salaries.
 
 3. _Dearness Allowance:_ A component termed as Dearness Allowance to
@@ -1822,7 +1830,7 @@ Level 10, with starting a salary of ₹ 84,700 plus D.A.
 5. _Transport Allowance:_ All employees, irrespective of whether they
    live within the campus or commute from outside, are eligible to
    receive a transport allowance. For those in the faculty cadre, the
-   rate of transport allowance is ₹ 7,200 per month. In addition, the
+   rate of transport allowance is ₹ 7,200/- per month. In addition, the
    Dearness Allowance at prevailing rate is payable on this amount as
    well. (Note: The transport allowance payable to the blind or
    orthopedically handicapped employees is double this rate).
@@ -2044,12 +2052,12 @@ this amount.
 ### Children's Education Allowance
 Expenses incurred in admitting up to to two children through school (from
 nursery to twelfth class) can be reimbursed subject to an annual
-ceiling of ₹ 27,000. Allowed expenses that can be claimed under this
+ceiling of ₹ 27,000/- per annum. Allowed expenses that can be claimed under this
 head include tuition fee, admission fee, laboratory fee, special fee
 charged for electronics, agriculture, sports fee, Library fee, cost of
 purchase on set of textbooks and note books, two sets of uniforms
 (including one pair of shoes) etc. Reimbursement can be claimed at the
-rate of ₹ 6,750 per quarter or for the full amount in the last quarter
+rate of ₹ 6,750/- per quarter or for the full amount in the last quarter
 of the financial year. The quantum of reimbursement for disabled
 children is twice this amount.
 
@@ -2083,8 +2091,8 @@ agencies. Mobiles and personal computers / laptops etc. are not
 permitted to be purchased using contingency grant.
 
 Out of the maximum allocation of contingency fund of ₹ 1 lakh in the
-block of three years, an amount up to ₹ 33,000 can be spent in the
-first year, a further ₹ 33,000 plus the unused portion of the first
+block of three years, an amount up to ₹ 33,000/- can be spent in the
+first year, a further ₹ 33,000/- plus the unused portion of the first
 year's allocation in the second year, and the entire unspent balance
 out of the total allocation in the last year.
 
@@ -2272,18 +2280,18 @@ As per the 7$^{\text{th}}$ Pay Commission rules, the daily allowance entitlement
 
 *Pay Level*     Entitlement
 ----------      -----------
-14 and above    Reimbursement of hotel accommodation/guest house of up to ₹7,500 per day.
+14 and above    Reimbursement of hotel accommodation/guest house of up to ₹7,500/- per day.
                 Reimbursement of AC taxi charges as per actual expenditure commensurate
                 with official engagements for travel within the city and
-                Reimbursement of food bills not exceeding ₹1,200 per day
-12 and 13       Reimbursement of hotel accommodation/guest house of up to ₹4,500 per day.
+                Reimbursement of food bills not exceeding ₹1,200/- per day
+12 and 13       Reimbursement of hotel accommodation/guest house of up to ₹4,500/- per day.
                 Reimbursement of AC taxi charges of up to 50 km per day
                 for travel within the city and
-                Reimbursement of food bills not exceeding ₹1,000 per day
-9 to 11         Reimbursement of hotel accommodation/guest house of up to ₹2,250 per day.
-                Reimbursement of non-AC taxi charges of up to ₹338 per day
+                Reimbursement of food bills not exceeding ₹1,000/- per day
+9 to 11         Reimbursement of hotel accommodation/guest house of up to ₹2,250/- per day.
+                Reimbursement of non-AC taxi charges of up to ₹338/- per day
                 for travel within the city and
-                Reimbursement of food bills not exceeding ₹900 per day
+                Reimbursement of food bills not exceeding ₹900/- per day
 
 
 <!-- TODO INTERNATIONAL TRAVEL? -->
