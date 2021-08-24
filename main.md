@@ -2557,23 +2557,25 @@ Institute.
 In 2005, the Indian Parliament enacted a legislation known as the Right to Information (RTI) Act, which empowers a citizen to get any information from the Government or from any publicly funded institution. Exceptions are few and an educational institute does not qualify for exemption. This requires faculty members to be extra careful. For instance, any one can ask for the marking scheme adopted while awarding grades or, for that matter, a copy of the mark sheets of all students in a course. A query from the Institute’s Public Information Officer must be answered within a stipulated time limit. Details of RTI is available on IIT Bombay's website.
 
 # Faculty designations and responsibilities {#sec:facultygrades}
-The various designations in the faculty cadres along with their responsibilities to the Institute is listed below:
+This chapter lists the various faculty designations and appointment
+details.
 
-1. **Regular faculty**:
-   - *Appointment details*: Full time permanent appointments at any
-     level (Assistant, Associate and full Professors). These are made
-     through a selection committee or through invitation by
-     BOG. Assistant Professor (Grade-II) is offered by Selection
-     Committee to candidates who do not have 3 year
-     post-Ph.D. experience. The regularization process is initiated
-     once they complete three years post Ph.D. requirement.
-   - *Academic activities*: Teaching, research, student guidance, other academic activities of the institute.
-   - *R&D activities*:
-	  - Eligible for a one time seed grant from the Institute.
-      - Can take up all types of R&D Projects, including consultancy projects. 
-      - Can promote companies in SINE.
-      - Can be Directors of companies as per Institute norms.
-   - *Administration related activities*: Expected to be actively involveved in administrative responsibilities as assigned by academic units and the institute.
+## Regular faculty
+
+ - *Appointment details*: Full time permanent appointments at any
+   level (Assistant, Associate and full Professors). These are made
+   through a selection committee or through invitation by
+   BOG. Assistant Professor (Grade-II) is offered by Selection
+   Committee to candidates who do not have 3 year
+   post-Ph.D. experience. The regularization process is initiated
+   once they complete three years post Ph.D. requirement.
+ - *Academic activities*: Teaching, research, student guidance, other academic activities of the institute.
+ - *R&D activities*:
+    - Eligible for a one time seed grant from the Institute.
+    - Can take up all types of R&D Projects, including consultancy projects. 
+    - Can promote companies in SINE.
+    - Can be Directors of companies as per Institute norms.
+ - *Administration related activities*: Expected to be actively involveved in administrative responsibilities as assigned by academic units and the institute.
 
 <!-- 2. **Assistant Professor (Grade-II)**: -->
 <!--    - *Appointment details*: Equivalent to regular faculty; appointed thus because they are short of the 3-year post-PhD experience required for appointment as regular Assistant Professor; likely to be regularized when this requirement is met. -->
@@ -2584,118 +2586,159 @@ The various designations in the faculty cadres along with their responsibilities
 <!--    - *Academic activities*: They can guide students, and participate in all academic activities of the institute. -->
 <!--    - *Administration related activities*: They can take up admin work as delegated by the Institute/department from time to time. -->
 
-3. **On contract (on scale) and Distinguished Professor**:
-   - *Appointment details*: Appointed (through a recommendation by Institute Standing Committee for faculty appointment) for specific duration and may/may not be considered for regularisation (includes faculty on exchange from other IITs).
-   - *R&D activities*: Same as #1, except that
-	 - They are not eligible for Seed Grant
-	 - They may be PIs, but a Co-PI who has to give a declaration that
-       he/she will take responsibility of the project deliverables is mandatory.
-   - *Academic activities*: They can be Guides, but with a mandatory Co-Guide, depending on the duration of the appointment; Co-guide has to give a declaration to take responsibility of the students.
-   - *Administration related activities*:
-     - Cannot be members of any statutory committees or of any
-       department committees appointed by the Director (such as DPC,
-       DUGC, DPGC, Search committees, etc.).
+## Short Term Visiting Faculty
 
-4. **Professor on Contract and Emeritus Fellow**:
-   - *Appointment details*:
-     - **Professors on Contract** are eminent scientists and academics who have retired from Central/State Government entities/Autonomous Bodies/Private Organisations, but are yet to attain the age of retirement of regular faculty members at IIT Bombay (or 70 years), to take up full time faculty positions. They are appointed to take up full time contract positions on scale for a three year term extendable to five years (or till they are 70; whichever is earlier). They are entitled to all the benefits offered to regular faculty members such as CPDA and leave.
-     - **Emeritus Fellow** position is considered a prestigious appointment. The nominees for Emeritus Fellows should have consistently excelled in (a) service (b) research and (c) teaching. Their performance in at least two of the above
-three activities should be better than the academic unit average in the last 10 years. The appointees should have been recognized nationally through awards, Fellowships of national academies etc. Emeritus Fellowship should not be considered for teaching requirements alone.
+Short term visiting faculty positions are meant for faculty members or
+specialists employed elsewhere who are invited for research
+collaborations, or for delivering short courses, to research scholars
+and faculty members consisting of at least two lectures per
+week. The specific appointments in this category along with the
+salaries prevailing at the time of writing are
 
-       Departments may consider additional criteria to recommend/nominate retiring faculty members for Emeritus Fellowship. Departments may also decide not to recommend any faculty member for Emeritus Fellowship.
-   - *R&D activities*: Same as #3
-   - *Academic activities*: Same as #3. In addition, they will be invited to the senate.
-   - *Administration related activities*: Same as #3.
+ - Visiting Assistant Professor (salary of ₹ 1,25,000/- per month on
+   pro rata basis)
+ - Visiting Associate Professor (salary of ₹ 1,75,000/- per month on
+   pro rata basis)
+ - Visiting Professor (salary of ₹ 2,00,000/- per month on
+   pro rata basis)
+ - Distinguished Visiting Professor (salary of ₹ 2,25,000/- per month
+   on pro rata basis, and guest house accommodation charges borne by
+   the institute)
 
-5. **Emeritus Professor**:
-   - *Appointment details*: Honorary Position given to faculty for their contribution to the institute. Only titular appointments.
-   - *R&D activities*:
-      - May be only mentors for R&D projects and not Investigators.
-	  - Could be taken as external consultants in projects undertaken by other regular faculty.
-   - *Academic activities*:
-     - Cannot be Guides/ Co-Guides for students.
-     - Cannot be members of RPC.
-     - Can be external Co-guides, subject to prior approval of Dean (AP).
-   - *Administration related activities*: No administrative activities allowed.
+The following are the terms and conditions that govern short term
+visiting faculty appointments and their duties:
 
-6. **Emeritus Scientist**:
-   - *Appointment details*: Retired professionals carrying out
-     specific R&D projects funded by government agencies, at the
-     Institute (Institute’s offer will be for a visiting honorary
-     position, based on a recommendation by the standing Institute
-     Standing Committee but the salary/fellowship will come from the
-     project/scheme).
-   - *R&D activities*:
-     - Will be able to operate only their projects.
-     - All such applications will need to be routed through Dean (FA).
-     - IRCC will implement the project as per norms.
-     - Not eligible to submit new projects through IRCC.
-     - No RDF accrual from overheads, only to IRCC and to DDF.
-   - *Academic activities*: Same as #5.
-   - *Administration related activities*: Same as #5.
+ - *Appointment details*: Proposals are scrutinised by the academic
+   unit's policy committee and its recommendations are sent to Dean
+   (FA). These are then discussed and approved in the Standing
+   Committee Meeting.
+ - *Academic activities*: They can be Guides, but with a mandatory Co-Guide, depending on the duration of the appointment; Co-guide has to give a declaration to take responsibility of the students.
+ - *R&D activities*: Same as regular faculty, except that
+    - They are not eligible for Seed Grant
+    - They may be PIs, but a Co-PI who has to give a declaration that
+      he/she will take responsibility of the project deliverables is mandatory.
+ - *Administration related activities*:
+   - Cannot be members of any statutory committees or of any
+     department committees appointed by the Director (such as DPC,
+     DUGC, DPGC, Search committees, etc.).
 
-7. **Visiting Faculty**:
-   - *Appointment details*: Visit the Institute for a duration ranging from a few weeks to three years on a continued basis: such faculty would have a permanent position elsewhere in academia, industry or other organizations.
-Visit the Institute on a part time basis, generally for teaching (up to three days a week). There are 4 types of short term visiting faculty: Visiting Assistant Professor, Visiting Associate Professor, Visiting Professor and Distinguished
-Visiting Professor.
-   - *R&D activities*:
-      - Cannot be PIs or Co-PIs.
-	  - No financial/administrative powers in projects.
-	  - Can participate only in technical activities of Sponsored projects
-	 - May be retained as external consultant in consultancy projects as per norms.
-	 -  No faculty fee allowed in projects other than through the external consultant mode.
+## Adjunct Faculty
+Adjunct faculty are typically retired IIT Bombay faculty members or
+external experts appointed to teach full or half courses. These
+appointments along with their salary per day of week are:
+
+- Adjunct Assistant Professor (salary of ₹ 25,000/- for 1 day per week
+  on pro rata basis)
+- Adjunct Associate Professor (salary of ₹ 30,000/- for 1 day per week
+  on pro rata basis)
+- Adjunct Professor (salary of ₹ 40,000/- for 1 day per week
+  on pro rata basis)
+
+Adjunct faculty members do not get Institute accommodation. However,
+they may stay in the guest house on payment basis at official rates
+provided rooms are available.  Pension, if any, is not deducted from
+salary for such appointments.
+
+
+The following are the terms and conditions that govern adjunct faculty
+appointments and their duties:
+   - *Appointment details*: TODO
    - *Academic activities*:
      - Can be Co-Guides for M.Tech / M.Sc students / PhD students based on duration of association.
      - Cannot be members of RPCs.
-   - *Administration related activities*: No administrative activities allowed.
-
-8. **Adjunct Faculty**:
-   - *Appointment details*: Generally for retired IITB faculty members or external experts appointed to teach full or half courses. These appointments may be for 1-3 days a week depending on the course load, responsibilities and frequency of visits. Adjunct faculty members do not get Institute accommodation. However, they may stay in theguest house on payment basis at official rates provided rooms are available. Pension, if any, is not deducted from salary for such appointments.
    - *R&D activities*:
       - Can be associated only as an  Investigator and only in Sponsored research projects.
       - May be retained as external consultant in projects, as per norms.
       - No faculty fee allowed in projects other than through the external consultant mode.
-   - *Academic activities*: Same as #7.
-   - *Administration related activities*: Same as #7.
+   - *Administration related activities*: No administrative activities allowed.
 
-9. **Professors of Practice**:
-   - *Appointment details*:
-     - They must be top professionals (CEO/CTO) with significant experience, typically about 20 years.
-     - Appointment to be made by Institute based on the recommendation of the Institute Standing Committee.
-     - They should have at least a Bachelor's degree Engineering / Sciences/ Design / Humanities or a related technical field. A Master’s or a Ph. D. degree would be welcome. Advanced degrees may also be in business or related fields.
-   - *Academic activities*:
-     - Design, development and offering of new practice-oriented courses.
-     - Advise students in their projects linking them with appropriate external stakeholders.
-     - Engage in department building activities including creation of new
-       programmes and Centres and enhancement of scope and activities of the department.
-     - Develop Continuing Education Programmes, undertake outreach activities and conduct extension programmes
-     - Encourage students in innovation and entrepreneurship projects and provide necessary mentorship for these activities; and contribute to enhanced industry academia collaborations.
-     - Professors of Practice are expected to guide Master’s students in their research and be co-guides to Ph. D. students.
+## Professor on Contract and Emeritus Fellow
+**Professors on Contract** are eminent scientists and academics who have
+retired from Central or State government entities, Autonomous Bodies
+or private organisations, but are yet to attain the age of retirement
+of regular faculty members at IIT Bombay (or 70 years) who take up
+full time faculty positions.  They are appointed to take up full time
+contract positions on scale for a three year term extendable to five
+years (or till they are 70; whichever is earlier).  Their salary is
+fixed as the last drawn salary *minus* any pension that they may be
+receiving. They are entitled to all the benefits offered to regular
+faculty members such as CPDA and leave.
 
-10. **Non-faculty Project PIs**:
-   - *Appointment details*:
-     - Temporary research personnel who would like to carry out GoI funded projects at the Institute e.g.: Women Scientist, Fast Track etc.
-	 - Appointment to be made by Institute based on the recommendation of the Institute Standing Committee; the salary will be paid from the projects as applicable.
-     - Those who wish to apply for Ramanujan, Ramalingaswami, INSPIRE fellowships must first apply for regular faculty positions in the Institute and get selected before applying for these fellowships.
-   - *R&D activities*: Project proposals will be routed to the Head of
-     the Academic Unit as for review / approval and forwarding by
-     Institute [even though appointment is through Dean (FA)]. IRCC
-     will be responsible only for implementation of these projects.
-   - *Academic activities*: None.
-   - *Administration related activities*: As assigned by the Head of the academic unit.
+An **Emeritus Fellow** position is considered a prestigious
+appointment. The nominees for Emeritus Fellows should have
+consistently excelled in (a) service (b) research and (c)
+teaching. Their performance in at least two of the above three
+activities should be better than the academic unit average in the last
+10 years. The appointees should have been recognized nationally
+through awards, Fellowships of national academies etc. Emeritus
+Fellowship should not be considered for teaching requirements alone.
+Departments may consider additional criteria to recommend/nominate
+retiring faculty members for Emeritus Fellowship. Departments may also
+decide not to recommend any faculty member for Emeritus
+Fellowship. The salary at the time of writing is 
 
-11. **Retired Faculty (less than three years from superannuation)**:
-   - *Appointment details*: Regular Faculty who are nearing superannuation
-   - *R&D activities*: Same as #3 except the mandatory Co-PI requirement may be waived depending upon the duration of the project.
-   - *Academic activities*: Same as #3.
-   - *Administration related activities*: Same as #1.
 
-12. **Foreign Faculty and Guest Faculty**:
-   - *Appointment details*: Appointed as full-time faculty members, and selection procedure is similar to that of regular faculty appointments through a Selection Committee meeting. However, Ministry approval must be sought before the offer is made.
-     It is a contract position for a period of five years that can be extended. They are entitled to all the benefits offered to regular faculty members such as CPDA and leave.
+The following are the terms and conditions that govern Professor on
+Contract and Emeritus Fellow appointments and their duties:
+   - *Appointment details*: TODO
+   - *R&D activities*: Same as for regular faculty, except that they
+     are not eligible for Seed Grant, and they may be PIs, but a Co-PI who has to give a declaration that he/she
+will take responsibility of the project deliverables is mandatory.
+   - *Academic activities*: They can be Guides, but with a mandatory Co-Guide, depending on the duration of the appointment; Co-guide has to give a declaration to take responsibility of the students. In addition, they will be invited to the senate.
+   - *Administration related activities*:  Cannot be members of any statutory committees or of any department
+committees appointed by the Director (such as DPC, DUGC, DPGC,
+Search committees, etc.).
+
+## Professor of Practice
+
+Candidates for this position are expected to be top professionals
+(CEO/CTO) with significant experience, typically about 20 years.  They
+should have at least a Bachelor's degree Engineering / Sciences /
+Design / Humanities or a related technical field. A Master's or a
+Ph. D. degree would be welcome. Advanced degrees may be in business or
+related fields.  Professors of Practice must be leaders who remain
+current with the best practices and emerging technological trends in
+their fields. Advanced degrees may also be in business or related fields.
+
+The salary for Professors of Practice is fixed at ₹ 2,00,000/- per
+month at the time of writing. They are entitled to all the benefits
+offered to regular faculty members such as CPDA and leave.  In
+addition, they are also given a one time contingency grant of ₹
+2,00,000/-.
+
+The following are the terms and conditions that govern Professor of
+Practice appointments and their duties:
+ - *Appointment details*:
+   - Academic units must develop a job description, including qualifications consistent with the required credentials for the position.
+   - Academic units should seek faculty feedback, faculty should interact with the PoP candidates, peer review may be sought if necessary and the candidates should give a seminar in the department before forwarding the case to the Standing  Committee.
+   - Appointments could be up to five years which can be extended based on the performance and requirements of the Institute.
+   - The appointment will be approved by the Standing Committee of the Institute.
+ - *Academic activities*:
+   - Design, development and offering of new practice-oriented courses.
+   - Advise students in their projects linking them with appropriate external stakeholders.
+   - Engage in department building activities including creation of new
+     programmes and Centres and enhancement of scope and activities of the department.
+   - Develop Continuing Education Programmes, undertake outreach activities and conduct extension programmes
+   - Encourage students in innovation and entrepreneurship projects and provide necessary mentorship for these activities; and contribute to enhanced industry academia collaborations.
+   - Professors of Practice are expected to guide Master’s students in their research and be co-guides to Ph. D. students.
+
+## Foreign Faculty and Guest Faculty
+**Foreign faculty** members can be appointed to work like regular
+faculty members, on similar pay scales. However, there are some notable differences in
+appointment terms:
+   - *Appointment details*: Appointed as full-time faculty members, and selection procedure is similar to that of regular faculty appointments through a Selection Committee meeting. However, Ministry approval must be sought before the offer is made.  It is a contract position for a period of five years that can be extended. They are entitled to all the benefits offered to regular faculty members such as CPDA and leave.
    - *R&D activities*: All terms and conditions will be as for regular faculty.
    - *Academic activities*: All terms and conditions will be as for regular faculty.
    - *Administration related activities*: All terms and conditions will be as for regular faculty.
+
+**Guest faculty** are experts from other Institutions/Industry who are
+invited to deliver lectures/offer courses to the students of various
+academic programs of our Institute. The academic unit's policy
+committee recommends and the Institute Standing committee approves the
+appointment of Guest Faculty. They are paid an honorarium of ₹
+3,000/- per hour on a pro-rata basis from the Department.
+
+
 
 # Retirement and Post-Retirement Benefits
 
