@@ -98,23 +98,23 @@ members.
 
 ### The Board of Governors
 
-Each IIT has its own Board of Directors, called the Board of Governors
-(BOG), which meets, at least four times a year. Almost all major
-policy decisions have to be approved by the Board. For instance, all
-appointments, major purchases, constructions etc. require approval and
-authorization of the Board. The meetings of the Board are generally
-held once in three months. The Chairman of the Board approves urgent
-items that cannot wait for the next Board Meeting; these are approved
-_post facto_ by the BOG.
+Each IIT has its own Board of Governors (BOG), the highest governing
+body of the institute, which meets, at least four times a year. Almost
+all major policy decisions have to be approved by the Board. For
+instance, all appointments, major purchases, constructions
+etc. require approval and authorization of the Board. The meetings of
+the Board are generally held once in three months. The Chairman of the
+Board approves urgent items that cannot wait for the next Board
+Meeting; these are approved _post facto_ by the BOG.
 
 The Board has 11 members. In addition to the Chairman (appointed by
 MOE) and the Director of the Institute, who are _ex officio_ members
 of the Board, one nominee from each of the governments of the states
 Maharashtra, Goa and the Union Territory of Dadra and Nagar Haveli,
 which comprise the zone in which the Institute is situated, are
-members of the Board.  There are four nominees, having special
+members of the Board.  There are four members, having special
 knowledge or practical experience in respect of education, engineering
-or science, from the IIT Council to the Board. The remaining two
+or science, nominated by the IIT Council to the Board. The remaining two
 members are nominees of the Senate of IIT Bombay. These members are,
 in practice, recommended by the Senate Nominations Committee. The
 Registrar of the Institute is the _ex officio_ Secretary of the Board
@@ -160,25 +160,22 @@ Prof. Devang Khakhar
 The Director is the CEO of the Institute and runs the Institute as per
 the policies decided by the Board. The Director is appointed by the
 Government of India and usually has a tenure of five years, which may
-be extended until (s)he reaches the age of superannuation.
+be extended until (s)he reaches the age of superannuation (70 years).
 
-The Director is helped in the administration by what can be termed as
-his cabinet ([more
-details](http://www.iitb.ac.in/en/about-iit-bombay/iit-bombay-functional-organisation)). At
+The Director is helped in the administration by a committee of Deputy
+Directors and Deans ([listed
+here](http://www.iitb.ac.in/en/about-iit-bombay/iit-bombay-functional-organisation)). At
 the time of writing, there are two Deputy Directors, Deputy Director
 (Academic and Infrastructural Affairs or AIA), and Deputy Director
 (Finance and External Affairs, or FEA), one of whom serves as Acting
 Director whenever the Director is away.  The powers vested in the
-Director have been delegated, up to certain limits, to various Deans
+Director have been delegated by the Board, up to certain limits, to various Deans
 in the interest of smooth administration. There are eight (8)
 Deans. They are as follows:
 
    1. The _Dean (Faculty Affairs, FA)_ The Dean (FA) is responsible for conducting faculty recruitments, hiring institute postdoctoral fellows, appraisals, and recommending special leaves of absence in consultation with the relevant academic unit. Similarly,
    the Dean (FA) Office might interface with the offices of other Deans on other
-   matters pertaining to faculty welfare, e.g. with Dean
-   (Infrastructure, Planning & Support, IPS) on housing. That said,
-   the Dean (FA) office is not quite a 'single-window' - for example, as a faculty member, one may also need to
-   interact directly with the office of the Dean (IPS) for housing.
+   matters pertaining to faculty welfare.
 
    2. The _Dean (Alumni Corporate Relations, ACR)_ looks after
    relations with alumni, and coordinates donations received from
@@ -359,12 +356,11 @@ In addition, while not academic units, the following units help liase with indus
 - [Research Park](http://www.respark.iitb.ac.in/#/home) for engagement with companies on campus
 
 The academic units mentioned above are headed, usually by a faculty
-member of the unit itself, and usually of the rank of Professor. The
-Head of an academic unit has a term of three years. The position is
-similar to what is known as the 'Department Chair' in the West. All
-paperwork and online approvals from the Department are routed through
-the Head. This includes nearly all official applications going
-from a faculty member to the Institute.
+member of the unit itself, and usually of the rank of Professor in the
+role of the Head. The Head of an academic unit has a term of three
+years. All paperwork and online approvals from the
+Department are routed through the Head. This includes nearly all
+official applications going from a faculty member to the Institute.
 
 The Head of an academic unit functions with the aid of several
 committees.
@@ -1108,7 +1104,7 @@ Some of the sponsoring agencies and their URLs are given below:
   - [Board of Research in  Nuclear Sciences (BRNS)](www.barc.ernet.in/webpages/brns/brns1.html)
   - [Central Board of Irrigation and Power (CBIP)](www.cbip.org/)
   - [Central Mine Planning  and Design Institute (CMPDI)](www.cmpdi.nic.in/)
-  - [Department of Science and Technology  (DST)](dst.gov.in/) (SERC, FIST, FAST track)
+  - [Department of Science and Technology  (DST)](dst.gov.in/)
   - [Department of  Biotechnology (DBT)](dbtindia.nic.in/index.asp)
   - [Indian Council for  Medical Research (ICMR)](www.icmr.nic.in/)
   - [Indo-French Centre for  the Promotion of Advanced Research (IFCPAR)](www.cefipra.org/home.htm)
@@ -2686,13 +2682,7 @@ Visiting Professor.
    - *Academic activities*: Same as #3.
    - *Administration related activities*: Same as #1.
 
-12. **Any other designation/category**:
-   - *Appointment details*: Appointment will be as per the approval of the Director.
-   - *R&D activities*: All terms and conditions will be as approved by the Director.
-   - *Academic activities*: All terms and conditions will be as approved by the Director.
-   - *Administration related activities*: All terms and conditions will be as approved by the Director.
-
-13. **Foreign Faculty and Guest Faculty**:
+12. **Foreign Faculty and Guest Faculty**:
    - *Appointment details*: Appointed as full-time faculty members, and selection procedure is similar to that of regular faculty appointments through a Selection Committee meeting. However, Ministry approval must be sought before the offer is made.
      It is a contract position for a period of five years that can be extended. They are entitled to all the benefits offered to regular faculty members such as CPDA and leave.
    - *R&D activities*: All terms and conditions will be as for regular faculty.
