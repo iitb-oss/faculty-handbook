@@ -3039,6 +3039,12 @@ available in ASC website (downloadable forms) to the Executive Engineer
 Similarly, the facility to use Gulmohar 3rd floor and terrace is also
 available against nominal payment. 
 
+**LDAP Account**: Retired faculty will have to inform CC annually for
+continuation or extension of their LDAP account, either before the
+expiry or within a grace period of one year. This one-time activity at
+from the retired faculty within a span of 2 years is to keep a check
+and avoid misuse of dormant LDAP accounts after faculty
+retirements..
 
 **Library access**: Faculty and Group A Officers retired from IIT
 Bombay are eligible for Library membership by paying ₹ 200 for annual
