@@ -2611,7 +2611,8 @@ details.
 <!--    - *Academic activities*: They can guide students, and participate in all academic activities of the institute. -->
 <!--    - *Administration related activities*: They can take up admin work as delegated by the Institute/department from time to time. -->
 
-## Short Term Visiting Faculty
+## Temporary faculty appointments
+### Short Term Visiting Faculty
 
 Short term visiting faculty positions are meant for faculty members or
 specialists employed elsewhere who are invited for research
@@ -2647,7 +2648,7 @@ visiting faculty appointments and their duties:
      department committees appointed by the Director (such as DPC,
      DUGC, DPGC, Search committees, etc.).
 
-## Adjunct Faculty
+### Adjunct Faculty
 Adjunct faculty are typically retired IIT Bombay faculty members or
 external experts appointed to teach full or half courses. These
 appointments along with their salary per day of week are:
@@ -2677,7 +2678,7 @@ appointments and their duties:
       - No faculty fee allowed in projects other than through the external consultant mode.
    - *Administration related activities*: No administrative activities allowed.
 
-## Professor on Contract and Emeritus Fellow
+### Professor on Contract
 **Professors on Contract** are eminent scientists and academics who have
 retired from Central or State government entities, Autonomous Bodies
 or private organisations, but are yet to attain the age of retirement
@@ -2689,6 +2690,18 @@ fixed as the last drawn salary *minus* any pension that they may be
 receiving. They are entitled to all the benefits offered to regular
 faculty members such as CPDA and leave.
 
+The following are the terms and conditions that govern Professor on
+Contract and Emeritus Fellow appointments and their duties:
+   - *Appointment details*: TODO
+   - *R&D activities*: Same as for regular faculty, except that they
+     are not eligible for Seed Grant, and they may be PIs, but a Co-PI who has to give a declaration that he/she
+will take responsibility of the project deliverables is mandatory.
+   - *Academic activities*: They can be Guides, but with a mandatory Co-Guide, depending on the duration of the appointment; Co-guide has to give a declaration to take responsibility of the students. In addition, they will be invited to the senate.
+   - *Administration related activities*:  Cannot be members of any statutory committees or of any department
+committees appointed by the Director (such as DPC, DUGC, DPGC,
+Search committees, etc.).
+
+### Emeritus Fellow
 An **Emeritus Fellow** position is considered a prestigious
 appointment. The nominees for Emeritus Fellows should have
 consistently excelled in (a) service (b) research and (c)
@@ -2702,7 +2715,6 @@ retiring faculty members for Emeritus Fellowship. Departments may also
 decide not to recommend any faculty member for Emeritus
 Fellowship. The salary at the time of writing is 
 
-
 The following are the terms and conditions that govern Professor on
 Contract and Emeritus Fellow appointments and their duties:
    - *Appointment details*: TODO
@@ -2714,7 +2726,7 @@ will take responsibility of the project deliverables is mandatory.
 committees appointed by the Director (such as DPC, DUGC, DPGC,
 Search committees, etc.).
 
-## Professor of Practice
+### Professor of Practice
 
 Candidates for this position are expected to be top professionals
 (CEO/CTO) with significant experience, typically about 20 years.  They
@@ -2747,7 +2759,7 @@ Practice appointments and their duties:
    - Encourage students in innovation and entrepreneurship projects and provide necessary mentorship for these activities; and contribute to enhanced industry academia collaborations.
    - Professors of Practice are expected to guide Master’s students in their research and be co-guides to Ph. D. students.
 
-## Foreign Faculty and Guest Faculty
+### Foreign Faculty
 **Foreign faculty** members can be appointed to work like regular
 faculty members, on similar pay scales. However, there are some notable differences in
 appointment terms:
@@ -2756,6 +2768,7 @@ appointment terms:
    - *Academic activities*: All terms and conditions will be as for regular faculty.
    - *Administration related activities*: All terms and conditions will be as for regular faculty.
 
+### Guest Faculty
 **Guest faculty** are experts from other Institutions/Industry who are
 invited to deliver lectures/offer courses to the students of various
 academic programs of our Institute. The academic unit's policy
@@ -2763,7 +2776,39 @@ committee recommends and the Institute Standing committee approves the
 appointment of Guest Faculty. They are paid an honorarium of ₹
 3,000/- per hour on a pro-rata basis from the Department.
 
+## Emeritus faculty appointments
+**Emeritus Professor** positions are honorary positons given to
+faculty for their contribution to the institute. These are only
+titular appointments. The following are the terms and conditions that govern Emeritus
+Professor appointments and their duties:
+   - *Appointment details*: TODO
+   - *Academic activities*:
+     - Cannot be Guides/ Co-Guides for students.
+     - Cannot be members of RPC.
+     - Can be external Co-guides, subject to prior approval of Dean (AP).
+   - *R&D activities*:
+      - May be only mentors for R&D projects and not Investigators.
+         - Could be taken as external consultants in projects undertaken by other regular faculty.
+   - *Administration related activities*: No administrative activities allowed.
 
+**Emeritus Scientists** are typically retired professionals carrying out specific R&D projects funded by government agencies, at the Institute (Institute’s offer will be for a visiting honorary position.
+The following are the terms and conditions that govern Emeritus
+Scientist appointments and their duties:
+
+   - *Appointment details*: Based on a recommendation by the standing Institute
+     Standing Committee, but the salary/fellowship will come from the
+     project/scheme).
+   - *Academic activities*: Same as #5.
+     - Cannot be Guides/ Co-Guides for students.
+     - Cannot be members of RPC.
+     - Can be external Co-guides, subject to prior approval of Dean (AP).
+   - *R&D activities*:
+     - Will be able to operate only their projects.
+     - All such applications will need to be routed through Dean (FA).
+     - IRCC will implement the project as per norms.
+     - Not eligible to submit new projects through IRCC.
+     - No RDF accrual from overheads, only to IRCC and to DDF.
+   - *Administration related activities*: No administrative activities allowed.
 
 # Retirement and Post-Retirement Benefits
 
