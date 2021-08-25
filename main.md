@@ -2612,9 +2612,7 @@ details.
 <!--    - *Administration related activities*: They can take up admin work as delegated by the Institute/department from time to time. -->
 
 ## Temporary faculty appointments
-### Short Term Visiting Faculty
-
-Short term visiting faculty positions are meant for faculty members or
+**Short term visiting faculty** positions are meant for faculty members or
 specialists employed elsewhere who are invited for research
 collaborations, or for delivering short courses, to research scholars
 and faculty members consisting of at least two lectures per
@@ -2648,8 +2646,7 @@ visiting faculty appointments and their duties:
      department committees appointed by the Director (such as DPC,
      DUGC, DPGC, Search committees, etc.).
 
-### Adjunct Faculty
-Adjunct faculty are typically retired IIT Bombay faculty members or
+**Adjunct faculty** are typically retired IIT Bombay faculty members or
 external experts appointed to teach full or half courses. These
 appointments along with their salary per day of week are:
 
@@ -2668,6 +2665,7 @@ salary for such appointments.
 
 The following are the terms and conditions that govern adjunct faculty
 appointments and their duties:
+
    - *Appointment details*: TODO
    - *Academic activities*:
      - Can be Co-Guides for M.Tech / M.Sc students / PhD students based on duration of association.
@@ -2678,7 +2676,6 @@ appointments and their duties:
       - No faculty fee allowed in projects other than through the external consultant mode.
    - *Administration related activities*: No administrative activities allowed.
 
-### Professor on Contract
 **Professors on Contract** are eminent scientists and academics who have
 retired from Central or State government entities, Autonomous Bodies
 or private organisations, but are yet to attain the age of retirement
@@ -2691,7 +2688,8 @@ receiving. They are entitled to all the benefits offered to regular
 faculty members such as CPDA and leave.
 
 The following are the terms and conditions that govern Professor on
-Contract and Emeritus Fellow appointments and their duties:
+Contract appointments and their duties:
+
    - *Appointment details*: TODO
    - *R&D activities*: Same as for regular faculty, except that they
      are not eligible for Seed Grant, and they may be PIs, but a Co-PI who has to give a declaration that he/she
@@ -2701,7 +2699,6 @@ will take responsibility of the project deliverables is mandatory.
 committees appointed by the Director (such as DPC, DUGC, DPGC,
 Search committees, etc.).
 
-### Emeritus Fellow
 An **Emeritus Fellow** position is considered a prestigious
 appointment. The nominees for Emeritus Fellows should have
 consistently excelled in (a) service (b) research and (c)
@@ -2716,7 +2713,8 @@ decide not to recommend any faculty member for Emeritus
 Fellowship. The salary at the time of writing is 
 
 The following are the terms and conditions that govern Professor on
-Contract and Emeritus Fellow appointments and their duties:
+Contract appointments and their duties:
+
    - *Appointment details*: TODO
    - *R&D activities*: Same as for regular faculty, except that they
      are not eligible for Seed Grant, and they may be PIs, but a Co-PI who has to give a declaration that he/she
@@ -2726,16 +2724,15 @@ will take responsibility of the project deliverables is mandatory.
 committees appointed by the Director (such as DPC, DUGC, DPGC,
 Search committees, etc.).
 
-### Professor of Practice
-
-Candidates for this position are expected to be top professionals
+**Professors of Practice** are expected to be top professionals
 (CEO/CTO) with significant experience, typically about 20 years.  They
 should have at least a Bachelor's degree Engineering / Sciences /
 Design / Humanities or a related technical field. A Master's or a
 Ph. D. degree would be welcome. Advanced degrees may be in business or
 related fields.  Professors of Practice must be leaders who remain
 current with the best practices and emerging technological trends in
-their fields. Advanced degrees may also be in business or related fields.
+their fields. Advanced degrees may also be in business or related
+fields.
 
 The salary for Professors of Practice is fixed at ₹ 2,00,000/- per
 month at the time of writing. They are entitled to all the benefits
@@ -2745,6 +2742,7 @@ addition, they are also given a one time contingency grant of ₹
 
 The following are the terms and conditions that govern Professor of
 Practice appointments and their duties:
+
  - *Appointment details*:
    - Academic units must develop a job description, including qualifications consistent with the required credentials for the position.
    - Academic units should seek faculty feedback, faculty should interact with the PoP candidates, peer review may be sought if necessary and the candidates should give a seminar in the department before forwarding the case to the Standing  Committee.
@@ -2759,16 +2757,15 @@ Practice appointments and their duties:
    - Encourage students in innovation and entrepreneurship projects and provide necessary mentorship for these activities; and contribute to enhanced industry academia collaborations.
    - Professors of Practice are expected to guide Master’s students in their research and be co-guides to Ph. D. students.
 
-### Foreign Faculty
 **Foreign faculty** members can be appointed to work like regular
 faculty members, on similar pay scales. However, there are some notable differences in
 appointment terms:
+
    - *Appointment details*: Appointed as full-time faculty members, and selection procedure is similar to that of regular faculty appointments through a Selection Committee meeting. However, Ministry approval must be sought before the offer is made.  It is a contract position for a period of five years that can be extended. They are entitled to all the benefits offered to regular faculty members such as CPDA and leave.
    - *R&D activities*: All terms and conditions will be as for regular faculty.
    - *Academic activities*: All terms and conditions will be as for regular faculty.
    - *Administration related activities*: All terms and conditions will be as for regular faculty.
 
-### Guest Faculty
 **Guest faculty** are experts from other Institutions/Industry who are
 invited to deliver lectures/offer courses to the students of various
 academic programs of our Institute. The academic unit's policy
@@ -2781,6 +2778,7 @@ appointment of Guest Faculty. They are paid an honorarium of ₹
 faculty for their contribution to the institute. These are only
 titular appointments. The following are the terms and conditions that govern Emeritus
 Professor appointments and their duties:
+
    - *Appointment details*: TODO
    - *Academic activities*:
      - Cannot be Guides/ Co-Guides for students.
