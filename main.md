@@ -92,14 +92,14 @@ Council](https://www.iitsystem.ac.in). The Chairperson of the Council is
 the Minister of Education, which is the central
 ministry under which our Institute belongs to. The Council is an
 organization with a large (ex-officio) members, e.g. the
-Chairmen and the Directors of all IITs, Chairperson and Director of IISc,
+Chairpersons and the Directors of all IITs, Chairperson and Director of IISc,
 Bangalore, Director General of CSIR, Chairperson UGC and a few nominated
 members.
 
 ### The Board of Governors
 
 Each IIT has its own Board of Governors (BOG), the highest governing
-body of the institute, which meets, at least four times a year. Almost
+body of the Institute, which meets, at least four times a year. Almost
 all major policy decisions have to be approved by the Board. For
 instance, all appointments, major purchases, constructions
 etc. require approval and authorization of the Board. The meetings of
@@ -126,7 +126,7 @@ which requires major fund allocation is generally routed through the
 Finance Committee that acts as the watchdog of the Institute funds. The
 Financial Advisor to MOE is a member of the Finance Committee. The
 Building and Works Committee is responsible for all the major
-construction projects in the institute, and has the power to make
+construction projects in the Institute, and has the power to make
 recommendations related to these.
 
 ### The Senate
@@ -149,7 +149,7 @@ faculty, student representatives, and a few members from outside the
 Institute. The Registrar of the Institute is the Secretary of the
 Senate.
 
-### Who's who at the institute
+### Who's who at the Institute
 
 <!---
 ## The Director and Other Functionaries
@@ -157,7 +157,7 @@ Senate.
 Prof. Devang Khakhar
 --->
 
-The Director is the CEO of the Institute and runs the Institute as per
+The Director is the "head" of the Institute and runs the Institute as per
 the policies decided by the Board. The Director is appointed by the
 Government of India and usually has a tenure of five years, which may
 be extended until (s)he reaches the age of superannuation (70 years).
@@ -173,7 +173,7 @@ Director have been delegated by the Board, up to certain limits, to various Dean
 in the interest of smooth administration. There are eight (8)
 Deans. They are as follows:
 
-   1. The _Dean (Faculty Affairs, FA)_ The Dean (FA) is responsible for conducting faculty recruitments, hiring institute postdoctoral fellows, appraisals, and recommending special leaves of absence in consultation with the relevant academic unit. Similarly,
+   1. The _Dean (Faculty Affairs, FA)_ The Dean (FA) is responsible for conducting faculty recruitments, hiring Institute postdoctoral fellows, appraisals, and recommending special leaves of absence in consultation with the relevant academic unit. Similarly,
    the Dean (FA) Office might interface with the offices of other Deans on other
    matters pertaining to faculty welfare.
 
@@ -694,7 +694,7 @@ The following services for specific activities managed by ASC are available thro
  - [https://portal.iitb.ac.in/VRP](https://portal.iitb.ac.in/VRP) is a portal used for submitting/tracking ERP related service requests
 
 ### Resources for ERP support:
-  - **Department storekeeper**: For any problem related to purchase and payments from institute funds.
+  - **Department storekeeper**: For any problem related to purchase and payments from Institute funds.
   - **Departmental ERP helpdesk stationed in each academic unit**: For
     any problem related to purchase from project funds, payment of
     honorarium to students and finding out project balances.
@@ -1275,7 +1275,7 @@ competent authority whether or not a candidate may be promoted.
 The selection committee recommendations and decisions are placed
 before the Chairperson BoG for approval.  The appointment letters are
 then issued by the Director after necessary approval by the Board and
-following other institute norms and procedures regarding salary and
+following other Institute norms and procedures regarding salary and
 other terms etc.
 
 ### Method for Determining Professors to be Moved to HAG scale
@@ -1404,12 +1404,12 @@ basis for shortlisting candidates for selection to higher posts.
 
 ## Awards
 
-While good teaching and research is likely reward enough, both you and the Institute would benefit from greater visibility and recognition of your achievements. Within IIT Bombay, the S. P. Sukhatme Excellence in Teaching Award is awarded to 15 faculty members across the institute every year. Department teaching awards also recognise your teaching efforts. The teaching awards are based on student feedback. Since the guidelines for excellence in teaching awards are currently
+While good teaching and research is likely reward enough, both you and the Institute would benefit from greater visibility and recognition of your achievements. Within IIT Bombay, the S. P. Sukhatme Excellence in Teaching Award is awarded to 15 faculty members across the Institute every year. Department teaching awards also recognise your teaching efforts. The teaching awards are based on student feedback. Since the guidelines for excellence in teaching awards are currently
 undergoing revision, you may refer to recent Senate meeting minutes
 for updates on this.
 
 There are several categories of research awards in IIT Bombay, among which
-the Rakesh Mathur awards for the Excellence in Research are instituted in honour of two former Professors of the institute, and each of these awards carries a cash incentive of ₹ 1,50,000/-. They are
+the Rakesh Mathur awards for the Excellence in Research are instituted in honour of two former Professors of the Institute, and each of these awards carries a cash incentive of ₹ 1,50,000/-. They are
 
   - Prof. S.C. Bhattacharya Award for Excellence in Pure Sciences
   - Prof. H.H. Mathur Award for Excellence in Applied Sciences
@@ -1518,7 +1518,7 @@ Consultancy and related services offered will be divided mainly into two categor
 
  - *Category T*: Testing Projects:- This type of project will be
     Infrastructure intensive and will be based on extensive usage of
-    the institute infrastructure. For example
+    the Institute infrastructure. For example
 	- Calibration
     - Testing of industrial products/samples
 
@@ -2063,7 +2063,7 @@ of the financial year. The quantum of reimbursement for disabled
 children is twice this amount.
 
 ## Cumulative Professional Development Allowance (CPDA)
-The CPDA is an MOE provision under which the institute provides
+The CPDA is an MOE provision under which the Institute provides
 faculty at all levels with some level of support for travel (including
 international) and contingency expenses. At the time of writing, the
 allowance amounts to ₹ 3,00,000 for a block period of 3 years. It is to
@@ -2378,7 +2378,7 @@ A faculty member may request for keeping lien on his/her post for accepting a jo
 2. No salary is paid to the employee from the Institute while on lien. However, the service during period of lien qualifies for retirement benefit. The employee (or his employer during the lien period) pays a contribution towards pension-cum gratuity benefit determined by the Institute as per standard Government calculation, an amount which depends also on the length of service rendered in the Institute. This contribution must be received by the Institute by 31$^{\text{st}}$ March of every year, or if the employee so desires, every month. It must be emphasized that when the Institute sanctions a lien to the employee, it does not enter into an agreement with his/her temporary employer and the responsibility of remitting all amounts payable to the Institute lies with the employee only.
 3. The employee should continue to pay his/her own contribution to CPF/GPF/NPS during the period of lien. Such contribution should be remitted to the Institute every month or before 31$^{\text{st}}$ March of every financial year.
 4. The employee has to pay the leave salary contribution. When an employee pays the leave salary contribution, the Institute leave account of the employee is credited or debited when the employee takes leave in his/her host organization. The leave salary contribution to be paid is roughly 11% of the pay drawn from the host organization (or the pay that the employee would have drawn, had he/she not gone on lien.) The payment of leave salary contribution may be waived by the Director on request in which case the leave account of the employee remains frozen during period of lien.
-5. Keeping your accommodation during Lien: The institute generally permits a faculty member to retain the quarter allotted for a period of one year only during the lien period. The license fee payable during this period will be the same as the employee normally pays. The Director may permit a faculty to keep the quarter during the second year of lien, but on an enhanced license fee which is fifty times the normal license fee. The employee has to arrange to pay the bills received from the Estate Office towards license fee and other utility charges every month.
+5. Keeping your accommodation during Lien: The Institute generally permits a faculty member to retain the quarter allotted for a period of one year only during the lien period. The license fee payable during this period will be the same as the employee normally pays. The Director may permit a faculty to keep the quarter during the second year of lien, but on an enhanced license fee which is fifty times the normal license fee. The employee has to arrange to pay the bills received from the Estate Office towards license fee and other utility charges every month.
 
 ### Foreign visits
 
@@ -2440,7 +2440,7 @@ webpage](https://doe.gov.in/order-circular/general-financial-rules2017-0). The
 salient features are outlined below. As a faculty member at IIT
 Bombay, it is useful to be cognizant of these as you get involved in
 receiving and spending money, particularly from government sources,
-for your research programmes, or for academic unit/institute purposes.
+for your research programmes, or for academic unit/Institute purposes.
 
 As per GFR 2017, all money received by or on behalf of the government
 either as dues of government or for deposits, remittances or otherwise
@@ -2508,7 +2508,7 @@ As a faculty member of a premier Institute of the country, you are always under 
 
 1. _Dealing with the Press:_ Much as we like to see our name in print, the only place where your printed name can freely appear without raising eyebrows (or may be raising eyebrows in an agreeable way!) is in a professional journal. You do not need to take any permission to send a technical manuscript for publication. If what you are writing or talking about is of literary, artistic or scientific value only, you may even write to newspapers or periodicals. However, talking to the press (this includes all forms of interaction with print and electronic media) on any other matter  should generally be avoided, and left to functionaries in the main building. If you would like to express your views on an issue, you need to take the Director's permission. If you want to have a press coverage of your published scientific article, you need to contact PRO after taking permission from the Director.
 2. Joining a political party or canvassing in an election is banned. (You can, of course, contest an election in a professional body.)
-3. Criticism of the Institute in any mass media (print or electronic) is not permitted. (To give vent to your frustration if any, the Computer Centre of the institute has provided a discussion group called the 'discuss-faculty' where you can write and engage your colleagues in a debate on matters about which you feel strongly. This newsgroup is not moderated but it is good to use restrained language).
+3. Criticism of the Institute in any mass media (print or electronic) is not permitted. (To give vent to your frustration if any, the Computer Centre of the Institute has provided a discussion group called the 'discuss-faculty' where you can write and engage your colleagues in a debate on matters about which you feel strongly. This newsgroup is not moderated but it is good to use restrained language).
 3. _Redressal of Grievances:_: If you have a grievance, try to sort it out by meeting the concerned Dean, the Deputy Directors or the Director. If you would like to make a written representation, the first course is the Director. If his response leaves you dissatisfied, you may make representation to the Chairperson of the Board. Such representation should go through, Head, concerned Dean,
 Director and the Chairperson in that order. In extreme cases, you may take your grievance to the Visitor (who is the President of India). However, in all cases, you should go through what is known as proper channel, that is, route all your representation through HOD, Director and the Chairperson, in that order. The forwarding authority does not have the right to stop your representation being forwarded upwards excepting in circumstances such as (i) a similar petition made earlier has been disposed of and no new facts are brought out in the new petition, (ii) your representation is not to the appropriate authority, or (iii) the petition is against a decision which is final by any law or statute. In such cases, the appropriate authority will write you a reply explaining the reasons why your petition may not be forwarded.
 4. You may, of course, seek to redress grievances in a court of law without any permission. However, it is in good taste to first exhaust all possibilities of finding a solution to  your problems within the internal framework as stated above.
@@ -2577,7 +2577,7 @@ Institute.
 
 ## Right to Information
 
-In 2005, the Indian Parliament enacted a legislation known as the Right to Information (RTI) Act, which empowers a citizen to get any information from the Government or from any publicly funded institution. Exceptions are few and an educational institute does not qualify for exemption. This requires faculty members to be extra careful. For instance, any one can ask for the marking scheme adopted while awarding grades or, for that matter, a copy of the mark sheets of all students in a course. A query from the Institute’s Public Information Officer must be answered within a stipulated time limit. Details of RTI is available on IIT Bombay's website.
+In 2005, the Indian Parliament enacted a legislation known as the Right to Information (RTI) Act, which empowers a citizen to get any information from the Government or from any publicly funded institution. Exceptions are few and an educational Institute does not qualify for exemption. This requires faculty members to be extra careful. For instance, any one can ask for the marking scheme adopted while awarding grades or, for that matter, a copy of the mark sheets of all students in a course. A query from the Institute’s Public Information Officer must be answered within a stipulated time limit. Details of RTI is available on IIT Bombay's website.
 
 # Faculty designations and responsibilities {#sec:facultygrades}
 This chapter lists the various faculty designations and appointment
@@ -2592,13 +2592,13 @@ details.
    Committee to candidates who do not have 3 year
    post-Ph.D. experience. The regularization process is initiated
    once they complete three years post Ph.D. requirement.
- - *Academic activities*: Teaching, research, student guidance, other academic activities of the institute.
+ - *Academic activities*: Teaching, research, student guidance, other academic activities of the Institute.
  - *R&D activities*:
     - Eligible for a one time seed grant from the Institute.
     - Can take up all types of R&D Projects, including consultancy projects. 
     - Can promote companies in SINE.
     - Can be Directors of companies as per Institute norms.
- - *Administration related activities*: Expected to be actively involveved in administrative responsibilities as assigned by academic units and the institute.
+ - *Administration related activities*: Expected to be actively involveved in administrative responsibilities as assigned by academic units and the Institute.
 
 <!-- 2. **Assistant Professor (Grade-II)**: -->
 <!--    - *Appointment details*: Equivalent to regular faculty; appointed thus because they are short of the 3-year post-PhD experience required for appointment as regular Assistant Professor; likely to be regularized when this requirement is met. -->
@@ -2625,7 +2625,7 @@ salaries prevailing at the time of writing are
    pro rata basis)
  - Distinguished Visiting Professor (salary of ₹ 2,25,000/- per month
    on pro rata basis, and guest house accommodation charges borne by
-   the institute)
+   the Institute)
 
 The following are the terms and conditions that govern short term
 visiting faculty appointments and their duties:
@@ -2773,7 +2773,7 @@ appointment of Guest Faculty. They are paid an honorarium of ₹
 
 ## Emeritus faculty appointments
 **Emeritus Professor** positions are honorary positons given to
-faculty for their contribution to the institute. These are only
+faculty for their contribution to the Institute. These are only
 titular appointments. The following are the terms and conditions that govern Emeritus
 Professor appointments and their duties:
 
@@ -2970,7 +2970,7 @@ account number is known as the Permanent Retirement Account Number
 
 IIT Bombay is a nodal office for NPS accounts, thereby being able to
 facilitate opening and transferring NPS accounts. New employees should
-be provided the NPS enrolment form by the institute. Those who
+be provided the NPS enrolment form by the Institute. Those who
 already have an NPS account in the past (government, private, or
 any citizen of India modes) can get their account transferred by
 filling the appropriate forms and handing it to the administration.
@@ -3140,7 +3140,7 @@ available in the Faculty Administration section. Currently,
 Ms. Rajshri Gaikwad in Admin looks after this. She may be contacted at
 extension 7943.
 
-**Guest house facility**: Retired institute faculty members are
+**Guest house facility**: Retired Institute faculty members are
 eligible to avail the guest house facility of the Institute against
 concessional rates. Current chargers are ₹ 1,200 per single occupancy
 and ₹ 2,000 per double occupancy per day. Guest rooms can be booked by
@@ -3176,17 +3176,17 @@ faculty and Group A Officers.
 
 ## More on Housing {#sec:morehousing}
 
-The institute has undergone significant expansion and increase in number of students over the last decade and a half. The increase in student numbers has led to a commensurate increase in the number of faculty members on the campus. Thus, the present dwelling numbers on the campus are insufficient. Though, new constructions are underway, there is an expected shortage of housing on campus for some more time. In most cases, the new faculty may take up on-campus housing flatlets like the Staff Hostel, Vihar House and CSRE D Types. However, some faculty may want a “proper apartment” owing to family constraints or due to non-availability of the flatlets. In such situations, some may opt for off-campus housing. These off-campus housing once identified and allotted are treated as an extension of the IIT Bombay housing. There are several considerations to be made when scouting for an apartment. Below are a few points to be considered with regard to off-campus housing.
+The Institute has undergone significant expansion and increase in number of students over the last decade and a half. The increase in student numbers has led to a commensurate increase in the number of faculty members on the campus. Thus, the present dwelling numbers on the campus are insufficient. Though, new constructions are underway, there is an expected shortage of housing on campus for some more time. In most cases, the new faculty may take up on-campus housing flatlets like the Staff Hostel, Vihar House and CSRE D Types. However, some faculty may want a “proper apartment” owing to family constraints or due to non-availability of the flatlets. In such situations, some may opt for off-campus housing. These off-campus housing once identified and allotted are treated as an extension of the IIT Bombay housing. There are several considerations to be made when scouting for an apartment. Below are a few points to be considered with regard to off-campus housing.
 
-The institute provides temporary accommodation in the Guest House to the new faculty member immediately after they join, up to a period of 1 month. The guest house charges are applicable and have to be borne by the faculty if this initial period of 30 days is exceeded. It is thus recommended that a search for off-campus housing be initiated as soon as the joining formalities are completed.
+The Institute provides temporary accommodation in the Guest House to the new faculty member immediately after they join, up to a period of 1 month. The guest house charges are applicable and have to be borne by the faculty if this initial period of 30 days is exceeded. It is thus recommended that a search for off-campus housing be initiated as soon as the joining formalities are completed.
 
-An off-campus rented apartment requires consideration of the amount of rent, brokerage, escalation clause, and issues related to maintenance and movement charges. The institute has evolved a policy on the amount of rent that can be paid. The decisions regarding the amount of rent, brokerage, and escalation clause are usually handled by the Associate Dean IPS-2 and his/her Office. As a first step, new faculty members  are advised to contact the office of Associate Dean-2 Infrastructure and Planning (IPS) to obtain information on the rental limits and other rules regarding off-campus accommodation. It is recommended that the initial negotiated rent is limited to within the stipulated amount. The terms and issues regarding the escalation are handled by the Associate Dean IPS-2’s office. The maintenance and movement charges are usually expected to be borne by the faculty.
+An off-campus rented apartment requires consideration of the amount of rent, brokerage, escalation clause, and issues related to maintenance and movement charges. The Institute has evolved a policy on the amount of rent that can be paid. The decisions regarding the amount of rent, brokerage, and escalation clause are usually handled by the Associate Dean IPS-2 and his/her Office. As a first step, new faculty members  are advised to contact the office of Associate Dean-2 Infrastructure and Planning (IPS) to obtain information on the rental limits and other rules regarding off-campus accommodation. It is recommended that the initial negotiated rent is limited to within the stipulated amount. The terms and issues regarding the escalation are handled by the Associate Dean IPS-2’s office. The maintenance and movement charges are usually expected to be borne by the faculty.
 
 The Associate Dean IPS-2’s office may also offer help for searching and to identify estate agents who can facilitate the search for apartments. A list of previously rented apartments or apartments newly offered on rent may be already be available with the Office of the Associate Dean IPS-2. These may be considered by new faculty for potential allotment. The identification of the apartment could also be done personally with the help of an agent, or by consulting websites that offer such solutions.
 
 The contract or the lease agreement is drawn with IIT Bombay as the party and the letter of allotment is then issued by the Accommodation Allotment Committee (AAC). The duration of the lease should be checked carefully, since, it may be possible that these rented premises may have to occupied for an extended period of time. After moving to the apartment, the usual day to day maintenance is expected to be handled by the allottee.
 
-The institute has rules and regulations regarding allotment and entitlement of housing to faculty and staff of the institute. The details of these can be found on the Dean IPS website. The off-campus housing is treated as transit accommodation provided by IIT Bombay. Thus, availing the off-campus housing does not affect the entitlement or the seniority of the faculty within the ambit of the defined rules. The rented premises may have to vacated due to several reasons with the happy one being on-campus accommodation.
+The Institute has rules and regulations regarding allotment and entitlement of housing to faculty and staff of the Institute. The details of these can be found on the Dean IPS website. The off-campus housing is treated as transit accommodation provided by IIT Bombay. Thus, availing the off-campus housing does not affect the entitlement or the seniority of the faculty within the ambit of the defined rules. The rented premises may have to vacated due to several reasons with the happy one being on-campus accommodation.
 
 ## Schools in and around campus {#sec:moreschools}
 
