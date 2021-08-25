@@ -832,7 +832,7 @@ For most faculty members joining this Institute, this will be the first ‘job�
 ## What the Institute expects of you
 When you join as an Assistant Professor, in order to assist you to settle in and get your research underway quickly and efficiently, the Institute and the academic unit extend certain facilities. These are:
 
-1. A seed grant of ₹ 20 lakh plus support for one PhD student in the project mode. Higher seed grant amounts may be considered for equipment intensive research (you need to consult Dean (R&D) office for information regarding this, soon after you join).
+1. A seed grant of ₹ 20,00,000/- plus support for one PhD student in the project mode. Higher seed grant amounts may be considered for equipment intensive research (you need to consult Dean (R&D) office for information regarding this, soon after you join).
 
 2. Space: A minimum of a faculty cabin (10' × 15’) and a working space
    of 300 sq. ft. to be identified by the academic unit before he/she
@@ -1073,8 +1073,7 @@ as follows:
 1. The faculty member should request for a seed grant within 6 months from the date of joining the Institute.
 2. The duration of the seed grant project will usually not be more than 3 years and will be closed after that.
 3. Seed grant proposals should highlight the objectives, expected outcome, time frame, budget with appropriate justification (especially for equipment) and other relevant details. Specify the equipment proposed to be procured under the seed grant.
-4. Seed grant consists of a base amount up to ₹ 7/- lakhs (₹ seven
-lakhs) that can be apportioned under EQP (equipment), CON
+4. Seed grant consists of a base amount up to ₹ 7,00,000/- that can be apportioned under EQP (equipment), CON
 (consumables) and CTE (contingency) budget heads. Reallocation of
 funds between different budget heads is allowed. The following
 conditions apply on expenditures from the seed grant (base amount):
@@ -1083,10 +1082,10 @@ conditions apply on expenditures from the seed grant (base amount):
   b. Procurement of a laptop or a hand-held device (iPad, Tablets, etc.) is allowed. However, purchase of laptop / hand-held devices should normally be from allocations made by the academic unit. Such a purchase from the seed grant is allowed only with a self-declaration from the faculty to the effect that the purchase is made from only one of the sources (in the first three years).
   c. Travel within India using seed grant is allowed only for the concerned faculty member to defend research proposals and with prior permission of the Dean (R&D).
   d. Seed grant cannot be used for international travel, holding workshops or conferences, hiring administrative or project assistants or attendants, payment of honoraria, office furniture, air-conditioners, etc.
-5. An additional ₹ 13 lakhs (₹ thirteen lakhs) will be provided, if needed, for purchase of (basic) equipment. Reallocation of this amount to other budget heads is not allowed.
+5. An additional ₹ 13,00,000/- (₹ thirteen lakhs) will be provided, if needed, for purchase of (basic) equipment. Reallocation of this amount to other budget heads is not allowed.
 6. Faculty members needing additional funding should seek the same from the concerned Academic Unit, which could review the request and provide support from its own funds such as DDF as per its own policies / guidelines.
 7. Equipment grant may be augmented by up to ₹ 1 crore subject to the following:
-   a. This augmentation is to be used exclusively to procure major equipment / facility of a specialized nature, if required for the proposed research work. It is NOT meant as a general grant to be used over time for miscellaneous EQP purchases; these should be procured out of the 13 or 20 lakhs (basic equipment + part or whole of base amount).
+   a. This augmentation is to be used exclusively to procure major equipment / facility of a specialized nature, if required for the proposed research work. It is NOT meant as a general grant to be used over time for miscellaneous EQP purchases; these should be procured out of the 13,00,000/- or 20,00,000/- (basic equipment + part or whole of base amount).
    b. Faculty member must have secured at least one research proposal to an external agency for funding. If need be, Institute will give a letter of ‘additional financial support’ to be used while seeking funding from external agencies.
    c. Request for additional support will be evaluated the Research Infrastructure Fund Committee (RIFC). Based on the review by RIFC, a suitable recommendation is made for possible funding to Deputy Director (Finance and External Affairs) and Director for approval.
    d. Faculty member must give an undertaking that the equipment will be made available to other users in the Institute. Potential users of the equipment and the extent to which the equipment will be made available to other users must be included in the proposal seeking additional funding.
@@ -1410,7 +1409,7 @@ undergoing revision, you may refer to recent Senate meeting minutes
 for updates on this.
 
 There are several categories of research awards in IIT Bombay, among which
-the Rakesh Mathur awards for the Excellence in Research are instituted in honour of two former Professors of the institute, and each of these awards carries a cash incentive of ₹ 1.5 lakhs. They are
+the Rakesh Mathur awards for the Excellence in Research are instituted in honour of two former Professors of the institute, and each of these awards carries a cash incentive of ₹ 1,50,000/-. They are
 
   - Prof. S.C. Bhattacharya Award for Excellence in Pure Sciences
   - Prof. H.H. Mathur Award for Excellence in Applied Sciences
@@ -1455,7 +1454,7 @@ Each of the IRCC awards will consist of a citation and a cash prize of ₹ 50,00
 (Rupees Fifty Thousands only). The cash prize will be given to nominated
 researcher (candidate) at IIT Bombay. In addition, the awardee(s) will
 be invited to submit a research proposal to IRCC for possible funding of
-up to ₹5,00,000/- (Rupees Five Lakhs only).
+up to ₹ 5,00,000/- (Rupees Five Lakhs only).
 
 
 Other IRCC awards include the Dr. P.K. Patwardhan Technology Development awards and the Prof. Krithi Ramamritham Award for creative research. More details and the procedure to apply for these awards is available on the [IRCC Awards webpage](https://rnd.iitb.ac.in/awards).
@@ -1527,7 +1526,7 @@ Consultancy and related services offered will be divided mainly into two categor
 Since there are no overheads on the purchase of capital equipment in
 consultancy projects, it has been decided that only major equipment
 purchase should be allocated under this head, which would have a
-minimum value of ₹1 lakh, procured through a purchase order.
+minimum value of ₹ 1,00,000, procured through a purchase order.
 
 *Eligibility*: Consultancy and related assignments can be taken up by
 full time faculty and Core Research Scientists and Engineers of
@@ -2067,7 +2066,7 @@ children is twice this amount.
 The CPDA is an MOE provision under which the institute provides
 faculty at all levels with some level of support for travel (including
 international) and contingency expenses. At the time of writing, the
-allowance amounts to ₹ 3 lakhs for a block period of 3 years. It is to
+allowance amounts to ₹ 3,00,000 for a block period of 3 years. It is to
 be noted that CPDA cannot be utilised by the faculty when he/she is under
 any extraordinary leave.
 
@@ -2079,8 +2078,8 @@ be used for international travel. CPDA funds can also be utilised on
 reimbursement basis for paying the membership fee of various
 professional bodies, books and contingent expenses.
 
-Out of ₹ 3 lakhs, a minimum of ₹ 2 Lakhs is earmarked for presenting
-papers at conferences and a maximum ₹ 1 Lakh can be spent towards
+Out of ₹ 3,00,000/-, a minimum of ₹ 2,00,000/- is earmarked for presenting
+papers at conferences and a maximum ₹ 1,00,000/- can be spent towards
 membership of professional bodies, contingent expenses (includes
 purchase of books and stationery items). Expenses for a conference
 includes cost of travel (by Air India), local transport, overseas
@@ -2092,17 +2091,17 @@ can be met from projects and travel grants from other funding
 agencies. Mobiles and personal computers / laptops etc. are not
 permitted to be purchased using contingency grant.
 
-Out of the maximum allocation of contingency fund of ₹ 1 lakh in the
+Out of the maximum allocation of contingency fund of ₹ 1,00,000/- in the
 block of three years, an amount up to ₹ 33,000/- can be spent in the
 first year, a further ₹ 33,000/- plus the unused portion of the first
 year's allocation in the second year, and the entire unspent balance
 out of the total allocation in the last year.
 
-Availability of 1 lakh contingency fund is divided as follows:
+Availability of 1,00,000/- contingency fund is divided as follows:
     a. Up to ₹ 33,000/- available in first year
     b. Unspent from (a) + ₹ 33,000/- available in second year
     c. Unspent from (a) + (b) + ₹ 34,000/- available in third year
-  - If ₹ 2 lakhs from the CPDA conference funds are not used to attend
+  - If ₹ 2,00,000/- from the CPDA conference funds are not used to attend
     a conference, up to ₹ 50,000 may be availed for expenses towards
     books.
   - CPDA will not be available to the Faculty members who will proceed
@@ -2139,8 +2138,7 @@ table above, that is,  $28.75 will be paid.
 IRCC provides support for international travel, international patenting charges and publication through its IR-ITPP scheme, which is over and above the CPDA. Details may be found [here](https://rndhelp.ircc.iitb.ac.in/faculty/iritpp).
 
 ### Overview
-The salient features of IR-ITPP grants are as follows: A grant of ₹ 3
-lakhs will be provided from IRCC to all faculty members, to be spent
+The salient features of IR-ITPP grants are as follows: A grant of ₹ 3,00,000/- will be provided from IRCC to all faculty members, to be spent
 over a block of three year period (which is concurrent with the CPDA
 block period) for the following activities:
 
@@ -2156,11 +2154,11 @@ b. Any unspent amount at the end of a block period will lapse and a
 new block will begin thereafter.
 
 c. This amount may be utilised for any or all of the three purposes as
-mentioned above, within the limit of the said amount of ₹ 3 lakhs,
+mentioned above, within the limit of the said amount of ₹ 3,00,000/-,
 that is, the grant may be used for any of the components IR-IT, IR-IP
 or IR-P, fully or partially in any combination.
 
-e. Expenditure above ₹ 3 lakhs within the block period have to be
+e. Expenditure above ₹ 3,00,000/- within the block period have to be
 met by sources other than IRCC funds.
 
 f. The excess expenditure, if any, is not permitted to be met from
@@ -2171,9 +2169,9 @@ within one month of incurring such expenditure.
 
 h. If any new faculty member joins during a given three year block
 period, the grant eligibility will be:
-   - For service period of 2 years and above: ₹ 3 lakhs
-   - For service period of more than 1 year but less than 2 years: ₹ 2 lakhs
-   - For service period of 1 year and less: ₹ 1 lakh
+   - For service period of 2 years and above: ₹ 3,00,000/-
+   - For service period of more than 1 year but less than 2 years: ₹ 2,00,000/-
+   - For service period of 1 year and less: ₹ 1,00,000/-
 
 The details of the use of the grant for the three activities are given below.
 
@@ -2892,7 +2890,7 @@ For those who joined the Institute before 2004, there were two retirement scheme
  e. _Gratuity:_ A lump sum amount known as gratuity is payable to an
     employee on superannuation. The amount payable is a fourth of the
     emoluments for every completed six months of service, subject to a
-    maximum of ₹ 20 Lakhs. The emolument includes basic pay and
+    maximum of ₹ 20,00,000/-. The emolument includes basic pay and
     D.A. drawn by the employee on the day of superannuation.
 
 2. _Contributory Provident Fund (CPF)_: If you have opted for this
