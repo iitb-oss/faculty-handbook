@@ -44,7 +44,6 @@ header-includes:
 <!-- - Prof. Ronita Bardhan -->
 <!-- - Prof. Himanshu Bahirat -->
 <!-- - Prof. Subimal Ghosh -->
-<!-- - Prof. Sahana Murthy -->
 
 # The Institute
 The Indian Institutes of Technology (IITs) were established on the recommendation of a Committee headed by Sir Nalini Ranjan Sarkar, a businessman, educationist, industrialist and public figure. The Committee had recommended the establishment of institutes of national importance to be set up in different regions of India. The first of the IITs was set up in Kharagpur in 1950 at a site in Hijli village which used to be a British-era detention camp. The vision of establishing these Institutes is best stated in the words of India's first Prime Minister Pt. Jawaharlal Nehru in his convocation speech at the Institute:
@@ -84,7 +83,7 @@ There are two statutory documents that stipulate the way the Institute is to be 
 Formally, the President of India is officially the chief of the IITs;
 (s)he is  called the Visitor of the Institutes. In reality, the
 Institute does not deal directly with the Visitor, but routes all
-paperwork requiring their approval through the Ministry of Education (MOE).
+paperwork requiring their approval through the Ministry of Education (MoE).
 
 ### The IIT Council
 At the very top of all the IITs' administration is the [IIT
@@ -108,7 +107,7 @@ Board approves urgent items that cannot wait for the next Board
 Meeting; these are approved _post facto_ by the BOG.
 
 The Board has 11 members. In addition to the Chairperson (appointed by
-MOE) and the Director of the Institute, who are _ex officio_ members
+MoE) and the Director of the Institute, who are _ex officio_ members
 of the Board, one nominee from each of the governments of the states
 Maharashtra, Goa and the Union Territory of Dadra and Nagar Haveli,
 which comprise the zone in which the Institute is situated, are
@@ -124,7 +123,7 @@ Two crucial Institute committees, namely the _Finance Committee_ and
 the _Building and Works Committee_ report to the Board. Any proposal,
 which requires major fund allocation is generally routed through the
 Finance Committee that acts as the watchdog of the Institute funds. The
-Financial Advisor to MOE is a member of the Finance Committee. The
+Financial Advisor to MoE is a member of the Finance Committee. The
 Building and Works Committee is responsible for all the major
 construction projects in the Institute, and has the power to make
 recommendations related to these.
@@ -447,7 +446,11 @@ Immediately on joining:
    Board) to Ph.D. and proof of date of birth.
    b. Several passport size photographs for various purposes.
    c. If you were previously employed, a certificate stating that you
-   have been relieved of your position there. Proof of last drawn salary may be also be submitted.
+   have been relieved of your position there. Proof of last drawn
+   salary may be also be submitted.
+   d. Bank details.
+   e. PAN card (see details below).
+   f. Aadhar card (see details below)..
 
 2. The Administration section will, in turn, give you several letters
    and forms. Two letters of immediate importance are the ones to: (i)
@@ -588,11 +591,12 @@ Immediately on joining:
     Exchange in the Main Building, can help you to get a prepaid or postpaid mobile
     connection (prepaid or postpaid).
 
-12. It is advisable to also get an Aadhar card
-    (https://uidai.gov.in/). The Administration Section will be able
-    to provide you with details of the nearest data collection center
-    at which an application can be lodged. It is a good idea to take
-    this for your whole family in one go. The post-office in campus accepts Aadhar applications.
+12. If you do not already have one, it is advisable to also get an
+    Aadhar card (https://uidai.gov.in/). The Administration Section
+    will be able to provide you with details of the nearest data
+    collection center at which an application can be lodged. It is a
+    good idea to take this for your whole family in one go. The
+    post-office in campus accepts Aadhar applications.
 
 13. You need to open a bank account where your salary will be deposited. There are branches of two banks on campus,
     **viz.** State Bank of India and Canara Bank. Please drop in there
@@ -768,7 +772,7 @@ Though they may not be officially your dependents, the Institute offers OPD faci
 
 ### Medical advance, reimbursement, etc.
 
-When an employee or a dependent is admitted to an outside hospital, up to 80% of the estimated cost can be provided as an advance to the employee.
+When an employee or a dependent is admitted to an outside hospital, up to 90% of the estimated cost can be provided as an advance to the employee.
 
 For the benefit of staff members staying outside the campus (as also for staff on vacation/leave), a list of Medicare Centres/Hospitals[^hosplist] is approved for OPD treatment. Medicines purchased on prescription by doctors from these hospitals are reimbursed fully. However, further referrals from these hospitals to outside hospitals need to be sanctioned by the IIT Bombay Hospital.
 
@@ -999,11 +1003,11 @@ beginning - this is often academuc unit's policy; in some cases, there may not b
       which helps to prepare video lectures. Details are available on
       their [website](http://www.cdeep.iitb.ac.in/). Please look in
       the Related Projects section, for information on
-      pedagogy-related projects, usually MOE-supported, like TEQIP,
+      pedagogy-related projects, usually MoE-supported, like TEQIP,
       GIAN, and NMEICT.
 
    b. [NPTEL](http://www.cdeep.iitb.ac.in/NPTEL2) - a nationwide
-      program supported by MOE for high-quality content development
+      program supported by MoE for high-quality content development
       in science/technology and dissemination through Massive Open
       Online Courses (MOOCs), with facility for testing and
       certification.
@@ -1103,7 +1107,7 @@ conditions apply on expenditures from the seed grant (base amount):
   - Research plans / targets for further utilization of the special equipment / facility in the next few years
   - Plans for further R&D projects to be proposed to fully utilize the potential of the equipment / facility.
 10. Institute will make an annual budget for seed grants. Source of
-       funds can be either MOE grants or IRCC funds. Disbursals of
+       funds can be either MoE grants or IRCC funds. Disbursals of
        seed grants will be subject to availability of funds under this
        budget.
 
@@ -1127,7 +1131,7 @@ Some of the sponsoring agencies and their URLs are given below:
   - [Indian Space Research Organization (ISRO)](www.isro.org/)
   - [Ministry of  Electronics & IT (MeitY)](www.meity.gov.in/)
   - [Department of Telecommunications (DoT)](www.dot.gov.in)
-  - [Ministry of Human  Resource Development (MOE)](www.education.nic.in/)
+  - [Ministry of Human  Resource Development (MoE)](www.education.nic.in/)
   - [Naval Research  Board  (NRB)](http://nrbdrdo.res.in/)
   - [Science and Engineering Research Board (SERB)](http://serbonline.in)
 
@@ -1154,7 +1158,7 @@ promotion is announced by Dean (Faculty Affairs) after due approval by
 the Director.
 
 Applications are invited from faculty members who satisfy the minimum
-qualifications and experience criteria as per MOE norms for the
+qualifications and experience criteria as per MoE norms for the
 respective position. The application form requires each candidate to furnish
 information about their work during the assessment period (that is, period
 being held in the current position).
@@ -1281,11 +1285,12 @@ other terms etc.
 ### Method for Determining Professors to be Moved to HAG scale
 
 1. _Composition of D-HAG Committee:_ Scoring should be done by a
-   committee called D-HAG constituted by the Head of the academic unit. The
-   committee is to consist of 3 to 4 members, all of whom must be on
-   HAG scale. In case there are not enough people on HAG scale in a
-   academic unit, faculty on HAG scale from other academic units may be
-   inducted into the committee.
+   committee called Departmental committee for Higher Academic Grade
+   (D-HAG) constituted by the Head of the academic unit. The committee
+   is to consist of 3 to 4 members, all of whom must be on HAG
+   scale. In case there are not enough people on HAG scale in a
+   academic unit, faculty on HAG scale from other academic units may
+   be inducted into the committee.
 
 2. _Submission of HAG form to D-HAG:_ Heads will be provided a list A
    of professors on HAG scale as well as those recommended for HAG in
@@ -1733,7 +1738,7 @@ The salary that you get has several components.
    in one of the following pay levels. D.A. stands for "Dearness
    Allowance", described subsequently.
 
-   - *Pay Level 10*: Salary range ₹ 57,000 to ₹ 98,200 (plus D.A.)
+   - *Pay Level 10*: Salary range ₹ 57,700 to ₹ 98,200 (plus D.A.)
      per month.
    - *Pay Level 11*: Salary range ₹ 68,900 to ₹ 117,200 (plus
      D.A.) per month.
@@ -1760,8 +1765,8 @@ The salary that you get has several components.
      following levels, based on their experience:
 	 - _0 to 1 year of post-PhD experience (Assistant Professor Grade II):_ Pay
 Level 10, with starting a salary of ₹ 84,700 plus D.A. per month.
-	 - _1 to 3 years of post-PhD experience (Assistant Professor Grade II):_ Pay
-       Level 11, with a starting salary of ₹ 89,900 plus D.A. per month.
+	 - _1 year of post PhD experience (Assistant Professor Grade II):_ Pay Level 11, with a starting salary of ₹ 89,900 plus D.A.
+     - _2 years of post PhD experience (Assistant Professor Grade II):_ Pay Level 11, with a starting salary of ₹ 92,600 plus D.A.
 	 - _3 years or more of post-PhD experience (Assistant Professor Grade I):_ Pay Level 12, with a
        starting salary of ₹ 101,500 plus D.A. per month.
 	 - _After 3 years in Pay Level 12 (Assistant Professor Grade I)_:
@@ -1797,7 +1802,7 @@ Level 10, with starting a salary of ₹ 84,700 plus D.A. per month.
    for this scale is six years of service as a Professor. A maximum of
    40% of the total number of Professors can be placed in this
    scale. The corresponding Pay Level is 15, and the salary range is
-   from ₹ 182,000 to ₹ 224,100 per month. Typically, it takes about 12 years to become a HAG scale Professor after becoming Professor.
+   from ₹ 182,000 to ₹ 224,100 per month. Currently, it takes about 12 years to become a HAG scale Professor after becoming Professor.
 
    - _Institute and Endowed Chairs for faculty:_ As a means of
    recognizing outstanding performance, the Institute has several
@@ -1816,7 +1821,7 @@ Level 10, with starting a salary of ₹ 84,700 plus D.A. per month.
 
 4. _House Rent Allowance (HRA):_ If you do not stay in
    Institute-provided accommodation, you will also receive House Rent
-   Allowance (HRA) which is 30% of your basic pay. The allowance is
+   Allowance (HRA) which is 27% of your basic pay. The allowance is
    payable even when you stay in an accommodation owned by
    you. (Interestingly, if both spouses are employees of the
    Institute, both can claim HRA if the accommodation is rented or is
@@ -2063,7 +2068,7 @@ of the financial year. The quantum of reimbursement for disabled
 children is twice this amount.
 
 ## Cumulative Professional Development Allowance (CPDA)
-The CPDA is an MOE provision under which the Institute provides
+The CPDA is an MoE provision under which the Institute provides
 faculty at all levels with some level of support for travel (including
 international) and contingency expenses. At the time of writing, the
 allowance amounts to ₹ 3,00,000 for a block period of 3 years. It is to
@@ -2084,12 +2089,18 @@ membership of professional bodies, contingent expenses (includes
 purchase of books and stationery items). Expenses for a conference
 includes cost of travel (by Air India), local transport, overseas
 medical insurance, visa fees, registration fee and living expenses @
-US $ 250 per day for the period of conference and two additional days
+US $ 365 per day for the period of conference and two additional days
 (for travel) preceding/succeeding the conference, subject to a maximum
 of (5+2) days. In case of shortage of funds, the excess expenditure
 can be met from projects and travel grants from other funding
-agencies. Mobiles and personal computers / laptops etc. are not
-permitted to be purchased using contingency grant.
+agencies.
+
+As per Institute rules following expenses are not allowed using CPDA funds:
+
+1. Hiring of staff
+2. Non consumable items (asset items)
+3. Purchase of computers, laptops, tablets or any similar items by any name.
+4. Computer peripherals such as printers, scanners, other accessory equipment, recording equipment such as cameras, audio/video recorders, etc.
 
 Out of the maximum allocation of contingency fund of ₹ 1,00,000 in the
 block of three years, an amount up to ₹ 33,000 can be spent in the
@@ -2113,12 +2124,12 @@ International conferences are as follows:
 ---------------------------------------------------------------
 Country/ Region               Per Diem (USD) Hotel charges per day (USD)
 ----------------------------- -------------- ---------------------------
-Outside India for Conferences $115           Up to $ 135; amount
-or Seminars                                  payable at actuals
+Outside India for Conferences $115           Up to $ 250; amount
+or Seminars                                  payable at actuals (with bills/receipts)
 
 Outside India for Faculty     $115           Would be reimbursed on
 and Staff Members sent                       actual expenditure incurred
-by the Institute on                          (with bill/receipt) with
+by the Institute on                          (with bills/receipts) with
 assignments or as a                          special approval of director.
 part of delegation
 on Government work.
@@ -2181,23 +2192,23 @@ The details of the use of the grant for the three activities are given below.
 
 The IR-IT component in the block grant may be used for the following:
 
-   a. Faculty attending conferences to present posters or invited talks
-   b. Conducting specialised experimental research work in major
+  a. Faculty attending conferences to present posters or invited talks
+  b. Conducting specialised experimental research work in major
    research facilities abroad, if unavailable in India (TA/DA only). Charges for usage of such facilities, if applicable, should be met from other sources.
-   c. Chairing a session in international meetings
-   d. Contribution towards travel awards, similar to INSA travel grants
-   e. Giving invited talks and initiating or continuing on-going collaborative research work, where partial support towards the visit is made available by the host institution (such as local travel / hospitality, partial travel support etc.)
-   f. Attending specialised workshops based on invitation and partial support by the organisers
+  c. Chairing a session in international meetings
+  d. Contribution towards travel awards, similar to INSA travel grants
+  e. Giving invited talks and initiating or continuing on-going collaborative research work, where partial support towards the visit is made available by the host institution (such as local travel / hospitality, partial travel support etc.)
+  f. Attending specialised workshops based on invitation and partial support by the organisers
 
 The grant use is subject to the following:
 
-   a. The grant is available only for faculty member for his/her travel and not for students or project staff.
-   b. All Institute terms and conditions of international travel (CPDA norms), such as air carrier, TA/DA rules, class eligibility, etc., will be followed for the IR-IT related activities.
-   c. A request by faculty for support related to international travel should be sent to Dean R&D, with recommendation by Heads of the respective academic entities.
-   d. Prior permission from Dean (FA) should be obtained for the international travel. A copy of the approval letter and conference related documents should be made available to Dean R&D office.
-   e. The component of the Institute CPDA grant for international travel for the applicable block period should have been utilised first, before utilising the IR-IT grant. When the available CPDA fund is not sufficient to cover the visit, then it can be combined with IR-IT fund / other sources such as project fund / RDF.
-   f. While claiming the IR-IT grant component, a self-declaration shall be made by the faculty member that the international travel component of the CPDA fund has already been utilised.
-   g. Administrative order for the travel will be issued by Registrar as per existing procedure. If Institute CPDA is used in combination with any funds managed at IRCC (including the new IR-IT scheme, RDF, project fund, etc.), then the claim should be submitted to Main Accounts as per usual practice.
+  a. The grant is available only for faculty member for his/her travel and not for students or project staff.
+  b. All Institute terms and conditions of international travel (CPDA norms), such as air carrier, TA/DA rules, class eligibility, etc., will be followed for the IR-IT related activities.
+  c. A request by faculty for support related to international travel should be sent to Dean R&D, with recommendation by Heads of the respective academic entities.
+  d. Prior permission from Dean (FA) should be obtained for the international travel. A copy of the approval letter and conference related documents should be made available to Dean R&D office.
+  e. The component of the Institute CPDA grant for international travel for the applicable block period should have been utilised first, before utilising the IR-IT grant. When the available CPDA fund is not sufficient to cover the visit, then it can be combined with IR-IT fund / other sources such as project fund / RDF.
+  f. While claiming the IR-IT grant component, a self-declaration shall be made by the faculty member that the international travel component of the CPDA fund has already been utilised.
+  g. Administrative order for the travel will be issued by Registrar as per existing procedure. If Institute CPDA is used in combination with any funds managed at IRCC (including the new IR-IT scheme, RDF, project fund, etc.), then the claim should be submitted to Main Accounts as per usual practice.
 
 ### International patenting activities (IR-IP)
 The IR-IP component of the block grant may be used for meeting 50%
@@ -2273,6 +2284,9 @@ ordinary taxis are permitted. All faculty are entitled to travel by any
 type of public bus including Air-conditioned buses. If you travel by
 your own car or taxi (in places where metered taxis are not
 available), you could claim up to ₹ 24 per kilometer.
+
+Please note that the travel entitlements for HAG scale professors is
+currently being reviewed, and may be different from those presented here.
 
 ### Daily allowance
 
@@ -2380,6 +2394,10 @@ A faculty member may request for keeping lien on his/her post for accepting a jo
 4. The employee has to pay the leave salary contribution. When an employee pays the leave salary contribution, the Institute leave account of the employee is credited or debited when the employee takes leave in his/her host organization. The leave salary contribution to be paid is roughly 11% of the pay drawn from the host organization (or the pay that the employee would have drawn, had he/she not gone on lien.) The payment of leave salary contribution may be waived by the Director on request in which case the leave account of the employee remains frozen during period of lien.
 5. Keeping your accommodation during Lien: The Institute generally permits a faculty member to retain the quarter allotted for a period of one year only during the lien period. The license fee payable during this period will be the same as the employee normally pays. The Director may permit a faculty to keep the quarter during the second year of lien, but on an enhanced license fee which is fifty times the normal license fee. The employee has to arrange to pay the bills received from the Estate Office towards license fee and other utility charges every month.
 
+In case of online transfer of Leave, Salary and Pension Contribution
+details, the intimation mentioning the UTR number should be sent to
+the Registrar, IIT Bombay.
+
 ### Foreign visits
 
 Visits to foreign countries, whether for personal or official purposes, requires consent of the Institute. A letter addressed to the Dean (Faculty Affairs) for permission for overseas travel before undertaking travel is mandatory.
@@ -2418,9 +2436,9 @@ two:
   16. Other purpose
 
  b. Where the faculty member may directly write to the concerned
- section of Administration (AR-Admin). In these cases, the
- application should be addressed to the Dean (Faculty Affairs), and
- forwarded on plain paper through Head:
+ section of Administration (AR-Admin) through Dean (Faculty
+ Affairs). In these cases, the application should be addressed to the
+ Dean (Faculty Affairs), and forwarded on plain paper through Head:
 
   1. NOC - for test / interview
   2. NOC - for VISA (for attending conference)
@@ -2595,133 +2613,12 @@ details.
  - *Academic activities*: Teaching, research, student guidance, other academic activities of the Institute.
  - *R&D activities*:
     - Eligible for a one time seed grant from the Institute.
-    - Can take up all types of R&D Projects, including consultancy projects. 
+    - Can take up all types of R&D Projects, including consultancy projects.
     - Can promote companies in SINE.
     - Can be Directors of companies as per Institute norms.
  - *Administration related activities*: Expected to be actively involveved in administrative responsibilities as assigned by academic units and the Institute.
 
-<!-- 2. **Assistant Professor (Grade-II)**: -->
-<!--    - *Appointment details*: Equivalent to regular faculty; appointed thus because they are short of the 3-year post-PhD experience required for appointment as regular Assistant Professor; likely to be regularized when this requirement is met. -->
-<!--    - *R&D activities*: -->
-<!--       - They are eligible for a one time seed grant from the Institute. They can also take up all types of R&D Projects, including consultancy projects. -->
-<!--       - They can promote companies in SINE. -->
-<!--       - They can be Directors of companies as per Institute norms. -->
-<!--    - *Academic activities*: They can guide students, and participate in all academic activities of the institute. -->
-<!--    - *Administration related activities*: They can take up admin work as delegated by the Institute/department from time to time. -->
-
-## Temporary faculty appointments
-**Short term visiting faculty** positions are meant for faculty members or
-specialists employed elsewhere who are invited for research
-collaborations, or for delivering short courses, to research scholars
-and faculty members consisting of at least two lectures per
-week. The specific appointments in this category along with the
-salaries prevailing at the time of writing are
-
- - Visiting Assistant Professor (salary of ₹ 1,25,000 per month on
-   pro rata basis)
- - Visiting Associate Professor (salary of ₹ 1,75,000 per month on
-   pro rata basis)
- - Visiting Professor (salary of ₹ 2,00,000 per month on
-   pro rata basis)
- - Distinguished Visiting Professor (salary of ₹ 2,25,000 per month
-   on pro rata basis, and guest house accommodation charges borne by
-   the Institute)
-
-The following are the terms and conditions that govern short term
-visiting faculty appointments and their duties:
-
- - *Appointment details*: Proposals are scrutinised by the academic
-   unit's policy committee and its recommendations are sent to Dean
-   (FA). These are then discussed and approved in the Standing
-   Committee Meeting.
- - *Academic activities*: They can be Guides, but with a mandatory Co-Guide, depending on the duration of the appointment; Co-guide has to give a declaration to take responsibility of the students.
- - *R&D activities*: Same as regular faculty, except that
-    - They are not eligible for Seed Grant
-    - They may be PIs, but a Co-PI who has to give a declaration that
-      he/she will take responsibility of the project deliverables is mandatory.
- - *Administration related activities*:
-   - Cannot be members of any statutory committees or of any
-     department committees appointed by the Director (such as DPC,
-     DUGC, DPGC, Search committees, etc.).
-
-**Adjunct faculty** are typically retired IIT Bombay faculty members or
-external experts appointed to teach full or half courses. These
-appointments along with their salary per day of week are:
-
-- Adjunct Assistant Professor (salary of ₹ 25,000 for 1 day per week
-  on pro rata basis)
-- Adjunct Associate Professor (salary of ₹ 30,000 for 1 day per week
-  on pro rata basis)
-- Adjunct Professor (salary of ₹ 40,000 for 1 day per week
-  on pro rata basis)
-
-Adjunct faculty members do not get Institute accommodation. However,
-they may stay in the guest house on payment basis at official rates
-provided rooms are available.  Pension, if any, is not deducted from
-salary for such appointments.
-
-
-The following are the terms and conditions that govern adjunct faculty
-appointments and their duties:
-
-   - *Appointment details*: TODO
-   - *Academic activities*:
-     - Can be Co-Guides for M.Tech / M.Sc students / PhD students based on duration of association.
-     - Cannot be members of RPCs.
-   - *R&D activities*:
-      - Can be associated only as an  Investigator and only in Sponsored research projects.
-      - May be retained as external consultant in projects, as per norms.
-      - No faculty fee allowed in projects other than through the external consultant mode.
-   - *Administration related activities*: No administrative activities allowed.
-
-**Professors on Contract** are eminent scientists and academics who have
-retired from Central or State government entities, Autonomous Bodies
-or private organisations, but are yet to attain the age of retirement
-of regular faculty members at IIT Bombay (or 70 years) who take up
-full time faculty positions.  They are appointed to take up full time
-contract positions on scale for a three year term extendable to five
-years (or till they are 70; whichever is earlier).  Their salary is
-fixed as the last drawn salary *minus* any pension that they may be
-receiving. They are entitled to all the benefits offered to regular
-faculty members such as CPDA and leave.
-
-The following are the terms and conditions that govern Professor on
-Contract appointments and their duties:
-
-   - *Appointment details*: TODO
-   - *R&D activities*: Same as for regular faculty, except that they
-     are not eligible for Seed Grant, and they may be PIs, but a Co-PI who has to give a declaration that he/she
-will take responsibility of the project deliverables is mandatory.
-   - *Academic activities*: They can be Guides, but with a mandatory Co-Guide, depending on the duration of the appointment; Co-guide has to give a declaration to take responsibility of the students. In addition, they will be invited to the senate.
-   - *Administration related activities*:  Cannot be members of any statutory committees or of any department
-committees appointed by the Director (such as DPC, DUGC, DPGC,
-Search committees, etc.).
-
-An **Emeritus Fellow** position is considered a prestigious
-appointment. The nominees for Emeritus Fellows should have
-consistently excelled in (a) service (b) research and (c)
-teaching. Their performance in at least two of the above three
-activities should be better than the academic unit average in the last
-10 years. The appointees should have been recognized nationally
-through awards, Fellowships of national academies etc. Emeritus
-Fellowship should not be considered for teaching requirements alone.
-Departments may consider additional criteria to recommend/nominate
-retiring faculty members for Emeritus Fellowship. Departments may also
-decide not to recommend any faculty member for Emeritus
-Fellowship. The salary at the time of writing is 
-
-The following are the terms and conditions that govern Professor on
-Contract appointments and their duties:
-
-   - *Appointment details*: TODO
-   - *R&D activities*: Same as for regular faculty, except that they
-     are not eligible for Seed Grant, and they may be PIs, but a Co-PI who has to give a declaration that he/she
-will take responsibility of the project deliverables is mandatory.
-   - *Academic activities*: They can be Guides, but with a mandatory Co-Guide, depending on the duration of the appointment; Co-guide has to give a declaration to take responsibility of the students. In addition, they will be invited to the senate.
-   - *Administration related activities*:  Cannot be members of any statutory committees or of any department
-committees appointed by the Director (such as DPC, DUGC, DPGC,
-Search committees, etc.).
-
+## Professors of Practice
 **Professors of Practice** are expected to be top professionals
 (CEO/CTO) with significant experience, typically about 20 years.  They
 should have at least a Bachelor's degree Engineering / Sciences /
@@ -2755,61 +2652,114 @@ Practice appointments and their duties:
    - Encourage students in innovation and entrepreneurship projects and provide necessary mentorship for these activities; and contribute to enhanced industry academia collaborations.
    - Professors of Practice are expected to guide Master’s students in their research and be co-guides to Ph. D. students.
 
+<!-- 2. **Assistant Professor (Grade-II)**: -->
+<!--    - *Appointment details*: Equivalent to regular faculty; appointed thus because they are short of the 3-year post-PhD experience required for appointment as regular Assistant Professor; likely to be regularized when this requirement is met. -->
+<!--    - *R&D activities*: -->
+<!--       - They are eligible for a one time seed grant from the Institute. They can also take up all types of R&D Projects, including consultancy projects. -->
+<!--       - They can promote companies in SINE. -->
+<!--       - They can be Directors of companies as per Institute norms. -->
+<!--    - *Academic activities*: They can guide students, and participate in all academic activities of the institute. -->
+<!--    - *Administration related activities*: They can take up admin work as delegated by the Institute/department from time to time. -->
+
+## Foreign faculty
 **Foreign faculty** members can be appointed to work like regular
 faculty members, on similar pay scales. However, there are some notable differences in
 appointment terms:
 
-   - *Appointment details*: Appointed as full-time faculty members, and selection procedure is similar to that of regular faculty appointments through a Selection Committee meeting. However, Ministry approval must be sought before the offer is made.  It is a contract position for a period of five years that can be extended. They are entitled to all the benefits offered to regular faculty members such as CPDA and leave.
+   - *Appointment details*: Appointed as full-time faculty members,
+     and selection procedure is similar to that of regular faculty
+     appointments through a Selection Committee meeting. However,
+     Ministry approval must be sought before the offer is made.  It is
+     a contract position for a period of five years that can be
+     extended. They are entitled to all the benefits offered to
+     regular faculty members such as CPDA and leave.
    - *R&D activities*: All terms and conditions will be as for regular faculty.
    - *Academic activities*: All terms and conditions will be as for regular faculty.
    - *Administration related activities*: All terms and conditions will be as for regular faculty.
 
+## Temporary faculty appointments
+**Short term visiting faculty** positions are meant for faculty
+members or specialists employed elsewhere who are invited for research
+collaborations, or for delivering short courses, to research scholars
+and faculty members consisting of at least two lectures per
+week. Proposals are scrutinised by the academic unit's policy
+committee and its recommendations may be approved in the Standing
+Committee Meeting. The specific appointments in this category along
+with the salaries prevailing at the time of writing are:
+ - Visiting Assistant Professor (salary of ₹ 1,25,000 per month on
+   pro rata basis)
+ - Visiting Associate Professor (salary of ₹ 1,75,000 per month on
+   pro rata basis)
+ - Visiting Professor (salary of ₹ 2,00,000 per month on
+   pro rata basis)
+ - Distinguished Visiting Professor (salary of ₹ 2,25,000 per month on
+   pro rata basis, and are provided free guest house accommodation)
+
+**Adjunct faculty** are can be retired IIT Bombay faculty members or
+external experts appointed to teach full or half courses. These may be
+for 1-3 days a week, depending on the frequency of the visits. The
+salary structure for these appointments is as follows:
+
+- Adjunct Assistant Professor (salary of ₹ 25,000 for 1 day per week
+  on pro rata basis)
+- Adjunct Associate Professor (salary of ₹ 30,000 for 1 day per week
+  on pro rata basis)
+- Adjunct Professor (salary of ₹ 40,000 for 1 day per week
+  on pro rata basis)
+
+Adjunct faculty members do not get Institute accommodation. However,
+they may stay in the guest house on payment basis at official rates,
+provided rooms are available.  Pension, if any, is not deducted from
+salary for such appointments.
+
+**Professors on Contract** are eminent scientists and academics who
+take up full time faculty positions. They should have retired from
+Central or State government entities, autonomous bodies or private
+organisations, and are yet to attain the age of retirement of regular
+faculty members at IIT Bombay.  They are appointed to take up full
+time contract positions on scale for a three year term extendable to
+five years (or till they are 70; whichever is earlier).  Their salary
+is fixed as the last drawn salary *minus* any pension that they may be
+receiving. They are entitled to some benefits offered to regular
+faculty members such as leave and OPD medical facilities. They are
+provided with a non-lapsable contingency grant with usage of ₹ 20,000
+per year.
+
+An **Emeritus Fellow** position is a prestigious appointment. The
+nominees for Emeritus Fellows should have consistently excelled in (a)
+service (b) research and (c) teaching. Their performance in at least
+two of the above three activities should be better than the academic
+unit average in the last 10 years. The appointees should have been
+recognized nationally through awards, Fellowships of national
+academies etc. Emeritus Fellowship should not be considered for
+teaching requirements alone.  Departments may consider additional
+criteria to recommend/nominate retiring faculty members for Emeritus
+Fellowship. Departments may also decide not to recommend any faculty
+member for Emeritus Fellowship. The salary at the time of writing
+(August, 2021) is ₹ 1,20,000. They are provided with a non-lapsable
+contingency grant with usage of ₹ 20,000 per year.
+
 **Guest faculty** are experts from other Institutions/Industry who are
 invited to deliver lectures/offer courses to the students of various
 academic programs of our Institute. The academic unit's policy
-committee recommends and the Institute Standing committee approves the
-appointment of Guest Faculty. They are paid an honorarium of ₹
-3,000 per hour on a pro-rata basis from the Department.
+committee recommends and the Institute Standing committee may approve
+the appointment of Guest Faculty. They are paid an honorarium of ₹
+3,000 per hour on a pro-rata basis.
 
 ## Emeritus faculty appointments
 **Emeritus Professor** positions are honorary positons given to
 faculty for their contribution to the Institute. These are only
-titular appointments. The following are the terms and conditions that govern Emeritus
-Professor appointments and their duties:
+titular appointments recommended by the academic unit. TODO: Archita
+finds out appointment and benefits.
 
-   - *Appointment details*: TODO
-   - *Academic activities*:
-     - Cannot be Guides/ Co-Guides for students.
-     - Cannot be members of RPC.
-     - Can be external Co-guides, subject to prior approval of Dean (AP).
-   - *R&D activities*:
-      - May be only mentors for R&D projects and not Investigators.
-         - Could be taken as external consultants in projects undertaken by other regular faculty.
-   - *Administration related activities*: No administrative activities allowed.
-
-**Emeritus Scientists** are typically retired professionals carrying out specific R&D projects funded by government agencies, at the Institute (Institute’s offer will be for a visiting honorary position.
-The following are the terms and conditions that govern Emeritus
-Scientist appointments and their duties:
-
-   - *Appointment details*: Based on a recommendation by the standing Institute
-     Standing Committee, but the salary/fellowship will come from the
-     project/scheme).
-   - *Academic activities*: Same as #5.
-     - Cannot be Guides/ Co-Guides for students.
-     - Cannot be members of RPC.
-     - Can be external Co-guides, subject to prior approval of Dean (AP).
-   - *R&D activities*:
-     - Will be able to operate only their projects.
-     - All such applications will need to be routed through Dean (FA).
-     - IRCC will implement the project as per norms.
-     - Not eligible to submit new projects through IRCC.
-     - No RDF accrual from overheads, only to IRCC and to DDF.
-   - *Administration related activities*: No administrative activities allowed.
+**Emeritus Scientists** are retired professionals carrying out
+specific R&D projects funded by government agencies at the
+Institute. Institute’s offer will be for a visiting honorary position.
 
 # Retirement and Post-Retirement Benefits
 
 ## Post-retirement Benefits
-While this chapter was originally written primarily for faculty who joined the Institute before 2004 (or who joined later, but with transfer of previous services rendered in Govt or Institutions like IITs), suitable additions/provisions which apply to faculty who joined on or after 1$^{\text{st}}$ January, 2004 (National Pension Scheme) have now been incorporated.
+While this chapter was originally written primarily for faculty who joined the Institute before 2004 (or who joined later, but with transfer of previous services rendered in Govt or Institutions like IITs), suitable additions/provisions which apply to faculty who joined on or after 1$^{\text{st}}$ January, 2004 (National Pension System) have now been incorporated.
 
 ### Pension, Gratuity, Commutation of Pension etc.
 What happens after you have served out your active life with the Institute? Most look at the period of retirement with a certain amount of anxiety because they anticipate a sharp drop in income. It is, therefore, prudent to do some planning reasonably early in life, certainly by the time you are approaching 50.
@@ -2834,8 +2784,18 @@ which they complete 65, based on a recommendation from the academic unit. During
 ### Retirement schemes
 For those who joined the Institute before 2004, there were two retirement schemes to choose from, _viz._ Contributory Provident Fund-cum-gratuity Scheme (CPF) and General Provident Fund-cum-Pension-cum-gratuity Scheme (GPF). The salient features of these schemes are as follows.
 
-1. _GPF:_ If you have chosen this scheme, you are eligible to draw a pension throughout your remaining life at a rate to be shown below. Further, after your death, your spouse will be eligible for a _family pension_ too.
- a. _Pension:_ The maximum rate of pension is half the basic pay at the time of retirement, or 50% of the average monthly remuneration drawn during the last ten months of service, whichever is beneficial[^retireavg], along with the applicable rate of D.A. This requires having put in a minimum of 20 years of service, for voluntary retirees, and 10 years of qualifying service for superannuating faculty (the duration not counting extra-ordinary leave or unauthorized absence or periods of suspension, which are followed by major penalties).
+1. _GPF:_ If you have chosen this scheme, you are eligible to draw a
+ pension throughout your remaining life at a rate to be shown
+ below. Further, after your death, your spouse will be eligible for a
+ _family pension_ too.  a. _Pension:_ The maximum rate of pension is
+ half the basic pay at the time of retirement, or 50% of the average
+ monthly remuneration drawn during the last ten months of service,
+ whichever is beneficial[^retireavg], along with the applicable rate
+ of dearness relief (D.R.). This requires having put in a minimum of 20
+ years of service, for voluntary retirees, and 10 years of qualifying
+ service for superannuating faculty (the duration not counting
+ extra-ordinary leave or unauthorized absence or periods of
+ suspension, which are followed by major penalties).
 
  b. _Commutation of Pension:_ It is possible to offer to the Institute
      that a percentage of your pension be commuted, that is,  you opt to
@@ -2863,11 +2823,11 @@ For those who joined the Institute before 2004, there were two retirement scheme
     basic pension will be reduced by ₹ 48,820 in the above example,
     the Dearness Allowance is payable on the regular pension amount of
     ₹ 122,050. Thus, the take home pension amount for a HAG scale
-    Professor would be ₹ 73,230 + D.A (17% of ₹ 122,050 = ₹ 20,748.50)
+    Professor would be ₹ 73,230 + D.R. (17% of ₹ 122,050 = ₹ 20,748.50)
     = ₹ 93,978.50. Full pension will be restored to you after 15 years
     of receiving the commutation amount. As you grow older, till the
     age of 80, the pension amount changes because the
-    D.A. changes. However, when you reach the age of 80, the basic
+    D.R. changes. However, when you reach the age of 80, the basic
     pension increases by 20%, at 85: 30% at 90: 40% and at 95:
     50%. And if you hit a century in your life, the basic pension
     doubles!
@@ -2880,7 +2840,7 @@ For those who joined the Institute before 2004, there were two retirement scheme
     rate stated above. In case an employee dies after retirement but
     before reaching 67 years of age, the family pension till such time
     will be equal to the pension that would have been payable had the
-    employee not so died. In addition, applicable D.A. is also
+    employee not so died. In addition, applicable D.R. is also
     payable. Note that family pension amount is not affected by any
     commutation that the employee might have done. Family pension also
     accelerates with age beyond 80 as for regular pension.
@@ -2891,7 +2851,7 @@ For those who joined the Institute before 2004, there were two retirement scheme
     employee on superannuation. The amount payable is a fourth of the
     emoluments for every completed six months of service, subject to a
     maximum of ₹ 20,00,000. The emolument includes basic pay and
-    D.A. drawn by the employee on the day of superannuation.
+    D.R. drawn by the employee on the day of superannuation.
 
 2. _Contributory Provident Fund (CPF)_: If you have opted for this
    scheme, no pension is payable to you. However, the gratuity
@@ -2935,8 +2895,8 @@ of superannuation, a faculty member can expect:
 
 This totals to about ₹ 90,69,081. This is in addition to the GPF benefits for employees covered in that scheme.
 
-### National Pension Scheme (for those who joined the service on or after 1.1.2004) {#sec:npsnote}
-The [National Pension Scheme
+### National Pension System (for those who joined the service on or after 1.1.2004) {#sec:npsnote}
+The [National Pension System
 (NPS)](https://enps.nsdl.com/eNPS/NationalPensionSystem.html) is
 applicable for all employees who joined the Institute on or after
 1.1.2004. The funds are managed by the National Security Depository
@@ -3155,7 +3115,7 @@ The facility can be availed by sending a written request in the format
 available in ASC website (downloadable forms) to the Executive Engineer
 (Estate) who will authorise payment after verifying the availability.
 Similarly, the facility to use Gulmohar 3rd floor and terrace is also
-available against nominal payment. 
+available against nominal payment.
 
 **LDAP Account**: Retired faculty will have to inform CC annually for
 continuation or extension of their LDAP account, either before the
