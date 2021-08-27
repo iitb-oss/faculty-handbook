@@ -11,7 +11,7 @@ pages:
   script:
     - echo 'deb http://deb.debian.org/debian testing main contrib non-free' >> /etc/apt/sources.list
     - export APT_CACHE_DIR=`pwd`/apt-cache && mkdir -pv $APT_CACHE_DIR
-    - apt-get update -yq && apt -y install texlive-latex-extra pandoc make texlive-xetex fonts-ubuntu ttf-mscorefonts-installer
+    - apt-get update -yq && apt -y install texlive-latex-extra pandoc make texlive-xetex fonts-ubuntu ttf-mscorefonts-installer pdftk
     - make -B
     - mkdir -p public
     - cp out.pdf out.html *.css *.jpg public
