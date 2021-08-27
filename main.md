@@ -1767,10 +1767,9 @@ The salary that you get has several components.
 Level 10, with starting a salary of ₹ 84,700 plus D.A. per month.
 	 - _1 year of post PhD experience (Assistant Professor Grade II):_ Pay Level 11, with a starting salary of ₹ 89,900 plus D.A.
      - _2 years of post PhD experience (Assistant Professor Grade II):_ Pay Level 11, with a starting salary of ₹ 92,600 plus D.A.
-	 - _3 years or more of post-PhD experience (Assistant Professor Grade I):_ Pay Level 12, with a
-       starting salary of ₹ 101,500 plus D.A. per month.
+	 - _3 years or more of post-PhD experience (Assistant Professor Grade I):_ Pay Level 12, with a starting salary of ₹ 101,500 plus D.A. per month.
 	 - _After 3 years in Pay Level 12 (Assistant Professor Grade I)_:
-       Pay Level 13A1 ₹ 131,400 plus D.A. per month.
+       Pay Level 13A1 with a starting salary of ₹ 131,400 plus D.A. per month.
 
 	 If you have joined IIT after having served for some time as
 	 Assistant Professor in another IIT or a central University or
