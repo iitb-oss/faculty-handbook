@@ -2627,7 +2627,7 @@ current with the best practices and emerging technological trends in
 their fields. Advanced degrees may also be in business or related
 fields.
 
-The salary for Professors of Practice is fixed at ₹ 2,00,000 per
+The salary for Professors of Practice is fixed at ₹ 2,25,000 per
 month at the time of writing. They are entitled to all the benefits
 offered to regular faculty members such as CPDA and leave.  In
 addition, they are also given a one time contingency grant of ₹
