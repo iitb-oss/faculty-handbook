@@ -5,8 +5,10 @@ out.pdf: main.md cover.pdf
 -V linkcolor=blue \
 -V urlcolor=blue \
 -V toccolor=blue -o out_orig.pdf main.md
+	pdftk out_orig.pdf cat 3-end output out_orig_2.pdf
+	mv out_orig_2.pdf out_orig.pdf
 	pdftk cover.pdf out_orig.pdf cat output out.pdf
-	$(RM) out_orig.pdf
+	$(RM) out_orig*.pdf
 
 out.tex: main.md
 	pandoc --pdf-engine=xelatex --toc --top-level-division=chapter --toc-depth=2 -V colorlinks=true \
