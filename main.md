@@ -172,7 +172,7 @@ Director have been delegated by the Board, up to certain limits, to various Dean
 in the interest of smooth administration. There are eight (8)
 Deans. They are as follows:
 
-   1. The _Dean (Faculty Affairs, FA)_ The Dean (FA) is responsible for conducting faculty recruitments, hiring Institute postdoctoral fellows, appraisals and recommending special leaves of absence in consultation with the relevant academic unit. Similarly,
+   1. The _Dean (Faculty Affairs, FA)_ The Dean (FA) is responsible for conducting faculty recruitment, hiring Institute postdoctoral fellows, appraisals and recommending special leaves of absence in consultation with the relevant academic unit. Similarly,
    the Dean (FA) Office might interface with the offices of other Deans on other
    matters pertaining to faculty welfare.
 
@@ -349,7 +349,7 @@ Below is a list of departments, centres, schools and other functional units.
 13. [Wadhwani Research Centre for Bioengineering (WRCB)](https://www.iitb.ac.in/wrcb/en)
 15. [Continuing Education Programme](http://www.cep.iitb.ac.in/)
 
-In addition, while not academic units, the following units help liase with industry and promoting startups based on research done at IIT Bombay:
+In addition, while not academic units, the following units help liaise with industry and promoting startups based on research done at IIT Bombay:
 
 - [Society for Innovation and Entrepreneurship](http://www.sineiitb.org/sine) for start-up incubation support
 - [Research Park](http://www.respark.iitb.ac.in/#/home) for engagement with companies on campus
@@ -391,7 +391,7 @@ arriving from a more orderly place (North America, Europe, Japan,
 Australia etc.). Things you might have taken for granted abroad, may
 not be so straightforward here. The Institute administration is
 constantly improving its systems and processes - in particular, to
-smoothen the transition for new faculty - and is open to your
+smooth the transition for new faculty - and is open to your
 suggestions in this regard. The Head of your academic unit is
 officially your liaison with the Institute and, as such, may be freely
 approached for help if you face any issues. Also, most senior
@@ -841,7 +841,7 @@ When you join as an Assistant Professor, in order to assist you to settle in and
 2. Space: A minimum of a faculty cabin (10' × 15’) and a working space
    of 300 sq. ft. to be identified by the academic unit before he/she
    joins and made available on joining. 10 feet $\times$ 30 feet
-   space is called a "bay" in IIT Boombay parlance, so a faculty cabin
+   space is called a "bay" in IIT Bombay parlance, so a faculty cabin
    is typically half a bay.
 
 3. Reduced teaching load (say a course associateship) in the first semester (unless the faculty member wants to be involved in intensive teaching right from the start). Similarly, administrative load to be kept to a minimum in the initial semester.
@@ -972,7 +972,7 @@ Teaching is considered to be an important component of faculty
 activities. That said, most new faculty come in with strong research
 experience, but modest teaching experience, if any. It helps that most
 new faculty are given about a semester off from teaching in the
-beginning - this is often academuc unit's policy; in some cases, there may not be a choice if the faculty member joins after a semester has started. Here are a few tips to help with teaching, and preparing for it.
+beginning - this is often academic unit's policy; in some cases, there may not be a choice if the faculty member joins after a semester has started. Here are a few tips to help with teaching, and preparing for it.
 
 1. When you are assigned a course to teach, you can look at the
    Academic section of the ASC website
@@ -1148,7 +1148,7 @@ Convener of the Academic Unit to Dean(R&D).
 
 After the proposal is approved online by the Dean(R&D), IRCC will
 issue the "Endorsement of the Institution" letter which will have to
-be submitted by the Project Incharge to the funding agency.
+be submitted by the Project In-charge to the funding agency.
 
 ## Assessment and Promotion Policies
 
@@ -1328,7 +1328,7 @@ professor); ties are to be broken by date of birth as per existing
 practice. Vacancies in HAG scale are to be filled as per this
 seniority list.
 
-Those Professors of CFTIs who are appointed as Director in CFTIs by the MHRD, shall deemed to have placed in the HAG scale notionally from the day they took charge as Director in CFTIs or from the day guidelines were issued by MHRD vide its letter No. F.23-1/2008-TS.II dated 18.08.2009, whichever is later.
+Those Professors of CFTIs who are appointed as Director in CFTIs by the MoE, shall deemed to have placed in the HAG scale notionally from the day they took charge as Director in CFTIs or from the day guidelines were issued by MoE vide its letter No. F.23-1/2008-TS.II dated 18.08.2009, whichever is later.
 
 #### Score calculation method
 
@@ -1357,7 +1357,7 @@ Points are computed for the applicant based on the following criteria.
 
   1. B.Tech/M.Sc. project guidance of a research kind may be optionally included (Departmental option)
   2. Publication norms approved by IFAC for promotion are to be followed when counting number of publications (e.g. quality requirements on venue, extra weightage for very high quality venues, averages by specialization within the academic unit, etc.)
-  3. 2 extra points (subject to maximum total of 5) may be awarded for national/international recognition of research, such as national level awards (Swarna Jayanti award, S. S. Bhatnagar award, Infosys award), Fellowship of recognized national/international academies (NASI, INSA, INAE, IAS, AAS). Awards/Fellowships/other recognitions other than those listed may be considered subject to approval of IFAC. Date of
+  3. 2 extra points (subject to maximum total of 5) may be awarded for national/international recognition of research, such as national level awards (Swarna Jayanti award, S. S. Bhatnagar award, Infosys award), Fellowship of recognized national/international academies (NASI, INSA, INAE, IAS, AAS). Awards/Fellowships/other recognition other than those listed may be considered subject to approval of IFAC. Date of
 conferment of recognition need not be in assessment period.
   4. 2 extra points (subject to maximum total of 5) may be awarded for any other exceptional achievements, subject to approval of IFAC.
 - **Sponsored Research (B1)**: Applicants with no projects get a score of 0. The total count of projects of candidate initiated during the assessment period (see notes below for fractional counts) are to
@@ -1382,7 +1382,7 @@ points. Those with score > 2 times (6 $\times$ academic unit average) will recei
   7. 2 extra points may be given for exceptional performance in any one or more activities, subject to approval of IFAC.
   8. Committee to consider deciding “Significant/ Extensive” based on academic unit average over last 6 years).
 - **Administration (B3)**: Points are to be awarded for each year of administrative service on Senate approved positions, as per list below. Maximum score is 5, and fractional parts of total score are to be discarded after addition.
-  1. Warden, Associate Warden, Associate Dean, Heads of Centres, Professor in Charge, Convenor of IDPs, UGAPEC, PGAPEC: 0.5 point per year
+  1. Warden, Associate Warden, Associate Dean, Heads of Centres, Professor in Charge, Convener of IDPs, UGAPEC, PGAPEC: 0.5 point per year
   2. Dean, Head of academic units: 1 point per year.
   3. Director, Deputy Director: 1.5 points for each year.
   4. GATE/JEE Chair: 1.5 points per term
@@ -1811,7 +1811,7 @@ Level 10, with starting a salary of ₹ 84,700 plus D.A. per month.
    Chair Professor positions. While most of these are at the Professor's level, there are a few at other levels
    also.  Funding for several of these comes from endowments, and is
    managed by the Dean (ACR)'s office, which also takes an active role
-   in raising funds for further Chairs. The selection to these Chairs is done by a Selection Commitees. The tenure of the Chair Professorship position is for a period of three years, and the chair is re-advertised at the end of that
+   in raising funds for further Chairs. The selection to these Chairs is done by a Selection Committees. The tenure of the Chair Professorship position is for a period of three years, and the chair is re-advertised at the end of that
    period. Faculty who hold Chairs receive a salary top up of ₹
    30,000 per month and a contingency grant of ₹ 90,000 per year, in
    addition to their salaries.
@@ -2586,7 +2586,7 @@ Private consultancy is a serious breach of the code of conduct. Similarly, you s
 
 In case you wish to participate in an external engagement of any kind
 (say with another university, industry or any other individual or
-organsation), it is mandatory to take permission or obtain a
+organisation), it is mandatory to take permission or obtain a
 no-objection from the Dean (FA) to do so. Most reasonable requests are
 generally accepted, but breach of procedure is taken seriously by the
 Institute.
@@ -2614,7 +2614,7 @@ details.
     - Can take up all types of R&D Projects, including consultancy projects.
     - Can promote companies in SINE.
     - Can be Directors of companies as per Institute norms.
- - *Administration related activities*: Expected to be actively involveved in administrative responsibilities as assigned by academic units and the Institute.
+ - *Administration related activities*: Expected to be actively involved in administrative responsibilities as assigned by academic units and the Institute.
 
 ## Professors of Practice
 **Professors of Practice** are expected to be top professionals
@@ -2745,7 +2745,7 @@ the appointment of Guest Faculty. They are paid an honorarium of ₹
 3,000 per hour on a pro-rata basis.
 
 ## Emeritus faculty appointments
-**Emeritus Professor** positions are honorary positons given to
+**Emeritus Professor** positions are honorary positions given to
 faculty for their contribution to the Institute. These are only
 titular appointments recommended by the academic unit.
 
