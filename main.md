@@ -2362,7 +2362,7 @@ An employee is entitled to 20 days of half-pay leave for every completed year of
 2. Paternity leave of 15 days can be granted to a male employee with less than two surviving children. Such leave can be taken in the period up to 15 days before delivery and 6 months after the delivery.
 
 ### Child Care Leave
-Women employees may be granted child care leave to take care of their two eldest surviving children below the age of 18 years at the time of need (such as sickness, examination etc.) for a period not exceeding two years (730 days)  during the entire period of service. Such leave must be pre-approved by the authorities.  It can be availed for not less than 15 days at a time, and on not more than three occasions in a year. During the period of such leave, the employee is eligible to draw salary received by her immediately before proceeding on such leave. (TODO: Does this have implications in service?)
+Women employees may be granted child care leave to take care of their two eldest surviving children below the age of 18 years at the time of need (such as sickness, examination etc.) for a period not exceeding two years (730 days)  during the entire period of service. Such leave must be pre-approved by the authorities.  It can be availed for not less than 15 days at a time, and on not more than three occasions in a year. During the period of such leave, the employee is eligible to draw salary received by her immediately before proceeding on such leave.
 
 ### Special Leave & Sabbatical Leave
 During the entire period of service, a faculty member is permitted to avail long leaves for a total duration not exceeding three years for academic purposes. The two primary categories of such leave with full pay are Special Leave and Sabbatical Leave. Applications should be forwarded through the Head of the academic unit to the Dean (FA) who makes suitable recommendation to the Director (the approving authority). All such applications must be forwarded with recommendation from the Head of the academic unit. The academic unit must be satisfied that the academic programmes of the academic unit will not be adversely affected by granting of such leave and also make alternative arrangements for taking care of students who may be working under the concerned faculty member. Further, the faculty member is also required to make arrangements for ongoing projects, and such arrangement must be intimated to the Dean (R&D) in a form available with the IRCC.
@@ -2747,8 +2747,7 @@ the appointment of Guest Faculty. They are paid an honorarium of ₹
 ## Emeritus faculty appointments
 **Emeritus Professor** positions are honorary positons given to
 faculty for their contribution to the Institute. These are only
-titular appointments recommended by the academic unit. TODO: Archita
-finds out appointment and benefits.
+titular appointments recommended by the academic unit.
 
 **Emeritus Scientists** are retired professionals carrying out
 specific R&D projects funded by government agencies at the
