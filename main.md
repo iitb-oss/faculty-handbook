@@ -3213,3 +3213,18 @@ Day Care (FD/AS)      18 months to 12 years   Children are exposed to
 ------------------------------------------------------------------------------------
 
 Some more details about Shishu Vihar may be found [here](https://www.facebook.com/pg/Sishu-Vihar-441328895915841/about/).
+
+# Epilogue {.unlisted .unnumbered}
+
+If you have made it this far, you should now be fairly conversant with
+the various procedures and rules that concern faculty at IIT
+Bombay. Naturally, with time, some rules and procedures undergo
+changes. Please do bring this to the Dean (FA) Office's
+notice, and they can make the necessary updates.
+
+This edition of the Handbook was intended from the outset to also have
+a ‘digital twin’ of the printed version. This is to allow for more
+frequent and timely updates where needed. In other words, edits can be
+incorporated quickly into the digital version, at least. Please send
+in your suggestions for improvement to the office of the Dean FA:
+[dean.fa.office@iitb.ac.in](mailto:dean.fa.office@iitb.ac.in).
