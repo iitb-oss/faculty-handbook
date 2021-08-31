@@ -1,6 +1,6 @@
 all: out.pdf out.html out.odt
 
-out.pdf: main.md cover.pdf
+out.pdf: main.md cover.pdf template.tex
 	pandoc --template=template.tex --pdf-engine=xelatex --toc --toc-depth=2 --top-level-division=chapter -V colorlinks=true \
 -V linkcolor=blue \
 -V urlcolor=blue \
@@ -10,8 +10,8 @@ out.pdf: main.md cover.pdf
 	pdftk cover.pdf out_orig.pdf cat output out.pdf
 	$(RM) out_orig*.pdf
 
-out.tex: main.md
-	pandoc --pdf-engine=xelatex --toc --top-level-division=chapter --toc-depth=2 -V colorlinks=true \
+out.tex: main.md template.tex
+	pandoc -s --pdf-engine=xelatex --toc --top-level-division=chapter --toc-depth=2 -V colorlinks=true \
 -V linkcolor=blue \
 -V urlcolor=red \
 -V toccolor=blue -o out.tex main.md
