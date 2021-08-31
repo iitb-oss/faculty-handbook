@@ -443,14 +443,14 @@ Immediately on joining:
    Building to complete the joining formalities. For this purpose you
    need:
    a. Original and copies of all academic certificates from SSC (10$^{\text{th}}$
-   Board) to Ph.D. and proof of date of birth.
+   Board) to PhD and proof of date of birth.
    b. Several passport size photographs for various purposes.
    c. If you were previously employed, a certificate stating that you
    have been relieved of your position there. Proof of last drawn
    salary may be also be submitted.
    d. Bank details.
-   e. PAN card (see details below).
-   f. Aadhar card (see details below)..
+   e. PAN card.
+   f. Aadhar card.
 
 2. The Administration section will, in turn, give you several letters
    and forms. Two letters of immediate importance are the ones to: (i)
@@ -626,7 +626,7 @@ experience (the experience gained after the date of PhD defence is
 counted) and sends a form to you through your academic unit which you
 should fill as a part of regularization process. In this form you have
 to fill in details of all you academic accomplishments obtained after
-your Ph.D. degree and a summary of your academic activities after
+your PhD degree and a summary of your academic activities after
 joining IIT Bombay. This form is forwarded to Dean (FA) by the Head of
 academic unit after adding appropriate recommendations. The Dean (FA)
 forwards this to the Director with his/her recommendations. In case
@@ -650,6 +650,7 @@ however, is handled through the homegrown software created by the
 Application Software Center (ASC). Several other home grown and open
 source IT systems continue to handle key business processes.
 
+\pagebreak
 Currently, following IT systems are available to faculty members:
 
   - [ASC](https://asc.iitb.ac.in) is the home grown system for
@@ -683,8 +684,8 @@ Currently, following IT systems are available to faculty members:
     through your SAP login credentials. Several ERP support services
     are available post login on ASC portal through series of
     interfaces at ASC $\rightarrow$ ERP Master data
-    $\rightarrow$. Helpdesks:
-    [helpdesk.basis@iitb.ac.in](mailto:helpdesk.basis@iitb.ac.in) ,
+    $\rightarrow$ Helpdesks. For more information, contact
+    [helpdesk.basis@iitb.ac.in](mailto:helpdesk.basis@iitb.ac.in),
     [EDP@iitb.ac.in](mailto:EDP@iitb.ac.in).
   - Teaching and learning management is handled through the [Moodle open
     source portal](https://moodle.iitb.ac.in) which is integrated with
@@ -846,6 +847,7 @@ When you join as an Assistant Professor, in order to assist you to settle in and
 
 3. Reduced teaching load (say a course associateship) in the first semester (unless the faculty member wants to be involved in intensive teaching right from the start). Similarly, administrative load to be kept to a minimum in the initial semester.
 
+\pagebreak
 In return, the Institute has certain expectations from the new faculty members. These are:
 
 1. At least one grant proposal submitted within the first 6-8 months after joining and independent research funding secured within about a year.
@@ -960,7 +962,7 @@ supervision entails certain basic criteria.
  c. The DPGC/ IDPC/ PGC may consider continuation of the original
  Supervisor upon his/her return to the Institute, as Co-Supervisor of
  his/her students depending on the period for which he/she has
- supervised the Ph.D. programmes of the students concerned.
+ supervised the PhD programmes of the students concerned.
  d. Any such arrangements made shall be forwarded to PGAPEC for prior approval.
 7. Change of supervisor is generally not advised and should be sought as a last resort. Under exceptional circumstances, if a student chooses to terminate the relationship, then it will only be permitted on recommendation of the DPGC/IDPC/PGCA. Every effort should be made to allow a fair transition for both the faculty and the concerned student.
 8. Student supervision can also be done jointly with faculty or staff of other universities or educational institutes. In some cases, such as the IITB-Monash Research Academy, the Institute facilitates joint advising of students across Institutes. In other cases, permission may be sought from the Dean (AP) having co-guides from outside IIT Bombay.
@@ -1123,7 +1125,7 @@ Some of the sponsoring agencies and their URLs are given below:
   - [Board of Research in  Nuclear Sciences (BRNS)](www.barc.ernet.in/webpages/brns/brns1.html)
   - [Central Board of Irrigation and Power (CBIP)](www.cbip.org/)
   - [Central Mine Planning  and Design Institute (CMPDI)](www.cmpdi.nic.in/)
-  - [Department of Science and Technology  (DST)](dst.gov.in/)
+  - [Department of Science and Technology  (DST)](https://dst.gov.in/)
   - [Department of  Biotechnology (DBT)](dbtindia.nic.in/index.asp)
   - [Indian Council for  Medical Research (ICMR)](www.icmr.nic.in/)
   - [Indo-French Centre for  the Promotion of Advanced Research (IFCPAR)](www.cefipra.org/home.htm)
@@ -1137,7 +1139,7 @@ Some of the sponsoring agencies and their URLs are given below:
   - [Science and Engineering Research Board (SERB)](http://serbonline.in)
 
 The agencies which can be approached for travel grants for attending
-conference / seminar / workshop etc. include DST, CSIR, INSA, UGC and
+conferences, seminar, workshops, etc. include DST, CSIR, INSA, UGC and
 the [All-India Council for Technical Education (AICTE)](https://www.aicte-india.org/).
 
 Project proposals, duly completed in all respects, will have to be
@@ -1171,7 +1173,7 @@ experience of which at least 4 years should be at the level of
 Associate Professor in a research organization or industry as on the
 date of application.  The candidate should have demonstrated
 leadership in research in a specific area of specialization in terms
-of guidance of Ph.D. students, strong record of publications in
+of guidance of PhD students, strong record of publications in
 reputed journals and conferences, patents, laboratory/course
 development and/or other recognized relevant professional activities.
 
@@ -1182,7 +1184,7 @@ at the level of Assistant Professor Grade I, Senior Scientific
 Officer/Senior Design Engineer in a research organization or
 industry. The candidate should have demonstrated adequate experience
 of independent research in terms of guidance of M.Tech. and
-Ph.D. students, publications in reputed journals and conferences,
+PhD students, publications in reputed journals and conferences,
 patents, laboratory/course development and/or other recognized
 relevant professional activities.
 
@@ -1352,10 +1354,10 @@ Points are computed for the applicant based on the following criteria.
   9. Academic units which run/maintain facilities used extensively by other entities may optionally consider operation of such facilities as equivalent to 0.5 course.
   10. No credit to be given for course that consists entirely of coordination and uses external resources/lecturers.
   11. If score is 3 by above rules, and further the teaching score computed for excellence in teaching award for the previous 5 years (under the new scheme) is at or above the 80$^{\text{th}}$ percentile of academic unit faculty scores, increment score to 5.
-  12. If score is 3 by above rule-set, plus a textbook published during period of evaluation, increment score to 5
+  12. If score is 3 by above rule-set, plus a textbook published during period of evaluation, increment score to 5.
 - **Academic Research (A2)**: 1 point is awarded if M.Tech. / M.Sc. theses are guided. 3 points are awarded if the  Ph.D and M.Tech./M.Sc. theses have been guided _and_ the number of publications is 1.5 to 3 times current academic unit publication norms for promotion from Associate to full Professor. Finally, if in addition to the previous point, the number of publications is more than 3 times current academic unit publication norms for promotion from Associate to full Professor, 5 points are awarded. In addition, the following recommendations are considered:
 
-  1. B.Tech/M.Sc. project guidance of a research kind may be optionally included (Departmental option)
+  1. B.Tech/M.Sc. project guidance of a research kind may be optionally included (Departmental option).
   2. Publication norms approved by IFAC for promotion are to be followed when counting number of publications (e.g. quality requirements on venue, extra weightage for very high quality venues, averages by specialization within the academic unit, etc.)
   3. 2 extra points (subject to maximum total of 5) may be awarded for national/international recognition of research, such as national level awards (Swarna Jayanti award, S. S. Bhatnagar award, Infosys award), Fellowship of recognized national/international academies (NASI, INSA, INAE, IAS, AAS). Awards/Fellowships/other recognition other than those listed may be considered subject to approval of IFAC. Date of
 conferment of recognition need not be in assessment period.
@@ -1370,24 +1372,24 @@ points. Those with score > 2 times (6 $\times$ academic unit average) will recei
      academic unit's committee to consider contributions while apportioning credit.
   4. A transferred technology = 1 sponsored project
   5. Number/scope of projects and/or funding initiated in the assessment period may be taken into account when comparing with academic unit average
-  6. Count of projects and funding as per IRCC
+  6. Count of projects and funding as per IRCC.
   7. 2 extra points (subject to maximum total of 5) may be awarded for exceptional achievements in sponsored research projects, subject to approval of IFAC.
 - **Extension Activities (B2)**: Significant participation in any one activity would yield in 1 point. Participation in any three activities yields 3 points, while any five yields 5 points. Activities include those listed below. Participation level in each activity may be judged as indicated with each activity.
-  1. Consultancy assignments handled (total value of consulting assignments handled may be taken into account).
-  2. Number of national technical programmes coordinated (e.g. SERC schools).
-  3. Number of workshops and conferences conducted.
-  4. Number of membership of boards, national committees, editorships.
-  5. Number of Continuing Education Programmes (Courses) conducted.
+  1. Consultancy assignments handled (total value of consulting assignments handled may be taken into account)
+  2. Number of national technical programmes coordinated (e.g. SERC schools)
+  3. Number of workshops and conferences conducted
+  4. Number of membership of boards, national committees, editorships
+  5. Number of Continuing Education Programmes (Courses) conducted
   6. Outreach activities
-  7. 2 extra points may be given for exceptional performance in any one or more activities, subject to approval of IFAC.
-  8. Committee to consider deciding “Significant/ Extensive” based on academic unit average over last 6 years).
+  7. 2 extra points may be given for exceptional performance in any one or more activities, subject to approval of IFAC
+  8. Committee to consider deciding “Significant/ Extensive” based on academic unit average over last 6 years)
 - **Administration (B3)**: Points are to be awarded for each year of administrative service on Senate approved positions, as per list below. Maximum score is 5, and fractional parts of total score are to be discarded after addition.
   1. Warden, Associate Warden, Associate Dean, Heads of Centres, Professor in Charge, Convener of IDPs, UGAPEC, PGAPEC: 0.5 point per year
-  2. Dean, Head of academic units: 1 point per year.
-  3. Director, Deputy Director: 1.5 points for each year.
+  2. Dean, Head of academic units: 1 point per year
+  3. Director, Deputy Director: 1.5 points for each year
   4. GATE/JEE Chair: 1.5 points per term
   5. GATE/JEE Vice Chair: 1 point per term
-  6. Points for any other positions may be put up to IFAC for approval.
+  6. Points for any other positions may be put up to IFAC for approval
 
 Candidates who meet the following criteria after IFAC approval are to be recommended for HAG scale:
   1. Total score is calculated based on A1 score + A2 score + best TWO of (B1,B2,B3) scores
@@ -1432,6 +1434,7 @@ Guidelines for nominations for these two awards are:
 	- Institute functionaries, with the exception of Heads of Academic Units, are not eligible for these awards.
 
 
+\pagebreak
 The IRCC Research awards include:
 
 1. _Research Publication Award (up to 5 awards for the year):_ To
@@ -2606,8 +2609,8 @@ details.
    through a selection committee or through invitation by
    BOG. Assistant Professor (Grade-II) is offered by Selection
    Committee to candidates who do not have 3 year
-   post-Ph.D. experience. The regularization process is initiated
-   once they complete three years post Ph.D. requirement.
+   post-PhD experience. The regularization process is initiated
+   once they complete three years post PhD requirement.
  - *Academic activities*: Teaching, research, student guidance, other academic activities of the Institute.
  - *R&D activities*:
     - Eligible for a one time seed grant from the Institute.
@@ -2684,6 +2687,7 @@ week. Proposals are scrutinised by the academic unit's policy
 committee and its recommendations may be approved in the Standing
 Committee Meeting. The specific appointments in this category along
 with the salaries prevailing at the time of writing are:
+
  - Visiting Assistant Professor (salary of ₹ 1,25,000 per month on
    pro rata basis)
  - Visiting Associate Professor (salary of ₹ 1,75,000 per month on
@@ -2691,7 +2695,7 @@ with the salaries prevailing at the time of writing are:
  - Visiting Professor (salary of ₹ 2,00,000 per month on
    pro rata basis)
  - Distinguished Visiting Professor (salary of ₹ 2,25,000 per month on
-   pro rata basis, and are provided free guest house accommodation)
+   pro rata basis, and are provided free guest house accommodation).
 
 **Adjunct faculty** are can be retired IIT Bombay faculty members or
 external experts appointed to teach full or half courses. These may be
