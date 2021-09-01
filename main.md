@@ -1133,8 +1133,7 @@ Some of the sponsoring agencies and their URLs are given below:
   - [Indian Space Research Organization (ISRO)](www.isro.org/)
   - [Ministry of  Electronics & Information Technology (MeitY)](www.meity.gov.in/)
   - [Department of Telecommunications (DoT)](www.dot.gov.in)
-  - [Ministry of Education
-(MoE)](www.education.nic.in/)
+  - [Ministry of Education (MoE)](www.education.nic.in/)
   - [Naval Research  Board  (NRB)](http://nrbdrdo.res.in/)
   - [Science and Engineering Research Board (SERB)](http://serbonline.in)
 
@@ -1218,8 +1217,7 @@ higher position in the minimum period (that is, just after the minimum
 mandated number of years of experience have been completed) requires
 performance at a high level as judged by the standards of the average
 performance of the academic unit or subgroup within the academic unit to
-which the candidate belongs (**such candidates are expected to have
-performed 33% more than the academic unit's average**). Each academic unit
+which the candidate belongs. Each academic unit
 recognizes the contributions of the candidate in research, teaching
 and professional/department/institute Services. In addition to the
 performance criteria of the academic unit approved by the IFAC, guidance
