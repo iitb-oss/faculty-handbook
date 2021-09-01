@@ -21,7 +21,8 @@ header-includes:
 ---
 
 # Preface {.unlisted .unnumbered}
-
+\vspace{-0.8cm}
+\small
 The Faculty Handbook is an extremely useful document since it consolidates much of the information that the faculty members need during their careers at IIT Bombay.  The first edition was brought out in 2014. Over the years, there have been several far-reaching changes in the governance, recruitment policies, salary structure, etc. This second edition of the Handbook has been thoroughly revised and updated to take all the changes into account.
 
 There are many written (and some unwritten) rules that govern any institution like IIT.  Many such rules have been captured succinctly, although some have no doubt been left out inadvertently. A handbook such as this, I believe, is particularly useful for young faculty members of the institute. Significant efforts have therefore been made to address the issues that concern young faculty members.
@@ -34,7 +35,10 @@ I trust that this version will serve as a handy reference on day-to-day matters 
 
 
 Prof. Neela Nataraj
+
 (Dean, Faculty Affairs)
+\normalsize
+\newpage
 
 **Committee Members**
 
