@@ -22,6 +22,20 @@ header-includes:
 
 # Preface {.unlisted .unnumbered}
 
+The Faculty Handbook is an extremely useful document since it consolidates much of the information that the faculty members need during their careers at IIT Bombay.  The first edition was brought out in 2014. Over the years, there have been several far-reaching changes in the governance, recruitment policies, salary structure, etc. This second edition of the Handbook has been thoroughly revised and updated to take all the changes into account.
+
+There are many written (and some unwritten) rules that govern any institution like IIT.  Many such rules have been captured succinctly, although some have no doubt been left out inadvertently. A handbook such as this, I believe, is particularly useful for young faculty members of the institute. Significant efforts have therefore been made to address the issues that concern young faculty members.
+
+Disclaimer: While every effort has been made to keep the Handbook up-to-date and accurate, it should not be regarded as authoritative. Going by the very name, it should be viewed as a guide; the details of rules and regulations concerning specifics require confirmation from the authorities of administration as and when needed.
+
+A committee with  Prof. Swaroop Ganguly as the Convener prepared the first draft  of the handbook with crucial inputs from faculty members. Prof.  K. P. Kaliappan, the former Dean (FA) has invested a tremendous amount of time to document as many details as possible in the handbook and bring it to this current form. Special thanks to Prof. Kumar Appaiah (Department of Electrical Engineering) for his hard work, dedication, and consistent support that helped to publish this document. The revised draft was reviewed by Prof. Devang Khakhar (former Director, IIT Bombay), Prof. S. Sudarshan, DD (AIA), Prof. Avinash Mahajan, Dean (AP), Prof. A.M. Pradeep, Associate Dean (R&D), Prof. Santanu Banerjee (Earth sciences Department, other functionaries and Heads of academic units and their very valuable suggestions have been incorporated. The timely help and efforts of Mr. K.V.Reghuthaman, Joint Registrar, Mr. Sanjay Shah, Assistant Registrar, Ms. Falguni Banerjee Naha (PRO) and the staff from their offices and Ms. Archita Patil, Dean (FA) office who checked the details for accuracy deserve special appreciation.
+
+I trust that this version will serve as a handy reference on day-to-day matters for all faculty members.
+
+
+Prof. Neela Nataraj
+(Dean, Faculty Affairs)
+
 <!-- Faculty Handbook is the single most important document, which  consolidates much of the information that the faculty members need during their careers at IIT Bombay.  This is the third edition of the hand book; the first two were brought out in … and 2014. -->
 
 <!-- IITB is an institution that is adapting dynamically to the evolving changes and endeavoring constantly to be an institution par excellence. Over the years, there have been several far-reaching changes in the governance, recruitment policies, salary structure, etc. In view of certain paradigm changes that have come into being, it was deemed prudent that the faculty handbook is thoroughly revised and updated. -->
