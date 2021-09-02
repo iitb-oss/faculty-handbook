@@ -52,7 +52,7 @@ Prof. Neela Nataraj
 - Prof. Ronita Bardhan
 - Prof. Himanshu Bahirat
 - Prof. Subimal Ghosh
-- Mr. Sanjay Shah
+- Mr. Sanjay K. Shah
 
 
 **Staff Acknowledgements**
