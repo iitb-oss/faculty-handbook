@@ -524,7 +524,7 @@ Immediately on joining:
    eligible to get a C-type quarter - 2 or 3 BHK - as your ad-hoc
    allotment). Regular accommodation is done by a seniority rule (for
    details, please see [Seniority and Allotment
-   Criteria](http://www.iitb.ac.in/deanpl/estOff1.html)).
+   Criteria](https://www.iitb.ac.in/deanpl/estOff1.html)).
 
    The on-campus quarters do not come furnished and you will have to
    furnish it yourself. A home telephone connected to the internal
@@ -708,7 +708,7 @@ Currently, following IT systems are available to faculty members:
     course grades and viewing past grading statistics. Access to ASC
     is available through your LDAP credentials. Helpdesk e-mail is
     [asc.help@iitb.ac.in](mailto:asc.help@iitb.ac.in).
-  - [Drona](https://drona.iitb.ac.in) is the homegrown IT system which
+  - [Drona](https://drona.ircc.iitb.ac.in) is the homegrown IT system which
     is used for submitting sponsored and consultancy project proposals
     and managing all project related activities. Drona is integrated
     with ERP and is independently managed by IRCC. Access to Drona is
@@ -1056,7 +1056,7 @@ beginning - this is often academic unit's policy; in some cases, there may not b
       pedagogy-related projects, usually MoE-supported, like TEQIP,
       GIAN and NMEICT.
 
-   b. [NPTEL](http://www.cdeep.iitb.ac.in/NPTEL2) - a nationwide
+   b. [NPTEL](https://www.nptel.ac.in/) - a nationwide
       program supported by MoE for high-quality content development
       in science/technology and dissemination through Massive Open
       Online Courses (MOOCs), with facility for testing and
@@ -1169,9 +1169,9 @@ funding agency.
 
 Some of the sponsoring agencies and their URLs are given below:
 
-  - [Aeronautics Research  & Development Board (ARDB)](https://www.drdo.org/boards/ardb/index.htm)
-  - [Board of Research in  Nuclear Sciences (BRNS)](https://www.barc.ernet.in/webpages/brns/brns1.html)
-  - [Central Board of Irrigation and Power (CBIP)](https://www.cbip.org/)
+  - [Aeronautics Research  & Development Board (ARDB)](https://www.drdo.gov.in/aeronautics-research-development/about-us)
+  - [Board of Research in  Nuclear Sciences (BRNS)](https://brns.res.in/)
+  - [Central Board of Irrigation and Power (CBIP)](http://cbip.org/)
   - [Central Mine Planning  and Design Institute (CMPDI)](https://www.cmpdi.nic.in/)
   - [Department of Science and Technology  (DST)](https://dst.gov.in/)
   - [Department of  Biotechnology (DBT)](dbtindia.nic.in/index.asp)
@@ -1181,8 +1181,8 @@ Some of the sponsoring agencies and their URLs are given below:
   - [Indian Space Research Organization (ISRO)](https://www.isro.org/)
   - [Ministry of  Electronics & Information Technology (MeitY)](https://www.meity.gov.in/)
   - [Department of Telecommunications (DoT)](https://www.dot.gov.in)
-  - [Ministry of Education (MoE)](https://www.education.nic.in/)
-  - [Naval Research  Board  (NRB)](http://nrbdrdo.res.in/)
+  - [Ministry of Education (MoE)](https://www.education.gov.in/)
+  - [Naval Research  Board  (NRB)](https://www.drdo.gov.in/naval-research-board/about-us)
   - [Science and Engineering Research Board (SERB)](http://serbonline.in)
 
 The agencies which can be approached for travel grants for attending
@@ -1686,7 +1686,7 @@ limits:
 ### Applying and Approval for undertaking Consultancy Projects
 Once a consultancy project request is directed to PI the following steps are to be followed:
 
- 1. A PI needs to login to the Drona system using his own [LDAP](http://shodh.ircc.iitb.ac.in/ircc)
+ 1. A PI needs to login to the Drona system using his own [LDAP](http://drona.ircc.iitb.ac.in/)
     (Lightweight Directory Access Protocol) Login name and Password.
 
  2. The Project request directed to you are visible as 'Consultancy
@@ -3199,7 +3199,7 @@ The Institute has rules and regulations regarding allotment and entitlement of h
 ## Schools in and around campus {#sec:moreschools}
 
 ### Kendriya Vidyalaya (Central School) IIT Powai
-This is part of the Kendriya Vidyalaya Sangathan (KVS) network and is usually ranked among the top government day (that is,  not boarding) schools in India. It has classes I through XII and is affiliated to the Central Board of Secondary Education (CBSE). Most of the seats here are reserved for the children of IIT Bombay employees; with a small fraction reserved for other Central Government organizations. You might have some anxious moments before your child gets admission, but eventually it works out, in almost all cases. In case of exceptional difficulty in getting admission into the Kendriya Vidyalaya, our Director, who is ex-officio the Chairperson of the Vidyalaya Management Committee can help out by exercising their discretionary quota. There is also a Professor-in-Charge who you may contact for helpful advice in case of difficulty. More details about KV IIT Bombay may be found on [its webpage](http://www.kviitmumbai.com/English-Homepage).
+This is part of the Kendriya Vidyalaya Sangathan (KVS) network and is usually ranked among the top government day (that is,  not boarding) schools in India. It has classes I through XII and is affiliated to the Central Board of Secondary Education (CBSE). Most of the seats here are reserved for the children of IIT Bombay employees; with a small fraction reserved for other Central Government organizations. You might have some anxious moments before your child gets admission, but eventually it works out, in almost all cases. In case of exceptional difficulty in getting admission into the Kendriya Vidyalaya, our Director, who is ex-officio the Chairperson of the Vidyalaya Management Committee can help out by exercising their discretionary quota. There is also a Professor-in-Charge who you may contact for helpful advice in case of difficulty. More details about KV IIT Bombay may be found on [its webpage](https://iitpowai.kvs.ac.in/).
 
 
 ### Campus School and Jr. College
