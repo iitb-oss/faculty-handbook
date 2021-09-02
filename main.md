@@ -31,7 +31,7 @@ There are many written (and some unwritten) rules that govern any institution li
 
 Disclaimer: While every effort has been made to keep the Handbook up-to-date and accurate, it should not be regarded as authoritative. Going by the very name, it should be viewed as a guide; the details of rules and regulations concerning specifics require confirmation from the authorities of administration as and when needed.
 
-The need to update the Handbook was originally brought to the fore by Prof. Abhay Karandikar (erstwhile Dean (FA)) in 2017. A committee with  Prof. Swaroop Ganguly as the Convener prepared the first draft  of the handbook with crucial inputs from faculty members. Prof.  K. P. Kaliappan, the former Dean (FA) has invested a tremendous amount of time to document as many details as possible in the handbook and bring it to this current form. Special thanks to Prof. Kumar Appaiah (Department of Electrical Engineering) for his hard work, dedication, and consistent support that helped to publish this document. The revised draft was reviewed by Prof. Devang Khakhar (former Director, IIT Bombay), Prof. S. Sudarshan, DD (AIA), Prof. Avinash Mahajan, Dean (AP), Prof. A.M. Pradeep, Associate Dean (R&D), Prof. Santanu Banerjee (Earth sciences Department, other functionaries and Heads of academic units and their very valuable suggestions have been incorporated. The timely help and efforts of Mr. K.V.Reghuthaman, Joint Registrar, Mr. Sanjay Shah, Assistant Registrar, Ms. Falguni Banerjee Naha (PRO) and the staff from their offices and Ms. Archita Patil, Dean (FA) office who checked the details for accuracy deserve special appreciation. Finally, the Director, Prof. Subhasis Chaudhuri, has always offered constant support and encouragement throughout the handbook revision process.
+The need to update the Handbook was originally brought to the fore by Prof. Abhay Karandikar (erstwhile Dean (FA)) in 2017. A committee with  Prof. Swaroop Ganguly as the Convener prepared the first draft  of the handbook with crucial inputs from faculty members. Prof.  K. P. Kaliappan, the former Dean (FA) has invested a tremendous amount of time to document as many details as possible in the handbook and bring it to this current form. Special thanks to Prof. Kumar Appaiah (Department of Electrical Engineering) for his hard work, dedication, and consistent support that helped to publish this document. The revised draft was reviewed by Prof. Devang Khakhar (former Director, IIT Bombay), Prof. S. Sudarshan, DD (AIA), Prof. Avinash Mahajan, Dean (AP), Prof. A.M. Pradeep, Associate Dean (R&D), Prof. Santanu Banerjee (Earth sciences Department, other functionaries and Heads of academic units and their very valuable suggestions have been incorporated. The timely help and efforts of Dr. K.V.Reghuthaman, Joint Registrar, Mr. Sanjay Shah, Assistant Registrar, Ms. Falguni Banerjee Naha (PRO) and the staff from their offices and Ms. Archita Patil, Dean (FA) office who checked the details for accuracy deserve special appreciation. Finally, the Director, Prof. Subhasis Chaudhuri, has always offered constant support and encouragement throughout the handbook revision process.
 
 I trust that this version will serve as a handy reference on day-to-day matters for all faculty members.
 
@@ -678,11 +678,12 @@ your PhD degree and a summary of your academic activities after
 joining IIT Bombay. This form is forwarded to Dean (FA) by the Head of
 academic unit after adding appropriate recommendations. The Dean (FA)
 forwards this to the Director with his/her recommendations. In case
-you have prior experience that the administration is unaware of, that
-you feel should be considered against the 3-year requirement, you may make
-a representation through your Head of academic unit to Dean (FA),
-along with with documentary evidence of the experience you are
-claiming.
+you have prior experience which is declared in the application form
+for faculty position, or if you have acquired the experience after
+submission of application to the Institute that you feel should be
+counted against the 3 years requirement, you may make a representation
+through your Head of Department to Dean (FA), along with documentary
+evidence of the experience you are claiming.
 
 A faculty member recruited to any cadre is placed on probation for a
 period of 1 year. At the end of this period, administration requires
@@ -1847,13 +1848,20 @@ Level 10, with starting a salary of ₹ 84,700 plus D.A. per month.
 
    In addition, the following scales are applicable as appropriate to faculty:
 
-   - _Professor (HAG Scale):_ From 18$^{\text{th}}$ August 2009, a senior cadre of
-   Professors has been created. The scale pay for this cadre is known
-   as HAG (Higher Administrative Grade). The minimum eligibility criteria
-   for this scale is six years of service as a Professor. A maximum of
-   40% of the total number of Professors can be placed in this
-   scale. The corresponding Pay Level is 15, and the salary range is
-   from ₹ 182,000 to ₹ 224,100 per month. Currently, it takes about 12 years to become a HAG scale Professor after becoming Professor.
+   - _Professor (HAG Scale):_ From 18$^{\text{th}}$ August 2009, a
+   senior cadre of Professors has been created. The scale pay for this
+   cadre is known as HAG (Higher Administrative Grade). The minimum
+   eligibility criteria for this scale is six years of service as a
+   Professor. A maximum of 40% of the total number of Professors can
+   be placed in this scale. The corresponding Pay Level is 15, and the
+   salary range is from ₹ 182,000 to ₹ 224,100 per month. Currently,
+   it takes about 12 years to become a HAG scale Professor after
+   becoming Professor. Those Professors of CFTIs who are appointed as
+   Director in CFTIs by the MoE, shall be deemed to have been placed
+   in the HAG scale notionally from the day they took charge as
+   Director in CFTIs or from the day guidelines were issued by MHRD
+   vide its letter No. F.23-1/2008-TS.II dated 18.08.2009, whichever
+   is later.
 
    - _Institute and Endowed Chairs for faculty:_ As a means of
    recognizing outstanding performance, the Institute has several
@@ -2133,7 +2141,7 @@ professional bodies, books and contingent expenses.
 Out of ₹ 3,00,000, a minimum of ₹ 2,00,000 is earmarked for presenting
 papers at conferences and a maximum ₹ 1,00,000 can be spent towards
 membership of professional bodies, contingent expenses (includes
-purchase of books and stationery items). Expenses for a conference
+purchase of books and stationery items) [^underreview]. Expenses for a conference
 includes cost of travel (by Air India), local transport, overseas
 medical insurance, visa fees, registration fee and living expenses @
 US $ 365 per day for the period of conference and two additional days
@@ -2141,6 +2149,8 @@ US $ 365 per day for the period of conference and two additional days
 of (5+2) days. In case of shortage of funds, the excess expenditure
 can be met from projects and travel grants from other funding
 agencies.
+
+[^underreview]: The rule is under consideration with higher authorities, in case of change, the same would be available [here](https://surveys.iitb.ac.in/mod/page/view.php?id=4220#tutorial6).
 
 As per Institute rules following expenses are not allowed using CPDA funds:
 
@@ -2750,7 +2760,7 @@ salary structure for these appointments is as follows:
 
 - Adjunct Assistant Professor (salary of ₹ 25,000 for 1 day per week
   on pro rata basis)
-- Adjunct Associate Professor (salary of ₹ 30,000 for 1 day per week
+- Adjunct Associate Professor (salary of ₹ 35,000 for 1 day per week
   on pro rata basis)
 - Adjunct Professor (salary of ₹ 40,000 for 1 day per week
   on pro rata basis)
@@ -2802,6 +2812,21 @@ titular appointments recommended by the academic unit.
 **Emeritus Scientists** are retired professionals carrying out
 specific R&D projects funded by government agencies at the
 Institute. Institute’s offer will be for a visiting honorary position.
+
+## Faculty Exchange Programme
+The Board of Governors, IIT Bombay has approved the recommendations of the Director of IITs, for Faculty Exchange Programme among the IITs for a period ranging between 3 to 12 months.
+
+The features of scheme are as follows:
+
+- Faculty exchange among the IITs should be encouraged. Such exchanges should not however affect the academic commitments of the faculty in the parent IIT. So visit should be for a minimum of one semester, unless the visit is during the summer or winter vacation periods.
+- The host institution should send an invitation to the faculty and the parent institution will have to give its consent to release the faculty for the proposed period.
+- The faculty’s designation will be the same in the host IIT as in the parent IIT.
+- Furnished accommodation will be provided by the host IIT to the visiting faculty.
+- The host IIT will not have to make any leave salary contribution or pension contribution for the faculty to the parent IIT. The faculty’s PF contribution will be transferred to the parent IIT where the service record of the faculty will remain. The faculty will be entitled to casual leave and earned leave for the period of visit at the host IIT. Normally, accumulated leave at the parent IIT will not be utilized by the faculty during such visits. However, in exceptional circumstances, such accumulated leave may be utilized with permission from the parent IIT. This can include commuted leave, half pay leave, etc. as may become necessary during period of illness.
+- The salary of the faculty will be protected by the host IIT (protection of basic only will be insisted on, as other parts may vary).
+- The faculty will be provided for travel expenses to and fro. Family expenses may or may not be included.
+- The faculty will be paid a relocation allowances of ₹ 5,000/- per month of stay over and above the salary.
+- The terms and conditions may be modified on mutual agreement among the host IIT, the parent IIT, and the faculty.
 
 # Retirement and Post-Retirement Benefits
 
