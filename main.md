@@ -124,7 +124,7 @@ Jammu; at the same time, the Indian School of Mines, Dhanbad
 
 ## Who's who
 
-There are two statutory documents that stipulate the way the Institute is to be run. The first one is [The Institutes of Technology Act, 1961](http://www.iitb.ac.in/sites/default/files/IITsAct_1.pdf), passed by the Indian Parliament. The act stipulates that the IITs are institutions of national importance and prescribes the broad framework of their governance. The second one is the Statutes of I.I.T. Bombay, which gives the detailed [rules of governance](http://www.iitb.ac.in/en/about-iit-bombay/statutes-iit-bombay).
+There are two statutory documents that stipulate the way the Institute is to be run. The first one is [The Institutes of Technology Act, 1961](https://www.iitb.ac.in/en/about-iit-bombay/institutes-technology-act), passed by the Indian Parliament. The act stipulates that the IITs are institutions of national importance and prescribes the broad framework of their governance. The second one is the Statutes of I.I.T. Bombay, which gives the detailed [rules of governance](http://www.iitb.ac.in/en/about-iit-bombay/statutes-iit-bombay).
 
 
 ### The Visitor
