@@ -255,7 +255,7 @@ Deans. They are as follows:
       infrastructure and maintenance of the existing civil
       infrastructure and all related facilities, such as roads,
       electricity and water supply ([more
-      details](http://www.iitb.ac.in/deanpl/)). (S)he is also
+      details](https://www.iitb.ac.in/deanpl/)). (S)he is also
       responsible for all estate related matters, including allotment
       of accommodation. As such, the Dean (IPS) leads four offices:
       the Estate Office, which is responsible for civil infrastructure
