@@ -2933,13 +2933,13 @@ will lapse). The rate of encashment is the total emoluments (basic +
 D.A.) per day on the date of retirement assuming a month to consist of
 30 days. The approximate encashment of 300 days of leave that a
 Professor can expect at the time of superannuation is ₹ 224,100 +
-D.A. (28% at the time of writing)  = ₹ 26,21,970. Thus, at the time
+D.A. (28% at the time of writing)  = ₹ 28,68,480. Thus, at the time
 of superannuation, a faculty member can expect:
 
 - Commutation: ~₹ 40,82,744
 - Gratuity: ₹ 20,00,000
 - Leave encashment: ~ ₹ 28,68,480
-This totals to about ₹ 89,51,224. This is in addition to the GPF benefits for employees covered in that scheme.
+This totals to about ₹ 89,51,224. This is in addition to the GPF balance of employee.
 
 ### National Pension System (for those who joined the service on or after 1.1.2004) {#sec:npsnote}
 The [National Pension System
