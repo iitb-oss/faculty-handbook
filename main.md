@@ -455,15 +455,17 @@ an email to your Head of the academic unit with a copy (cc) to the Dean
 where you can check in upon arrival.  You may also request
 to arrange for a transportation to bring you to the campus from airport/railway station.
 
-The Institute provides for Relocation Allowance to new faculty as
-mentioned in your offer letter. As soon as you complete the joining
-formalities and relocate, you may submit the receipts and air tickets
-to claim this allowance. Settling accounts on time applies to all
-financial transactions! If you accept the relocation
-allowance, you have to agree to serve the Institute for a minimum
-period of three years. In case you choose to leave the Institute earlier,
-the relocation allowance paid by the Institute may have to be returned
-either partially or fully.
+The Institute provides a relocation allowance of up to Rs 1,00,000/-
+for faculty returning from abroad as reimbursement of air fare for
+self and spouse and transportation of belongings. The limit is Rs
+50,000/- for faculty joining from within India. As soon as you
+complete the joining formalities and relocate, you may submit the
+receipts and air tickets to claim this allowance. Settling accounts on
+time applies to all financial transactions! If you accept the
+relocation allowance, you have to agree to serve the Institute for a
+minimum period of three years. In case you choose to leave the
+Institute earlier, the relocation allowance paid by the Institute may
+have to be returned either partially or fully.
 
 If you are joining as an Assistant Professor, you are eligible to
 receive the [Young Faculty Award (YFA) endowed by our
@@ -563,7 +565,7 @@ Immediately on joining:
 6. There are a few more forms to be filled up, *viz.* an attestation
    form, a form declaring your dependents, a form for joining the New
    Pension Scheme (NPS) and Group Term Scheme Insurance (GTIS).
-   a. New faculty have to join the NPS, details of which are given in
+   a. New faculty have to join the NPS mandatorily, details of which are given in
    a the [chapter on retirement benefits](#sec:npsnote). (For people who joined on or before 1$^{\text{st}}$ January, 2004, there
    was a Pension scheme or a non-pension Contributory Provident Fund).
 
@@ -687,8 +689,12 @@ evidence of the experience you are claiming.
 
 A faculty member recruited to any cadre is placed on probation for a
 period of 1 year. At the end of this period, administration requires
-you to fill another form (where you fill in your academic accomplishments during the probation year) and submit the same to Dean (FA) through the Head of your
-academic unit for confirmation of your appointment.
+you to fill another form (where you fill in your academic
+accomplishments during the probation year) and submit the same to Dean
+(FA) through the Head of your academic unit for confirmation of your
+appointment. Faculty members are eligible for the Post Retirement
+Medical Scheme (PRMS) after confirmation in the service of the
+Institute and PRMS is mandatory for every confirmed employee.
 
 ## ERP-SAP Activities
 IIT Bombay has recently deployed leading Enterprise Resource Planning
@@ -2001,16 +2007,23 @@ generally lapses. However, it has been the practice of the Government
 to allow for a grace year, that is,  LTC for the block year 2020-21 can be
 availed (that is,  outward journey commenced) up to 31$^{\text{st}}$ December 2022.
 
-Two of the above blocks are combined together to define a four year block, e.g. the current block year is 2018-19 & 2020-21 and the next block year would be 2022-23 & 2024-25, defining a four year block of 2022-25.
+Two of the above blocks are combined together to define a four year
+block, e.g.  the current block year is 2018-19 and 2020-21 and the
+next block year would be 2022-23 and 2024-25, defining a four year
+block of 2022-25.
 
-In this four year block, one can avail LTC for home town travel in one two-year block and another LTC to anywhere in India (including home town) in the other second two-year block. The four year block also has a grace period of one year, that is, the 2020-21 block must be utilized (that is outward journey commenced) before 31.12.2022.
+In this four year block, one can avail LTC for home town travel in one
+two-year block and another LTC to anywhere in India (including home
+town) in the other second two-year block. The four year block also has
+a grace period of one year, that is, the 2020-21 block must be
+utilized (that is outward hourney commenced) before 31/12/2022.
 
 #### Eligibility:
 
-The employee appointed on scale must have completed one year of service in the block to be
-eligible for LTC in the block, that is,  those who are appointed up to
-31-12-2020. are eligible for LTC in the block year 2021 but those
-appointed after this day are not eligible.
+The employee appointed on scale must have completed one year of
+service in the block to be eligible for LTC in the block, that is,
+those who are appointed up to 31-12-2020. are eligible for LTC in the
+block year 2021 but those appointed after this day are not eligible.
 
 All the declared dependents are eligible for LTC and the travel need
 not be taken up together. All return journeys must be completed within
@@ -2399,20 +2412,30 @@ Vacation is available only to the faculty members of the Institute.
 1. A faculty member is entitled to 60 days of vacation during the year. The year for the purpose of vacation is the academic year, that is,  from 1 July to 30 June of the following year. A faculty member joining the Institute any time during the first semester (July-November) is eligible for full vacation while those joining in the second semester (January-April) will be entitled to 30 days of vacation in the year of joining.
 2. The conventional vacation period comprises the months of May, June and December. However, the Institute announces the exact dates every year depending on its academic schedule.
 3. No separate application is made for availing vacation. Each faculty member has to provide his/her vacation plans by filling up the appropriate section on the ERP leave form online.
-4. If a faculty member does not avail the full 60 days vacation in any academic year, 50% of unavailed vacation is converted to Earned Leave and is credited to the earned leave account of the faculty member on 1$^{\text{st}}$ July of the next academic year. Thus if a faculty avails of a total of $x$ days of vacation during the vacation period, $(60-x)/2$ days of earned leave is credited to his/her earned leave account.
+4. If a faculty member does not avail the full 60 days vacation in any academic year, 1/3rd of unavailed vacation is converted to Earned leave, and is credited to the earned leave account of the faculty member on 1$^{\text{st}}$ July of the next academic year. Thus, if a faculty avails of a total of $x$ days of vacation during the vacation period, $(60-x)/3$ days of earned leave is credited to his/her earned leave account.
 
 ### Earned Leave
-Earned leave, unlike vacation, can be availed any time during the year with prior sanction. Unlike non-academic staff, the only way in which a faculty accumulates earned leave is by virtue of not having availed the entitled vacation in a given academic year. Half of the unutilized vacation is credited as earned leave on July 1$^{\text{st}}$ every year.
+
+Earned Leave, unlike vacation, can be availed any time during the year
+with prior sanction. Unlike non-academic staff, faculty members are
+entitled for advance credit of EL for 5 days in January and july.
+Further faculty accumulates earned leave by virtue of not having
+availed the entitled vacation in a given academic year. One third of
+the unutilized vacation is credited as earned leave on July
+1$^{\text{st}}$ of every year, or completion of vacation.
 
 1. Earned leave can be accumulated up to a maximum of 300 days. The unutilized amount of earned leave can be encashed only at the time of superannuation from service. However, a limited number of days of earned leave can be encashed at the time of availing LTC. Such encashment will not exceed 10 days in each instance with a cumulative maximum of 60 days during the entire span of service.
 2. Overflowing of Earned Leave: Half of unutilized vacation is credited as earned leave on July 1$^{\text{st}}$, even when a faculty has already accumulated 300 days of earned leave in his account. This overflowing earned leave must be availed during the same academic year after which it lapses.
 3. Earned leave can be combined with all types of leave other than casual leave.
 
 ### Half-Pay Leave and Commuted Leave
-An employee is entitled to 20 days of half-pay leave for every completed year of service. As the name suggests, the employee will be paid half the salary during such leave period.
+Please note that half-pay leave has been discontinued with effect from
+01/07/2019. Earlier, an employee is entitled to 20 days of half-pay
+leave for every completed year of service. As the name suggests, the
+employee will be paid half the salary during such leave period.
 
-1. Half-pay leave is credited in advance on January 1$^{\text{st}}$ and July 1$^{\text{st}}$ every year by calculating the expected period of service of an employee during the following six months. (The credit given is 5/3 days for every month expected to be completed.)
-2. Half pay leave can be availed for personal reasons or for medical purposes.
+1. The existing HPL on credit (accrued before 01/07/2019) can be
+   availed for personal reasons or for medical purposes.
 3. An employee can avail half-pay leave even when he/she has earned leave to his/her credit.
 4. When a half-pay leave is sought to be availed for employee's medical requirement, an employee may opt to avail Commuted Leave by surrendering two days of half pay leave for every day of leave required. In such a case, the employee draws full salary.
 5.  Leave can be commuted for non-medical purposes  (i) by women employees, for a maximum of 60 days, if taken in continuity of a maternity leave or when she adopts a child less than one year old (ii) for pursuing a course of study for a total period not exceeding 90 days during entire service.
@@ -2422,7 +2445,11 @@ An employee is entitled to 20 days of half-pay leave for every completed year of
 2. Paternity leave of 15 days can be granted to a male employee with less than two surviving children. Such leave can be taken in the period up to 15 days before delivery and 6 months after the delivery.
 
 ### Child Care Leave
-Women employees may be granted child care leave to take care of their two eldest surviving children below the age of 18 years at the time of need (such as sickness, examination etc.) for a period not exceeding two years (730 days)  during the entire period of service. Such leave must be pre-approved by the authorities.  It can be availed for not less than 15 days at a time, and on not more than three occasions in a year. During the period of such leave, the employee is eligible to draw salary received by her immediately before proceeding on such leave.
+Women employees may be granted child care leave to take care of their two eldest surviving children below the age of 18 years at the time of need (such as sickness, examination etc.) for a period not exceeding two years (730 days)  during the entire period of service. Such leave must be pre-approved by the authorities.  It can be availed for not less than 15 days at a time, and on not more than three occasions in a year. During the period of such leave, the employee is eligible to draw salary received by her immediately before proceeding on such leave. Please note the following:
+
+1. One child care leave may be granted at 100% of the leave salary for the the first 365 days and .80% of the leave salary for the next 365 days.
+2. Child care leave  may be extended to single male parents who may include unmarried or widower or divorcee employees.
+3. For single female Government servants, the child care leave may be granted for six spells in a calendar year.
 
 ### Special Leave & Sabbatical Leave
 During the entire period of service, a faculty member is permitted to avail long leaves for a total duration not exceeding three years for academic purposes. The two primary categories of such leave with full pay are Special Leave and Sabbatical Leave. Applications should be forwarded through the Head of the academic unit to the Dean (FA) who makes suitable recommendation to the Director (the approving authority). All such applications must be forwarded with recommendation from the Head of the academic unit. The academic unit must be satisfied that the academic programmes of the academic unit will not be adversely affected by granting of such leave and also make alternative arrangements for taking care of students who may be working under the concerned faculty member. Further, the faculty member is also required to make arrangements for ongoing projects, and such arrangement must be intimated to the Dean (R&D) in a form available with the IRCC.
