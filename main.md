@@ -2150,7 +2150,8 @@ of (5+2) days. In case of shortage of funds, the excess expenditure
 can be met from projects and travel grants from other funding
 agencies.
 
-[^underreview]: The rule is under consideration with higher authorities, in case of change, the same would be available [here](https://surveys.iitb.ac.in/mod/page/view.php?id=4220#tutorial6).
+[^underreview]: The rule is under consideration with higher
+    authorities. In case of any changes, the same would be available [here](https://surveys.iitb.ac.in/mod/page/view.php?id=4220#tutorial6).
 
 As per Institute rules following expenses are not allowed using CPDA funds:
 
