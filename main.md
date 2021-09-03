@@ -94,10 +94,10 @@ Prof. Neela Nataraj
 <!-- - Prof. Subimal Ghosh -->
 
 # The Institute
-The Indian Institutes of Technology (IITs) were established on the recommendation of a Committee headed by Sir Nalini Ranjan Sarkar, a businessman, educationist, industrialist and public figure. The Committee had recommended the establishment of institutes of national importance to be set up in different regions of India. The first of the IITs was set up in Kharagpur in 1950 at a site in Hijli village which used to be a British-era detention camp. The vision of establishing these Institutes is best stated in the words of India's first Prime Minister Pt. Jawaharlal Nehru in his convocation speech at the Institute:
+The Indian Institutes of Technology (IITs) were established on the recommendation of a Committee headed by Sir Nalini Ranjan Sarkar, a businessman, educationist, industrialist and public figure. The Committee had recommended the establishment of institutes of national importance to be set up in different regions of India. The first of the IITs was set up in Kharagpur in 1950 at a site in Hijli village which used to be a British-era detention camp. <!-- The vision of establishing these Institutes is best stated in the words of India's first Prime Minister Pt. Jawaharlal Nehru in his convocation speech at the Institute: -->
 
-![Nehru](Nehru.jpg){width=200px}
-![Nehru speech](Nehru_speech.jpg){width=200px}
+<!-- ![Nehru](Nehru.jpg){width=200px} -->
+<!-- ![Nehru speech](Nehru_speech.jpg){width=200px} -->
 
 Four more IITs followed in quick succession. IIT Bombay (officially
 ‘Indian Institute of Technology Bombay’) was established in 1958,
@@ -573,7 +573,7 @@ Immediately on joining:
    (GTIS) and the premium for this will be deducted from the monthly
    salary.
 
-   Please find a circular in respect of Group Term Insurance Policy implemented from 01-05-2021 [here](http://bighome.iitb.ac.in/index.php/s/6MnXxoXEACxsn5y). You also need the [nomination form](https://bighome.iitb.ac.in/index.php/s/qjR3b5DrekmW8Xw). Finally, this is the [list of staff currently covered GTIP](http://bighome.iitb.ac.in/index.php/s/HLZ3tFongDGiNDG).
+   Please find a circular in respect of Group Term Insurance Policy implemented from 01-05-2021 [here](http://bighome.iitb.ac.in/index.php/s/6MnXxoXEACxsn5y). You also need the [nomination form](https://bighome.iitb.ac.in/index.php/s/qjR3b5DrekmW8Xw).
 
    b. Attestation Form is to be filled up so that the Institute can do
    a mandatory background check. You will have to provide all
@@ -839,8 +839,6 @@ For reimbursement, separate forms for OPD (inclusive of cost of medicine purchas
 
 ## Life in Powai and beyond
 
-(This section has external links for your information. IIT Bombay cannot take any responsibility for these.)
-
 The city of Mumbai offers a wealth of cultural and entertainment
 resources to its residents, befitting a global metropolis. This
 includes famous places of worship, ancient historical caves, several
@@ -987,7 +985,7 @@ conversion can also be on an absolute basis, for example if the
 student strength is very small for a course). These and other details
 are available on the [Academic office webpage](http://www.iitb.ac.in/acad/index.html).
 
-Instructors are expected to make known the evaluation methodology at
+Instructors are expected to announce the evaluation methodology at
 the beginning of the course, and also make available the corrected
 answer scripts for every assignment, quiz or examination (including
 the end-semester exam) for the students’ inspection. The instructor
@@ -1340,7 +1338,7 @@ other terms etc.
 ### Method for Determining Professors to be Moved to HAG scale
 
 1. _Composition of D-HAG Committee:_ Scoring should be done by a
-   committee called Departmental committee for Higher Academic Grade
+   committee called Departmental committee for Higher Administrative Grade
    (D-HAG) constituted by the Head of the academic unit. The committee
    is to consist of 3 to 4 members, all of whom must be on HAG
    scale. In case there are not enough people on HAG scale in a
@@ -2802,9 +2800,9 @@ take up full time faculty positions. They should have retired from
 Central or State government entities, autonomous bodies or private
 organisations, and are yet to attain the age of retirement of regular
 faculty members at IIT Bombay.  They are appointed to take up full
-time contract positions on scale for a three year term extendable to
-five years (or till they are 70; whichever is earlier).  Their salary
-is fixed as the last drawn salary *minus* any pension that they may be
+time contract positions for a three year term extendable to five years
+or till they are 70, whichever is earlier.  Their salary is fixed as
+the last drawn salary *minus* any pension that they may be
 receiving. They are entitled to some benefits offered to regular
 faculty members such as leave and OPD medical facilities. They are
 provided with a non-lapsable contingency grant with usage of ₹ 20,000
