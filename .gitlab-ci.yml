@@ -15,6 +15,7 @@ pages:
     - make -B
     - mkdir -p public
     - cp out.pdf out.html *.css *.jpg public
+    - cp out.pdf public/Faculty_Handbook_2021.pdf
   artifacts:
     paths:
       - public
