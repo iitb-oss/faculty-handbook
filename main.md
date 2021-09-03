@@ -705,7 +705,6 @@ however, is handled through the homegrown software created by the
 Application Software Center (ASC). Several other home grown and open
 source IT systems continue to handle key business processes.
 
-\pagebreak
 Currently, following IT systems are available to faculty members:
 
   - [ASC](https://asc.iitb.ac.in) is the home grown system for
