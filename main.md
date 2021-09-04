@@ -2,7 +2,7 @@
 title: Faculty Handbook
 numbersections: true
 documentclass: amsbook
-classoptions: 10pt
+classoption: 10pt,openany
 secnumdepth:
 tocdepth: 1
 header-includes:
@@ -335,6 +335,8 @@ Broadly speaking:
  - In addition, there are **service centres** such as the **Computer
    Centre**, which do not host any academic or research programmes.
 
+\newpage
+
 Below is a list of departments, centres, schools and other functional units.
 
 **Academic Units**
@@ -642,14 +644,14 @@ Immediately on joining:
     connection (prepaid or postpaid).
 
 12. If you do not already have one, it is advisable to also get an
-    Aadhar card (https://uidai.gov.in/). The Administration Section
+    Aadhar card [https://uidai.gov.in/](https://uidai.gov.in/). The Administration Section
     will be able to provide you with details of the nearest data
     collection center at which an application can be lodged. It is a
     good idea to take this for your whole family in one go. The
     post-office in campus accepts Aadhar applications.
 
 13. You need to open a bank account where your salary will be deposited. There are branches of two banks on campus,
-    **viz.** State Bank of India and Canara Bank. Please drop in there
+    viz. State Bank of India and Canara Bank. Please drop in there
     with your identity proof and a photograph and open a bank
     account. You may require one of your colleagues holding an account
     in the same branch to provide an introduction. There are several
@@ -662,7 +664,7 @@ Immediately on joining:
 
 ## Regularization/Confirmation of Service {#sec:regularization}
 
-Under the current norms (**viz.** [7th Pay Commission
+Under the current norms (viz. [7th Pay Commission
 rules](https://www.education.gov.in/sites/upload_files/mhrd/files/7th%20CPC%20Order%20CFTIs.pdf),
 in particular 1(b)), IITs cannot offer a confirmed faculty position to
 one with less than 3 years professional/postdoctoral experience (not
@@ -881,7 +883,7 @@ be given for such an act. Those who are covered under the old pension
 scheme may also opt for `voluntary retirement' from the service of the
 Institute by giving a three months' notice after having served the
 Institute for a minimum period of 20 years. Voluntary retirement is
-discussed in the chapter on retirement benefits.
+discussed in the chapter on [retirement benefits](#sec:retirement).
 
 # The Institute's Hopes and Expectations
 For most faculty members joining this Institute, this will be the first ‘job’, at least in an academic set-up. Since, in such a set up, it is largely up to the individual to plan out her activities and career, it is but natural that one is a little apprehensive as to how to manage one’s time in the initial years. While there are always some senior faculty and elder statesmen in the academic unit who will guide you in this respect, the following sections give some idea of what is expected of you and introduce you to the various Institute-supported activities that you will probably get involved in as a faculty member.
@@ -2189,7 +2191,7 @@ Availability of 1,00,000 contingency fund is divided as follows:
 The daily allowance provided to Faculty Members for participation in
 International conferences are as follows:
 
----------------------------------------------------------------
+----------------------------- -------------- ---------------------------
 Country/ Region               Per Diem (USD) Hotel charges per day (USD)
 ----------------------------- -------------- ---------------------------
 Outside India for Conferences $115           Up to $ 250; amount
@@ -2201,7 +2203,7 @@ by the Institute on                          (with bills/receipts) with
 assignments or as a                          special approval of Director.
 part of delegation
 on Government work.
----------------------------------------------------------------
+----------------------------- -------------- ---------------------------
 
 If the full hospitality has been provided (boarding and lodging) by
 the organizers, only per diem of 25% of the rates mentioned in the
@@ -2853,7 +2855,7 @@ The features of scheme are as follows:
 - The faculty will be paid a relocation allowances of ₹ 5,000/- per month of stay over and above the salary.
 - The terms and conditions may be modified on mutual agreement among the host IIT, the parent IIT, and the faculty.
 
-# Retirement and Post-Retirement Benefits
+# Retirement and Post-Retirement Benefits {#sec:retirement}
 
 ## Post-retirement Benefits
 While this chapter was originally written primarily for faculty who joined the Institute before 2004 (or who joined later, but with transfer of previous services rendered in Government or Institutions like IITs), suitable additions/provisions which apply to faculty who joined on or after 1$^{\text{st}}$ January, 2004 (National Pension System) have now been incorporated.
