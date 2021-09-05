@@ -3000,8 +3000,7 @@ applicable for all employees who joined the Institute on or after
 1.1.2004. The funds are managed by the National Security Depository
 Ltd (NSDL). In particular, contributions into the NPS are eligible for
 tax benefits as mentioned at the [NPS CRA
-website](https://www.npscra.nsdl.co.in/tax-benefits-under-nps.php). A subscriber can make partial withdrawal after joining the NPS after 10 years, not exceeding twenty-five per cent of the contributions made by him/her and excluding contribution made by employer, if any, at any time before exit from National Pension System subject to the terms and conditions, purpose, frequency and limits specified under Regulations 8 of PFRDA (Exits & Withdrawals under the NPS), Regulations, 2015. The guidelines for partial withdrawal can be accessed at following link:
-https://www.npscra.nsdl.co.in/download/Annexure_PFRDA_Circular_CRA_PO_RI_Master_2016_003.pdf
+website](https://www.npscra.nsdl.co.in/tax-benefits-under-nps.php). A subscriber can make partial withdrawal after joining the NPS after 10 years, not exceeding twenty-five per cent of the contributions made by him/her and excluding contribution made by employer, if any, at any time before exit from National Pension System subject to the terms and conditions, purpose, frequency and limits specified under Regulations 8 of PFRDA (Exits & Withdrawals under the NPS), Regulations, 2015. The guidelines for partial withdrawal can be accessed at [this link](https://www.npscra.nsdl.co.in/download/Annexure_PFRDA_Circular_CRA_PO_RI_Master_2016_003.pdf).
 
 What
 follows is the information on NPS for Central Government
