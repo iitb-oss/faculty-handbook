@@ -57,7 +57,7 @@ Prof. Neela Nataraj
 
 **Staff Acknowledgements**
 
-- Ms. Tejaswee Kamat
+- Ms. Tejaswi Kamath
 - Ms. Seena Shyjo
 - Mr. Sachin Shirishkar
 - Ms. Sneha Chavan
@@ -2964,6 +2964,13 @@ For those who joined the Institute before 2004, there were two retirement scheme
    and withdrawals may be made from the subscription account
    like the GPF scheme.
 
+Please note that if the employees' subscription to provident fund on
+or after 1st April 2021 exceeds ₹ 5 Lakhs (for GPF) & ₹ 2.5 lakh
+(for CPF) in a financial year, the interest earned on contributions
+over ₹ 5 Lakhs (for GPF) and ₹ 2.5 lakh (for CPF) shall be taxable
+in the hands of the employee.
+
+Accumulated GPF/CPF fund received at the time of retirement is tax exempted. --- Pg. No 88
 
 [^retireavg]: 50% of retiring salary will always be equal to or more than the 10 month average except in rare cases of a demotion or punishment during the last phase of service.
 
