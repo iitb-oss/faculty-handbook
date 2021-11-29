@@ -373,6 +373,7 @@ Below is a list of departments, centres, schools and other functional units.
 1. Centre for Liberal Arts, Science and Engineering (C-LASE)
 1. [Centre for Machine Intelligence and Data Science (C-MInDS)](https://www.minds.iitb.ac.in/)
 1. [Koita Centre for Digital Health (KCDH)](https://www.kcdh.iitb.ac.in)
+1. [Technocraft Centre for Applied Artificial Intelligence (TCAAI)](https://www.tcaai.iitb.ac.in/)
 
 **Interdisciplinary Programs**
 
@@ -2424,7 +2425,7 @@ the unutilized vacation is credited as earned leave on July
 1$^{\text{st}}$ of every year, or completion of vacation.
 
 1. Earned leave can be accumulated up to a maximum of 300 days. The unutilized amount of earned leave can be encashed only at the time of superannuation from service. However, a limited number of days of earned leave can be encashed at the time of availing LTC. Such encashment will not exceed 10 days in each instance with a cumulative maximum of 60 days during the entire span of service.
-2. Overflowing of Earned Leave: Half of unutilized vacation is credited as earned leave on July 1$^{\text{st}}$, even when a faculty has already accumulated 300 days of earned leave in his account. This overflowing earned leave must be availed during the same academic year after which it lapses.
+2. Overflowing of Earned Leave: One third of unutilized vacation is credited as earned leave on July 1$^{\text{st}}$, even when a faculty has already accumulated 300 days of earned leave in his account. This overflowing earned leave must be availed during the same academic year after which it lapses.
 3. Earned leave can be combined with all types of leave other than casual leave.
 
 ### Half-Pay Leave and Commuted Leave
