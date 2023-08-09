@@ -367,7 +367,7 @@ Below is a list of departments, centres, schools and other functional units.
 **Centres**
 
 1. [Centre for Research in Nanotechnology and Science (CRNTS)](http://www.saif.iitb.ac.in/crnts/)
-1. [Centre for Policy Studies (CPS)](https://www.cps.iitb.ac.in/)
+1. [Ashank Desai Centre for Policy Studies (CPS)](https://www.cps.iitb.ac.in/)
 1. [Centre of Studies in Resources Engineering (CSRE)](https://www.csre.iitb.ac.in/)
 1. [Centre for Technology Alternatives for Rural Areas (CTARA)](https://www.ctara.iitb.ac.in/)
 1. [Centre for Urban Science and Engineering (C-USE)](https://cuse.iitb.ac.in/)
