@@ -890,7 +890,7 @@ discussed in the chapter on [retirement benefits](#sec:retirement).
 For most faculty members joining this Institute, this will be the first ‘job’, at least in an academic set-up. Since, in such a set up, it is largely up to the individual to plan out her activities and career, it is but natural that one is a little apprehensive as to how to manage one’s time in the initial years. While there are always some senior faculty and elder statesmen in the academic unit who will guide you in this respect, the following sections give some idea of what is expected of you and introduce you to the various Institute-supported activities that you will probably get involved in as a faculty member.
 
 ## What the Institute expects of you
-When you join as an Assistant Professor, in order to assist you to settle in and get your research underway quickly and efficiently, the Institute and the academic unit extend certain facilities. These are:
+When you join the Institute as a faculty, in order to assist you to settle in and get your research underway quickly and efficiently, the Institute and the academic unit extend certain facilities. These are:
 
 1. A seed grant of ₹ 20,00,000 plus support for one PhD student in the project mode. Higher seed grant amounts may be considered for equipment intensive research (you need to consult Dean (R&D) office for information regarding this, soon after you join).
 
@@ -2643,25 +2643,25 @@ company, or a class room, or even within hearing distance of the complainant)
 
 A victim of sexual harassment (or one who perceives sexual harassment
 to oneself) may lodge a complaint to the Gender Cell Internal
-Complaints Committee
-(GC-ICC), the Director, Deputy Director or to the Dean
-(FA), in addition to seeking redress under the Indian Penal
+Complaints Committee (GC-ICC), the Director, Deputy Director or to the
+Dean (FA), in addition to seeking redress under the Indian Penal
 Code. Students can also take their complaint to the Dean (SA).
 
 Any woman can approach the Gender Cell for complaints against a member
-of the Institute (employee or student) regarding workplace related harassment. In addition, the Gender Cell
-can also be approached by a male student or a student belonging to
-sexual minorities for complaints against a male student or employee,
-when the sexual harassment is alleged to have taken place within the
-campus or the workplace. The Gender Cell inquires into sexual
-harassment complaints through its ICC. An inquiry by the ICC has the
-status of an official inquiry under the Civil Service Rules, and
-employees have to cooperate with the Cell in its investigations. In
-addition, sexual harassment is an offence under rule 3C of the Central
-Civil Services (Conduct) Rules. More details about the Gender Cell may be found
-[here](http://www.gendercell.iitb.ac.in/); links to the IIT Bombay policy
-document, the Sexual Harassment at the Workplace Act, and a government
-handbook on sexual harassment, are given
+of the Institute (employee or student) regarding workplace related
+harassment. In addition, the Gender Cell can also be approached by a
+male student or a student belonging to sexual minorities for
+complaints against a male student or employee, when the sexual
+harassment is alleged to have taken place within the campus or the
+workplace. The Gender Cell inquires into sexual harassment complaints
+through its ICC. An inquiry by the ICC has the status of an official
+inquiry under the Civil Service Rules, and employees have to cooperate
+with the Cell in its investigations. In addition, sexual harassment is
+an offence under rule 3C of the Central Civil Services (Conduct)
+Rules. More details about the Gender Cell may be found
+[here](http://www.gendercell.iitb.ac.in/); links to the IIT Bombay
+policy document, the Sexual Harassment at the Workplace Act, and a
+government handbook on sexual harassment, are given
 [here](https://www.gendercell.iitb.ac.in/icc.html).
 
 
@@ -3229,7 +3229,7 @@ continuation or extension of their LDAP account, either before the
 expiry or within a grace period of one year. This one-time activity at
 from the retired faculty within a span of 2 years is to keep a check
 and avoid misuse of dormant LDAP accounts after faculty
-retirements..
+retirements.
 
 **Library access**: Faculty and Group A Officers retired from IIT
 Bombay are eligible for Library membership by paying ₹ 200 for annual
