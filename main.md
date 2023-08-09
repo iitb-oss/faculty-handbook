@@ -468,8 +468,8 @@ receipts and air tickets to claim this allowance. Settling accounts on
 time applies to all financial transactions! If you accept the
 relocation allowance, you have to agree to serve the Institute for a
 minimum period of three years. In case you choose to leave the
-Institute earlier, the relocation allowance paid by the Institute may
-have to be returned either partially or fully.
+Institute earlier, the relocation allowance paid by the Institute would
+have to be returned fully.
 
 If you are joining as an Assistant Professor, you are eligible to
 receive the [Young Faculty Award (YFA) endowed by our
