@@ -348,6 +348,7 @@ Below is a list of departments, centres, schools and other functional units.
 5. [Civil Engineering](https://www.civil.iitb.ac.in/)
 6. [Computer Science and Engineering](https://www.cse.iitb.ac.in/)
 7. [Earth Sciences](https://www.geos.iitb.ac.in/)
+7. [Economics](https://economics.iitb.ac.in/)
 8. [Electrical Engineering](https://www.ee.iitb.ac.in/)
 9. [Energy Science and Engineering](https://www.ese.iitb.ac.in/)
 10. [Environmental Science and Engineering](https://www.esed.iitb.ac.in/)
