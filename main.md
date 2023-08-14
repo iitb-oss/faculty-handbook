@@ -339,67 +339,79 @@ Broadly speaking:
 
 Below is a list of departments, centres, schools and other functional units.
 
-**Academic Units**
+**Departments**
 
-1. [Aerospace Engineering](https://www.aero.iitb.ac.in/home/)
-2. [Biosciences and Bioengineering](https://www.bio.iitb.ac.in/)
-3. [Chemical Engineering](https://www.che.iitb.ac.in/)
-4. [Chemistry](https://www.chem.iitb.ac.in/)
-5. [Civil Engineering](https://www.civil.iitb.ac.in/)
-6. [Computer Science and Engineering](https://www.cse.iitb.ac.in/)
-7. [Earth Sciences](https://www.geos.iitb.ac.in/)
-7. [Economics](https://economics.iitb.ac.in/)
-8. [Electrical Engineering](https://www.ee.iitb.ac.in/)
-9. [Energy Science and Engineering](https://www.ese.iitb.ac.in/)
-10. [Environmental Science and Engineering](https://www.esed.iitb.ac.in/)
-11. [Humanities and Social Sciences](https://www.hss.iitb.ac.in/)
-12. [Mathematics](http://www.math.iitb.ac.in/)
-13. [Mechanical Engineering](http://www.me.iitb.ac.in/)
-14. [Metallurgical Engineering and Materials Science](https://www.iitb.ac.in/mems/en)
-15. [Physics](https://www.phy.iitb.ac.in/)
+1. [Aerospace Engineering](http://www.aero.iitb.ac.in/)
+1. [Biosciences and Bioengineering](http://www.bio.iitb.ac.in/)
+1. [Chemical Engineering](http://www.che.iitb.ac.in/)
+1. [Chemistry](http://www.chem.iitb.ac.in/)
+1. [Civil Engineering](http://www.civil.iitb.ac.in/)
+1. [Computer Science and Engineering](http://www.cse.iitb.ac.in/)
+1. [Earth Sciences](http://www.geos.iitb.ac.in/)
+1. [Economics](https://www.economics.iitb.ac.in/)
+1. [Electrical Engineering](http://www.ee.iitb.ac.in/)
+1. [Energy Science and Engineering](http://www.ese.iitb.ac.in/)
+1. [Environmental Science and Engineering (ESED)](http://www.esed.iitb.ac.in/)
+1. [Humanities and Social Sciences](http://www.hss.iitb.ac.in/)
+1. [Mathematics](http://www.math.iitb.ac.in/)
+1. [Mechanical Engineering](http://www.me.iitb.ac.in/)
+1. [Metallurgical Engineering and Materials Science](http://www.met.iitb.ac.in/)
+1. [Physics](http://www.phy.iitb.ac.in/)
+
 
 **Schools**
 
-1. [Shailesh J. Mehta School of Management](https://www.som.iitb.ac.in/)
-2. [Desai Sethi School for Entrepreneurship](https://www.iitb.ac.in/dsce/)
-3. [IDC School of Design](http://www.idc.iitb.ac.in/)
-
-**Centres**
-
-1. [Centre for Research in Nanotechnology and Science (CRNTS)](http://www.saif.iitb.ac.in/crnts/)
-1. [Ashank Desai Centre for Policy Studies (CPS)](https://www.cps.iitb.ac.in/)
-1. [Centre of Studies in Resources Engineering (CSRE)](https://www.csre.iitb.ac.in/)
-1. [Centre for Technology Alternatives for Rural Areas (CTARA)](https://www.ctara.iitb.ac.in/)
-1. [Centre for Urban Science and Engineering (C-USE)](https://cuse.iitb.ac.in/)
-1. Centre for Liberal Arts, Science and Engineering (C-LASE)
-1. [Centre for Machine Intelligence and Data Science (C-MInDS)](https://www.minds.iitb.ac.in/)
-1. [Koita Centre for Digital Health (KCDH)](https://www.kcdh.iitb.ac.in)
-1. [Technocraft Centre for Applied Artificial Intelligence (TCAAI)](https://www.tcaai.iitb.ac.in/)
+1. [Desai Sethi School of Entrepreneurship (DSSE)](http://www.iitb.ac.in/dsce/)
+1. [IDC School of Design (IDC SoD)](http://www.idc.iitb.ac.in/)
+1. [Shailesh J. Mehta School of Management (SJMSoM)](http://www.som.iitb.ac.in/)
 
 **Interdisciplinary Programs**
 
-1. [Climate Studies](https://www.climate.iitb.ac.in/)
-2. [Educational Technology (ET)](http://www.et.iitb.ac.in/)
-3. [Industrial Engineering and Operations Research (IEOR)](https://www.ieor.iitb.ac.in/)
-4. [Systems and Control Engineering (SYSCON)](https://www.sc.iitb.ac.in/)
+1. [Climate Studies](http://www.climate.iitb.ac.in/)
+1. [Educational Technology](http://www.et.iitb.ac.in/)
+1. [Industrial Engineering and Operations Research (IEOR)](http://www.ieor.iitb.ac.in/)
+1. [Systems and Control Engineering](http://www.sc.iitb.ac.in/)
 
+**Centres offering Academic Degrees**
 
-**Functional Units**
+1. [Ashank Desai Centre for Policy Studies (ADCPS)](http://www.cps.iitb.ac.in/)
+1. [Centre for Machine Intelligence and Data Science (C-MinDS)](https://www.minds.iitb.ac.in/)
+1. [Centre of Studies in Resources Engineering (CSRE)](http://www.csre.iitb.ac.in/)
+1. [Centre for Technology Alternatives for Rural Areas (CTARA)](http://www.ctara.iitb.ac.in/)
+1. [Centre for Urban Sciences and Engineering (C-USE)](http://cuse.iitb.ac.in/)
+1. [Koita Centre for Digital Health (KCDH)](https://www.kcdh.iitb.ac.in/)
+1. [IITB-Monash Research Academy (<strong>Section 8 Company</strong>)](http://www.iitbmonash.org/)
 
-1. [Application Software Centre (ASC)](https://www.asc.iitb.ac.in/)
-2. [Centre for Aerospace Systems Design and Engineering (CASDE)](https://rnd.iitb.ac.in/node/101509)
-3. [Computer Centre (CC)](https://www.cc.iitb.ac.in/)
-4. [Centre for Distance Engineering Education Programme (CDEEP)](https://www.cdeep.iitb.ac.in/)
-5. [Centre for Formal Design and Verification of Software (CFDVS)](http://www.cfdvs.iitb.ac.in/)
-6. [IITB-Monash Research Academy](https://www.iitbmonash.org/)
-7. [National Centre for Aerospace Innovation and Research (NCAIR)](http://www.ncair.in/)
-8. [National Center of Excellence in Technology for Internal Security (NCETIS)](https://rnd.iitb.ac.in/node/101506)
-9. [National Centre for Mathematics (NCM)](https://sites.google.com/view/ncmiitbombay/)
-10. [Parimal and Pramod Chaudhari Center for Learning and Teaching (PPCCLT)](http://www.ppcclt.iitb.ac.in/)
-11. [Sophisticated Analytical Instrument Facility (SAIF)](http://www.saif.iitb.ac.in/)
-12. [Tata Center for Technology and Design (TCTD)](http://www.tatacentre.iitb.ac.in/)
-13. [Wadhwani Research Centre for Bioengineering (WRCB)](https://www.iitb.ac.in/wrcb/en)
-15. [Continuing Education Programme](http://www.cep.iitb.ac.in/)
+**Academic Advisory**
+
+1. [Centre for Liberal Education (CLE)](https://cle0.iitb.ac.in/)
+
+**Centres of Academic Outreach (education and research)**
+
+1. [National Centre for Mathematics (NCM)](http://www.ncmath.org/)
+
+**Centres providing research and support facilities**
+
+These Centres host a large number of sophisticated equipment and advanced facilities for carrying out R&D activities at IIT Bombay. The following are the research facilities at IIT Bombay:
+
+1. [Centre for Semiconductor Technologies (SemiX)](https://www.semix.iitb.ac.in/semix/)
+1. [Centre of Excellence in Steel Technology(CoEST)](https://www.iitb.ac.in/mems/en/research/coest#:~:text=Indian%20Institute%20of%20Technology%20Bombay%20(IIT%20Bombay)%20establish%20a%20Centre,Board%20of%20Governors%2C%20IIT%20Bombay.)
+1. [Centre of Excellence in Oil, Gas and Energy (CoE-OGE)](http://www.coeoge.iitb.ac.in/)
+1. [DRDO-Industry-Academia Centre of Excellence (DIA-CoE)](https://rnd.iitb.ac.in/node/102326)
+1. [Centre of Excellence in Quantum Information, Computing, Science and Technology (CoE-QuICST)](https://www.quicst.org/)
+1. Geospatial Information Science and Engineering
+1. National Centre of Excellence in Carbon Capture and Utilization (NCoE-CCU)
+1. [National Centre of Excellence in Technology for Internal Security (NCETIS)](http://www.ncetis.iitb.ac.in/)
+1. [National Centre for Photovoltaic Research and Education (NCPRE)](http://www.ncpre.iitb.ac.in/ncpre/)
+1. [Wadhwani Research Centre for Bioengineering (WRCB)](http://www.iitb.ac.in/wrcb/)
+1. [Biomedical Engineering and Technology Incubation Centre (BETiC)](https://www.betic.org/)
+1. [Tata Centre for Technology and Design (TCTD)](http://www.tatacentre.iitb.ac.in/)
+1. [Technocraft Centre for Applied Artificial Intelligence (TCAAI)](https://www.tcaai.iitb.ac.in/)
+1. [Water Innovation Centre: Technology, Research and Education (WICTRE)](https://rnd.iitb.ac.in/node/104128)
+1. [Sunita Sanghi Centre of Ageing and Neurodegenerative Diseases (SCAN)](https://www.scan.iitb.ac.in/)
+1. [Centre of Excellence on Membrane Technologies for Desalination, Brine Management, and Water Recycling](https://www.desaltm.in/)
+
+**Industry liaison and Startup incubation**
 
 In addition, while not academic units, the following units help liaise with industry and promoting startups based on research done at IIT Bombay:
 
