@@ -2654,6 +2654,11 @@ company, or a class room, or even within hearing distance of the complainant)
 - showing pornography
 - any other unwelcome physical, verbal or non-verbal conduct of sexual nature.
 
+A more comprehensive definition of sexual harassment can be found in
+the IITB policy on sexual harassment
+[here](https://www.gendercell.iitb.ac.in/policy.pdf).
+
+
 A victim of sexual harassment (or one who perceives sexual harassment
 to oneself) may lodge a complaint to the Gender Cell Internal
 Complaints Committee (GC-ICC), the Director, Deputy Director or to the
@@ -2677,10 +2682,12 @@ policy document, the Sexual Harassment at the Workplace Act, and a
 government handbook on sexual harassment, are given
 [here](https://www.gendercell.iitb.ac.in/icc.html).
 
-The Gender Cell at IIT Bombay has developed an online training on gender
-issues, sexual harassment and role of consent in the work place. Every
-faculty is required to do this training at the earliest. It is available
-on the [internal Moodle](https://xmoodle.iitb.ac.in/course/view.php?id=13).
+The Gender Cell at IIT Bombay has developed an online training on
+gender issues, sexual harassment and role of consent in the work
+place. The course also gives an overview of the process at IIT Bombay
+to address sexual harassment. Every faculty is required to do this
+training at the earliest. It is available on the [internal
+Moodle](https://xmoodle.iitb.ac.in/course/view.php?id=13).
 
 ### Plagiarism
 Being an Institute of excellence, the Institute takes a very serious view of any act of plagiarism. While the penal codes are silent on it, there are guidelines issued by National Academies on what constitutes plagiarism. In technical publications, all joint authors are responsible equally for any offence of plagiarism. Punishment can be severe, including termination of service.
