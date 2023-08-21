@@ -2677,6 +2677,10 @@ policy document, the Sexual Harassment at the Workplace Act, and a
 government handbook on sexual harassment, are given
 [here](https://www.gendercell.iitb.ac.in/icc.html).
 
+The Gender Cell at IIT Bombay has developed an online training on gender
+issues, sexual harassment and role of consent in the work place. Every
+faculty is required to do this training at the earliest. It is available
+on the [internal Moodle](https://xmoodle.iitb.ac.in/course/view.php?id=13).
 
 ### Plagiarism
 Being an Institute of excellence, the Institute takes a very serious view of any act of plagiarism. While the penal codes are silent on it, there are guidelines issued by National Academies on what constitutes plagiarism. In technical publications, all joint authors are responsible equally for any offence of plagiarism. Punishment can be severe, including termination of service.
