@@ -2089,9 +2089,10 @@ without the boarding passes is not acceptable as proof of travel.) For
 journeys which involve water transport, detailed rules are available
 with the administration.
 
-[^airindia]: At present, for all official purposes, travel is
-permitted only by Air India. Waivers can only be granted (on a
-case-by-case basis, by the Ministry of Civil Aviation (MCA).
+[^airindia]: Tickets should be booked only through M/S Balmer Lawrie &
+    Co. Ltd., M/S Ashoka Travels and Tours, or M/S Indian Railways
+    Catering and Tourism Corporation Ltd.
+
 
 [^economyclass]: As what is (hopefully a temporary) austerity measure,
 business class travel is presently suspended for LTC. Extending the
