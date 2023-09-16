@@ -2716,7 +2716,7 @@ applicable to all students, and not just SC/ST students.
 - A student may have experienced discrimination in the past on the basis of
   caste or other social background, and a seemingly innocuous remark could be
   very hurtful to such a person.
-- Communication with caste undertones, criticisms of reservation policy,
+- Communication with caste undertones, unwarranted criticisms of reservation policy,
   whether told casually or expressed formally, whether told in official capacity
   or in personal capacity, whether initiated oneself or forwarded/re-posted, are
   prohibited.
