@@ -2695,35 +2695,39 @@ Moodle](https://xmoodle.iitb.ac.in/course/view.php?id=13).
 The SC/ST students cell addresses difficulties faced by SC/ST students at IIT Bombay.
 The activities of the cell are broadly as follows:
 
-- Issues pertaining to SC/ST students like acad:emic and scholarship matters,
+- Issues pertaining to SC/ST students’ well-being like academic and scholarship matters,
 - Awareness and sensitization of IITB community about reservation and caste-related aspects,
-- Receive and act on grievances and caste-based-discrimination complaints as per prevalent law/procedures.
+- Receive and act on grievances and caste-based-discrimination
+  complaints as per prevalent law/procedures.
 
 As a faculty member, you would interact with many students and the institute
 maintains a policy of not revealing the birth category of the students to
 teachers. It is important to maintain an atmosphere that is inclusive and
 conducive to interaction. The students we interact with come from varied
 social and economic backgrounds, and students look up to the faculty members
-as role-models.  Below are some points to keep in mind during your
-interactions with students; note that most of the points listed below are
-applicable to all students, and not just SC/ST students.
+as role-models. Below are some points to keep in mind during your interactions
+with students; note that most of the points listed below are applicable to all
+students, and not just SC/ST students.
 
 - It is inappropriate to opine negatively about any group of students. It is
   befitting to speak to students solely as individuals and in a calm and
   composed way, without associating him/her to any larger group. Generalised
-  phrases like “those people” or “students like you” get perceived as targeted
+  phrases like "those people" or "students like you" get perceived as targeted
   at specific groups, and are hence improper.
 - A student may have experienced discrimination in the past on the basis of
   caste or other social background, and a seemingly innocuous remark could be
   very hurtful to such a person.
-- Communication with caste undertones, unwarranted criticisms of reservation policy,
-  whether told casually or expressed formally, whether told in official capacity
-  or in personal capacity, whether initiated oneself or forwarded/re-posted, are
-  prohibited.
+- Communication with casteist undertones is prohibited: whether told casually
+  or expressed formally, whether told in official capacity or in personal
+  capacity, whether initiated oneself or forwarded/re-posted, orally or in
+  print/digital/ social media.
+- Faculty members should not make remarks that ridicule the policy of
+  reservation; such remarks can be extremely hurtful to those who have availed
+  reservation, in addition to potentially violating the code of conduct.
 - Some academic options such as exit degrees may be viewed as undesirable by
-  students.  While it is OK to mention an exit degree as an option, you should
-  be sure to list all the other options, and leave the decision to the
-  student/parents, without pressurizing them in any way.  Recommending it,
+  students. While it is OK to mention an exit degree as an option, you should be
+  sure to list all the other options, and leave the decision
+  to the student/parents, without pressurizing them in any way. Recommending it,
   instead of suggesting it as an option, may be done by a committee, not by an
   individual.
 - When you tell a student that you will recommend waivers/exemptions, please
@@ -2733,17 +2737,14 @@ applicable to all students, and not just SC/ST students.
   recognize that the student may have numerous challenges beyond their control,
   and which you are not aware of.
 
-The above guidelines can help to avoid incidents that may make a
-student feel discriminated against. However, if any person does feel
-discriminated against and files a complaint, the institute must stay
-neutral and follow due procedures. The institute takes a strong stand
-against discrimination of all forms and will take
-necessary/appropriate action in both letter and spirit after an
-enquiry following standard procedures.
-
-With the above points kept in mind, we are sure that all our
-student-interactions would be healthy and fruitful to both us faculty-members
-and the students.
+The above guidelines can help to avoid incidents that may make a student feel
+discriminated against. However, if any person does feel discriminated against
+and files a complaint, the institute must stay neutral and follow due
+procedures. The institute takes a strong stand against discrimination of all
+forms and will take necessary/appropriate action in both letter and spirit
+after an enquiry following standard procedures. With the above points kept in
+mind, we are sure that all our student-interactions would be healthy and
+fruitful to us faculty-members, the students and the institute.
 
 ### Plagiarism
 Being an Institute of excellence, the Institute takes a very serious view of any act of plagiarism. While the penal codes are silent on it, there are guidelines issued by National Academies on what constitutes plagiarism. In technical publications, all joint authors are responsible equally for any offence of plagiarism. Punishment can be severe, including termination of service.
