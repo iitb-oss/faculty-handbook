@@ -901,7 +901,7 @@ relocation allowance paid by the Institute would have to be returned
 fully.
 
 # The Institute's Hopes and Expectations
-For most faculty members joining this Institute, this will be the first ‘job’, at least in an academic set-up. Since, in such a set up, it is largely up to the individual to plan out her activities and career, it is but natural that one is a little apprehensive as to how to manage one’s time in the initial years. While there are always some senior faculty and elder statesmen in the academic unit who will guide you in this respect, the following sections give some idea of what is expected of you and introduce you to the various Institute-supported activities that you will probably get involved in as a faculty member.
+For most faculty members joining this Institute, this will be the first ‘job’, at least in an academic set-up. Since, in such a set up, it is largely up to the individual to plan out her activities and career, it is but natural that one is a little apprehensive as to how to manage one’s time in the initial years. While there are always some senior faculty in the academic unit who will guide you in this respect, the following sections give some idea of what is expected of you and introduce you to the various Institute-supported activities that you will probably get involved in as a faculty member.
 
 ## What the Institute expects of you
 When you join the Institute as a faculty, in order to assist you to settle in and get your research underway quickly and efficiently, the Institute and the academic unit extend certain facilities. These are:
