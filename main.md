@@ -1186,8 +1186,8 @@ conditions apply on expenditures from the seed grant (base amount):
 6. Faculty members needing additional funding should seek the same from the concerned Academic Unit, which could review the request and provide support from its own funds such as DDF as per its own policies / guidelines.
 7. Equipment grant may be augmented by up to ₹ 1 crore subject to the following:
    a. This augmentation is to be used exclusively to procure major equipment / facility of a specialized nature, if required for the proposed research work. It is NOT meant as a general grant to be used over time for miscellaneous EQP purchases; these should be procured out of the 13,00,000 or 20,00,000 (basic equipment + part or whole of base amount).
-   b. Faculty member must have secured at least one research proposal to an external agency for funding. If need be, Institute will give a letter of ‘additional financial support’ to be used while seeking funding from external agencies.
-   c. Request for additional support will be evaluated the Research Infrastructure Fund Committee (RIFC). Based on the review by RIFC, a suitable recommendation is made for possible funding to Deputy Director (Finance and External Affairs) and Director for approval.
+   b. Faculty member must have secured at least one research proposal from an external agency for funding. If need be, Institute will give a letter of ‘additional financial support’ to be used while seeking funding from external agencies.
+   c. Request for additional support will be evaluated by the Research Infrastructure Fund Committee (RIFC). Based on the review by RIFC, a suitable recommendation is made for possible funding to Deputy Director (Finance and External Affairs) and Director for approval.
    d. Faculty member must give an undertaking that the equipment will be made available to other users in the Institute. Potential users of the equipment and the extent to which the equipment will be made available to other users must be included in the proposal seeking additional funding.
    e. Purchase of equipment with this additional amount must be initiated within 3 months of the date of approval of the grant.
    f. Request for the augmented funds may be made anytime within the first two years of the Seed Grant project, so that the total period of Seed Grant support remains 3 years.
@@ -1606,30 +1606,34 @@ consultant and the client, the obligations and responsibilities of both parties 
 
 Consultancy and related services offered will be divided mainly into two categories:
 
- - *Category E*: Expert Advice and Development Projects:- This type of project will be expertise intensive and based on the expertise of the consultant. For example,
+ - *Category E*: Expert Advice and Development Projects:- This type of project will be expertise intensive and based on the expertise of the consultant. For example:
 
-   - Analytical studies Cause - and - remedy studies
-   - Simulation/ modeling/ optimization
-   - Design of systems/components/processes
-   - Development of industrial products/systems
-   - Development of systems software/application software for offline/online applications.
-   - Development of laboratories
-   - Human Resource development programmes
-   - Recruitment/entrance examinations
-   - Validation of designs/drawings
-   - Retainership of faculty in advisory capacity over specified periods
+    - Feasibility Studies
+    - Technology Assessments
+    - Assessment of Designs and / or Current Manufacturing Process
+    - Material, Energy, Environmental and Manpower Audits
+    - Product Design
+    - Process Development, Software Development
+    - General Trouble-shooting
+    - Retrofitting Exercises
+    - Intensive efforts for transfer of highly focused skills
+    - Expertise to select groups in specific organizations
+    - Vision and strategy statement
 
  - *Category T*: Testing Projects:- This type of project will be
     Infrastructure intensive and will be based on extensive usage of
-    the Institute infrastructure. For example
-	- Calibration
-    - Testing of industrial products/samples
+    the Institute infrastructure. For example, Standardization and
+    Calibration services may be offered in areas in which facilities
+    are available or can be augmented. Such services should normally
+    be backed by periodic Calibration / Standardization of laboratory
+    equipment used for such purposes.
 
-### Capital Equipment on Consultancy Projects
-Since there are no overheads on the purchase of capital equipment in
-consultancy projects, it has been decided that only major equipment
-purchase should be allocated under this head, which would have a
-minimum value of ₹ 1,00,000, procured through a purchase order.
+<!-- ### Overheads in Consultancy Projects -->
+<!-- Since there are no overheads on the purchase of capital equipment
+in --> <!-- consultancy projects, it has been decided that only major
+equipment --> <!-- purchase should be allocated under this head, which
+would have a --> <!-- minimum value of ₹ 1,00,000, procured through a
+purchase order. -->
 
 *Eligibility*: Consultancy and related assignments can be taken up by
 full time faculty and Core Research Scientists and Engineers of
@@ -1691,7 +1695,7 @@ limits:
        if the scope is altered, a fresh estimate may be considered.
 
    12. The minimum charges applicable in respect of consultancy jobs
-       will be ₹10,000 excluding any applicable tax.
+       will be ₹50,000 excluding any applicable tax.
 
    13. It is desirable that Preliminary Diagnostic Discussions / Site
        Visits, leading to the generation of consultancy proposals may
@@ -1724,10 +1728,9 @@ limits:
  1. Consultant Fees (CF): This will include charges for the time of the Institute and External Consultants. The CF is limited to 20% of the project cost for Category T (testing projects) jobs.
  2. Charges for Personnel engaged in Technical Services (CPTS) are charges payable to the permanent employees of the Institute for their effort in the execution of the project. The CPTS is limited to 30% of the project cost for Category T jobs.
  3. Project Staff Salaries (PSS): This refers to the salaries payable to temporary staff employed specifically for the project. The project shall also provide for 30% of PSS as House Rent Allowance (HRA).
- 4. Operational Expenses (OE): These include expenses incurred on consumables, contingencies, travel and daily allowance, honoraria for students and all other expenses related to the consultancy project.
+ 4. Operational Expenses (OE): These include expenses incurred on equipment purchases, consumables, contingencies, travel and daily allowance, honoraria for students and all other expenses related to the consultancy project.
  5. Overheads (OH): Overheads will be charged at the rate of 20% of PSS, and OE (see #3 & #4 above) as applicable.
- 6. Capital Equipment (CE): This will include charges for the purchase of specific equipment for implementation of consultancy projects. No overheads are charged on this.
- 7. Service tax and other taxes as applicable shall be provided for in the project cost.
+ 6. Service tax and other taxes as applicable shall be provided for in the project cost.
 
 ### Applying and Approval for undertaking Consultancy Projects
 Once a consultancy project request is directed to PI the following steps are to be followed:
@@ -1767,9 +1770,33 @@ will be on the actual amount disbursed as CF (CPTS). For example, a
 disbursement of \text{₹} 1,00,000 as consultancy fee would entail a
 deduction of \text{₹} 30,000 as Institute share, and the remaining
 \text{₹} 70,000 will be sent to the salary account, where TDS will be
-deducted as appropriate.
+deducted as appropriate. It is compulsory for the final project report
+to be uploaded for final disbursal. In addition, the final report must
+compulsorily contain the disclaimer specified within the Standard
+Terms and Conditions shared by the Institute with the clients.
 
 Note: Earnings for Technology Transfer, Revenue Sharing and Royalty will be governed by the Intellectual Property Policy of the Institute.
+
+### Equity in Lieu of Consultancy
+IIT Bombay has adopted a Start-up policy in line with National
+Innovation and Startup Policy (NISP) formulated by the Ministry of
+Education, which allows faculty members to take equity in a startup in
+lieu of consultancy services.  Under this policy, PIs can provide
+advisory consultancy/mentorship to a startup in lieu of holding equity
+in their core domain of expertise. IIT Bombay will take a nominal fee
+from the Startup either as a percentage equity holding and/or as a
+percentage of its annual turnover for a fixed period. Such charges
+will be as per approved prevailing policy of IITB. Each project shall
+be undertaken under the start-up policy of the institute, and an
+equity based tripartite agreement describing the details of contract.
+During exit, revenue earned by PI shall be treated similar to the
+consultancy fee component of the conventional consultancy model. In
+such a case, the revenue earned shall be split in 70/30 ratio between
+the PI and institute. As an act of good will, the Institute may adjust
+the earlier revenues earned as a share in equity, in its 30% share.
+The process, relevant permissions, and other terms will be as per the
+implementation guidelines of the Institute, which may be revised from
+time to time.
 
 ## Directorship in Companies
 
@@ -1840,7 +1867,7 @@ The salary that you get has several components.
      D.A.) per month.
    - *Pay Level 13A2*: Salary range ₹ 139,600 to ₹ 211,300 (plus
      D.A.) per month.
-   - *Pay Level 14A*: Salary range ₹ 144,200 to ₹ 211,800 (plus
+   - *Pay Level 14A*: Salary range ₹ 159,100 to ₹ 220,200 (plus
      D.A.) per month.
    - *Pay Level 15*: Salary range ₹ 182,200 to ₹ 224,100 (plus
      D.A.) per month.
@@ -2027,29 +2054,28 @@ When you receive your salary slip, you will find some deductions as well. The pr
 
 Once every two years, you are eligible for a paid travel to your home
 town. For the purpose of LTC, block years are defined for two years
-starting 1$^{\text{st}}$ January of an even year (e.g. 2020)  to 31$^{\text{st}}$ December of
+starting 1$^{\text{st}}$ January of an even year (e.g. 2024)  to 31$^{\text{st}}$ December of
 an odd year. If you do not avail LTC during this block year it
 generally lapses. However, it has been the practice of the Government
-to allow for a grace year, that is,  LTC for the block year 2020-21 can be
-availed (that is,  outward journey commenced) up to 31$^{\text{st}}$ December 2022.
+to allow for a grace year, that is,  LTC for the block year 2024-25 can be
+availed (that is,  outward journey commenced) up to 31$^{\text{st}}$ December 2026.
 
 Two of the above blocks are combined together to define a four year
-block, e.g.  the current block year is 2018-19 and 2020-21 and the
-next block year would be 2022-23 and 2024-25, defining a four year
-block of 2022-25.
+block, e.g. the block years 2022-23 and 2024-25 are combined to define
+a four year block of 2022-25.
 
 In this four year block, one can avail LTC for home town travel in one
 two-year block and another LTC to anywhere in India (including home
 town) in the other second two-year block. The four year block also has
-a grace period of one year, that is, the 2020-21 block must be
-utilized (that is outward hourney commenced) before 31/12/2022.
+a grace period of one year, that is, the 2024-25 block must be
+utilized (that is outward journey commenced) before 31/12/2026.
 
 #### Eligibility:
 
 The employee appointed on scale must have completed one year of
 service in the block to be eligible for LTC in the block, that is,
-those who are appointed up to 31-12-2020. are eligible for LTC in the
-block year 2021 but those appointed after this day are not eligible.
+those who are appointed up to 31-12-2024. are eligible for LTC in the
+block year 2025 but those appointed after this day are not eligible.
 
 All the declared dependents are eligible for LTC and the travel need
 not be taken up together. All return journeys must be completed within
@@ -2067,7 +2093,12 @@ Fresh appointees are eligible for LTC once every year for two blocks
 of four years each. This means that, during the first eight years of
 service, an employee can avail one LTC every year. The definition of
 the block years remain the same. (Illustration: Suppose an employee
-joined in 2019. He/she can travel on LTC to his/her hometown in 2020, 2021 and 2022 and one anywhere in India LTC in 2023. In the next block, that is 2024-2027 he/she can avail three home towns and one anywhere in India, till he/she completes eight years of service.) After the first 8 years of service, the regular LTC rules described earlier apply.
+joined in 2019. He/she can travel on LTC to his/her hometown in 2020,
+2021 and 2022 and one anywhere in India LTC in 2023. In the next
+block, that is 2024-2027 he/she can avail three home towns and one
+anywhere in India, till he/she completes eight years of service.)
+After the first 8 years of service, the regular LTC rules described
+earlier apply.
 
 The all India LTC can be availed only on the 4th occasion of the block and not at random.
 
@@ -2236,111 +2267,113 @@ table above, that is,  $28.75 will be paid.
 
 <!-- TODO: Link to CPDA form -->
 
-## IRCC International Travel Patent and Publication (IR-ITPP) grant
-IRCC provides support for international travel, international patenting charges and publication through its IR-ITPP scheme, which is over and above the CPDA. Details may be found [here](https://rndhelp.ircc.iitb.ac.in/faculty/iritpp).
+<!-- ## IRCC International Travel Patent and Publication (IR-ITPP) grant -->
+<!-- IRCC provides support for international travel, international patenting charges and publication through its IR-ITPP scheme, which is over and above the CPDA. Details may be found [here](https://rndhelp.ircc.iitb.ac.in/faculty/iritpp). -->
 
-### Overview
-The salient features of IR-ITPP grants are as follows: A grant of ₹ 3,00,000 will be provided from IRCC to all faculty members, to be spent
-over a block of three year period (which is concurrent with the CPDA
-block period) for the following activities:
+<!-- ### Overview -->
+<!-- The salient features of IR-ITPP grants are as follows: A grant of ₹ 3,00,000 will be provided from IRCC to all faculty members, to be spent -->
+<!-- over a block of three year period (which is concurrent with the CPDA -->
+<!-- block period) for the following activities: -->
 
-- Support for international travel related expenses (IR-IT) – only after the CPDA is exhausted
-- matching costs for international patenting activities and (IR-IP)
-- costs for publications related activities (IR-P)
+<!-- - Support for international travel related expenses (IR-IT) – only after the CPDA is exhausted -->
+<!-- - matching costs for international patenting activities and (IR-IP) -->
+<!-- - costs for publications related activities (IR-P) -->
 
-### General guidelines
-a. This is provided to all regular faculty members through a separate project
-code at IRCC for individual faculty and is implemented online.
+<!-- ### General guidelines -->
+<!-- a. This is provided to all regular faculty members through a separate project -->
+<!-- code at IRCC for individual faculty and is implemented online. -->
 
-b. Any unspent amount at the end of a block period will lapse and a
-new block will begin thereafter.
+<!-- b. Any unspent amount at the end of a block period will lapse and a -->
+<!-- new block will begin thereafter. -->
 
-c. This amount may be utilised for any or all of the three purposes as
-mentioned above, within the limit of the said amount of ₹ 3,00,000,
-that is, the grant may be used for any of the components IR-IT, IR-IP
-or IR-P, fully or partially in any combination.
+<!-- c. This amount may be utilised for any or all of the three purposes as -->
+<!-- mentioned above, within the limit of the said amount of ₹ 3,00,000, -->
+<!-- that is, the grant may be used for any of the components IR-IT, IR-IP -->
+<!-- or IR-P, fully or partially in any combination. -->
 
-e. Expenditure above ₹ 3,00,000 within the block period have to be
-met by sources other than IRCC funds.
+<!-- e. Expenditure above ₹ 3,00,000 within the block period have to be -->
+<!-- met by sources other than IRCC funds. -->
 
-f. The excess expenditure, if any, is not permitted to be met from
-the next block grant.
+<!-- f. The excess expenditure, if any, is not permitted to be met from -->
+<!-- the next block grant. -->
 
-g. Settlement in respect of all three activities should be completed
-within one month of incurring such expenditure.
+<!-- g. Settlement in respect of all three activities should be completed -->
+<!-- within one month of incurring such expenditure. -->
 
-h. If any new faculty member joins during a given three year block
-period, the grant eligibility will be:
-   - For service period of 2 years and above: ₹ 3,00,000
-   - For service period of more than 1 year but less than 2 years: ₹ 2,00,000
-   - For service period of 1 year and less: ₹ 1,00,000
+<!-- h. If any new faculty member joins during a given three year block -->
+<!-- period, the grant eligibility will be: -->
+<!--    - For service period of 2 years and above: ₹ 3,00,000 -->
+<!--    - For service period of more than 1 year but less than 2 years: ₹ 2,00,000 -->
+<!--    - For service period of 1 year and less: ₹ 1,00,000 -->
 
-The details of the use of the grant for the three activities are given below.
+<!-- The details of the use of the grant for the three activities are given below. -->
 
-<!-- TODO: CPDA ALSO ABOVE APPLY -->
+<!-- <\!-- TODO: CPDA ALSO ABOVE APPLY -\-> -->
 
-### International travel related support (IR-IT)
+<!-- ### International travel related support (IR-IT) -->
 
-The IR-IT component in the block grant may be used for the following:
+<!-- The IR-IT component in the block grant may be used for the following: -->
 
-  a. Faculty attending conferences to present posters or invited talks
-  b. Conducting specialised experimental research work in major
-   research facilities abroad, if unavailable in India (TA/DA only). Charges for usage of such facilities, if applicable, should be met from other sources.
-  c. Chairing a session in international meetings
-  d. Contribution towards travel awards, similar to INSA travel grants
-  e. Giving invited talks and initiating or continuing on-going collaborative research work, where partial support towards the visit is made available by the host institution (such as local travel / hospitality, partial travel support etc.)
-  f. Attending specialised workshops based on invitation and partial support by the organisers
+<!--   a. Faculty attending conferences to present posters or invited talks -->
+<!--   b. Conducting specialised experimental research work in major -->
+<!--    research facilities abroad, if unavailable in India (TA/DA only). Charges for usage of such facilities, if applicable, should be met from other sources. -->
+<!--   c. Chairing a session in international meetings -->
+<!--   d. Contribution towards travel awards, similar to INSA travel grants -->
+<!--   e. Giving invited talks and initiating or continuing on-going collaborative research work, where partial support towards the visit is made available by the host institution (such as local travel / hospitality, partial travel support etc.) -->
+<!--   f. Attending specialised workshops based on invitation and partial support by the organisers -->
 
-The grant use is subject to the following:
+<!-- The grant use is subject to the following: -->
 
-  a. The grant is available only for faculty member for his/her travel and not for students or project staff.
-  b. All Institute terms and conditions of international travel (CPDA norms), such as air carrier, TA/DA rules, class eligibility, etc., will be followed for the IR-IT related activities.
-  c. A request by faculty for support related to international travel should be sent to Dean R&D, with recommendation by Heads of the respective academic entities.
-  d. Prior permission from Dean (FA) should be obtained for the international travel. A copy of the approval letter and conference related documents should be made available to Dean R&D office.
-  e. The component of the Institute CPDA grant for international travel for the applicable block period should have been utilised first, before utilising the IR-IT grant. When the available CPDA fund is not sufficient to cover the visit, then it can be combined with IR-IT fund / other sources such as project fund / RDF.
-  f. While claiming the IR-IT grant component, a self-declaration shall be made by the faculty member that the international travel component of the CPDA fund has already been utilised.
-  g. Administrative order for the travel will be issued by Registrar as per existing procedure. If Institute CPDA is used in combination with any funds managed at IRCC (including the new IR-IT scheme, RDF, project fund, etc.), then the claim should be submitted to Main Accounts as per usual practice.
+<!--   a. The grant is available only for faculty member for his/her travel and not for students or project staff. -->
+<!--   b. All Institute terms and conditions of international travel (CPDA norms), such as air carrier, TA/DA rules, class eligibility, etc., will be followed for the IR-IT related activities. -->
+<!--   c. A request by faculty for support related to international travel should be sent to Dean R&D, with recommendation by Heads of the respective academic entities. -->
+<!--   d. Prior permission from Dean (FA) should be obtained for the international travel. A copy of the approval letter and conference related documents should be made available to Dean R&D office. -->
+<!--   e. The component of the Institute CPDA grant for international travel for the applicable block period should have been utilised first, before utilising the IR-IT grant. When the available CPDA fund is not sufficient to cover the visit, then it can be combined with IR-IT fund / other sources such as project fund / RDF. -->
+<!--   f. While claiming the IR-IT grant component, a self-declaration shall be made by the faculty member that the international travel component of the CPDA fund has already been utilised. -->
+<!--   g. Administrative order for the travel will be issued by Registrar as per existing procedure. If Institute CPDA is used in combination with any funds managed at IRCC (including the new IR-IT scheme, RDF, project fund, etc.), then the claim should be submitted to Main Accounts as per usual practice. -->
 
-### International patenting activities (IR-IP)
-The IR-IP component of the block grant may be used for meeting 50%
-costs of international patenting expenditure.
+<!-- ### International patenting activities (IR-IP) -->
+<!-- The IR-IP component of the block grant may be used for meeting 50% -->
+<!-- costs of international patenting expenditure. -->
 
-Guidelines:
+<!-- Guidelines: -->
 
-   a. Faculty may use the IR-IP grant for defraying 50% of international patenting cost with the balance 50% being provided by IRCC fund. Such costs may include Government fee, professional fee, translation fee and other costs, as per bills received and approved.
-   b. The international patenting will include all activities related to PCT filing and foreign country filing.
-   c. At any time in the block period, if the balance in the IR-ITPP grant is not sufficient for patenting contribution, such excess amount will be paid by IRCC as an advance against the next block grant. The amount available for other activities under IR-ITPP scheme in the next block grant will therefore stand reduced by such amount.
-   d. Faculty members may continue to bear the patenting cost through RDF / project funds in conjunction with the IR-IP component as per their choice.
-   e. In view of this support, IRCC will not consider any other requests for defraying international patenting expenses beyond 50% from IRCC fund.
+<!--    a. Faculty may use the IR-IP grant for defraying 50% of international patenting cost with the balance 50% being provided by IRCC fund. Such costs may include Government fee, professional fee, translation fee and other costs, as per bills received and approved. -->
+<!--    b. The international patenting will include all activities related to PCT filing and foreign country filing. -->
+<!--    c. At any time in the block period, if the balance in the IR-ITPP grant is not sufficient for patenting contribution, such excess amount will be paid by IRCC as an advance against the next block grant. The amount available for other activities under IR-ITPP scheme in the next block grant will therefore stand reduced by such amount. -->
+<!--    d. Faculty members may continue to bear the patenting cost through RDF / project funds in conjunction with the IR-IP component as per their choice. -->
+<!--    e. In view of this support, IRCC will not consider any other requests for defraying international patenting expenses beyond 50% from IRCC fund. -->
 
-### Publication related activities (IR-P)
+<!-- ### Publication related activities (IR-P) -->
 
-The IR-P component of the block grant may be used for the following:
+<!-- The IR-P component of the block grant may be used for the following: -->
 
-   a. For publishing faculty research in good journals, where special circumstances require page charges to be paid.
-   b. For publishing with colour pages or other such special printing requirements
-   c. To a very limited extent, for publishing in SCI/Web of Science Indexed open access journals
+<!--    a. For publishing faculty research in good journals, where special circumstances require page charges to be paid. -->
+<!--    b. For publishing with colour pages or other such special printing requirements -->
+<!--    c. To a very limited extent, for publishing in SCI/Web of Science Indexed open access journals -->
 
-Guidelines:
+<!-- Guidelines: -->
 
-   a. A request by faculty for support related to any publication should be recommended by Heads of the respective academic entities with a strong justification for such requests.
-   b. Support for publications will be based on ‘essentiality’ of the need and subject to approval by Dean R&D.
-   c. Such support shall not be given for papers being published in open access journals even if they are SCI / Web of Science indexed unless there is a very strong certification of good quality of the journal, by the Academic entity.
-   d. It is desirable that part of the costs for publications as above is claimed from other sources such as projects / RDF / DDF and part from the IR-P component of the block grant.
+<!--    a. A request by faculty for support related to any publication should be recommended by Heads of the respective academic entities with a strong justification for such requests. -->
+<!--    b. Support for publications will be based on ‘essentiality’ of the need and subject to approval by Dean R&D. -->
+<!--    c. Such support shall not be given for papers being published in open access journals even if they are SCI / Web of Science indexed unless there is a very strong certification of good quality of the journal, by the Academic entity. -->
+<!--    d. It is desirable that part of the costs for publications as above is claimed from other sources such as projects / RDF / DDF and part from the IR-P component of the block grant. -->
 
 
 ## Research Development Fund (RDF) and Department Development Fund (DDF) rules {#sec:rdfddf}
 
-The Institute incentivizes faculty to pursue
-extramural R&D funding by ploughing a portion (15% at the time of
-writing) of the overheads from sponsored projects back into the
-Principal Investigators’ Research Development Fund (RDF); unspent
-funds in private industry funded projects or consulting projects may also be moved into the
-RDF account at the time of closing, with the requisite
-approvals. Thus, there is an RDF account for every faculty member in
-the IRCC website (Drona), which practically runs like an open-ended
-project account. Details are available
-[here](https://rndhelp.ircc.iitb.ac.in/faculty/rdf).
+The Institute incentivizes faculty to pursue extramural R&D funding by
+ploughing a portion (15% at the time of writing) of the overheads from
+sponsored projects back into the Principal Investigators’ Research
+Development Fund (RDF); unspent funds in private industry funded
+projects or consulting projects may also be moved into the RDF account
+at the time of closing, with the requisite approvals. Thus, there is
+an RDF account for every faculty member in the IRCC website (Drona),
+which practically runs like an open-ended project account. Details are
+available [here](https://rndhelp.ircc.iitb.ac.in/faculty/rdf). The
+Institute deposits ₹ 1,00,000 each year into each faculty's RDF
+account. The money in your RDF can be used for attending conferences,
+paying for publishing charges, patenting charges etc.
 
 IRCC ploughs back another percentage (again, 15% at the time of
 writing) of the overheads from sponsored projects back into a
