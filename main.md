@@ -622,22 +622,23 @@ Immediately on joining:
    Building. For the employee, the identity card doubles as the
    Library card as well. You will have an employee salary code number
    that is needed for all payments and financial
-   transactions within the Institute. It will be useful to memorize
-   this even though you have your identity card  handy.
+   transactions within the Institute.
 
-9. After joining formalities are completed, you may have to pay attention to
-   other important matters, like getting your child/children admitted to a school. The campus
-   has two schools: one Kendriya Vidyalaya (Central School),
-   affiliated to the Central Board of Secondary Education (CBSE) and
-   the other, the Campus School, affiliated to the Maharashtra State
-   Board. Campus School is exclusively for the children of IIT Bombay
-   employees, while in the Kendriya Vidyalaya, most of the seats are
-   reserved for children of IIT Bombay employees. The Campus School also has a kindergarten school for
-   children above the age of three. For younger kids there is a
-   private creche (Shishu Vihar, located at the time of writing in
-   bungalows A-4 and A-5 in the Lakeside area of Campus near the Main
-   Gate) and run by an NGO. Detailed information on all of the above
-   is provided in [the appendix](#sec:moreschools).
+9. After joining formalities are completed, you may have to pay
+   attention to other important matters, like getting your
+   child/children admitted to a school. The campus has two schools:
+   one PM Shri Kendriya Vidyalaya (Central School), affiliated to the
+   Central Board of Secondary Education (CBSE) and the other, the
+   Campus School, affiliated to the Maharashtra State Board. Campus
+   School is exclusively for the children of IIT Bombay employees. The
+   Campus School also has a kindergarten school for children above the
+   age of three. There are also several private schools in the Powai
+   area, including Podar International School, Bombay Scottish Scool,
+   Gopal Sharma International School, and more. For younger kids there
+   is a private creche (Shishu Vihar, located at the time of writing
+   in bungalows A-4 and A-5 in the Lakeside area of Campus near the
+   Main Gate) and run by an NGO. Detailed information on all of the
+   above is provided in [the appendix](#sec:moreschools).
 
 10. You will need to apply for a Permanent Account Number (PAN) (if
     you don't have one already), which is used to file income tax
