@@ -2123,7 +2123,7 @@ Where advance has been drawn, the claim for reimbursement shall be submitted wit
 
 Where no advance has be drawn, the claim for reimbursement shall be submitted within three months of the completion of the return journey.
 
-Tickets for LTC travel are required to be booked directly from the AIR INDIA site or booking through authorised agents viz. M/s Balmer Lawrie & Company, M/s Ashok Travels or IRCTC.
+Tickets for LTC travel are required to be booked through authorised agents viz. M/s Balmer Lawrie & Company, M/s Ashok Travels, or IRCTC.
 
 ### Telephone Expense Reimbursement
 
@@ -2168,14 +2168,14 @@ professional bodies, books and contingent expenses.
 Out of ₹ 3,00,000, a minimum of ₹ 2,00,000 is earmarked for presenting
 papers at conferences and a maximum ₹ 1,00,000 can be spent towards
 membership of professional bodies, contingent expenses (includes
-purchase of books and stationery items) [^underreview]. Expenses for a conference
-includes cost of travel (by Air India), local transport, overseas
-medical insurance, visa fees, registration fee and living expenses @
-US $ 365 per day for the period of conference and two additional days
-(for travel) preceding/succeeding the conference, subject to a maximum
-of (5+2) days. In case of shortage of funds, the excess expenditure
-can be met from projects and travel grants from other funding
-agencies.
+purchase of books and stationery items) [^underreview]. Expenses for a
+conference includes cost of travel (booked through Balmer Lawrie &
+Company, Ashok Travels, or IRCTC), local transport, overseas medical
+insurance, visa fees, registration fee and living expenses @ US $ 365
+per day for the period of conference and two additional days (for
+travel) preceding/succeeding the conference, subject to a maximum of
+(5+2) days. In case of shortage of funds, the excess expenditure can
+be met from projects and travel grants from other funding agencies.
 
 [^underreview]: The rule is under consideration with higher
     authorities. In case of any changes, the same would be available [here](https://surveys.iitb.ac.in/mod/page/view.php?id=4220#tutorial6).
@@ -2360,7 +2360,8 @@ submit your TA bill along with boarding passes and e-ticket copy.
 please contact the Accounts section for business class International
 travel).
 
-[^airindiarule]: Currently, if you are using Government funds, you have to travel by Air India only.
+[^airindiarule]: Currently, if you are using Government funds, you
+    have to book your travel through Balmer Lawrie & Company, Ashok Travels, or IRCTC.
 
 [^railonly]: For these faculty the entitlement is limited to 2$^{nd}$ AC class by rail.
 
