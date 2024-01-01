@@ -304,6 +304,10 @@ Deans. They are as follows:
       administrative workflows and automation of administrative
       procedures.
 
+   9. The _Dean (Strategy)_ deals with
+
+   10. The _Dean (Educational Outreach, EO)_ deals with
+
 The Registrar is officially the custodian of all
 records and funds received by the Institute. (S)he signs the cheques
 issued by the Institute and all payments payable to the Institute are
