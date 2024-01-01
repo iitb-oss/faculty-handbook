@@ -451,13 +451,12 @@ In addition, while not academic units, the following units help liaise with indu
 - [Society for Innovation and Entrepreneurship](http://www.sineiitb.org/sine) for start-up incubation support
 - [Research Park](http://www.respark.iitb.ac.in/#/home) for engagement with companies on campus
 
+<!-- TODO Translational research -->
+
 # When You Join
-Welcome to IIT Bombay's faculty fraternity! The Institute promises
-you interesting times ahead. Setting up home and workplace might
-appear to be a tough proposition at first, especially if you are
-arriving from a more orderly place (North America, Europe, Japan,
-Australia etc.). Things you might have taken for granted abroad, may
-not be so straightforward here. The Institute administration is
+Welcome to IIT Bombay's faculty fraternity! The Institute promises you
+interesting times ahead. Setting up home and workplace might appear to
+be a tough proposition at first, but the Institute administration is
 constantly improving its systems and processes - in particular, to
 smooth the transition for new faculty - and is open to your
 suggestions in this regard. The Head of your academic unit is
