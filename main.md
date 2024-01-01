@@ -714,21 +714,21 @@ IIT Bombay has recently deployed leading Enterprise Resource Planning
 software (ERP) from SAP which provides an IT enabled platform for
 managing business processes such as purchase, payment, payroll, HR
 actions as well as estate management. Student life cycle management,
-however, is handled through the homegrown software created by the
+however, is handled through the home grown software created by the
 Application Software Center (ASC). Several other home grown and open
 source IT systems continue to handle key business processes.
 
 Currently, following IT systems are available to faculty members:
 
-  - [ASC](https://asc.iitb.ac.in) is the home grown system for
-    managing academic processes. Faculty members use this interface
-    for viewing academic programs, courses, bulletin and students
-    related information. The ASC portal allows online submission of
-    course grades and viewing past grading statistics. Access to ASC
-    is available through your LDAP credentials. Helpdesk e-mail is
+  - [ASC](https://asc.iitb.ac.in) is the system for managing academic
+    processes. Faculty members use this interface for viewing academic
+    programs, courses, bulletin and students related information. The
+    ASC portal allows online submission of course grades and viewing
+    past grading statistics. Access to ASC is available through your
+    LDAP credentials. Helpdesk e-mail is
     [asc.help@iitb.ac.in](mailto:asc.help@iitb.ac.in).
-  - [Drona](https://drona.ircc.iitb.ac.in) is the homegrown IT system which
-    is used for submitting sponsored and consultancy project proposals
+  - [Drona](https://drona.ircc.iitb.ac.in) is the IT system that is
+    used for submitting sponsored and consultancy project proposals
     and managing all project related activities. Drona is integrated
     with ERP and is independently managed by IRCC. Access to Drona is
     available through LDAP credentials.
