@@ -2855,17 +2855,14 @@ collaborations, or for delivering short courses, to research scholars
 and faculty members consisting of at least two lectures per
 week. Proposals are scrutinised by the academic unit's policy
 committee and its recommendations may be approved in the Standing
-Committee Meeting. The specific appointments in this category along
-with the salaries prevailing at the time of writing are:
+Committee Meeting. The specific appointments in this category prevailing at the time of writing are:
 
- - Visiting Assistant Professor (salary of ₹ 1,25,000 per month on
-   pro rata basis)
- - Visiting Associate Professor (salary of ₹ 1,75,000 per month on
-   pro rata basis)
- - Visiting Professor (salary of ₹ 2,00,000 per month on
-   pro rata basis)
- - Distinguished Visiting Professor (salary of ₹ 2,25,000 per month on
-   pro rata basis, and are provided free guest house accommodation).
+ - Visiting Assistant Professor
+ - Visiting Associate Professor
+ - Visiting Professor
+ - Distinguished Visiting Professor
+
+The salary details for the above appointments are being revised currently.
 
 **Adjunct faculty** are can be retired IIT Bombay faculty members or
 external experts appointed to teach full or half courses. These may be
