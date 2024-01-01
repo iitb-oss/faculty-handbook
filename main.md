@@ -929,16 +929,16 @@ Institute are Teaching, Research and Service[^servicedetails]. It is
 expected that, averaged over the year, a young faculty member spends
 of the order of 30% of one’s time during the working week on teaching,
 and up to 20% on service-related activities, leaving the rest of the
-time (50% of the working week, in addition to weekends) for
+time (50% of the working week) for
 research. It may therefore be expected that, at various points where
 one’s contributions are to be assessed, these weightages shall apply.
 
 [^servicedetails]: _Service_ includes administration as well as  contributions to the society at large and  to the profession. The latter contributions are usually through participation in  extension activities (continuing education, consultancy, etc., on which more in further sections),  membership of professional bodies, governmental committees, journal reviewerships and editorships and so on.
 
-It is possible, as one grows into one’s career and gets into the
-positions of an Associate Professor and Professor, that these profiles
-may change somewhat: teaching may become easier, one may get more
-involved with the academic unit and Institute’s administration, etc. The Institute therefore recognizes that these weightages may change at these levels, at the choice of the faculty member.
+<!-- It is possible, as one grows into one’s career and gets into the -->
+<!-- positions of an Associate Professor and Professor, that these profiles -->
+<!-- may change somewhat: teaching may become easier, one may get more -->
+<!-- involved with the academic unit and Institute’s administration, etc. The Institute therefore recognizes that these weightages may change at these levels, at the choice of the faculty member. -->
 
 The various designations of faculty in the Institute, along with their responsibilities, is listed in the [next chapter](#sec:facultygrades).
 
