@@ -304,7 +304,12 @@ Deans. They are as follows:
       administrative workflows and automation of administrative
       procedures.
 
-   9. The _Dean (Strategy)_ deals with
+   9. The _Dean (Strategy)_ is in charge of forward looking planning
+      and strategizing across all areas that IIT Bombay works on, or
+      may desire to work on, in future. The Dean is also the convenor
+      of the Institute Strategic Planning Committee (ISPC), and
+      manages a data cell that is tasked with the collectioon, collation
+      and analysis of data required for strategy decisions.
 
    10. The _Dean (Educational Outreach, EO)_ deals with
 
