@@ -645,8 +645,7 @@ Immediately on joining:
     returns. You need to provide copies of your photograph and address
     proof for the same. It may also be possible to get the PAN card
     online at [this
-    website](https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html). While
-    you are at it, it is good to get a PAN for your spouse as well.
+    website](https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html).
 
 11. Among the first things you will want to get is a mobile
     connectivity. As much for communicating with family, friends,
@@ -660,15 +659,13 @@ Immediately on joining:
 12. If you do not already have one, it is advisable to also get an
     Aadhar card [https://uidai.gov.in/](https://uidai.gov.in/). The Administration Section
     will be able to provide you with details of the nearest data
-    collection center at which an application can be lodged. It is a
-    good idea to take this for your whole family in one go. The
+    collection center at which an application can be lodged. The
     post-office in campus accepts Aadhar applications.
 
 13. You need to open a bank account where your salary will be deposited. There are branches of two banks on campus,
     viz. State Bank of India and Canara Bank. Please drop in there
     with your identity proof and a photograph and open a bank
-    account. You may require one of your colleagues holding an account
-    in the same branch to provide an introduction. There are several
+    account. There are several
     private banks (HDFC, ICICI, Axis Bank, South Indian Bank), public
     sector banks (e.g. Oriental Bank of Commerce, Andhra Bank, Vijaya
     Bank etc.) and foreign banks (HSBC) around IIT Bombay, particularly in
