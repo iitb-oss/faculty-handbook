@@ -530,10 +530,10 @@ Immediately on joining:
    accommodation. This could be an accommodation already leased out to
    IIT Bombay, or one of your choice that you can get IIT Bombay to
    lease for you. IIT Bombay will take care of the rent up to a limit
-   of about ₹ 40,000 per month, which should get you a flat in the
+   of about ₹ 55,000 per month, which should get you a flat in the
    vicinity of the campus. If you are keen to stay on-campus, you may
    be allotted a Staff Hostel flat/quarter - 1 BHK (1 Bedroom, 1 Hall, 1
-   Kitchen) allotted to you.
+   Kitchen) allotted to you, based on the availability of rooms.
 
    After two to three years, you may expect to get a better accommodation on
    campus allotted to you as ‘regular accommodation’. (If you happen
