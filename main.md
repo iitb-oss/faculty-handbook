@@ -735,10 +735,7 @@ Currently, following IT systems are available to faculty members:
   - [Employee Self Service Portal](https://ep.iitb.ac.in) is the SAP
     portal to view and manage all personal actions such as leave,
     salary, staff assessment and various HR actions. This portal is
-    currently undergoing enhancements. When fully deployed, the portal
-    shall allow 40 different actions including 'application and
-    settlement' of advances, loans, CPDA, LTC, TA and IR-ITPP
-    payments. The ERP portal requires allocation of user license as
+    currently undergoing enhancements. The ERP portal requires allocation of user license as
     well as a SAP user ID which is same as your employee code. Online
     application form is available on ASC portal for requesting new SAP
     user id.  Helpdesk:
@@ -788,11 +785,13 @@ As a new faculty (and if you need lab space), you need to contact the
 Head of your academic unit discuss with him / her
 about your requirements in advance.
 
-1. After you have been allocated lab space, it may take time to convert it into a proper, functional lab and this would need your active involvement. You may also need to talk to the Head of the academic units about the funding required to get the civil, air-conditioning and interior work done through the Estate Office, Electrical Maintenance Division and Design Cell, respectively. Some senior faculty members may also be able to informally mentor you on getting these jobs done efficiently.
+1. After you have been allocated lab space, it may take time to convert it into a proper, functional lab and this would need your active involvement. You may also need to talk to the Head of the academic units about the funding required to get the civil, air-conditioning and interior work done through the Estate Office, Electrical Maintenance Division and Design Cell, respectively.
 
 2. Please talk to the Head of your academic unit and find out about existing facilities on campus that might help you get started with something quickly.
 
-3. You may also consider building shared labs with other faculty who work in similar research areas. This might help reduce the resources required (including space), get you a partner to share in the effort and thereby move things faster till you establish your own laboratory.
+3. You may also consider building shared labs with other faculty who
+   work in similar research areas. This might help reduce the
+   resources required (including space), and get you a collaborator to share in the effort and thereby move things faster till you establish your own laboratory.
 
 Please consider volunteering to help your Head of your academic unit on resource planning so that
 these issues become progressively easier for future colleagues who
