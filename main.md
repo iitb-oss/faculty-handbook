@@ -910,9 +910,7 @@ When you join the Institute as a faculty, in order to assist you to settle in an
 
 2. Space: A minimum of a faculty cabin (10' × 15’) and a working space
    of 300 sq. ft. to be identified by the academic unit before he/she
-   joins and made available on joining. 10 feet $\times$ 30 feet
-   space is called a "bay" in IIT Bombay parlance, so a faculty cabin
-   is typically half a bay.
+   joins and made available on joining.
 
 3. Reduced teaching load (say a course associateship) in the first semester (unless the faculty member wants to be involved in intensive teaching right from the start). Similarly, administrative load to be kept to a minimum in the initial semester.
 
