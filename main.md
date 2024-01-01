@@ -588,7 +588,7 @@ Immediately on joining:
    (GTIS) and the premium for this will be deducted from the monthly
    salary.
 
-   Please find a circular in respect of Group Term Insurance Policy implemented from 01-05-2021 [here](http://bighome.iitb.ac.in/index.php/s/6MnXxoXEACxsn5y). You also need the [nomination form](https://bighome.iitb.ac.in/index.php/s/qjR3b5DrekmW8Xw).
+   Please find a circular in respect of Group Term Insurance Policy implemented from 01-05-2021 [here](https://bighome.iitb.ac.in/index.php/s/djfmgPqgGxNS9N5). You also need the [nomination form](https://bighome.iitb.ac.in/index.php/s/qjR3b5DrekmW8Xw).
 
    b. Attestation Form is to be filled up so that the Institute can do
    a mandatory background check. You will have to provide all
