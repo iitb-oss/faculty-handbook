@@ -1008,7 +1008,7 @@ gets a feedback on the effectiveness of her teaching through a system
 of online course evaluation by students, which happens at the end of
 the teaching semester.
 
-Students should be encouraged to participate in the mid-term and end-term course feedback processes. The feedback from midterm evaluation process may be used constructively for improvement in the course delivery. Teaching evaluations should be taken seriously, and introspection helps one become a better teacher.
+Students should be encouraged to participate in the mid-term and end-term course feedback processes. The feedback from mid-term evaluation process may be used constructively for improvement in the course delivery. Teaching evaluations should be taken seriously, and introspection helps one become a better teacher.
 
 
 ### PhD supervision
@@ -1020,7 +1020,24 @@ supervision entails certain basic criteria.
 1. Only full time faculty are entitled to undertake PhD supervision.
 2. At any given time, the number of Institute research scholars (TAs and/or RAs) working with under your supervision shall not exceed five. The DPGC/PGC of the academic unit can decide on the total number of research students of all categories working with him/her.
 3. As a supervisor, you are expected to supervise the student till satisfactory results are achieved.
-4. A supervisor must keep a check that the students being supervised deliver the Annual Progress Seminar (APS) every twelve months after joining the program. The APS report must contain information describing the research that has been performed in the completed year and submit it to the Research Progress Committee. The student must then deliver an open seminar, which all interested members of the academic unit are free to attend, where he/she will be examined by the RPC. The objective of the seminar is to provide feedback about the research completed by the student in the past year, and provide suggestions for continuing and refining his/her research. With the progress of a student’s PhD, the work presented is expected to evolve from a thorough understanding of fundamental concepts and reported literature to an in-depth solution to a novel research problem. The RPC lays emphasis on publications in reputed international journals, filing invention disclosures and patents based on nature of the research output, and also encourages the student to present his/her work in international conferences and workshops.
+4. A supervisor must keep a check that the students being supervised
+   deliver the Annual Progress Seminar (APS) every twelve months after
+   joining the program. The APS report must contain information
+   describing the research that has been performed in the completed
+   year and submit it to the Research Progress Committee (RPC). The
+   student must then deliver an open seminar, which all interested
+   members of the academic unit are free to attend, where he/she will
+   be examined by the RPC. The objective of the seminar is to provide
+   feedback about the research completed by the student in the past
+   year, and provide suggestions for continuing and refining his/her
+   research. With the progress of a student’s PhD, the work presented
+   is expected to evolve from a thorough understanding of fundamental
+   concepts and reported literature to an in-depth solution to a novel
+   research problem. The RPC lays emphasis on publications in reputed
+   international journals, filing invention disclosures and patents
+   based on nature of the research output, and also encourages the
+   student to present his/her work in international conferences and
+   workshops.
 5. You can also serve as a co-supervisor if any student chooses to
    have more than one supervisor, and if this is approved by the DPGC.
 6. If you are going on long leave, such as lien/sabbatical leave/special leave/deputation etc., you must propose an alternate arrangement to continue the academic activities of your students.
@@ -1032,7 +1049,12 @@ supervision entails certain basic criteria.
  supervised the PhD programmes of the students concerned.
  d. Any such arrangements made shall be forwarded to PGAPEC for prior approval.
 7. Change of supervisor is generally not advised and should be sought as a last resort. Under exceptional circumstances, if a student chooses to terminate the relationship, then it will only be permitted on recommendation of the DPGC/IDPC/PGCA. Every effort should be made to allow a fair transition for both the faculty and the concerned student.
-8. Student supervision can also be done jointly with faculty or staff of other universities or educational institutes. In some cases, such as the IITB-Monash Research Academy, the Institute facilitates joint advising of students across Institutes. In other cases, permission may be sought from the Dean (AP) having co-guides from outside IIT Bombay.
+8. Student supervision can also be done jointly with faculty or staff
+   of other universities or educational institutes. In some cases,
+   such as the IITB-Monash Research Academy, the Institute facilitates
+   joint advising of students across Institutes. In other cases,
+   permission may be sought from the Dean (FA) through the Head of the
+   academic unit for having co-guides from outside IIT Bombay.
 
 
 ## Resources for Teaching {#sec:teachingresources}
@@ -1057,7 +1079,7 @@ beginning - this is often academic unit's policy; in some cases, there may not b
    able to help you with teaching material such as slides, homework
    problems, recommendations for textbooks, capable teaching
    assistants (TAs) and so forth.
-3. A recent alumni supported initiative, called the Parimal and
+3. An alumni supported initiative, called the Parimal and
    Pramod Chaudhari Centre for Learning and Teaching (PPCCLT), now
    provides a plethora of resources for teaching, drawing on internal
    and external expertise and experience. These include:
