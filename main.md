@@ -816,9 +816,11 @@ scheduling such an appointment, you have to contact the reception.
 
 Any medicine prescribed by the doctor on duty can be obtained from the Pharmacy attached to the Hospital. If a prescribed medicine is not available, one has to take a separate prescription for the same to purchase it from a medical shop outside the campus. The Institute reimburses the cost of medicines purchased from medical shops outside which could not be supplied from the Institute Pharmacy. Similarly, the cost of consultation, pathological or radiological investigations carried out outside the IIT Hospital on recommendation of the Institute doctors are also reimbursable. In some cases, only 80% of the cost is reimbursable. There are some fine prints to reimbursement rules (for instance, cost of spectacles or contact lenses or the cost of dental treatment in an outside clinic or hospital etc. are not reimbursable even when recommended by a medical officer of the Hospital). You can get a list of recognized hospitals and reimbursements at [https://www.iitb.ac.in/hospital/hindi/RecognisedHospitalList_tabular.html](https://www.iitb.ac.in/hospital/hindi/RecognisedHospitalList_tabular.html).
 
-In case of illnesses which require hospitalization of a specialized nature (as may be determined by the C.M.O.), a patient may be referred to one of the many hospitals in the city which are recognized by IIT Bombay. The entitlement in the hospitals (that is,  the type of room or bed that can be availed) depends on the employee’s salary and it is useful to enquire about exact entitlement from the administration. While expenses in all Government Hospitals and several charitable hospitals (such as Sushrusha Hosp., Dadar and the Tata Memorial Hospital) is reimbursed 100%, the Institute only reimburses 80% of the cost in recognized Hospitals with sophisticated facilities and some specialty Hospitals[^hwebsite].
+In case of illnesses which require hospitalization of a specialized nature (as may be determined by the C.M.O.), a patient may be referred to one of the many hospitals in the city which are recognized by IIT Bombay. The entitlement in the hospitals (that is,  the type of room or bed that can be availed) depends on the employee’s salary and it is useful to enquire about exact entitlement from the administration. While expenses in all Government Hospitals and several charitable hospitals (such as Sushrusha Hospital, Dadar and the Tata Memorial Hospital) is reimbursed 100%, the Institute only reimburses 80% of the cost in recognized Hospitals with sophisticated facilities and some specialty Hospitals[^hwebsite].
 
-While basic pathology is available in the Hospital, the Institute Hospital has an arrangement with a few specialized pathology laboratories[^ranbaxy] for some advanced tests. For this purpose staff from these labs visit the Institute Hospital on specified days to collect samples. Hospital Doctor’s recommendation is required for use of this facility.
+While basic pathology is available in the Hospital, the Institute
+Hospital has an arrangement with a few specialized pathology
+laboratories for some advanced tests. For this purpose staff from these labs visit the Institute Hospital on specified days to collect samples. Hospital Doctor’s recommendation is required for use of this facility.
 
 The Institute recognizes a few radiological centres for investigations with MRI, C.T. Scan, Digital X-rays etc. Hospital Doctor’s recommendation is required for use of this facility.
 
@@ -829,8 +831,6 @@ The hospital has an ambulance which works 24 × 7 for transportation of patients
 
 [^hwebsite]: The hospital website http://www.iitb.ac.in/hospital/ has a link to the list of recognized hospitals. This list is updated as and when new hospitals are added and hospitals removed.
 
-[^ranbaxy]: Such as Ranbaxy Clinical Reference Laboratories, Raptakos Brett Testing Lab, Sanjeevani Diagnostic Centre.
-
 
 ### OPD Facilities for Vising Parents [Limited Contributory Medical Scheme (LCMS) Facility]
 Though they may not be officially your dependents, the Institute offers OPD facilities to visiting parents of the employee and of employee's spouse. This facility is offered for a period of six months on payment of ₹ 1,500 and for a year on payment of ₹ 3,000. They will be treated on 'non-entitled' basis; however, medicines etc. will have to be purchased from outside without any reimbursement.
@@ -839,9 +839,10 @@ Though they may not be officially your dependents, the Institute offers OPD faci
 
 When an employee or a dependent is admitted to an outside hospital, up to 90% of the estimated cost can be provided as an advance to the employee.
 
-For the benefit of staff members staying outside the campus (as also for staff on vacation/leave), a list of Medicare Centres/Hospitals[^hosplist] is approved for OPD treatment. Medicines purchased on prescription by doctors from these hospitals are reimbursed fully. However, further referrals from these hospitals to outside hospitals need to be sanctioned by the IIT Bombay Hospital.
-
-[^hosplist]: These hospitals, at present, are: Pragati Mitra Mandal (Mulund(W)), Smt. Nand Kunverben Rasiklal Seth Hosp. (Borivali (W)), Malad Jain Yuvak Mandal Med. Relief Centre (Malad (W)), Lions Clinic (Matunga), Vasani Diagnostic Centre (Andheri) and Seth Nanji Gangji Charitable Polyclinic (Dombivali). See the hospital website for up-to-date information.
+For the benefit of staff members staying outside the campus (as also
+for staff on vacation/leave), a list of Medicare Centres/Hospitals is
+approved for OPD treatment. This list can be found on the IIT Bombay
+Hospital Website. Medicines purchased on prescription by doctors from these hospitals are reimbursed fully. However, further referrals from these hospitals to outside hospitals need to be sanctioned by the IIT Bombay Hospital.
 
 For reimbursement, separate forms for OPD (inclusive of cost of medicine purchased from outside) and indoor treatment,  available in the Hospital office[^websiteforms], should be filled up and submitted along with cash memos within six months. Please note that **except in case of emergency**, no reimbursement is permissible unless the reference was made by the IIT Bombay Hospital to the outside hospital.
 
