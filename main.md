@@ -322,7 +322,7 @@ in which IIT Bombay has its teaching and research activities are those of
 Engineering, Science, Humanities & Social Sciences, Management, Design, Educational Technology,
 Entrepreneurship and Policy ([more
 details](http://www.iitb.ac.in/en/education/academic-divisions)). Academic
-programmes in these areas are hosted in 16 Departments, 2 Schools, 19
+programmes in these areas are hosted in 16 Departments, 3 Schools, 25
 Centres and 4 Interdisciplinary programmes.
 
 Broadly speaking:
@@ -394,34 +394,6 @@ Below is a list of departments, centres, schools and other functional units.
 
 1. [National Centre for Mathematics (NCM)](http://www.ncmath.org/)
 
-**Centres providing research and support facilities**
-
-These Centres host a large number of sophisticated equipment and advanced facilities for carrying out R&D activities at IIT Bombay. The following are the research facilities at IIT Bombay:
-
-1. [Centre for Semiconductor Technologies (SemiX)](https://www.semix.iitb.ac.in/semix/)
-1. [Centre of Excellence in Steel Technology(CoEST)](https://www.iitb.ac.in/mems/en/research/coest#:~:text=Indian%20Institute%20of%20Technology%20Bombay%20(IIT%20Bombay)%20establish%20a%20Centre,Board%20of%20Governors%2C%20IIT%20Bombay.)
-1. [Centre of Excellence in Oil, Gas and Energy (CoE-OGE)](http://www.coeoge.iitb.ac.in/)
-1. [DRDO-Industry-Academia Centre of Excellence (DIA-CoE)](https://rnd.iitb.ac.in/node/102326)
-1. [Centre of Excellence in Quantum Information, Computing, Science and Technology (CoE-QuICST)](https://www.quicst.org/)
-1. Geospatial Information Science and Engineering
-1. National Centre of Excellence in Carbon Capture and Utilization (NCoE-CCU)
-1. [National Centre of Excellence in Technology for Internal Security (NCETIS)](http://www.ncetis.iitb.ac.in/)
-1. [National Centre for Photovoltaic Research and Education (NCPRE)](http://www.ncpre.iitb.ac.in/ncpre/)
-1. [Wadhwani Research Centre for Bioengineering (WRCB)](http://www.iitb.ac.in/wrcb/)
-1. [Biomedical Engineering and Technology Incubation Centre (BETiC)](https://www.betic.org/)
-1. [Tata Centre for Technology and Design (TCTD)](http://www.tatacentre.iitb.ac.in/)
-1. [Technocraft Centre for Applied Artificial Intelligence (TCAAI)](https://www.tcaai.iitb.ac.in/)
-1. [Water Innovation Centre: Technology, Research and Education (WICTRE)](https://rnd.iitb.ac.in/node/104128)
-1. [Sunita Sanghi Centre of Ageing and Neurodegenerative Diseases (SCAN)](https://www.scan.iitb.ac.in/)
-1. [Centre of Excellence on Membrane Technologies for Desalination, Brine Management, and Water Recycling](https://www.desaltm.in/)
-
-**Industry liaison and Startup incubation**
-
-In addition, while not academic units, the following units help liaise with industry and promoting startups based on research done at IIT Bombay:
-
-- [Society for Innovation and Entrepreneurship](http://www.sineiitb.org/sine) for start-up incubation support
-- [Research Park](http://www.respark.iitb.ac.in/#/home) for engagement with companies on campus
-
 The academic units mentioned above are headed, usually by a faculty
 member of the unit itself and usually of the rank of Professor in the
 role of the Head. The Head of an academic unit has a term of three
@@ -450,6 +422,34 @@ committees.
 The deliberations of these committees, in the form of minutes, **is
 communicated to concerned functionaries in the central administration**,
 who are updated of the issues of the faculty in the academic unit.
+
+## Centres providing research and support facilities
+
+These Centres host a large number of sophisticated equipment and advanced facilities for carrying out R&D activities at IIT Bombay. The following are the research facilities at IIT Bombay:
+
+1. [Centre for Semiconductor Technologies (SemiX)](https://www.semix.iitb.ac.in/semix/)
+1. [Centre of Excellence in Steel Technology(CoEST)](https://www.iitb.ac.in/mems/en/research/coest#:~:text=Indian%20Institute%20of%20Technology%20Bombay%20(IIT%20Bombay)%20establish%20a%20Centre,Board%20of%20Governors%2C%20IIT%20Bombay.)
+1. [Centre of Excellence in Oil, Gas and Energy (CoE-OGE)](http://www.coeoge.iitb.ac.in/)
+1. [DRDO-Industry-Academia Centre of Excellence (DIA-CoE)](https://rnd.iitb.ac.in/node/102326)
+1. [Centre of Excellence in Quantum Information, Computing, Science and Technology (CoE-QuICST)](https://www.quicst.org/)
+1. Geospatial Information Science and Engineering
+1. National Centre of Excellence in Carbon Capture and Utilization (NCoE-CCU)
+1. [National Centre of Excellence in Technology for Internal Security (NCETIS)](http://www.ncetis.iitb.ac.in/)
+1. [National Centre for Photovoltaic Research and Education (NCPRE)](http://www.ncpre.iitb.ac.in/ncpre/)
+1. [Wadhwani Research Centre for Bioengineering (WRCB)](http://www.iitb.ac.in/wrcb/)
+1. [Biomedical Engineering and Technology Incubation Centre (BETiC)](https://www.betic.org/)
+1. [Tata Centre for Technology and Design (TCTD)](http://www.tatacentre.iitb.ac.in/)
+1. [Technocraft Centre for Applied Artificial Intelligence (TCAAI)](https://www.tcaai.iitb.ac.in/)
+1. [Water Innovation Centre: Technology, Research and Education (WICTRE)](https://rnd.iitb.ac.in/node/104128)
+1. [Sunita Sanghi Centre of Ageing and Neurodegenerative Diseases (SCAN)](https://www.scan.iitb.ac.in/)
+1. [Centre of Excellence on Membrane Technologies for Desalination, Brine Management, and Water Recycling](https://www.desaltm.in/)
+
+**Industry liaison and Startup incubation**
+
+In addition, while not academic units, the following units help liaise with industry and promoting startups based on research done at IIT Bombay:
+
+- [Society for Innovation and Entrepreneurship](http://www.sineiitb.org/sine) for start-up incubation support
+- [Research Park](http://www.respark.iitb.ac.in/#/home) for engagement with companies on campus
 
 # When You Join
 Welcome to IIT Bombay's faculty fraternity! The Institute promises
