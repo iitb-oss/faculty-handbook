@@ -1248,11 +1248,11 @@ The schedule of faculty assessment and
 promotion is announced by Dean (Faculty Affairs) after due approval by
 the Director.
 
-Applications are invited from faculty members who satisfy the minimum
-qualifications and experience criteria as per MoE norms for the
-respective position. The application form requires each candidate to furnish
-information about their work during the assessment period (that is, period
-being held in the current position).
+Applications are invited from faculty members who satisfy the
+eligibility and experience criteria as per MoE norms for the
+respective position. The application form requires each candidate to
+furnish information about their work during the assessment period
+(that is, period being held in the current position).
 
 ### Experience (Required on the date of application):
 
@@ -1359,7 +1359,7 @@ schedules are published by the administration, and the candidates are
 invited for personal interview. All the internal candidates must
 present a seminar based on the research performed during the
 assessment period in the academic unit. External expert members of the
-selection committee may be invited for the seminar. In addition,
+selection committee are invited to attend the seminar. In addition,
 candidates are also asked to present a research summary during the
 personal interview. The selection committee recommends to the
 competent authority whether or not a candidate may be promoted.
@@ -1809,27 +1809,21 @@ employee. The salary slip of every employee is uploaded on the
 internal website of the Institute
 [http://ep.iitb.ac.in](http://ep.iitb.ac.in).
 
-[^taxyear]: As an example, at the time of writing (August 2021), the
-    financial year is 2021-22, while the assessment year for this
-    period would be 2022-23.
+[^taxyear]: As an example, at the time of writing (January 2024), the
+    financial year is 2023-24, while the assessment year for this
+    period would be 2024-25.
 
 ### Components of salary
 The salary that you get has several components.
 
-1. _Pay at Pay Level:_ Since several readers may be familiar with the
-   provisions of the 6$^{\text{th}}$ Pay Commission, and new readers are likely to
-   join directly under 7$^{\text{th}}$ Pay Commission rules, we outline the pay
-   scales with reference to the 7$^{\text{th}}$ Pay Commission.
-
-   What used to be the _Pay Band and Academic Grade Pay (AGP)_ in the
-   6$^{\text{th}}$ Pay Commission has been replaced, after
-   implementation of the 7$^{\text{th}}$ pay Commission, by an amount
-   defined by a salary at a _Pay Level_. The position to which you are
-   appointed (or move to after selection to a higher post) defines the
-   salary. All Government servants in India are placed in one of these
-   _pay levels_. Faculty members in Institutes such as IITs are placed
-   in one of the following pay levels. D.A. stands for "Dearness
-   Allowance", described subsequently.
+1. _Pay at Pay Level:_ We outline the pay scales with reference to the
+   7$^{\text{th}}$ Pay Commission, that is currently in force,
+   below. The position to which you are appointed (or move to after
+   selection to a higher post) defines the salary. All Government
+   servants in India are placed in one of these _pay levels_. Faculty
+   members in Institutes such as IITs are placed in one of the
+   following pay levels. D.A. stands for "Dearness Allowance",
+   described subsequently.
 
    - *Pay Level 10*: Salary range ₹ 57,700 to ₹ 98,200 (plus D.A.)
      per month.
@@ -1857,9 +1851,9 @@ The salary that you get has several components.
    - _Assistant Professor:_ Assistant Professors fall into the
      following levels, based on their experience:
 	 - _0 to 1 year of post-PhD experience (Assistant Professor Grade II):_ Pay
-Level 10, with starting a salary of ₹ 84,700 plus D.A. per month.
-	 - _1 year of post PhD experience (Assistant Professor Grade II):_ Pay Level 11, with a starting salary of ₹ 89,900 plus D.A.
-     - _2 years of post PhD experience (Assistant Professor Grade II):_ Pay Level 11, with a starting salary of ₹ 92,600 plus D.A.
+Level 10, with increments based on experience, plus D.A.
+	 - _1 year of post PhD experience (Assistant Professor Grade II):_ Pay Level 11, with increments based on experience, plus D.A.
+     - _2 years of post PhD experience (Assistant Professor Grade II):_ Pay Level 11, with increments based on experience, plus D.A.
 	 - _3 years or more of post-PhD experience (Assistant Professor Grade I):_ Pay Level 12, with a starting salary of ₹ 101,500 plus D.A. per month.
 	 - _After 3 years in Pay Level 12 (Assistant Professor Grade I)_:
        Pay Level 13A1 with a starting salary of ₹ 131,400 plus D.A. per month.
@@ -1940,11 +1934,6 @@ Level 10, with starting a salary of ₹ 84,700 plus D.A. per month.
    well. (Note: The transport allowance payable to the blind or
    orthopedically handicapped employees is double this rate).
 
-[^gradeexample]: Thus, a fresh PhD will be appointed in Pay Level 10,
-  which will be upgraded to Pay Level 11 after 1 year of
-  experience. Candidates with more than a year's experience will be
-  directly placed at an Pay Level 11.
-
 ### Annual Increment
 Every year employees are given an increment in their salary. The pay
 in the pay band increases to an amount that is the next cell in the
@@ -1995,9 +1984,7 @@ When you receive your salary slip, you will find some deductions as well. The pr
    the last date is extended, returns have to be filed by 31$^{\text{st}}$ July of
    the following financial year for which the return is being
    filed. From the assessment year 2013-14 e-filing of your income tax
-   return has been made mandatory. While initially you may find the
-   process a bit cumbersome, it is actually fairly
-   straightforward. You
+   return has been made mandatory. You
    will need to complete a one-time registration process at the
    [Income Tax e-Filing
    website](http://www.incometaxindiaefiling.gov.in). Your PAN number
@@ -2095,31 +2082,24 @@ retirement.
 
 Faculty and all dependents are eligible to travel by
 air[^airindia]. Employees in Pay Level 9 to 13 are eligible for
-Economy Class[^economyclass], while those in Pay Level 14A are
-eligible for Business Class. Similarly, employees in Pay Levels up to
-11 are eligible for Second Class AC train fare, while those in Pay
-Levels 12 and above are eligible for First class AC train fare. Please
-note that no taxi or road mileage is admissible to reach the
-airport/railway station or for internal travel to destination except
-where road travel is done by buses run by Government organizations (for
-which you will have to produce the tickets). LTC rules are strictly
-observed, and it is necessary to attach Xerox copies of your tickets
-along with your claim (in case of air travel, boarding passes must be
-retained and produced along with e-tickets; production of an e-ticket
-without the boarding passes is not acceptable as proof of travel.) For
-journeys which involve water transport, detailed rules are available
-with the administration.
+Economy Class, while those in Pay Level 14A are eligible for Business
+Class. Similarly, employees in Pay Levels up to 11 are eligible for
+Second Class AC train fare, while those in Pay Levels 12 and above are
+eligible for First Class AC train fare. Please note that no taxi or
+road mileage is admissible to reach the airport/railway station or for
+internal travel to destination except where road travel is done by
+buses run by Government organizations (for which you will have to
+produce the tickets). LTC rules are strictly observed, and it is
+necessary to attach Xerox copies of your tickets along with your claim
+(in case of air travel, boarding passes must be retained and produced
+along with e-tickets; production of an e-ticket without the boarding
+passes is not acceptable as proof of travel.) For journeys which
+involve water transport, detailed rules are available with the
+administration.
 
 [^airindia]: Tickets should be booked only through M/S Balmer Lawrie &
     Co. Ltd., M/S Ashoka Travels and Tours, or M/S Indian Railways
     Catering and Tourism Corporation Ltd.
-
-
-[^economyclass]: As what is (hopefully a temporary) austerity measure,
-business class travel is presently suspended for LTC. Extending the
-same logic, at IIT Bombay, faculty members are strongly advised to travel
-only by economy class irrespective of eligibility, even when on
-official travel.
 
 #### LTC Advance:
 90% of the estimated cost of journey can be taken as an advance, only
@@ -2421,15 +2401,12 @@ As per the 7$^{\text{th}}$ Pay Commission rules, the daily allowance entitlement
 
 During the period of service, an employee is eligible for various
 forms of leave. Technically, no leave is a matter of right and has to
-be sanctioned/approved by the competent authority. However, except under unusual circumstances (for instance,
-if a group of employees wish to take mass casual leave to register
-protest against something) and discipline related cases, leave is
-generally NOT refused. Academic units may sometimes have reasons for not
-recommending sanction of leave in case your services are required for
-any purpose. The following are general guidelines and are not
-exhaustive. For complete information, faculty members should refer to
-the Institute’s statutes or consult the Administration section of the
-Institute.
+be sanctioned/approved by the competent authority. Academic units may
+sometimes have reasons for not recommending sanction of leave in case
+your services are required for any purpose. The following are general
+guidelines and are not exhaustive. For complete information, faculty
+members should refer to the Institute’s statutes or consult the
+Administration section of the Institute.
 
 ### Casual Leave
 As the name suggests, this form of leave is to meet casual requirements of an individual.
@@ -2454,7 +2431,7 @@ Vacation is available only to the faculty members of the Institute.
 
 Earned Leave, unlike vacation, can be availed any time during the year
 with prior sanction. Unlike non-academic staff, faculty members are
-entitled for advance credit of EL for 5 days in January and july.
+entitled for advance credit of EL for 5 days in January and July.
 Further faculty accumulates earned leave by virtue of not having
 availed the entitled vacation in a given academic year. One third of
 the unutilized vacation is credited as earned leave on July
@@ -2464,17 +2441,17 @@ the unutilized vacation is credited as earned leave on July
 2. Overflowing of Earned Leave: One third of unutilized vacation is credited as earned leave on July 1$^{\text{st}}$, even when a faculty has already accumulated 300 days of earned leave in his account. This overflowing earned leave must be availed during the same academic year after which it lapses.
 3. Earned leave can be combined with all types of leave other than casual leave.
 
-### Half-Pay Leave and Commuted Leave
-Please note that half-pay leave has been discontinued with effect from
-01/07/2019. Earlier, an employee is entitled to 20 days of half-pay
-leave for every completed year of service. As the name suggests, the
-employee will be paid half the salary during such leave period.
+<!-- ### Commuted Leave -->
+<!-- Please note that half-pay leave has been discontinued with effect from -->
+<!-- 01/07/2019. Earlier, an employee is entitled to 20 days of half-pay -->
+<!-- leave for every completed year of service. As the name suggests, the -->
+<!-- employee will be paid half the salary during such leave period. -->
 
-1. The existing HPL on credit (accrued before 01/07/2019) can be
-   availed for personal reasons or for medical purposes.
-3. An employee can avail half-pay leave even when he/she has earned leave to his/her credit.
-4. When a half-pay leave is sought to be availed for employee's medical requirement, an employee may opt to avail Commuted Leave by surrendering two days of half pay leave for every day of leave required. In such a case, the employee draws full salary.
-5.  Leave can be commuted for non-medical purposes  (i) by women employees, for a maximum of 60 days, if taken in continuity of a maternity leave or when she adopts a child less than one year old (ii) for pursuing a course of study for a total period not exceeding 90 days during entire service.
+<!-- 1. The existing HPL on credit (accrued before 01/07/2019) can be -->
+<!--    availed for personal reasons or for medical purposes. -->
+<!-- 3. An employee can avail half-pay leave even when he/she has earned leave to his/her credit. -->
+<!-- 4. When a half-pay leave is sought to be availed for employee's medical requirement, an employee may opt to avail Commuted Leave by surrendering two days of half pay leave for every day of leave required. In such a case, the employee draws full salary. -->
+<!-- 5.  Leave can be commuted for non-medical purposes  (i) by women employees, for a maximum of 60 days, if taken in continuity of a maternity leave or when she adopts a child less than one year old (ii) for pursuing a course of study for a total period not exceeding 90 days during entire service. -->
 
 ### Maternity and Paternity Leaves
 1. Maternity leave with full pay for a maximum of 180 days at each instance can be availed by female employees with less than two surviving children. Leave of any kind due and admissible (including commuted leave for a period not exceeding 60 days and leave not due) can be granted in continuation with maternity leave for a maximum period of two years.
@@ -2483,7 +2460,7 @@ employee will be paid half the salary during such leave period.
 ### Child Care Leave
 Women employees may be granted child care leave to take care of their two eldest surviving children below the age of 18 years at the time of need (such as sickness, examination etc.) for a period not exceeding two years (730 days)  during the entire period of service. Such leave must be pre-approved by the authorities.  It can be availed for not less than 15 days at a time, and on not more than three occasions in a year. During the period of such leave, the employee is eligible to draw salary received by her immediately before proceeding on such leave. Please note the following:
 
-1. One child care leave may be granted at 100% of the leave salary for the the first 365 days and .80% of the leave salary for the next 365 days.
+1. One child care leave may be granted at 100% of the leave salary for the the first 365 days and 80% of the leave salary for the next 365 days.
 2. Child care leave  may be extended to single male parents who may include unmarried or widower or divorcee employees.
 3. For single female Government servants, the child care leave may be granted for six spells in a calendar year.
 
@@ -2502,8 +2479,8 @@ member at the Director's discretion when no other form of leave is
 available to the employee, or, when in spite of leave being available,
 the employee specifically desires for the same.
 
-### Leave not due
-Leave not due, at half-pay salary may be granted to an employee who has no leave to his/her credit. Such leave will be adjusted against half-pay leave that may accrue at future date.
+<!-- ### Leave not due -->
+<!-- Leave not due, at half-pay salary may be granted to an employee who has no leave to his/her credit. Such leave will be adjusted against half-pay leave that may accrue at future date. -->
 
 ### Lien
 
@@ -2519,9 +2496,14 @@ In case of online transfer of Leave, Salary and Pension Contribution
 details, the intimation mentioning the UTR number should be sent to
 the Registrar, IIT Bombay.
 
-### Foreign visits
+### International Travel
 
-Visits to foreign countries, whether for personal or official purposes, requires consent of the Institute. A letter addressed to the Dean (Faculty Affairs) for permission for overseas travel before undertaking travel is mandatory.
+International travel, whether for personal or official purposes,
+requires consent of the Institute. A letter addressed to the Dean
+(Faculty Affairs) for permission for overseas travel before
+undertaking travel is mandatory. In addition, any international travel
+that exceeds two weeks' duration during the semester needs approval
+from the Director (through the Dean (FA)).
 
 ## Obtaining authorizations and certificates
 You might find yourself needing various kinds of certificates to be
@@ -2647,7 +2629,15 @@ As a faculty member of a premier Institute of the country, you are always under 
 
 1. _Dealing with the Press:_ Much as we like to see our name in print, the only place where your printed name can freely appear without raising eyebrows (or may be raising eyebrows in an agreeable way!) is in a professional journal. You do not need to take any permission to send a technical manuscript for publication. If what you are writing or talking about is of literary, artistic or scientific value only, you may even write to newspapers or periodicals. However, talking to the press (this includes all forms of interaction with print and electronic media) on any other matter  should generally be avoided, and left to functionaries in the Main Building. If you would like to express your views on an issue, you need to take the Director's permission. If you want to have a press coverage of your published scientific article, you need to contact PRO after taking permission from the Director.
 2. Joining a political party or canvassing in an election is banned. (You can, of course, contest an election in a professional body.)
-3. Criticism of the Institute in any mass media (print or electronic) is not permitted. (To give vent to your frustration if any, the Computer Centre of the Institute has provided a discussion group called the 'discuss-faculty' where you can write and engage your colleagues in a debate on matters about which you feel strongly. This newsgroup is not moderated but it is good to use restrained language).
+3. Criticism of the Institute in any mass media (print or electronic)
+   is not permitted. This
+   [circular](https://bighome.iitb.ac.in/index.php/s/LDFrcxW7Bdoa6wZ)
+   details this aspect in connection to the service rules . (To give
+   vent to your frustration if any, the Computer Centre of the
+   Institute has provided a discussion group called the
+   'discuss-faculty' where you can write and engage your colleagues in
+   a debate on matters about which you feel strongly. This newsgroup
+   is not moderated but it is good to use restrained language).
 3. _Redressal of Grievances:_: If you have a grievance, try to sort it out by meeting the concerned Dean, the Deputy Directors or the Director. If you would like to make a written representation, the first course is the Director. If his response leaves you dissatisfied, you may make representation to the Chairperson of the Board. Such representation should go through, Head, concerned Dean,
 Director and the Chairperson in that order. In extreme cases, you may take your grievance to the Visitor (who is the President of India). However, in all cases, you should go through what is known as proper channel, that is, route all your representation through HOD, Director and the Chairperson, in that order. The forwarding authority does not have the right to stop your representation being forwarded upwards excepting in circumstances such as (i) a similar petition made earlier has been disposed of and no new facts are brought out in the new petition, (ii) your representation is not to the appropriate authority, or (iii) the petition is against a decision which is final by any law or statute. In such cases, the appropriate authority will write you a reply explaining the reasons why your petition may not be forwarded.
 4. You may, of course, seek to redress grievances in a court of law without any permission. However, it is in good taste to first exhaust all possibilities of finding a solution to  your problems within the internal framework as stated above.
@@ -2962,7 +2952,10 @@ The features of scheme are as follows:
 While this chapter was originally written primarily for faculty who joined the Institute before 2004 (or who joined later, but with transfer of previous services rendered in Government or Institutions like IITs), suitable additions/provisions which apply to faculty who joined on or after 1$^{\text{st}}$ January, 2004 (National Pension System) have now been incorporated.
 
 ### Pension, Gratuity, Commutation of Pension etc.
-What happens after you have served out your active life with the Institute? Most look at the period of retirement with a certain amount of anxiety because they anticipate a sharp drop in income. It is, therefore, prudent to do some planning reasonably early in life, certainly by the time you are approaching 50.
+<!-- What happens after you have served out your active life with the Institute? Most look at the period of retirement with a certain amount of anxiety because they anticipate a sharp drop in income. It is, therefore, prudent to do some planning reasonably early in life, certainly by the time you are approaching 50. -->
+
+This section discusses aspects related to retirement benefits and
+pension for faculty.
 
 ### Superannuation
 This is the term used for official completion of your regular
@@ -3303,9 +3296,7 @@ further processing.
 requests and pending matters pertaining to retired faculty members are
 monitored properly and to facilitate a single point of contact in
 case of any query from retired fraternity, a Relationship Manager is
-available in the Faculty Administration section. Currently,
-Ms. Rajshri Ghegad in Admin looks after this. She may be contacted at
-extension 7943.
+available in the Faculty Administration section.
 
 **Guest house facility**: Retired Institute faculty members are
 eligible to avail the guest house facility of the Institute against
