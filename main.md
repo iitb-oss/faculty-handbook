@@ -2687,7 +2687,7 @@ As a faculty member of a premier Institute of the country, you are always under 
 3. Criticism of the Institute in any mass media (print or electronic)
    is not permitted. This
    [circular](https://bighome.iitb.ac.in/index.php/s/LDFrcxW7Bdoa6wZ)
-   details this aspect in connection to the service rules . (To give
+   details this aspect in connection to the service rules. (To give
    vent to your frustration if any, the Computer Centre of the
    Institute has provided a discussion group called the
    'discuss-faculty' where you can write and engage your colleagues in
