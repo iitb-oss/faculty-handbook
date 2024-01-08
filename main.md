@@ -311,7 +311,15 @@ Deans. They are as follows:
       manages a data cell that is tasked with the collectioon, collation
       and analysis of data required for strategy decisions.
 
-   10. The _Dean (Educational Outreach, EO)_ deals with
+   10. The _Dean (Educational Outreach, EO)_ The Dean (Educational
+       Outreach, EO) is in charge of all educational outreach
+       activities of the Institute, covering (i) the executive
+       education of working professionals and university graduates,
+       (ii) university level outreach for college/university students,
+       and (iii) outreach aimed at school students. EO is an umbrella
+       organization bringing multiple units that have existed in IIT
+       Bombay (such as, CEP, CDEEP and NPTEL), working in different
+       facets of educational outreach activities.
 
 The Registrar is officially the custodian of all
 records and funds received by the Institute. (S)he signs the cheques
@@ -1566,8 +1574,28 @@ There are also several external awards and fellowships that you can apply for. O
 
 
 
-## Continuing Education Programmes {#sec:cep}
-The Institute has an active 'Continuing Education Programme (CEP)', which is managed by the CEP cell. This cell also co-ordinates the 'Quality Improvement Programme', a programme of the Government of India to upgrade the skills of practicing teachers in Engineering colleges in the country. You can offer courses to Industry in specific areas of your expertise, through the CEP cell. Courses to academics are offered under the QIP programme. Details are available on the [CEP webpage](http://www.iitb.ac.in/~cep/about/index.html).
+## Continuing and Executive Education Programmes {#sec:cep}
+
+The office of Educational Outreach (EO) offers courses and programmes
+in outreach mode, that are aimed at outsiders who are not enrolled to
+any in-campus academic degree programme. These courses (and
+degree/diploma programmes) are aimed at (i) skilling, up-skilling and
+re-skilling of working professionals through CEP and PCACEC, (ii)
+education of university/college students through platforms like NPTEL,
+SWAYAM, Swayam Prabha and IITB's official EdTech Service Providers,
+and (iii) research and education needs of college teachers through
+various Government missions, such as QIP and MERITE.
+
+All such “extra-Academic” courses and programmes have been created by
+the IIT Bombay faculty, with the help of the EO office. Please check
+the [EO website](https://www.cep.iitb.ac.in/) to have an understanding
+of the variety of offerings including their delivery modes, target
+audience, hosting mechanism, etc. Offering EO courses can add
+significantly to your earnings. If you are interested in creating and
+offering EO courses, please check the EO Handbook or drop an email to
+[dean.eo.office@iitb.ac.in](mailto:dean.eo.office@iitb.ac.in) for
+discussion. The EO office will provide the necessary infrastructural
+and logistical support.
 
 ## Consultancy {#sec:consultancy}
 The Institute has rather liberal rules on consultancy, in order to
