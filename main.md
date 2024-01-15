@@ -304,22 +304,15 @@ Deans. They are as follows:
       administrative workflows and automation of administrative
       procedures.
 
-   9. The _Dean (Strategy)_ is in charge of forward looking planning
-      and strategizing across all areas that IIT Bombay works on, or
-      may desire to work on, in future. The Dean is also the convenor
-      of the Institute Strategic Planning Committee (ISPC), and
-      manages a data cell that is tasked with the collectioon, collation
-      and analysis of data required for strategy decisions.
+   9. The _Dean (Strategy)_ is in charge of planning and strategizing
+      across all areas that IIT Bombay works on, or may desire to work
+      on, in future. The Dean is also the Convenor of the Institute
+      Strategic Planning Committee (ISPC), and manages a data cell
+      that is tasked with the collection, collation and analysis of
+      data required for strategy decisions.
 
-   10. The _Dean (Educational Outreach, EO)_ The Dean (Educational
-       Outreach, EO) is in charge of all educational outreach
-       activities of the Institute, covering (i) the executive
-       education of working professionals and university graduates,
-       (ii) university level outreach for college/university students,
-       and (iii) outreach aimed at school students. EO is an umbrella
-       organization bringing multiple units that have existed in IIT
-       Bombay (such as, CEP, CDEEP and NPTEL), working in different
-       facets of educational outreach activities.
+   10. The _Dean (Educational Outreach, EO)_ is in charge of all educational outreach
+       activities of the Institute, covering (i) the executive education of working professionals and university graduates, (ii) university level outreach for college/university students, and (iii) outreach aimed at school students. EO is an umbrella organization bringing together multiple units that have existed in IIT Bombay (such as, CEP, CDEEP and NPTEL), working in different facets of educational outreach activities.
 
 The Registrar is officially the custodian of all
 records and funds received by the Institute. (S)he signs the cheques
@@ -335,8 +328,7 @@ in which IIT Bombay has its teaching and research activities are those of
 Engineering, Science, Humanities & Social Sciences, Management, Design, Educational Technology,
 Entrepreneurship and Policy ([more
 details](http://www.iitb.ac.in/en/education/academic-divisions)). Academic
-programmes in these areas are hosted in 16 Departments, 3 Schools, 25
-Centres and 4 Interdisciplinary programmes.
+programmes in these areas are hosted in 29 academic units.
 
 Broadly speaking:
 
@@ -352,9 +344,14 @@ Broadly speaking:
  - In addition, there are **service centres** such as the **Computer
    Centre**, which do not host any academic or research programmes.
 
+The up-to-date list of academic and support units at IIT Bombay is
+available
+[here](https://www.iitb.ac.in/en/education/academic-divisions).
+
 \newpage
 
-Below is a list of departments, centres, schools and other functional units.
+### Academic Units
+Below is a list of departments, centres, schools and other academic units.
 
 **Departments**
 
@@ -368,7 +365,7 @@ Below is a list of departments, centres, schools and other functional units.
 1. [Economics](https://www.economics.iitb.ac.in/)
 1. [Electrical Engineering](http://www.ee.iitb.ac.in/)
 1. [Energy Science and Engineering](http://www.ese.iitb.ac.in/)
-1. [Environmental Science and Engineering (ESED)](http://www.esed.iitb.ac.in/)
+1. [Environmental Science and Engineering](http://www.esed.iitb.ac.in/)
 1. [Humanities and Social Sciences](http://www.hss.iitb.ac.in/)
 1. [Mathematics](http://www.math.iitb.ac.in/)
 1. [Mechanical Engineering](http://www.me.iitb.ac.in/)
@@ -378,15 +375,15 @@ Below is a list of departments, centres, schools and other functional units.
 
 **Schools**
 
-1. [Desai Sethi School of Entrepreneurship (DSSE)](http://www.iitb.ac.in/dsce/)
-1. [IDC School of Design (IDC SoD)](http://www.idc.iitb.ac.in/)
-1. [Shailesh J. Mehta School of Management (SJMSoM)](http://www.som.iitb.ac.in/)
+1. [Desai Sethi School of Entrepreneurship](http://www.iitb.ac.in/dsce/)
+1. [IDC School of Design](http://www.idc.iitb.ac.in/)
+1. [Shailesh J. Mehta School of Management](http://www.som.iitb.ac.in/)
 
 **Interdisciplinary Programs**
 
 1. [Climate Studies](http://www.climate.iitb.ac.in/)
 1. [Educational Technology](http://www.et.iitb.ac.in/)
-1. [Industrial Engineering and Operations Research (IEOR)](http://www.ieor.iitb.ac.in/)
+1. [Industrial Engineering and Operations Research](http://www.ieor.iitb.ac.in/)
 1. [Systems and Control Engineering](http://www.sc.iitb.ac.in/)
 
 **Centres offering Academic Degrees**
@@ -397,15 +394,12 @@ Below is a list of departments, centres, schools and other functional units.
 1. [Centre for Technology Alternatives for Rural Areas (CTARA)](http://www.ctara.iitb.ac.in/)
 1. [Centre for Urban Sciences and Engineering (C-USE)](http://cuse.iitb.ac.in/)
 1. [Koita Centre for Digital Health (KCDH)](https://www.kcdh.iitb.ac.in/)
-1. [IITB-Monash Research Academy (<strong>Section 8 Company</strong>)](http://www.iitbmonash.org/)
 
-**Academic Advisory**
-
-1. [Centre for Liberal Education (CLE)](https://cle0.iitb.ac.in/)
-
-**Centres of Academic Outreach (education and research)**
-
-1. [National Centre for Mathematics (NCM)](http://www.ncmath.org/)
+In addition to the above, the [IITB-Monash Research Academy
+(<strong>Section 8 Company</strong>)](http://www.iitbmonash.org/),
+[National Centre for Mathematics (NCM)](http://www.ncmath.org/) and
+[Centre for Liberal Education (CLE)](https://cle.iitb.ac.in/) are also
+involved in academic activities and support.
 
 The academic units mentioned above are headed, usually by a faculty
 member of the unit itself and usually of the rank of Professor in the
@@ -436,7 +430,7 @@ The deliberations of these committees, in the form of minutes, **is
 communicated to concerned functionaries in the central administration**,
 who are updated of the issues of the faculty in the academic unit.
 
-## Centres providing research and support facilities
+### Centres providing research and support facilities
 
 These Centres host a large number of sophisticated equipment and advanced facilities for carrying out R&D activities at IIT Bombay. The following are the research facilities at IIT Bombay:
 
@@ -445,7 +439,7 @@ These Centres host a large number of sophisticated equipment and advanced facili
 1. [Centre of Excellence in Oil, Gas and Energy (CoE-OGE)](http://www.coeoge.iitb.ac.in/)
 1. [DRDO-Industry-Academia Centre of Excellence (DIA-CoE)](https://rnd.iitb.ac.in/node/102326)
 1. [Centre of Excellence in Quantum Information, Computing, Science and Technology (CoE-QuICST)](https://www.quicst.org/)
-1. Geospatial Information Science and Engineering
+1. [Geospatial Information Science and Engineering](https://www.iitb.ac.in/en/unit-category/geospatial-information-science-and-engineering)
 1. National Centre of Excellence in Carbon Capture and Utilization (NCoE-CCU)
 1. [National Centre of Excellence in Technology for Internal Security (NCETIS)](http://www.ncetis.iitb.ac.in/)
 1. [National Centre for Photovoltaic Research and Education (NCPRE)](http://www.ncpre.iitb.ac.in/ncpre/)
@@ -670,7 +664,7 @@ Immediately on joining:
     connection (prepaid or postpaid).
 
 12. If you do not already have one, it is advisable to also get an
-    Aadhar card [https://uidai.gov.in/](https://uidai.gov.in/). The Administration Section
+    Aadhar card (see [https://uidai.gov.in/](https://uidai.gov.in/)). The Administration Section
     will be able to provide you with details of the nearest data
     collection center at which an application can be lodged. The
     post-office in campus accepts Aadhar applications.
@@ -879,8 +873,7 @@ on weekends. In many situations, the well-developed train network may
 get you to your destination on time with more certainty. A lot of hope
 rests on the upcoming metro network. Its construction, however, has
 added to traffic woes right now, but upon completion, it will benefit
-commuters from IIT Bombay and the nearby areas. [This is the dream
-anyway](https://en.wikipedia.org/wiki/Mumbai_Metro).
+commuters from IIT Bombay and the nearby areas.
 
 Powai and neighbouring areas beyond the campus, particularly
 Hiranandani Gardens, have evolved into a bustling part of Mumbai with
@@ -910,8 +903,8 @@ discussed in the chapter on [retirement benefits](#sec:retirement).
 If you have accepted the relocation allowance when you joined, you
 have to agree to serve the Institute for a minimum period of three
 years. In case you choose to leave the Institute earlier, the
-relocation allowance paid by the Institute would have to be returned
-fully.
+relocation allowance paid by the Institute would may have to be
+returned partially or fully.
 
 # The Institute's Hopes and Expectations
 For most faculty members joining this Institute, this will be the first ‘job’, at least in an academic set-up. Since, in such a set up, it is largely up to the individual to plan out her activities and career, it is but natural that one is a little apprehensive as to how to manage one’s time in the initial years. While there are always some senior faculty in the academic unit who will guide you in this respect, the following sections give some idea of what is expected of you and introduce you to the various Institute-supported activities that you will probably get involved in as a faculty member.
@@ -1066,8 +1059,11 @@ supervision entails certain basic criteria.
    of other universities or educational institutes. In some cases,
    such as the IITB-Monash Research Academy, the Institute facilitates
    joint advising of students across Institutes. In other cases,
-   permission may be sought from the Dean (FA) through the Head of the
-   academic unit for having co-guides from outside IIT Bombay.
+   permission may be sought from the Dean (AP) through the Head of the
+   academic unit for having co-guides from outside IIT Bombay. If you
+   wish to guide a student and another Institute or University, you
+   may seek permission from the Dean (FA) through the Head of your
+   academic unit.
 
 
 ## Resources for Teaching {#sec:teachingresources}
@@ -1110,17 +1106,11 @@ beginning - this is often academic unit's policy; in some cases, there may not b
       pedagogy-related projects, usually MoE-supported, like TEQIP,
       GIAN and NMEICT.
 
-   b. [NPTEL](https://www.nptel.ac.in/) - a nationwide
+   b. [National Programme on Technology Enhanced Learning (NPTEL)](https://www.nptel.ac.in/) - a nationwide
       program supported by MoE for high-quality content development
       in science/technology and dissemination through Massive Open
       Online Courses (MOOCs), with facility for testing and
       certification.
-
-   c. [IITBx](https://www.iitbombayx.in/) – this is an online platform
-      for MOOCs, specializing in hybrid MOOCs that feature flipped
-      classrooms, live interaction and so forth; in addition to more
-      academic content, it provides skills training, teachers
-      training, and lifelong learning type content.
 
 5. IIT Bombay is one of the few institutes in the country to have an
    academic program in Education Technology. Faculty here pursue
@@ -1334,8 +1324,6 @@ instances of exceptional performance, such as sustained excellence in
 teaching, publications of high impact/ in high impact-factor journals,
 highly successful translation and commercialization of the faculty’s
 research.
-
-### IFAC Review
 
 Each application is required to have eight (8) peer reviews. Out of
 these 8, at most 4 reviewers can be suggested by the candidate while
@@ -1931,9 +1919,9 @@ The salary that you get has several components.
      following levels, based on their experience:
 	 - _0 to 3 years of post-PhD experience (Assistant Professor Grade II):_ Pay
 Level 10 or 11, with increments based on experience, plus D.A.
-	 - _3 years or more of post-PhD experience (Assistant Professor Grade I):_ Pay Level 12, with a starting salary of ₹ 101,500 plus D.A. per month.
+	 - _3 years or more of post-PhD experience (Assistant Professor Grade I):_ Pay Level 12, with a starting salary of ₹ 101,500, with increments based on experience, plus D.A. per month.
 	 - _After 3 years in Pay Level 12 (Assistant Professor Grade I)_:
-       Pay Level 13A1 with a starting salary of ₹ 131,400 plus D.A. per month.
+       Pay Level 13A1 with a starting salary of ₹ 131,400, with increments based on experience, plus D.A. per month.
 
 	 If you have joined IIT after having served for some time as
 	 Assistant Professor in another IIT or a central University or
@@ -1943,16 +1931,14 @@ Level 10 or 11, with increments based on experience, plus D.A.
 	 As mentioned earlier, selected candidates with less than the
 	 requisite experience as specified in the advertisement may be
 	 taken as _Assistant Professor (Grade II)_ in Pay Level
-	 10 or 11 (the selection committees can give one or two increments
-	 over and above this, based on the credentials and experience of
-	 the candidate)[^gradeexample]. While, technically,
+	 10 or 11. While, technically,
 	 appointment to this position does not automatically imply
 	 ultimate absorption in the IIT, we have adopted a system of
 	 internal assessment as explained [in the section on regularization](#sec:regularization).
 
-   - _Associate Professor:_  Pay Level 13A2
+   - _Associate Professor:_  Pay Level 13A2, with increments based on experience, plus D.A.
 
-   - _Professor:_ Pay Level 14A
+   - _Professor:_ Pay Level 14A, with increments based on experience, plus D.A.
 
    The Institute website (see 'Recruitment' link) carries the
    minimum eligibility criteria for all the above positions.
