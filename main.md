@@ -348,8 +348,6 @@ The up-to-date list of academic and support units at IIT Bombay is
 available
 [here](https://www.iitb.ac.in/en/education/academic-divisions).
 
-\newpage
-
 ### Academic Units
 Below is a list of departments, centres, schools and other academic units.
 
@@ -481,9 +479,9 @@ an email to your Head of the academic unit with a copy (cc) to the Dean
 where you can check in upon arrival.  You may also request
 to arrange for a transportation to bring you to the campus from airport/railway station.
 
-The Institute provides a relocation allowance of up to Rs 1,00,000/-
+The Institute provides a relocation allowance of up to ₹ 1,00,000/-
 for faculty returning from abroad as reimbursement of air fare for
-self and spouse and transportation of belongings. The limit is Rs
+self and spouse and transportation of belongings. The limit is ₹
 50,000/- for faculty joining from within India. As soon as you
 complete the joining formalities and relocate, you may submit the
 receipts and air tickets to claim this allowance. Settling accounts on
@@ -957,7 +955,7 @@ The Board of Governors has approved a proposal, based on the above consideration
 
 <!-- [^promotionprocess]: Note that the term 'promotion' is used somewhat loosely here, since any faculty post at any of the IITs may only be filled by fresh selection, and there is no provision for `promotions' as in other organs of the Government. -->
 
-<!-- [^performance]: The performance criteria are fairly clearly spelt out (see the Dean(FA)'s webpage), and it is expected in the course of two to three years that the performance criteria get linked to the annual self-assessments mentioned above. -->
+<!-- [^performance]: The performance criteria are fairly clearly spelt out (see the Dean (FA)'s webpage), and it is expected in the course of two to three years that the performance criteria get linked to the annual self-assessments mentioned above. -->
 
 ## Academic Rules {#sec:acadrules}
 As a faculty member, the academic responsibilities include: (i)
@@ -1237,9 +1235,9 @@ Project proposals, duly completed in all respects, will have to be
 submitted online by logging in through your LDAP login id.
 
 This will automatically be routed through the concerned Head /
-Convener of the Academic Unit to Dean(R&D).
+Convener of the Academic Unit to Dean (R&D).
 
-After the proposal is approved online by the Dean(R&D), IRCC will
+After the proposal is approved online by the Dean (R&D), IRCC will
 issue the "Endorsement of the Institution" letter which will have to
 be submitted by the Project In-charge to the funding agency.
 
@@ -1502,12 +1500,46 @@ basis for shortlisting candidates for selection to higher posts.
 
 ## Awards
 
-While good teaching and research is likely reward enough, both you and the Institute would benefit from greater visibility and recognition of your achievements. Within IIT Bombay, the S. P. Sukhatme Excellence in Teaching Award is awarded to 15 faculty members across the Institute every year. Department teaching awards also recognise your teaching efforts. The teaching awards are based on student feedback. Since the guidelines for Excellence in Teaching Awards are currently
+While good teaching and research is likely reward enough, both you and
+the Institute would benefit from greater visibility and recognition of
+your achievements.
+
+### S. P. Sukhatme Excellence in Teaching Award
+
+Within IIT Bombay, the **S. P. Sukhatme Excellence in Teaching Award** is awarded to 15 faculty members across the Institute every year. Department teaching awards also recognise your teaching efforts. The teaching awards are based on student feedback. Since the guidelines for Excellence in Teaching Awards are currently
 undergoing revision, you may refer to recent Senate meeting minutes
 for updates on this.
 
-There are several categories of research awards in IIT Bombay, among which
-the Rakesh Mathur awards for the Excellence in Research are instituted in honour of two former Professors of the Institute, and each of these awards carries a cash incentive of ₹ 1,50,000. They are
+### Class of 1973 Faculty Award for Research Excellence
+There are several categories of research awards in IIT Bombay. The
+**Class of 1973 Faculty Award for Research Excellence** is awarded to
+sixteen faculty distributed across basic sciences, engineering
+sciences and design, applied sciences, and humanities and
+management. The distribution of the awards is proportional to the
+number of Assistant and Associate Professors in the three
+categories. The selected faculty members will receive ₹‎ 1 lakh. If
+suitable awardee(s) is (are) not available in any year, the unused
+amount will remain in the endowment and will be carried over to the
+next year. All faculty members at the rank of Assistant or Associate
+Professor are eligible to be considered for receiving the award. If a
+person wins an award in a year, later work which was not considered
+for the 1st award only may be considered for subsequent
+considerations. The cooling off period is 3 years.
+
+An eligible faculty member may be nominated (or self-nominated) for
+the award by any faculty member in the academic unit. A nomination
+package shall consist of three items: (1) A one-page statement
+indicating the desired award and explaining why the candidate’s work
+is worthy of the award, (2) A list of intellectual contributions with
+emphasis on work done during the prior three calendar years (for
+example, for 2023 award, consider 2020, 2021, 2022), and (3) The
+candidate’s curriculum vitae.
+
+
+### Rakesh Mathur Awards for the Excellence in Research
+The **Rakesh Mathur Awards for the Excellence in Research** are
+instituted in honour of two former Professors of the Institute, and
+each of these awards carries a cash incentive of ₹ 1,50,000. They are
 
   - Prof. S.C. Bhattacharya Award for Excellence in Pure Sciences
   - Prof. H.H. Mathur Award for Excellence in Applied Sciences
@@ -1522,7 +1554,6 @@ Guidelines for nominations for these two awards are:
 	- Institute functionaries, with the exception of Heads of Academic Units, are not eligible for these awards.
 
 
-\pagebreak
 The IRCC Research awards include:
 
 1. _Research Publication Award (up to 5 awards for the year):_ To
@@ -1555,7 +1586,24 @@ researcher (candidate) at IIT Bombay. In addition, the awardee(s) will
 be invited to submit a research proposal to IRCC for possible funding of
 up to ₹ 5,00,000 (Rupees Five Lakhs only).
 
+### Prof. S. C. Sahasrabuddhe Lifetime Achievement Award
+**Prof. S. C. Sahasrabuddhe Lifetime Achievement Award** is conferred on a
+faculty member who has:
 
+  - served the Institute with distinction for the major part of his/her career as a faculty member - at least twenty years.
+  - made outstanding contributions towards teaching, research. industrial interaction and institution building - as perceived by students, alumni and peers.
+
+The Award may be conferred on a faculty member one or two years before
+or after his/her superannuation/retirement. Nominations for such
+awards will be sent by Heads of Departments/Centres/ equivalent
+entities involved in teaching, research and industrial interaction.
+The recommendations by the committee are be placed before the Board of
+Governors for consideration and approval.  A recipient of this award
+will also be eligible for all the privileges extended to a Professor
+Emeritus.
+
+
+### Other awards
 Other IRCC awards include the Dr. P.K. Patwardhan Technology Development awards and the Prof. Krithi Ramamritham Award for creative research. More details and the procedure to apply for these awards is available on the [IRCC Awards webpage](https://rnd.iitb.ac.in/awards).
 
 There are also several external awards and fellowships that you can apply for. One such list (from IIT Kanpur) is available [here](https://www.iitk.ac.in/dofa/awards-honors).
@@ -2157,7 +2205,7 @@ road mileage is admissible to reach the airport/railway station or for
 internal travel to destination except where road travel is done by
 buses run by Government organizations (for which you will have to
 produce the tickets). LTC rules are strictly observed, and it is
-necessary to attach Xerox copies of your tickets along with your claim
+necessary to attach photocopies of your tickets along with your claim
 (in case of air travel, boarding passes must be retained and produced
 along with e-tickets; production of an e-ticket without the boarding
 passes is not acceptable as proof of travel.) For journeys which
@@ -2211,7 +2259,12 @@ this amount.
 
 ### Children's Education Allowance
 Expenses incurred in admitting upto two children through school (from Jr. KG to twelfth class) can be reimbursed.
-As per 7th CPC, the procedure for claiming the reimbursement of CEA/Hostel subsidy is changed to once in a year after completion of the financial year/end of Academic year. The CEA amount is fixed to Rs.2,250/- per month per child irrespective of the actual expenses incurred by the Government Servant and Hostel subsidy ceiling amount is Rs.6,750/- per month. The reimbursement will be done against the submission of a bonafide certificate issued by the Head of the Institution OR self attested copy of the report card OR self attested fee receipts confirming that the fee has been deposited for the entire academic year or for the period /year for which claim has been preferred. The Hostel Subsidy and Children Education Allowance can be claimed concurrently.
+As per 7th CPC, the procedure for claiming the reimbursement of
+CEA/Hostel subsidy is changed to once in a year after completion of
+the financial year/end of Academic year. The CEA amount is fixed to
+₹ 2,250/- per month per child irrespective of the actual expenses
+incurred by the Government Servant and Hostel subsidy ceiling amount
+is ₹ 6,750/- per month. The reimbursement will be done against the submission of a bonafide certificate issued by the Head of the Institution OR self attested copy of the report card OR self attested fee receipts confirming that the fee has been deposited for the entire academic year or for the period /year for which claim has been preferred. The Hostel Subsidy and Children Education Allowance can be claimed concurrently.
 
 In order to claim reimbursement of hostel subsidy for an academic year, a certificate is to be produced from the Head of the Institution confirming that the child studied in the school along with amount of expenditure incurred by the Government servant towards lodging and boarding in the residential complex.
 
@@ -2404,7 +2457,8 @@ which practically runs like an open-ended project account. Details are
 available [here](https://rndhelp.ircc.iitb.ac.in/faculty/rdf). The
 Institute deposits ₹ 1,00,000 each year into each faculty's RDF
 account. The money in your RDF can be used for attending conferences,
-paying for publishing charges, patenting charges etc.
+paying for publishing charges, patenting charges, purchase of laptops,
+etc.
 
 IRCC ploughs back another percentage (again, 15% at the time of
 writing) of the overheads from sponsored projects back into a
@@ -2414,57 +2468,6 @@ of Consumables, Maintenance, and Travel – these could range from
 teaching lab consumables and maintenance to student conference travel
 support.
 
-
-## Entitlement for work related travel
-
-While you travel on duty, your TA/DA entitlement is governed by your
-Pay Level alone. According to the new rules, all Professors (including
-those on HAG scale) are entitled to travel by business class while
-traveling by Air. However, one needs to confirm austerity measures, if any imposed by Government on travel related entitlement. All other faculty members are entitled to travel in
-Economy class[^airindiarule] (see however the austerity-related policy
-described in the footnote to the section on _Travel eligibility_).
-For all faculty (except Assistant Professors Grade-II[^railonly]), AC
-First class travel is permitted in train travel. Please remember to
-submit your TA bill along with boarding passes and e-ticket copy.
-(This is also Government of India's policy on International travel but
-please contact the Accounts section for business class International
-travel).
-
-[^airindiarule]: Currently, if you are using Government funds, you
-    have to book your travel through Balmer Lawrie & Company, Ashok Travels, or IRCTC.
-
-[^railonly]: For these faculty the entitlement is limited to 2$^{nd}$ AC class by rail.
-
-For road travel, Professors may use AC taxis, while for all others,
-ordinary taxis are permitted. All faculty are entitled to travel by any
-type of public bus including air-conditioned buses. If you travel by
-your own car or taxi (in places where metered taxis are not
-available), you could claim up to ₹ 24 per kilometer.
-
-Please note that the travel entitlements for HAG scale professors is
-currently being reviewed, and may be different from those presented here.
-
-### Daily allowance
-
-As per the 7$^{\text{th}}$ Pay Commission rules, the daily allowance entitlements are given below:
-
-*Pay Level*     Entitlement
-----------      -----------
-14 and above    Reimbursement of hotel accommodation/guest house of up to ₹7,500 per day.
-                Reimbursement of AC taxi charges as per actual expenditure commensurate
-                with official engagements for travel within the city and
-                Reimbursement of food bills not exceeding ₹1,200 per day
-12 and 13       Reimbursement of hotel accommodation/guest house of up to ₹4,500 per day.
-                Reimbursement of AC taxi charges of up to 50 km per day
-                for travel within the city and
-                Reimbursement of food bills not exceeding ₹1,000 per day
-9 to 11         Reimbursement of hotel accommodation/guest house of up to ₹2,250 per day.
-                Reimbursement of non-AC taxi charges of up to ₹338 per day
-                for travel within the city and
-                Reimbursement of food bills not exceeding ₹900 per day
-
-
-<!-- TODO INTERNATIONAL TRAVEL? -->
 
 ## Leave and Vacation
 
@@ -2569,10 +2572,11 @@ the Registrar, IIT Bombay.
 
 International travel, whether for personal or official purposes,
 requires consent of the Institute. A letter addressed to the Dean
-(Faculty Affairs) for permission for overseas travel before
-undertaking travel is mandatory. In addition, any international travel
-that exceeds two weeks' duration during the semester needs approval
-from the Director (through the Dean (FA)).
+(Faculty Affairs) for permission (sent via the Head of the unit) for
+overseas travel before undertaking travel is mandatory. In addition,
+any international travel that exceeds two weeks' duration during the
+semester needs approval from the Director (through the Head and Dean
+(FA)).
 
 ## Obtaining authorizations and certificates
 You might find yourself needing various kinds of certificates to be
@@ -2931,7 +2935,8 @@ collaborations, or for delivering short courses, to research scholars
 and faculty members consisting of at least two lectures per
 week. Proposals are scrutinised by the academic unit's policy
 committee and its recommendations may be approved in the Standing
-Committee Meeting. The specific appointments in this category prevailing at the time of writing are:
+Committee Meeting. The specific appointments in this category along
+with their salaries prevailing at the time of writing are:
 
 - Visiting Assistant Professor (salary of ₹ 1,25,000 per month on
   pro rata basis)
@@ -2993,7 +2998,7 @@ invited to deliver lectures/offer courses to the students of various
 academic programs of our Institute. The academic unit's policy
 committee recommends and the Institute Standing committee may approve
 the appointment of Guest Faculty. They are paid an honorarium of ₹
-3,000 per hour on a pro-rata basis.
+4,200 per hour on a pro-rata basis.
 
 ## Emeritus faculty appointments
 **Emeritus Professor** positions are honorary positions given to
@@ -3013,7 +3018,7 @@ The features of scheme are as follows:
 - The host institution should send an invitation to the faculty and the parent institution will have to give its consent to release the faculty for the proposed period.
 - The faculty’s designation will be the same in the host IIT as in the parent IIT.
 - Furnished accommodation will be provided by the host IIT to the visiting faculty.
-- The host IIT will not have to make any leave salary contribution or pension contribution for the faculty to the parent IIT. The faculty’s PF contribution will be transferred to the parent IIT where the service record of the faculty will remain. The faculty will be entitled to casual leave and earned leave for the period of visit at the host IIT. Normally, accumulated leave at the parent IIT will not be utilized by the faculty during such visits. However, in exceptional circumstances, such accumulated leave may be utilized with permission from the parent IIT. This can include commuted leave, half pay leave, etc. as may become necessary during period of illness.
+- The host IIT will not have to make any leave salary contribution or pension contribution for the faculty to the parent IIT. The faculty’s PF contribution will be transferred to the parent IIT where the service record of the faculty will remain. The faculty will be entitled to casual leave and earned leave for the period of visit at the host IIT. Normally, accumulated leave at the parent IIT will not be utilized by the faculty during such visits. However, in exceptional circumstances, such accumulated leave may be utilized with permission from the parent IIT.
 - The salary of the faculty will be protected by the host IIT (protection of basic only will be insisted on, as other parts may vary).
 - The faculty will be provided for travel expenses to and fro. Family expenses may or may not be included.
 - The faculty will be paid a relocation allowances of ₹ 5,000/- per month of stay over and above the salary.
@@ -3048,7 +3053,11 @@ academic semester (that is, either till 31$^{\text{st}}$ December or
 which they complete 65, based on a recommendation from the academic unit. During the period of re-employment, those who receive pension cheques as well as a component of salary in such a way that the two together do not exceed the last drawn salary. Further, many service benefits come to an end. The re-appointment letter from the Director will make it clear as to what benefits will still be available. As per the current practice, the medical facilities will continue during the period of re-employment. As per Government of India rules, you will continue to be eligible for LTC provided there is no break between the regular appointment and the re-employment.
 
 ### Retirement schemes
-For those who joined the Institute before 2004, there were two retirement schemes to choose from, _viz._ Contributory Provident Fund-cum-gratuity Scheme (CPF) and General Provident Fund-cum-Pension-cum-gratuity Scheme (GPF). The salient features of these schemes are as follows.
+For those who joined the Institute **on or before 31st December,
+2003**, there were two retirement schemes to choose from, _viz._
+Contributory Provident Fund-cum-gratuity Scheme (CPF) and General
+Provident Fund-cum-Pension-cum-gratuity Scheme (GPF). The salient
+features of these schemes are as follows.
 
 1. _GPF:_ If you have chosen this scheme, you are eligible to draw a
  pension throughout your remaining life at a rate to be shown
@@ -3056,7 +3065,7 @@ For those who joined the Institute before 2004, there were two retirement scheme
  _family pension_ too.  a. _Pension:_ The maximum rate of pension is
  half the basic pay at the time of retirement, or 50% of the average
  monthly remuneration drawn during the last ten months of service,
- whichever is beneficial[^retireavg], along with the applicable rate
+ whichever is beneficial, along with the applicable rate
  of dearness relief (D.R.). This requires having put in a minimum of 20
  years of service, for voluntary retirees, and 10 years of qualifying
  service for superannuating faculty (the duration not counting
@@ -3139,28 +3148,18 @@ in the hands of the employee.
 
 Accumulated GPF/CPF fund received at the time of retirement is tax exempted. --- Pg. No 88
 
-[^retireavg]: 50% of retiring salary will always be equal to or more than the 10 month average except in rare cases of a demotion or punishment during the last phase of service.
-
 [^commutation]: The factor reduces if you make the offer later, becoming 7.431,7.262, 7.083 and 6.897 if the age on your next birthday at the time of making the offer is respectively 67,68, 69 and 70. The factor for a person whose age next birthday is 65 is
 
 ### Encashment of Leave at the time of Superannuation
 A maximum 300 days of earned leave may be accumulated by an
 employee. All unutilized earned leave up to this maximum duration is
-encashable at the time of superannuation. In case the amount of earned
-leave to the credit of the employee is less than 300 at the time of
-retirement, the shortfall can be made up from the half pay leave to
-the credit of the employee to the extent of such shortfall. However,
-the half pay leave will only be cashed at half rate and no commutation
-is permitted (for instance, if an employee has, at the time of
-retirement, 200 days of earned leave and 300 days of half-pay leave to
-his/her credit, encashment will be for 200 full days and 100 half
-days, that is,  a total of 250 full days; the balance of half pay leave
-will lapse). The rate of encashment is the total emoluments (basic +
-D.A.) per day on the date of retirement assuming a month to consist of
-30 days. The approximate encashment of 300 days of leave that a
-Professor can expect at the time of superannuation is ₹ 224,100 +
-D.A. (28% at the time of writing)  = ₹ 28,68,480. Thus, at the time
-of superannuation, a faculty member can expect:
+encashable at the time of superannuation. The rate of encashment is
+the total emoluments (basic + D.A.) per day on the date of retirement
+assuming a month to consist of 30 days. The approximate encashment of
+300 days of leave that a Professor can expect at the time of
+superannuation is ₹ 224,100 + D.A. (28% at the time of writing) = ₹
+28,68,480. Thus, at the time of superannuation, a faculty member can
+expect:
 
 - Commutation: ~₹ 40,82,744
 - Gratuity: ₹ 20,00,000
@@ -3421,8 +3420,8 @@ The Institute has rules and regulations regarding allotment and entitlement of h
 
 ## Schools in and around campus {#sec:moreschools}
 
-### Kendriya Vidyalaya (Central School) IIT Powai
-This is part of the Kendriya Vidyalaya Sangathan (KVS) network and is usually ranked among the top government day (that is,  not boarding) schools in India. It has classes I through XII and is affiliated to the Central Board of Secondary Education (CBSE). Most of the seats here are reserved for the children of IIT Bombay employees; with a small fraction reserved for other Central Government organizations. You might have some anxious moments before your child gets admission, but eventually it works out, in almost all cases. In case of exceptional difficulty in getting admission into the Kendriya Vidyalaya, our Director, who is ex-officio the Chairperson of the Vidyalaya Management Committee can help out by exercising their discretionary quota. There is also a Professor-in-Charge who you may contact for helpful advice in case of difficulty. More details about KV IIT Bombay may be found on [its webpage](https://iitpowai.kvs.ac.in/).
+### PM Shri Kendriya Vidyalaya (Central School) IIT Powai
+This is part of the PM Shri Kendriya Vidyalaya Sangathan (KVS) network and is usually ranked among the top government day (that is,  not boarding) schools in India. It has classes I through XII and is affiliated to the Central Board of Secondary Education (CBSE). More details about KV IIT Bombay may be found on [its webpage](https://iitpowai.kvs.ac.in/).
 
 
 ### Campus School and Jr. College
@@ -3431,6 +3430,11 @@ The IIT Campus School and Jr. College has classes I through XII and is affiliate
 ### KG School
 The Kindergarten (KG) School comprising two classes (Lower KG and Upper KG) and two shifts, is for children from three to five years of age. Details of admissions, facilities, etc. that the KG School offers may be found [here](http://home.iitb.ac.in/~kgschool/index.html).
 
+### Schools outside campus
+There are also several private schools in the Powai area, including
+Podar International School, Bombay Scottish Scool, Gopal Sharma
+International School, and more. Many of these school's buses ply
+within campus so that the travel is convenient for the children.
 
 ### Shishu Vihar Child Care Centre
 
