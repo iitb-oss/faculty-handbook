@@ -1116,7 +1116,32 @@ beginning - this is often academic unit's policy; in some cases, there may not b
    strategies. If you are interested in exploring new
    technologies/methodologies in your class, they might be happy to
    collaborate with you. Details about this Inter-Disciplinary
-   Programme is available [here](http://www.et.iitb.ac.in/).
+   Programme is available [here](http://www.et.iitb.ac.in/). Some of
+   these are outlined below:
+
+   a. [Online Teaching](https://sites.google.com/view/iitb-teachonline/) (popularly known as OTeach). This was developed
+   by ET faculty and PhD research scholars during the Covid-19
+   lockdown. It is constructed as a self-paced course for instructors
+   to move towards teaching online.
+
+   b. [Activity constructors and
+   templates](https://www.et.iitb.ac.in/products/teaching-resources)
+   for using active learning strategies, and [videos](https://www.youtube.com/channel/UCfn80M6YJ4Bd5laqxkJVN3Q ) on pedagogy and teaching
+   strategies in specific topics.
+
+   c. The collaborative learning classroom at PPCCLT
+   is active and functioning. Several institute courses as well as workshops
+   are held every semester. Faculty who are interested can get more
+   [details here](http://www.ppcclt.iitb.ac.in/collaborative-learning-and-research-laboratory/).
+
+The preferred mode for posting materials, assignments, grades and
+other information regarding a course is the internally hosted
+[Moodle](https://moodle.iitb.ac.in) learning platform. More guidance on
+using Moodle effectively is available [here](https://drive.google.com/drive/folders/1U6Z1m-9cR-fP9KWMIqjAWZdOXtJ_lNCf).
+
+We also encourage you to see the [PwD awareness website](https://sites.google.com/view/iitb-pwdcell-training) to get some
+insight on how you can make the learning experience more suited for
+students who face certain disabilities.
 
 <!-- There are two categories of excellence in teaching awards. A) -->
 <!-- Institute Awards: Fifteen per year; B) Department Awards: -->
