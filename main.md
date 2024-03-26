@@ -211,7 +211,7 @@ be extended until (s)he reaches the age of superannuation (70 years).
 
 The Director is helped in the administration by a committee of Deputy
 Directors and Deans ([listed
-here](http://www.iitb.ac.in/en/about-iit-bombay/iit-bombay-functional-organisation)). At
+here](https://www.iitb.ac.in/institute-functionaries)). At
 the time of writing, there are two Deputy Directors, Deputy Director
 (Academic and Infrastructural Affairs or AIA) and Deputy Director
 (Finance and External Affairs, or FEA), one of whom serves as Acting
