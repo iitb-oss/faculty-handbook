@@ -327,7 +327,7 @@ The broad disciplines
 in which IIT Bombay has its teaching and research activities are those of
 Engineering, Science, Humanities & Social Sciences, Management, Design, Educational Technology,
 Entrepreneurship and Policy ([more
-details](http://www.iitb.ac.in/en/education/academic-divisions)). Academic
+details](https://www.iitb.ac.in/divisions)). Academic
 programmes in these areas are hosted in 29 academic units.
 
 Broadly speaking:
