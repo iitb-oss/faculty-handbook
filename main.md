@@ -227,7 +227,7 @@ Deans. They are as follows:
    2. The _Dean (Alumni Corporate Relations, ACR)_ looks after
    relations with alumni, and coordinates donations received from
    alumni, corporate and philanthropic sources ([more
-   details](http://www.iitb.ac.in/alumni/en/content/about-acr-office)). There
+   details](https://acr.iitbombay.org/)). There
    is also a Development Office under the Dean (ACR) which catalyses
    the alumni relations and funding.
 
