@@ -346,7 +346,7 @@ Broadly speaking:
 
 The up-to-date list of academic and support units at IIT Bombay is
 available
-[here](https://www.iitb.ac.in/en/education/academic-divisions).
+[here](https://www.iitb.ac.in/divisions).
 
 ### Academic Units
 Below is a list of departments, centres, schools and other academic units.
@@ -373,7 +373,7 @@ Below is a list of departments, centres, schools and other academic units.
 
 **Schools**
 
-1. [Desai Sethi School of Entrepreneurship](http://www.iitb.ac.in/dsce/)
+1. [Desai Sethi School of Entrepreneurship](https://www.dsse.iitb.ac.in/)
 1. [IDC School of Design](http://www.idc.iitb.ac.in/)
 1. [Shailesh J. Mehta School of Management](http://www.som.iitb.ac.in/)
 
@@ -435,17 +435,17 @@ These Centres host a large number of sophisticated equipment and advanced facili
 1. [Centre for Semiconductor Technologies (SemiX)](https://www.semix.iitb.ac.in/semix/)
 1. [Centre of Excellence in Steel Technology(CoEST)](https://www.iitb.ac.in/mems/en/research/coest#:~:text=Indian%20Institute%20of%20Technology%20Bombay%20(IIT%20Bombay)%20establish%20a%20Centre,Board%20of%20Governors%2C%20IIT%20Bombay.)
 1. [Centre of Excellence in Oil, Gas and Energy (CoE-OGE)](http://www.coeoge.iitb.ac.in/)
-1. [DRDO-Industry-Academia Centre of Excellence (DIA-CoE)](https://rnd.iitb.ac.in/node/102326)
+1. [DRDO-Industry-Academia Centre of Excellence (DIA-CoE)](https://www.iitb.ac.in/taxonomy/term/142)
 1. [Centre of Excellence in Quantum Information, Computing, Science and Technology (CoE-QuICST)](https://www.quicst.org/)
-1. [Geospatial Information Science and Engineering](https://www.iitb.ac.in/en/unit-category/geospatial-information-science-and-engineering)
+1. [Geospatial Information Science and Engineering](https://www.iitb.ac.in/taxonomy/term/143)
 1. National Centre of Excellence in Carbon Capture and Utilization (NCoE-CCU)
-1. [National Centre of Excellence in Technology for Internal Security (NCETIS)](http://www.ncetis.iitb.ac.in/)
+1. [National Centre of Excellence in Technology for Internal Security (NCETIS)](https://www.ee.iitb.ac.in/~ncetis/)
 1. [National Centre for Photovoltaic Research and Education (NCPRE)](http://www.ncpre.iitb.ac.in/ncpre/)
 1. [Wadhwani Research Centre for Bioengineering (WRCB)](http://www.iitb.ac.in/wrcb/)
 1. [Biomedical Engineering and Technology Incubation Centre (BETiC)](https://www.betic.org/)
 1. [Tata Centre for Technology and Design (TCTD)](http://www.tatacentre.iitb.ac.in/)
-1. [Technocraft Centre for Applied Artificial Intelligence (TCAAI)](https://www.tcaai.iitb.ac.in/)
-1. [Water Innovation Centre: Technology, Research and Education (WICTRE)](https://rnd.iitb.ac.in/node/104128)
+1. Technocraft Centre for Applied Artificial Intelligence (TCAAI)
+1. Water Innovation Centre: Technology, Research and Education (WICTRE)
 1. [Sunita Sanghi Centre of Ageing and Neurodegenerative Diseases (SCAN)](https://www.scan.iitb.ac.in/)
 1. [Centre of Excellence on Membrane Technologies for Desalination, Brine Management, and Water Recycling](https://www.desaltm.in/)
 
@@ -453,8 +453,8 @@ These Centres host a large number of sophisticated equipment and advanced facili
 
 In addition, while not academic units, the following units help liaise with industry and promoting startups based on research done at IIT Bombay:
 
-- [Society for Innovation and Entrepreneurship](http://www.sineiitb.org/sine) for start-up incubation support
-- [Research Park](http://www.respark.iitb.ac.in/#/home) for engagement with companies on campus
+- [Society for Innovation and Entrepreneurship](https://sineiitb.org/) for start-up incubation support
+- [Research Park](https://iitbresearchpark.com/) for engagement with companies on campus
 
 <!-- TODO Translational research -->
 
@@ -1104,7 +1104,7 @@ beginning - this is often academic unit's policy; in some cases, there may not b
       pedagogy-related projects, usually MoE-supported, like TEQIP,
       GIAN and NMEICT.
 
-   b. [National Programme on Technology Enhanced Learning (NPTEL)](https://www.nptel.ac.in/) - a nationwide
+   b. [National Programme on Technology Enhanced Learning (NPTEL)](https://nptel.ac.in/) - a nationwide
       program supported by MoE for high-quality content development
       in science/technology and dissemination through Massive Open
       Online Courses (MOOCs), with facility for testing and
@@ -1239,13 +1239,13 @@ Some of the sponsoring agencies and their URLs are given below:
   - [Aeronautics Research  & Development Board (ARDB)](https://www.drdo.gov.in/aeronautics-research-development/about-us)
   - [Board of Research in  Nuclear Sciences (BRNS)](https://brns.res.in/)
   - [Central Board of Irrigation and Power (CBIP)](http://cbip.org/)
-  - [Central Mine Planning  and Design Institute (CMPDI)](https://www.cmpdi.nic.in/)
+  - [Central Mine Planning  and Design Institute (CMPDI)](https://www.cmpdi.co.in/en)
   - [Department of Science and Technology  (DST)](https://dst.gov.in/)
-  - [Department of  Biotechnology (DBT)](dbtindia.nic.in/index.asp)
+  - [Department of  Biotechnology (DBT)](https://dbtindia.gov.in/)
   - [Indian Council for  Medical Research (ICMR)](https://www.icmr.nic.in/)
   - [Indo-French Centre for  the Promotion of Advanced Research (IFCPAR)](https://www.cefipra.org/home.htm)
   - [Indian National Science  Academy (INSA)](http://insaindia.org/index.php)
-  - [Indian Space Research Organization (ISRO)](https://www.isro.org/)
+  - [Indian Space Research Organization (ISRO)](https://www.isro.gov.in/)
   - [Ministry of  Electronics & Information Technology (MeitY)](https://www.meity.gov.in/)
   - [Department of Telecommunications (DoT)](https://www.dot.gov.in)
   - [Ministry of Education (MoE)](https://www.education.gov.in/)
@@ -1908,8 +1908,8 @@ company called the [_Society for Innovation and Entrepreneurship
 the transition from laboratory to marketplace by providing incubation
 facilities, and is the sole vehicle for translation of
 research/technological breakthroughs by the Institute's faculty
-members to commercial enterprises. The [National Innovation and
-Startup Policy](https://nisp.mic.gov.in/) also offers incentives to
+members to commercial enterprises. The National Innovation and
+Startup Policy also offers incentives to
 promote student driven startups and innovations.
 
 [^imcwork]: See link at http://internal.iitb.ac.in/imcwork/faculty/ , also linked from the main IIT Bombay webpage, for details.
@@ -2123,7 +2123,7 @@ When you receive your salary slip, you will find some deductions as well. The pr
    return has been made mandatory. You
    will need to complete a one-time registration process at the
    [Income Tax e-Filing
-   website](http://www.incometaxindiaefiling.gov.in). Your PAN number
+   website](https://www.incometax.gov.in/iec/foportal/). Your PAN number
    will be your user-id. You will also be required to link your
    Aadhaar to your PAN at this stage. You can view your tax credit (form 26AS) once
    you login (you will also be able to see it at your net banking
@@ -2238,7 +2238,7 @@ involve water transport, detailed rules are available with the
 administration.
 
 [^airindia]: Tickets should be booked only through M/S Balmer Lawrie &
-    Co. Ltd., M/S Ashoka Travels and Tours, or M/S Indian Railways
+    Co. Ltd., M/S Ashok Travels and Tours, or M/S Indian Railways
     Catering and Tourism Corporation Ltd.
 
 #### LTC Advance:
@@ -3376,7 +3376,7 @@ claim in the first 5 years after retirement from the Institute.
 
 The amount of contribution, sum assured, how the sum assured grows
 with time, empanelled hospitals and so on, are detailed in [this
-webpage](https://www.iitb.ac.in/en/about-iitbombay/new-post-retirement-medical-scheme-2015-onwards).
+webpage](https://www.iitb.ac.in/sites/www.iitb.ac.in/files/Features%20of%20New%20PRMS%20Scheme.pdf).
 
 ## Campus amenities for retired faculty
 
@@ -3400,7 +3400,7 @@ eligible to avail the guest house facility of the Institute against
 concessional rates. Current chargers are ₹ 1,200 per single occupancy
 and ₹ 2,000 per double occupancy per day. Guest rooms can be booked by
 sending an e-mail request to the Registrar or Manager, Guest House, at
-[mangergh@iitb.ac.in](mailto:mangergh@iitb.ac.in).
+[mangergh@iitb.ac.in](mailto:managergh@iitb.ac.in).
 
 **Gulmohar Lawn**: Facility to avail Gulmohar lawn for marriage of
 Son/Daughter or for functions like marriage anniversary of self etc. are
@@ -3450,7 +3450,7 @@ This is part of the PM Shri Kendriya Vidyalaya Sangathan (KVS) network and is us
 
 
 ### Campus School and Jr. College
-The IIT Campus School and Jr. College has classes I through XII and is affiliated to the Maharashtra State Board. It is exclusively for the children of IIT employees. Here, the IIT Bombay Director is the Chairperson of the School Council and IIT faculty serve as Associate Chairperson and Conveners of Administrative and Academic policy. More details about the Campus School are available [here](http://www.iitcampusschoolmumbai.in/).
+The IIT Campus School and Jr. College has classes I through XII and is affiliated to the Maharashtra State Board. It is exclusively for the children of IIT employees. Here, the IIT Bombay Director is the Chairperson of the School Council and IIT faculty serve as Associate Chairperson and Conveners of Administrative and Academic policy. More details about the Campus School are available [here](http://https://www.iitbcampusschool.ac.in/).
 
 ### KG School
 The Kindergarten (KG) School comprising two classes (Lower KG and Upper KG) and two shifts, is for children from three to five years of age. Details of admissions, facilities, etc. that the KG School offers may be found [here](http://home.iitb.ac.in/~kgschool/index.html).
