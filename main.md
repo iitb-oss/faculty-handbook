@@ -3400,7 +3400,7 @@ eligible to avail the guest house facility of the Institute against
 concessional rates. Current chargers are ₹ 1,200 per single occupancy
 and ₹ 2,000 per double occupancy per day. Guest rooms can be booked by
 sending an e-mail request to the Registrar or Manager, Guest House, at
-[mangergh@iitb.ac.in](mailto:managergh@iitb.ac.in).
+[managergh@iitb.ac.in](mailto:managergh@iitb.ac.in).
 
 **Gulmohar Lawn**: Facility to avail Gulmohar lawn for marriage of
 Son/Daughter or for functions like marriage anniversary of self etc. are
@@ -3450,7 +3450,7 @@ This is part of the PM Shri Kendriya Vidyalaya Sangathan (KVS) network and is us
 
 
 ### Campus School and Jr. College
-The IIT Campus School and Jr. College has classes I through XII and is affiliated to the Maharashtra State Board. It is exclusively for the children of IIT employees. Here, the IIT Bombay Director is the Chairperson of the School Council and IIT faculty serve as Associate Chairperson and Conveners of Administrative and Academic policy. More details about the Campus School are available [here](http://https://www.iitbcampusschool.ac.in/).
+The IIT Campus School and Jr. College has classes I through XII and is affiliated to the Maharashtra State Board. It is exclusively for the children of IIT employees. Here, the IIT Bombay Director is the Chairperson of the School Council and IIT faculty serve as Associate Chairperson and Conveners of Administrative and Academic policy. More details about the Campus School are available [here](https://www.iitbcampusschool.ac.in/).
 
 ### KG School
 The Kindergarten (KG) School comprising two classes (Lower KG and Upper KG) and two shifts, is for children from three to five years of age. Details of admissions, facilities, etc. that the KG School offers may be found [here](http://home.iitb.ac.in/~kgschool/index.html).
