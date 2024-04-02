@@ -369,7 +369,7 @@ Below is a list of departments, centres, schools and other academic units.
 1. [Mechanical Engineering](http://www.me.iitb.ac.in/)
 1. [Metallurgical Engineering and Materials Science](http://www.met.iitb.ac.in/)
 1. [Physics](http://www.phy.iitb.ac.in/)
-
+1. [Industrial Engineering and Operations Research](http://www.ieor.iitb.ac.in/)
 
 **Schools**
 
@@ -381,7 +381,6 @@ Below is a list of departments, centres, schools and other academic units.
 
 1. [Climate Studies](http://www.climate.iitb.ac.in/)
 1. [Educational Technology](http://www.et.iitb.ac.in/)
-1. [Industrial Engineering and Operations Research](http://www.ieor.iitb.ac.in/)
 1. [Systems and Control Engineering](http://www.sc.iitb.ac.in/)
 
 **Centres offering Academic Degrees**
