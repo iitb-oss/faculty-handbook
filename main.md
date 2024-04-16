@@ -389,7 +389,6 @@ Below is a list of departments, centres, schools and other academic units.
 1. [Centre for Machine Intelligence and Data Science (C-MinDS)](https://www.minds.iitb.ac.in/)
 1. [Centre of Studies in Resources Engineering (CSRE)](http://www.csre.iitb.ac.in/)
 1. [Centre for Technology Alternatives for Rural Areas (CTARA)](http://www.ctara.iitb.ac.in/)
-1. [Centre for Urban Sciences and Engineering (C-USE)](http://cuse.iitb.ac.in/)
 1. [Koita Centre for Digital Health (KCDH)](https://www.kcdh.iitb.ac.in/)
 
 In addition to the above, the [IITB-Monash Research Academy
