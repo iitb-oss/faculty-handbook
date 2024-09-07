@@ -3440,6 +3440,35 @@ The contract or the lease agreement is drawn with IIT Bombay as the party and th
 
 The Institute has rules and regulations regarding allotment and entitlement of housing to faculty and staff of the Institute. The details of these can be found on the Dean IPS website. The off-campus housing is treated as transit accommodation provided by IIT Bombay. Thus, availing the off-campus housing does not affect the entitlement or the seniority of the faculty within the ambit of the defined rules. The rented premises may have to vacated due to several reasons with the happy one being on-campus accommodation.
 
+### Staff Hostel
+
+The Staff Hostel at IIT Bombay provides temporary accommodation for
+new faculty members opting to stay on campus. This housing includes up
+to 1 BHK units and is allocated based on availability, serving as a
+transitional solution until permanent housing is secured. For more
+details on housing policies, please refer to the relevant section on
+housing in the Faculty Handbook.
+
+### Staff Hostel Mess
+
+The mess within the Staff Hostel offers faculty members simple,
+home-style meals at affordable prices. Open to both hostel residents
+and other faculty members, the mess serves as a welcoming space where
+meals become more than just a routine activity. It's a place where new
+faculty can take a break from their busy schedules and engage in
+meaningful conversations with colleagues. Sharing a meal here often
+leads to building connections with other faculty members, exchanging
+ideas, and even forming friendships.
+
+In particular, the mess provides a unique opportunity for new faculty
+to seek advice and guidance from more experienced colleagues in an
+informal setting. This environment fosters a sense of community and
+belonging, which can be incredibly supportive during the early stages
+of your journey at IIT Bombay. Many faculty members have found the
+interactions in the mess to be invaluable for networking, gaining
+insights, and feeling more integrated into the campus community.
+
+
 ## Schools in and around campus {#sec:moreschools}
 
 ### PM Shri Kendriya Vidyalaya (Central School) IIT Powai
