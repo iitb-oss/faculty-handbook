@@ -1,0 +1,228 @@
+# Consultancy {#sec:consultancy}
+The Institute has rather liberal rules on consultancy, in order to
+facilitate the interaction of its faculty members with industry. All
+your consultancy work must be processed through the Institute (Dean
+R&D). The rules thereof are summarized
+[here](https://rndhelp.ircc.iitb.ac.in/projects/consultancy-projects/revised-consultancy-practice-rules-and-norms-2003).
+
+IIT Bombay offers Consultancy services to industries, the service sector,
+Government academic units and other National and International agencies in
+all areas of expertise available in the Institute. The service
+offered shall be along the lines of 'Professional Services' and will
+hence carry with them obligations and ethical requirements associated
+with such services as indicated in the standard terms and conditions
+of IIT Bombay.
+
+
+The request can be to solve for almost any type of problem / need in
+almost every discipline of engineering, technology and science. The
+Institute, through its Faculty / Scientist / Technical Staff, can handle
+such external requests of the industry/agency that can come under the
+term consultancy in its broadest sense. Since these services are along
+the lines of 'Professional Services', offered at the request of a
+client for solving their issues and problems pertaining to the above,
+a fee is charged for undertaking such projects.
+
+## Types of Consultancy Projects
+Each project shall be undertaken either under
+
+- Standard Terms and Conditions (obtained from the Dean R&D office)
+- Specific research agreement or Memorandum of Understanding
+  describing the details of contract.
+
+In the former case, the work is taken up in good faith between the
+consultant and the client, the obligations and responsibilities of both parties being limited by the standard terms and conditions. The latter case refers to projects that usually involve non-disclosure agreements, detailed negotiations of contract terms and signing of contracts in the form of agreement or MOU.
+
+Consultancy and related services offered will be divided mainly into two categories:
+
+ - *Category E*: Expert Advice and Development Projects:- This type of project will be expertise intensive and based on the expertise of the consultant. For example:
+
+    - Feasibility Studies
+    - Technology Assessments
+    - Assessment of Designs and / or Current Manufacturing Process
+    - Material, Energy, Environmental and Manpower Audits
+    - Product Design
+    - Process Development, Software Development
+    - General Trouble-shooting
+    - Retrofitting Exercises
+    - Intensive efforts for transfer of highly focused skills
+    - Expertise to select groups in specific organizations
+    - Vision and strategy statement
+
+ - *Category T*: Testing Projects:- This type of project will be
+    Infrastructure intensive and will be based on extensive usage of
+    the Institute infrastructure. For example, Standardization and
+    Calibration services may be offered in areas in which facilities
+    are available or can be augmented. Such services should normally
+    be backed by periodic Calibration / Standardization of laboratory
+    equipment used for such purposes.
+
+<!-- ### Overheads in Consultancy Projects -->
+<!-- Since there are no overheads on the purchase of capital equipment
+in --> <!-- consultancy projects, it has been decided that only major
+equipment --> <!-- purchase should be allocated under this head, which
+would have a --> <!-- minimum value of ₹ 1,00,000, procured through a
+purchase order. -->
+
+*Eligibility*: Consultancy and related assignments can be taken up by
+full time faculty and Core Research Scientists and Engineers of
+Departments / Centres / Schools / IDPs.
+
+## General Consultancy Rules
+Consultancy work taken up by Consultants is subject to the following
+limits:
+
+   1. The time spent on consultancy and related assignments shall be
+      limited to the equivalent of 52 working days in a year at the
+      rate of one working day per week. In addition, Consultants may
+      be permitted to utilize, on an average one non working day per
+      week.
+
+   2. Consultancy assignments may be taken up by all faculty members
+      and implemented, within the constraints indicated above,
+      provided it does not affect their primary functions and
+      responsibilities to the Institute.
+
+   4. Students who are willing to work on consultancy projects may be
+      permitted as per Institute norms to do so provided it does not
+      affect their academic commitments and performance. Such work by
+      students may be compensated by suitable honoraria.
+
+   5. Travel out of the campus on account of consultancy activities
+      should be undertaken with intimation to the Head of the
+      Department / Centre / School / IDP. In case of Heads of these
+      entities, intimations should be sent to the Director.
+
+   6. Consultancy projects are normally initiated by requests /
+      enquiries from the industry directly to the Institute or by
+      discussion between the industry and the Consultants.
+
+   7. When the enquiry is directly received by the Institute, the work
+      will be assigned to specific consultants or groups of
+      consultants depending on their expertise, and existing
+      commitments, by the Dean R&D.
+
+   8. In the event of a client preferring the services of a specific
+      consultant, the assignment may normally be assigned to the
+      identified person. All acceptance letters will be sent by the
+      Dean (R&D).
+
+   9. Consultancy project proposals (prepared in response to a
+      client's request) are to be approved by the Dean (R&D) who may
+      examine the scope of the work and cost estimates. It is
+      essential to discuss proposed work plans with a client vis-a-vis
+      the scope, in order to obtain clarity before the consultant
+      prepares the cost estimates.
+
+   10. In extreme emergencies, a consultant may take up an assignment
+       with intimation to the Dean (R&D), and then seek approval, for
+       tasks entailing total charges not more than ₹50,000 or, two
+       days of faculty time, and payments are made immediately, well
+       before submission of any formal report.
+
+   11. The charges, once finalized, will not be negotiable. However,
+       if the scope is altered, a fresh estimate may be considered.
+
+   12. The minimum charges applicable in respect of consultancy jobs
+       will be ₹50,000 excluding any applicable tax.
+
+   13. It is desirable that Preliminary Diagnostic Discussions / Site
+       Visits, leading to the generation of consultancy proposals may
+       be charged at a minimum rate of ₹5,000 (or US$200 or
+       equivalent in the case of international assignments) per day or
+       part thereof, in addition to travel and incidental expenses as
+       applicable.
+
+   14. Consultant should be aware of the potential for the generation
+       of Intellectual Property during the execution of projects. The
+       Intellectual Property Policy of the Institute will govern all
+       decision and actions concerning the generation, handling,
+       protection and commercialization of the Intellectual Property.
+
+   15. The services of external consultants (especially retired
+       Faculty / Research Scientists / Research Engineers) may be
+       utilised to a limited extent in order to provide comprehensive
+       services to clients. The consultant fees payable to External
+       Consultants may not, normally, exceed 40% of the total project
+       cost.
+
+   16. The charges for any assignment are normally payable in
+       advance. However, exceptions may be made in respect of
+       assignments involving charges exceeding ₹1,00,000 and with
+       implementation periods exceeding 3 months, and a payment
+       schedule linked to milestones can be worked out.
+
+
+## Costing of Consultancy Projects
+ 1. Consultant Fees (CF): This will include charges for the time of the Institute and External Consultants. The CF is limited to 20% of the project cost for Category T (testing projects) jobs.
+ 2. Charges for Personnel engaged in Technical Services (CPTS) are charges payable to the permanent employees of the Institute for their effort in the execution of the project. The CPTS is limited to 30% of the project cost for Category T jobs.
+ 3. Project Staff Salaries (PSS): This refers to the salaries payable to temporary staff employed specifically for the project. The project shall also provide for 30% of PSS as House Rent Allowance (HRA).
+ 4. Operational Expenses (OE): These include expenses incurred on equipment purchases, consumables, contingencies, travel and daily allowance, honoraria for students and all other expenses related to the consultancy project.
+ 5. Overheads (OH): Overheads will be charged at the rate of 20% of PSS, and OE (see #3 & #4 above) as applicable.
+ 6. Service tax and other taxes as applicable shall be provided for in the project cost.
+
+## Applying and Approval for undertaking Consultancy Projects
+Once a consultancy project request is directed to PI the following steps are to be followed:
+
+ 1. A PI needs to login to the Drona system using his own [LDAP](http://drona.ircc.iitb.ac.in/)
+    (Lightweight Directory Access Protocol) Login name and Password.
+
+ 2. The Project request directed to you are visible as 'Consultancy
+    Project Assigned to me' on the screen
+
+ 3. The Request sent by the party can be seen by clicking on the
+    Letter Description
+
+ 4. If the PI wants to apply for a particular project, he must click
+    the "Apply" button on the bottom of the screen
+
+ 5. There are two categories of consultancy projects, viz Testing and
+    Expertise. For Cost Estimate Form, click as appropriate.
+
+ 6. When the project application is made, it is forwarded to the
+    academic unit HOD for approval. The PI can see the status of his
+    application in Project Details.
+
+ 7. All the actions taken on your request will be informed to you by email.
+
+<!---
+The process for approval is as follows:
+
+![Process of approval for consultancy projects](process.png){width=300px}
+-->
+
+## Disbursement
+
+The disbursement of CF and CPTS will entail a deduction of 30% as the
+Institute share for Consultant's (or CPTS) earnings. This deduction
+will be on the actual amount disbursed as CF (CPTS). For example, a
+disbursement of \text{₹} 1,00,000 as consultancy fee would entail a
+deduction of \text{₹} 30,000 as Institute share, and the remaining
+\text{₹} 70,000 will be sent to the salary account, where TDS will be
+deducted as appropriate. It is compulsory for the final project report
+to be uploaded for final disbursal. In addition, the final report must
+compulsorily contain the disclaimer specified within the Standard
+Terms and Conditions shared by the Institute with the clients.
+
+Note: Earnings for Technology Transfer, Revenue Sharing and Royalty will be governed by the Intellectual Property Policy of the Institute.
+
+## Equity in Lieu of Consultancy
+IIT Bombay has adopted a Start-up policy in line with National
+Innovation and Startup Policy (NISP) formulated by the Ministry of
+Education, which allows faculty members to take equity in a startup in
+lieu of consultancy services.  Under this policy, PIs can provide
+advisory consultancy/mentorship to a startup in lieu of holding equity
+in their core domain of expertise. IIT Bombay will take a nominal fee
+from the Startup either as a percentage equity holding and/or as a
+percentage of its annual turnover for a fixed period. Such charges
+will be as per approved prevailing policy of IITB. Each project shall
+be undertaken under the start-up policy of the institute, and an
+equity based tripartite agreement describing the details of contract.
+During exit, revenue earned by PI shall be treated similar to the
+consultancy fee component of the conventional consultancy model. In
+such a case, the revenue earned shall be split in 70/30 ratio between
+the PI and institute. As an act of good will, the Institute may adjust
+the earlier revenues earned as a share in equity, in its 30% share.
+The process, relevant permissions, and other terms will be as per the
+implementation guidelines of the Institute, which may be revised from
+time to time.

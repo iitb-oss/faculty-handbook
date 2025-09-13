@@ -1,0 +1,47 @@
+\newgeometry{margin=0.5in,top=0in}
+# Preface {.unlisted .unnumbered}
+\vspace{-0.9cm}
+
+The Faculty Handbook is an extremely useful document since it consolidates much of the information that the faculty members need during their careers at IIT Bombay.  The first edition was brought out in 2014 and the second edition in 2021. Over the years, there have been several far-reaching changes in the governance, recruitment policies, salary structure, etc. This edition of the Handbook has been thoroughly revised and updated to take all the changes into account.
+
+There are many written (and some unwritten) rules that govern any institution like IIT.  Many such rules have been captured succinctly, although some have no doubt been left out inadvertently. A handbook such as this, I believe, is particularly useful for young faculty members of the institute. Significant efforts have therefore been made to address the issues that concern young faculty members.
+
+Disclaimer: While every effort has been made to keep the Handbook up-to-date and accurate, it should not be regarded as authoritative. Going by the very name, it should be viewed as a guide; the details of rules and regulations concerning specifics require confirmation from the authorities of administration as and when needed.
+
+The need to update the Handbook was originally brought to the fore by Prof. Abhay Karandikar [erstwhile Dean (FA)] in 2017. A committee with  Prof. Swaroop Ganguly as the Convener prepared the first draft  of the handbook with crucial inputs from faculty members. Prof.  K. P. Kaliappan, the former Dean (FA) has invested a tremendous amount of time to document as many details as possible in the handbook and bring it to this current form. Special thanks to Prof. Kumar Appaiah (Department of Electrical Engineering) for his hard work, dedication, and consistent support that helped to publish this document. The revised draft was reviewed by Prof. Devang Khakhar (former Director, IIT Bombay), Prof. S. Sudarshan, DD (AIA), Prof. Avinash Mahajan, Dean (AP), Prof. A.M. Pradeep, Associate Dean (R&D), Prof. Santanu Banerjee (Earth Sciences Department), other functionaries and Heads of academic units and their very valuable suggestions have been incorporated. The timely help and efforts of Dr. K.V.Reghuthaman, Joint Registrar, Ms. Falguni Banerjee Naha (PRO) and the staff from their offices and Ms. Archita Patil, Dean (FA) office who checked the details for accuracy deserve special appreciation. Finally, the Director, Prof. Subhasis Chaudhuri, has always offered constant support and encouragement throughout the handbook revision process.
+
+I trust that this version will serve as a handy reference on day-to-day matters for all faculty members.
+
+
+Prof. Neela Nataraj
+
+(Dean, Faculty Affairs)
+
+**Committee Members**
+
+- Prof. Swaroop Ganguly (Convener)
+- Prof. Kumar Appaiah
+- Prof. Ronita Bardhan
+- Prof. Himanshu Bahirat
+- Prof. Subimal Ghosh
+
+**Staff Acknowledgements**
+
+- Ms. Tejaswi Kamath
+- Ms. Seena Shyjo
+- Mr. Sachin Shirishkar
+- Ms. Sneha Chavan
+- Ms. Madhavi Biwalkar
+- Ms. Rajashri Ghegad
+- Ms. Vandana Hate
+- Ms. Archita Patkar
+- Ms. Ashwini Shirsat
+- Mr. Vaibhav Patil
+- Ms. Shamal Padwal
+- Ms. Madhavi Borkar
+- Mr. Jitesh Meshram
+
+\clearpage
+
+\restoregeometry
+\normalsize

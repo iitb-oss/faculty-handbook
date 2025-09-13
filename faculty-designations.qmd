@@ -1,0 +1,175 @@
+# Faculty designations and responsibilities {#sec:facultygrades}
+This chapter lists the various faculty designations and appointment
+details.
+
+## Regular faculty
+
+ - *Appointment details*: Full time permanent appointments at any
+   level (Assistant, Associate and full Professors). These are made
+   through a selection committee or through invitation by
+   BOG. Assistant Professor (Grade-II) is offered by Selection
+   Committee to candidates who do not have 3 year
+   post-PhD experience. The regularization process is initiated
+   once they complete three years post PhD requirement.
+ - *Academic activities*: Teaching, research, student guidance, other academic activities of the Institute.
+ - *R&D activities*:
+    - Eligible for a one time seed grant from the Institute.
+    - Can take up all types of R&D Projects, including consultancy projects.
+    - Can promote companies in SINE.
+    - Can be Directors of companies as per Institute norms.
+ - *Administration related activities*: Expected to be actively involved in administrative responsibilities as assigned by academic units and the Institute.
+
+## Professors of Practice
+**Professors of Practice** are expected to be top professionals
+(CEO/CTO) with significant experience, typically about 20 years.  They
+should have at least a Bachelor's degree Engineering / Sciences /
+Design / Humanities or a related technical field. A Master's or a
+Ph. D. degree would be welcome. Advanced degrees may be in business or
+related fields.  Professors of Practice must be leaders who remain
+current with the best practices and emerging technological trends in
+their fields. Advanced degrees may also be in business or related
+fields.
+
+The salary for Professors of Practice is fixed at ₹ 2,25,000 per
+month at the time of writing. They are entitled to all the benefits
+offered to regular faculty members such as CPDA and leave.  In
+addition, they are also given a one time contingency grant of ₹
+2,00,000.
+
+The following are the terms and conditions that govern Professor of
+Practice appointments and their duties:
+
+ - *Appointment details*:
+   - Academic units must develop a job description, including qualifications consistent with the required credentials for the position.
+   - Academic units should seek faculty feedback, faculty should interact with the PoP candidates, peer review may be sought if necessary and the candidates should give a seminar in the department before forwarding the case to the Standing  Committee.
+   - Appointments could be up to five years which can be extended based on the performance and requirements of the Institute.
+   - The appointment will be approved by the Standing Committee of the Institute.
+ - *Academic activities*:
+   - Design, development and offering of new practice-oriented courses.
+   - Advise students in their projects linking them with appropriate external stakeholders.
+   - Engage in department building activities including creation of new
+     programmes and Centres and enhancement of scope and activities of the department.
+   - Develop Continuing Education Programmes, undertake outreach activities and conduct extension programmes
+   - Encourage students in innovation and entrepreneurship projects and provide necessary mentorship for these activities; and contribute to enhanced industry academia collaborations.
+   - Professors of Practice are expected to guide Master's students in their research and be co-guides to Ph. D. students.
+
+<!-- 2. **Assistant Professor (Grade-II)**: -->
+<!--    - *Appointment details*: Equivalent to regular faculty; appointed thus because they are short of the 3-year post-PhD experience required for appointment as regular Assistant Professor; likely to be regularized when this requirement is met. -->
+<!--    - *R&D activities*: -->
+<!--       - They are eligible for a one time seed grant from the Institute. They can also take up all types of R&D Projects, including consultancy projects. -->
+<!--       - They can promote companies in SINE. -->
+<!--       - They can be Directors of companies as per Institute norms. -->
+<!--    - *Academic activities*: They can guide students, and participate in all academic activities of the institute. -->
+<!--    - *Administration related activities*: They can take up admin work as delegated by the Institute/department from time to time. -->
+
+## Foreign faculty
+**Foreign faculty** members can be appointed to work like regular
+faculty members, on similar pay scales. However, there are some notable differences in
+appointment terms:
+
+   - *Appointment details*: Appointed as full-time faculty members,
+     and selection procedure is similar to that of regular faculty
+     appointments through a Selection Committee meeting. However,
+     Ministry approval must be sought before the offer is made.  It is
+     a contract position for a period of five years that can be
+     extended. They are entitled to all the benefits offered to
+     regular faculty members such as CPDA and leave.
+   - *R&D activities*: All terms and conditions will be as for regular faculty.
+   - *Academic activities*: All terms and conditions will be as for regular faculty.
+   - *Administration related activities*: All terms and conditions will be as for regular faculty.
+
+## Temporary faculty appointments
+**Short term visiting faculty** positions are meant for faculty
+members or specialists employed elsewhere who are invited for research
+collaborations, or for delivering short courses, to research scholars
+and faculty members consisting of at least two lectures per
+week. Proposals are scrutinised by the academic unit's policy
+committee and its recommendations may be approved in the Standing
+Committee Meeting. The specific appointments in this category along
+with their salaries prevailing at the time of writing are:
+
+- Visiting Assistant Professor (salary of ₹ 1,25,000 per month on
+  pro rata basis)
+- Visiting Associate Professor (salary of ₹ 1,75,000 per month on
+  pro rata basis)
+- Visiting Professor (salary of ₹ 2,00,000 per month on
+  pro rata basis)
+- Distinguished Visiting Professor (salary of ₹ 2,25,000 per month on
+  pro rata basis, and are provided free guest house accommodation).
+
+Please note that the salary details for the above appointments are being revised currently.
+
+**Adjunct faculty** are can be retired IIT Bombay faculty members or
+external experts appointed to teach full or half courses. These may be
+for 1-3 days a week, depending on the frequency of the visits. The
+salary structure for these appointments is as follows:
+
+- Adjunct Assistant Professor (salary of ₹ 25,000 for 1 day per week
+  on pro rata basis)
+- Adjunct Associate Professor (salary of ₹ 35,000 for 1 day per week
+  on pro rata basis)
+- Adjunct Professor (salary of ₹ 40,000 for 1 day per week
+  on pro rata basis)
+
+Adjunct faculty members do not get Institute accommodation. However,
+they may stay in the guest house on payment basis at official rates,
+provided rooms are available.  Pension, if any, is not deducted from
+salary for such appointments.
+
+**Professors on Contract** are eminent scientists and academics who
+take up full time faculty positions. They should have retired from
+Central or State government entities, autonomous bodies or private
+organisations, and are yet to attain the age of retirement of regular
+faculty members at IIT Bombay.  They are appointed to take up full
+time contract positions for a three year term extendable to five years
+or till they are 70, whichever is earlier.  Their salary is fixed as
+the last drawn salary *minus* any pension that they may be
+receiving. They are entitled to some benefits offered to regular
+faculty members such as leave and OPD medical facilities. They are
+provided with a non-lapsable contingency grant with usage of ₹ 20,000
+per year.
+
+An **Emeritus Fellow** position is a prestigious appointment. The
+nominees for Emeritus Fellows should have consistently excelled in (a)
+service (b) research and (c) teaching. Their performance in at least
+two of the above three activities should be better than the academic
+unit average in the last 10 years. The appointees should have been
+recognized nationally through awards, Fellowships of national
+academies etc. Emeritus Fellowship should not be considered for
+teaching requirements alone.  Departments may consider additional
+criteria to recommend/nominate retiring faculty members for Emeritus
+Fellowship. Departments may also decide not to recommend any faculty
+member for Emeritus Fellowship. The salary at the time of writing
+(August, 2021) is ₹ 1,20,000. They are provided with a non-lapsable
+contingency grant with usage of ₹ 20,000 per year.
+
+**Guest faculty** are experts from other Institutions/Industry who are
+invited to deliver lectures/offer courses to the students of various
+academic programs of our Institute. The academic unit's policy
+committee recommends and the Institute Standing committee may approve
+the appointment of Guest Faculty. They are paid an honorarium of ₹
+4,200 per hour on a pro-rata basis.
+
+## Emeritus faculty appointments
+**Emeritus Professor** positions are honorary positions given to
+faculty for their contribution to the Institute. These are only
+titular appointments recommended by the academic unit.
+
+**Emeritus Scientists** are retired professionals carrying out
+specific R&D projects funded by government agencies at the
+Institute. Institute's offer will be for a visiting honorary position.
+
+## Faculty Exchange Programme
+The Board of Governors, IIT Bombay has approved the recommendations of the Director of IITs, for Faculty Exchange Programme among the IITs for a period ranging between 3 to 12 months.
+
+The features of scheme are as follows:
+
+- Faculty exchange among the IITs should be encouraged. Such exchanges should not however affect the academic commitments of the faculty in the parent IIT. So visit should be for a minimum of one semester, unless the visit is during the summer or winter vacation periods.
+- The host institution should send an invitation to the faculty and the parent institution will have to give its consent to release the faculty for the proposed period.
+- The faculty's designation will be the same in the host IIT as in the parent IIT.
+- Furnished accommodation will be provided by the host IIT to the visiting faculty.
+- The host IIT will not have to make any leave salary contribution or pension contribution for the faculty to the parent IIT. The faculty's PF contribution will be transferred to the parent IIT where the service record of the faculty will remain. The faculty will be entitled to casual leave and earned leave for the period of visit at the host IIT. Normally, accumulated leave at the parent IIT will not be utilized by the faculty during such visits. However, in exceptional circumstances, such accumulated leave may be utilized with permission from the parent IIT.
+- The salary of the faculty will be protected by the host IIT (protection of basic only will be insisted on, as other parts may vary).
+- The faculty will be provided for travel expenses to and fro. Family expenses may or may not be included.
+- The faculty will be paid a relocation allowances of ₹ 5,000/- per month of stay over and above the salary.
+- The terms and conditions may be modified on mutual agreement among the host IIT, the parent IIT, and the faculty.

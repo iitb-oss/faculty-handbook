@@ -1,0 +1,65 @@
+# ERP-SAP Activities
+
+IIT Bombay has recently deployed leading Enterprise Resource Planning
+software (ERP) from SAP which provides an IT enabled platform for
+managing business processes such as purchase, payment, payroll, HR
+actions as well as estate management. Student life cycle management,
+however, is handled through the home grown software created by the
+Application Software Center (ASC). Several other home grown and open
+source IT systems continue to handle key business processes.
+
+Currently, following IT systems are available to faculty members:
+
+  - [ASC](https://asc.iitb.ac.in) is the system for managing academic
+    processes. Faculty members use this interface for viewing academic
+    programs, courses, bulletin and students related information. The
+    ASC portal allows online submission of course grades and viewing
+    past grading statistics. Access to ASC is available through your
+    LDAP credentials. Helpdesk e-mail is
+    [asc.help@iitb.ac.in](mailto:asc.help@iitb.ac.in).
+  - [Drona](https://drona.ircc.iitb.ac.in) is the IT system that is
+    used for submitting sponsored and consultancy project proposals
+    and managing all project related activities. Drona is integrated
+    with ERP and is independently managed by IRCC. Access to Drona is
+    available through LDAP credentials.
+  - [Employee Self Service Portal](https://ep.iitb.ac.in) is the SAP
+    portal to view and manage all personal actions such as leave,
+    salary, staff assessment and various HR actions. This portal is
+    currently undergoing enhancements. The ERP portal requires allocation of user license as
+    well as a SAP user ID which is same as your employee code. Online
+    application form is available on ASC portal for requesting new SAP
+    user id.  Helpdesk:
+    [helpdesk.hcm@iitb.ac.in](mailto:helpdesk.hcm@iitb.ac.in).
+  - [ERP portal](https://erp.iitb.ac.in) is available to faculty
+    members for managing all purchase and payment activities. This
+    portal allows execution of a variety of transactions and allows
+    faculty members to view status of purchases, payments as well as
+    fund availability in personal projects. ERP portal is accessible
+    through your SAP login credentials. Several ERP support services
+    are available post login on ASC portal through series of
+    interfaces at ASC $\rightarrow$ ERP Master data
+    $\rightarrow$ Helpdesks. For more information, contact
+    [helpdesk.basis@iitb.ac.in](mailto:helpdesk.basis@iitb.ac.in),
+    [EDP@iitb.ac.in](mailto:EDP@iitb.ac.in).
+  - Teaching and learning management is handled through the [Moodle open
+    source portal](https://moodle.iitb.ac.in) which is integrated with
+    ERP servers. Helpdesk: [moodle.help@iitb.ac.in](mailto:moodle.help@iitb.ac.in).
+
+The following services for specific activities managed by ASC are available through LDAP login:
+
+ - [https://support.iitb.ac.in](https://support.iitb.ac.in) is the complaints ticketing portal for maintenance related services.
+ - [https://surveys.iitb.ac.in](https://surveys.iitb.ac.in) is a self-service portal used for creating your own surveys and content sharing pages.
+ - [https://portal.iitb.ac.in/IRBS](https://portal.iitb.ac.in/IRBS) is the interface to book classrooms and view room occupancy/availability.
+ - [https://portal.iitb.ac.in/VRP](https://portal.iitb.ac.in/VRP) is a portal used for submitting/tracking ERP related service requests
+
+## Resources for ERP support:
+  - **Department storekeeper**: For any problem related to purchase and payments from Institute funds.
+  - **Departmental ERP helpdesk stationed in each academic unit**: For
+    any problem related to purchase from project funds, payment of
+    honorarium to students and finding out project balances.
+  - [helpdesk.basis@iitb.ac.in](mailto:helpdesk.basis@iitb.ac.in): For
+    ERP password not working, problems with authorization for carrying
+    out ERP transactions.
+  - [Helpdesk.hcm@iitb.ac.in](mailto:Helpdesk.hcm@iitb.ac.in): For
+    problems with leave application or any other issue on ESS portal.
+  - All services provided by ASC: [asc.help@iitb.ac.in](mailto:asc.help@iitb.ac.in).

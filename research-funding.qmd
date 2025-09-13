@@ -1,0 +1,89 @@
+# Research Funding {#sec:researchfunding}
+
+Research funding could be one of the following three types
+   1. (Institute) Seed Grant
+   2. (External) Sponsored Research Project
+   3. (External) Consultancy Project
+
+## Seed Grant
+
+IIT Bombay, through the Industrial Research and Consultancy Centre (IRCC),
+offers seed grant to new faculty members to encourage and facilitate
+their research activities at the Institute. Details of this grant are
+as follows:
+
+1. The faculty member should request for a seed grant within 6 months from the date of joining the Institute.
+2. The duration of the seed grant project will usually not be more than 3 years and will be closed after that.
+3. Seed grant proposals should highlight the objectives, expected outcome, time frame, budget with appropriate justification (especially for equipment) and other relevant details. Specify the equipment proposed to be procured under the seed grant.
+4. Seed grant consists of a base amount up to ₹ 7,00,000 that can be apportioned under EQP (equipment), CON
+(consumables) and CTE (contingency) budget heads. Reallocation of
+funds between different budget heads is allowed. The following
+conditions apply on expenditures from the seed grant (base amount):
+
+  a. Procurement of small equipment, consumables and other contingent expenditure is allowed.
+  b. Procurement of a laptop or a hand-held device (iPad, Tablets, etc.) is allowed. However, purchase of laptop / hand-held devices should normally be from allocations made by the academic unit. Such a purchase from the seed grant is allowed only with a self-declaration from the faculty to the effect that the purchase is made from only one of the sources (in the first three years).
+  c. Travel within India using seed grant is allowed only for the concerned faculty member to defend research proposals and with prior permission of the Dean (R&D).
+  d. Seed grant cannot be used for international travel, holding workshops or conferences, hiring administrative or project assistants or attendants, payment of honoraria, office furniture, air-conditioners, etc.
+5. An additional ₹ 13,00,000 (₹ thirteen lakhs) will be provided, if needed, for purchase of (basic) equipment. Reallocation of this amount to other budget heads is not allowed.
+6. Faculty members needing additional funding should seek the same from the concerned Academic Unit, which could review the request and provide support from its own funds such as DDF as per its own policies / guidelines.
+7. Equipment grant may be augmented by up to ₹ 1 crore subject to the following:
+   a. This augmentation is to be used exclusively to procure major equipment / facility of a specialized nature, if required for the proposed research work. It is NOT meant as a general grant to be used over time for miscellaneous EQP purchases; these should be procured out of the 13,00,000 or 20,00,000 (basic equipment + part or whole of base amount).
+   b. Faculty member must have secured at least one research proposal from an external agency for funding. If need be, Institute will give a letter of 'additional financial support' to be used while seeking funding from external agencies.
+   c. Request for additional support will be evaluated by the Research Infrastructure Fund Committee (RIFC). Based on the review by RIFC, a suitable recommendation is made for possible funding to Deputy Director (Finance and External Affairs) and Director for approval.
+   d. Faculty member must give an undertaking that the equipment will be made available to other users in the Institute. Potential users of the equipment and the extent to which the equipment will be made available to other users must be included in the proposal seeking additional funding.
+   e. Purchase of equipment with this additional amount must be initiated within 3 months of the date of approval of the grant.
+   f. Request for the augmented funds may be made anytime within the first two years of the Seed Grant project, so that the total period of Seed Grant support remains 3 years.
+   g. Annual maintenance for 3-5 years must be built into the purchase.
+   h. This augmented funds cannot be utilized to setup individual high-performance computing facilities. This augmented support is meant to
+         - Supplement any shortfall in the equipment grant from external agencies
+		 - Enhance capability of the equipment / facility proposed in the project
+		 - Support additional accessories to the equipment funded by external agencies
+
+8. Proposals, duly complete in all respects, must be submitted online on DRONA (http://drona.ircc.iitb.ac.in). There is no need to send a hard copy of the proposal.
+9.  Completion Report: A project completion report highlighting the utilization of seed grant and the manner in which the seed grant helped the faculty to 'seed' his/her research must be submitted to the Dean (R&D) while closing the project. In case the faculty member received augmented EQP grants, the report should also include the following:
+  - How the facility supported research of other users and the utilization data
+  - Research plans / targets for further utilization of the special equipment / facility in the next few years
+  - Plans for further R&D projects to be proposed to fully utilize the potential of the equipment / facility.
+10. Institute will make an annual budget for seed grants. Source of
+       funds can be either MoE grants or IRCC funds. Disbursals of
+       seed grants will be subject to availability of funds under this
+       budget.
+
+## Sponsored Research Project
+
+Sponsored research projects may be initiated by submitting project
+proposals to various/appropriate funding agency. The project proposals
+should be submitted in a suitable format given by the concerned
+funding agency.
+
+Some of the sponsoring agencies and their URLs are given below:
+
+  - [Aeronautics Research  & Development Board (ARDB)](https://www.drdo.gov.in/aeronautics-research-development/about-us)
+  - [Board of Research in  Nuclear Sciences (BRNS)](https://brns.res.in/)
+  - [Central Board of Irrigation and Power (CBIP)](http://cbip.org/)
+  - [Central Mine Planning  and Design Institute (CMPDI)](https://www.cmpdi.co.in/en)
+  - [Department of Science and Technology  (DST)](https://dst.gov.in/)
+  - [Department of  Biotechnology (DBT)](https://dbtindia.gov.in/)
+  - [Indian Council for  Medical Research (ICMR)](https://www.icmr.nic.in/)
+  - [Indo-French Centre for  the Promotion of Advanced Research (IFCPAR)](https://www.cefipra.org/home.htm)
+  - [Indian National Science  Academy (INSA)](http://insaindia.org/index.php)
+  - [Indian Space Research Organization (ISRO)](https://www.isro.gov.in/)
+  - [Ministry of  Electronics & Information Technology (MeitY)](https://www.meity.gov.in/)
+  - [Department of Telecommunications (DoT)](https://www.dot.gov.in)
+  - [Ministry of Education (MoE)](https://www.education.gov.in/)
+  - [Naval Research  Board  (NRB)](https://www.drdo.gov.in/naval-research-board/about-us)
+  - [Science and Engineering Research Board (SERB)](http://serbonline.in)
+
+The agencies which can be approached for travel grants for attending
+conferences, seminar, workshops, etc. include DST, CSIR, INSA, UGC and
+the [All-India Council for Technical Education (AICTE)](https://www.aicte-india.org/).
+
+Project proposals, duly completed in all respects, will have to be
+submitted online by logging in through your LDAP login id.
+
+This will automatically be routed through the concerned Head /
+Convener of the Academic Unit to Dean (R&D).
+
+After the proposal is approved online by the Dean (R&D), IRCC will
+issue the "Endorsement of the Institution" letter which will have to
+be submitted by the Project In-charge to the funding agency.

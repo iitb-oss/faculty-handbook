@@ -1,0 +1,377 @@
+# Retirement and Post-Retirement Benefits {#sec:retirement}
+
+## Post-retirement Benefits
+While this chapter was originally written primarily for faculty who joined the Institute before 2004 (or who joined later, but with transfer of previous services rendered in Government or Institutions like IITs), suitable additions/provisions which apply to faculty who joined on or after 1$^{\text{st}}$ January, 2004 (National Pension System) have now been incorporated.
+
+### Pension, Gratuity, Commutation of Pension etc.
+<!-- What happens after you have served out your active life with the Institute? Most look at the period of retirement with a certain amount of anxiety because they anticipate a sharp drop in income. It is, therefore, prudent to do some planning reasonably early in life, certainly by the time you are approaching 50. -->
+
+This section discusses aspects related to retirement benefits and
+pension for faculty.
+
+### Superannuation
+This is the term used for official completion of your regular
+appointment. It happens on the last day of the month in which you
+complete 65 years of age. For example, If your birthday falls on the
+1$^{\text{st}}$ of the June, you will superannuate on the last day of
+the previous month (that is, May 31$^{\text{st}}$). However, if your
+birthday is between 2nd and 30$^{\text{th}}$ of June, then you will
+superannuate on 30$^{\text{th}}$ June. Usually, the Director will meet
+the faculty over a cup of tea and will hand over a few retirement
+cheques on this day.
+
+### Re-employment
+Faculty members are usually reappointed till the last day of the
+academic semester (that is, either till 31$^{\text{st}}$ December or
+30$^{\text{th}}$ June, depending on the birth date) in the year in
+which they complete 65, based on a recommendation from the academic unit. During the period of re-employment, those who receive pension cheques as well as a component of salary in such a way that the two together do not exceed the last drawn salary. Further, many service benefits come to an end. The re-appointment letter from the Director will make it clear as to what benefits will still be available. As per the current practice, the medical facilities will continue during the period of re-employment. As per Government of India rules, you will continue to be eligible for LTC provided there is no break between the regular appointment and the re-employment.
+
+### Retirement schemes
+For those who joined the Institute **on or before 31st December,
+2003**, there were two retirement schemes to choose from, _viz._
+Contributory Provident Fund-cum-gratuity Scheme (CPF) and General
+Provident Fund-cum-Pension-cum-gratuity Scheme (GPF). The salient
+features of these schemes are as follows.
+
+1. _GPF:_ If you have chosen this scheme, you are eligible to draw a
+ pension throughout your remaining life at a rate to be shown
+ below. Further, after your death, your spouse will be eligible for a
+ _family pension_ too.  a. _Pension:_ The maximum rate of pension is
+ half the basic pay at the time of retirement, or 50% of the average
+ monthly remuneration drawn during the last ten months of service,
+ whichever is beneficial, along with the applicable rate
+ of dearness relief (D.R.). This requires having put in a minimum of 20
+ years of service, for voluntary retirees, and 10 years of qualifying
+ service for superannuating faculty (the duration not counting
+ extra-ordinary leave or unauthorized absence or periods of
+ suspension, which are followed by major penalties).
+
+ b. _Commutation of Pension:_ It is possible to offer to the Institute
+     that a percentage of your pension be commuted, that is,  you opt to
+     receive a one time lump-sum amount and a smaller pension. The
+     maximum commutation possible is 40% of the basic pension. This
+     offer may be made to the Institute either at the time of
+     superannuation or even afterwards. However, if the offer is made
+     after one year of superannuation, you may be required to undergo
+     a medical examination. As experts will tell you that it is good
+     to commute pension, an illustration of how it works is given
+     below (the example is actually appropriate to a Professor
+     retiring at the top of the Pay Level):
+
+    Suppose your basic salary was ₹ 224,100 per month at the time of
+    retirement. Your basic pension is ₹ 112,050 per month at the
+    time of superannuation (age 66 on your next birthday). You offer
+    to receive 40% less as monthly pension, that is, receive ₹
+    44,820 per month less as basic pension. The amount of lump sum
+    payment is given by the following formula.  $$ \mbox{Lump sum
+    amount} = \text{₹} 44,820 \times12 \times 7.591 = \text{₹}
+    40,82,744 $$ The unusual factor 7.591 is a factor representing the
+    number of years the Government has decided that it is willing to
+    pay you as a lump sum if your age next birthday is 66 at the time
+    you opt for commutation[^commutation].  Note that, though your
+    basic pension will be reduced by ₹ 44,820 in the above example,
+    the Dearness Allowance is payable on the regular pension amount of
+    ₹ 112,050. Thus, the take home pension amount for a HAG scale
+    Professor would be ₹ 67,230+ D.R. (28% of ₹ 1,12,050 = ₹ 31,374)
+    = ₹ 98,604 Full pension will be restored to you after 15 years
+    of receiving the commutation amount. As you grow older, till the
+    age of 80, the pension amount changes because the
+    D.R. changes. However, when you reach the age of 80, the basic
+    pension increases by 20%, at 85: 30% at 90: 40% and at 95:
+    50%. And if you hit a century in your life, the basic pension
+    doubles!
+
+ c. _Family Pension:_ After the death of the employee, a reduced pension is payable to dependent family members (not payable to dependent parents if spouse and/or dependent children exist). All such dependents must have been declared before superannuation and must have continued to remain qualified as dependents. The family pension is calculated as 60% of the basic pension defined earlier.
+
+    In case an employee dies while in service the rate of family
+    pension will be 50% of the last salary drawn by the employee for a
+    period of 10 years, after which it would revert to the regular
+    rate stated above. In case an employee dies after retirement but
+    before reaching 67 years of age, the family pension till such time
+    will be equal to the pension that would have been payable had the
+    employee not so died. In addition, applicable D.R. is also
+    payable. Note that family pension amount is not affected by any
+    commutation that the employee might have done. Family pension also
+    accelerates with age beyond 80 as for regular pension.
+
+ d. _General Provident Fund (GPF):_ This is basically what you keep aside every month from your salary. The minimum amount you have to save is 6% of your basic pay and the maximum cannot exceed basic pay. The amount of subscription can be increased and/or decreased once during a financial year. The attractive thing about this is when you receive it back, the amount is tax free in your hand. Further, the subscription qualifies for tax reduction too. Government of India announces the interest payable for deposits in GPF, which, at the time of writing, is 7.1%, one of the best rates of interest for securities. The rate is subject to change every quarter. Loans (called advances) can be taken from your GPF to meet various contingent expenditures like illness and education related expense of dependents, obligatory family expense like marriages and shradh, to meet the cost of legal proceedings, or simply to buy consumer durables. Such loans must be refunded in a maximum of 24 monthly installments and are interest free (as the amount actually belongs to you!). Facility of nomination is available. One can also make permanent withdrawals from GPF for all the above mentioned purposes after 15 years of service or for purchase of an accommodation (including renovating ancestral house) any time during the service. It may be noted that this is separate from the Public Provident Fund (PPF), in which additional amounts may be invested with tax benefits (please consult the Income Tax rules as applicable).
+
+ e. _Gratuity:_ A lump sum amount known as gratuity is payable to an
+    employee on superannuation. The amount payable is a fourth of the
+    emoluments for every completed six months of service, subject to a
+    maximum of ₹ 20,00,000. The emolument includes basic pay and
+    D.R. drawn by the employee on the day of superannuation.
+
+2. _Contributory Provident Fund (CPF)_: If you have opted for this
+   scheme, no pension is payable to you. However, the gratuity
+   as described under GPF scheme is payable. In this scheme,
+   your contribution is a minimum 10% of your basic pay with
+   the maximum being 100% of the same. The Institute
+   contributes 10% of your basic pay to this fund as well,
+   hence the name contributory. The deposits under this scheme
+   earn interest at a prescribed rate (currently, 7.1%) and
+   like the GPF is tax free in the hands of the retiree. Loans
+   and withdrawals may be made from the subscription account
+   like the GPF scheme.
+
+Please note that if the employees' subscription to provident fund on
+or after 1st April 2021 exceeds ₹ 5 Lakhs (for GPF) & ₹ 2.5 lakh
+(for CPF) in a financial year, the interest earned on contributions
+over ₹ 5 Lakhs (for GPF) and ₹ 2.5 lakh (for CPF) shall be taxable
+in the hands of the employee.
+
+Accumulated GPF/CPF fund received at the time of retirement is tax exempted. --- Pg. No 88
+
+[^commutation]: The factor reduces if you make the offer later, becoming 7.431,7.262, 7.083 and 6.897 if the age on your next birthday at the time of making the offer is respectively 67,68, 69 and 70. The factor for a person whose age next birthday is 65 is
+
+### Encashment of Leave at the time of Superannuation
+A maximum 300 days of earned leave may be accumulated by an
+employee. All unutilized earned leave up to this maximum duration is
+encashable at the time of superannuation. The rate of encashment is
+the total emoluments (basic + D.A.) per day on the date of retirement
+assuming a month to consist of 30 days. The approximate encashment of
+300 days of leave that a Professor can expect at the time of
+superannuation is ₹ 224,100 + D.A. (28% at the time of writing) = ₹
+28,68,480. Thus, at the time of superannuation, a faculty member can
+expect:
+
+- Commutation: ~₹ 40,82,744
+- Gratuity: ₹ 20,00,000
+- Leave encashment: ~ ₹ 28,68,480
+This totals to about ₹ 89,51,224. This is in addition to the GPF balance of employee.
+
+### National Pension System (for those who joined the service on or after 1.1.2004) {#sec:npsnote}
+The [National Pension System
+(NPS)](https://enps.nsdl.com/eNPS/NationalPensionSystem.html) is
+applicable for all employees who joined the Institute on or after
+1.1.2004. The funds are managed by the National Security Depository
+Ltd (NSDL). In particular, contributions into the NPS are eligible for
+tax benefits as mentioned at the [NPS CRA
+website](https://www.npscra.nsdl.co.in/tax-benefits-under-nps.php). A subscriber can make partial withdrawal after joining the NPS after 10 years, not exceeding twenty-five per cent of the contributions made by him/her and excluding contribution made by employer, if any, at any time before exit from National Pension System subject to the terms and conditions, purpose, frequency and limits specified under Regulations 8 of PFRDA (Exits & Withdrawals under the NPS), Regulations, 2015. The guidelines for partial withdrawal can be accessed at [this link](https://www.npscra.nsdl.co.in/download/Annexure_PFRDA_Circular_CRA_PO_RI_Master_2016_003.pdf).
+
+What
+follows is the information on NPS for Central Government
+servants. Note that this is a defined contribution scheme, which means
+that there is no guarantee of returns like in the general provident
+fund.
+
+Under this scheme, an individual account will be opened in the name of
+every employee to which the employee will contribute 10% of his
+emoluments every month (plus a 14% contribution by the employer). This
+account number is known as the Permanent Retirement Account Number
+(PRAN). This, in turn, will provide you two personal accounts:
+
+1. _A mandatory Tier-I Pension Account:_ You will have to contribute a
+   minimum of 10% of your basic pay plus D.A. to the Tier-I account
+   every month. You will not be able to withdraw from this account
+   till you retire from service.  The Government (the Institute) will
+   contribute to this account 14% of your basic plus D.A. Subject to a
+   ceiling to be decided by the Government, your contribution, along
+   with the contribution by the employer, will be invested by NSDL in
+   debt instruments and stocks (85% fixed income and 15% equity).
+2. _A voluntary Tier- II Savings Account:_ A purely optional savings
+   scheme without any tax benefit, from which withdrawals and loans
+   are permitted. No matching contribution from the employer/Government will
+   be made. No tax benefits are available for investing in this account.
+
+IIT Bombay is a nodal office for NPS accounts, thereby being able to
+facilitate opening and transferring NPS accounts. New employees should
+be provided the NPS enrolment form by the Institute. Those who
+already have an NPS account in the past (government, private, or
+any citizen of India modes) can get their account transferred by
+filling the appropriate forms and handing it to the administration.
+
+#### Benefits and restrictions
+The NPS is portable, which means that the account can move with you as
+you move jobs. The key benefit is that the corpus that accrues in the
+Tier-1 account can be used to obtain income and benefits when you
+retire, though there are various conditions that define how
+withdrawals work, including:
+
+  - _Withdrawal on superannuation:_ Assuming that you retire from your
+    job at age 65 (or move on, but keep the account till you turn 60),
+    you can then withdraw 60% of the accumulated corpus as a lumpsum,
+    and the remaining 40% must be converted to an
+    [annuity](https://en.wikipedia.org/wiki/Annuity "Wikipedia article
+    on annuity") that pays you a monthly income. The annuity has to be
+    purchased through an annuity provider, and the actual monthly
+    annuity received depends on various factors, such as your age,
+    market conditions etc. Effective tax assessment year 2019-20, this
+    withdrawal is tax free.
+
+  - _Full withdrawal before superannuation:_ If you withdraw the
+    corpus before you superannuate, then 80% of the corpus has to
+    compulsorily be converted to an annuity. Only the remaining 20% is
+    available as lumpsum.
+
+  - Since these rules have changed in the recent past, it is best to
+    refer to the [NPS CRA FAQ](https://npscra.nsdl.co.in/nps-faq-withdrawal.php) for accurate information.
+
+Up to date information on NPS and details on accessing your account balance
+online are available at the [NPS CRA website](https://npscra.nsdl.co.in/).
+
+<!-- # Life in Powai and beyond -->
+
+<!-- (This section has external links for your information. IITB cannot take any responsibility for these.) -->
+
+<!-- The city of Mumbai offers a wealth of cultural and entertainment -->
+<!-- resources to its residents, befitting a global metropolis. This -->
+<!-- includes famous places of worship, ancient historical caves, several -->
+<!-- art and science museums, many theatres for plays and musical -->
+<!-- performances, restaurants/cafes featuring cuisines from around the -->
+<!-- world, amusement parks for children and adults, and one of the few -->
+<!-- national parks inside a big city anywhere in the world (from where we -->
+<!-- get periodic Campus visits by leopards!). Some of the attractions are -->
+<!-- listed -->
+<!-- [here](https://www.makemytrip.com/travel-guide/mumbai/places-to-visit.html -->
+<!-- ). -->
+
+<!-- One caveat is that traffic outside of campus may be a nightmare, -->
+<!-- especially during office commuting hours (and even more so during the -->
+<!-- very long monsoon season), so one may be well-advised to venture out -->
+<!-- on weekends. In many situations, the well-developed train network may -->
+<!-- get you to your destination on time with more certainty. A lot of hope -->
+<!-- rests on the upcoming metro network. Its construction, however, has -->
+<!-- added to traffic woes right now, but upon completion, it will benefit -->
+<!-- commuters from IITB and the nearby areas. [Here is the dream -->
+<!-- anyway](https://en.wikipedia.org/wiki/Mumbai_Metro). -->
+
+<!-- Powai and neighbouring areas beyond the Campus, particularly -->
+<!-- Hiranandani Gardens, have evolved into a bustling and 'happening' part -->
+<!-- of Mumbai with regard to restaurants, cafes, pubs etc. (It is also -->
+<!-- generally well-provisioned, in terms of everything from doctors and -->
+<!-- chemists to yoga and arts classes - however, one does not need to -->
+<!-- leave Campus for most of these!) -->
+
+<!-- You can get information about all of these at [https://powai.info/](https://powai.info/). -->
+
+<!-- Powai has its own 'newspaper' (!), which you can access at the [Voice -->
+<!-- of Powai website](http://voiceofpowai.blogspot.com/). -->
+
+<!-- Here are a few other links/apps that may be useful: -->
+<!--    1. For online booking of movies, plays etc. - [https://in.bookmyshow.com/mumbai](https://in.bookmyshow.com/mumbai) -->
+
+<!--    2. For restaurant information - [Zomato -->
+<!--       Mumbai](https://www.zomato.com/mumbai) (for online food -->
+<!--       ordering, there are several mobile apps like Swiggy, Zomato, -->
+<!--       Uber Eats, Food Panda, and so on) -->
+
+<!--    3. For grocery shopping - Big Basket or similar apps (You can -->
+<!--       arrange with most local vendors, even small shops, to take -->
+<!--       orders over phone and deliver to your home if that is your -->
+<!--       preference - this includes chemist, grocer, greengrocer, -->
+<!--       etc.) Alternatively, if you yearn for the feel of the bazaar, -->
+<!--       then there is the IIT Market - paradoxically, outside IIT - and -->
+<!--       other markets in neighbouring areas. Of course, there is also a -->
+<!--       small shopping enclave in Campus near the 'Market Gate' or -->
+<!--       'Y-point Gate'. D-Mart and Haiko supermarkets are also available -->
+<!--       within 2 kilometres. -->
+
+<!--    4. For home services - Urbanclap or similar apps (offering services -->
+<!--       ranging from carpentry to personal grooming, and - relevant if -->
+<!--       you are living off-campus - plumber and electrician). -->
+
+<!--    5. For driver services - DriveU or similar apps; and of course, the -->
+<!--       Ola (an IITB startup!) or Uber app for cab hailing. -->
+
+<!--    6. For domestic staff services (cleaning, cooking etc.) you can -->
+<!--       usually get tips from neighbours or - if you are living -->
+<!--       off-campus - the security personnel in your apartment complex. -->
+
+
+## Healthcare post-retirement
+
+The Institute has two schemes to take care of your and your spouse's medical requirements after retirement. Both the schemes are contributory.
+
+1. _Contributory Medical Scheme (CMS):_ The scheme entitles you and your spouse to avail of OPD treatment in the IIT Hospital. You have to pay a one time ₹ 8000 to join the scheme. All OPD facilities of the IIT Hospital (consultancy, diagnostic tests etc.) can be availed by employee and his/her spouse. Medicines available at the Pharmacy are also given to CMS members without charge. However, no indoor hospitalization is possible and no reimbursement of any kind is provided.
+2. _Post-Retirement Medical Scheme (PRMS):_ Under this scheme, there are two types of medical benefits provided to IIT Bombay employees. These are:
+ a) In-service medical benefits
+ b) Out-service medical benefits
+
+In-service medical benefits are those given to Institute employee
+during their active service at the Institute. Here, the Institute
+employee, if eligible, can take the facility of the Institute Hospital
+for various purposes as available & further can be referred to
+Institute empanelled hospital on the recommendation of the CMO/MO/SMO,
+wherein the expenditure incurred is reimbursed as per Institute
+rules. More details are available here:
+
+Out-service medical benefits afforded after retirement comprise the
+Post-Retirement Medical Scheme. Further, there are two types of scheme
+for retirees.
+
+ a. Old PRMS
+ b. New PRMS
+
+The Old PRMS is for those who retired prior to March 11, 2015. Those who
+join/joined the Institute's service on or after that date are/shall be
+governed by New PRMS which is/will be a part of the service condition
+on joining the Institute.
+
+Therefore, all those who were on roll of the Institute on March 11, 2015
+, as permanent employees were entitled to join the scheme on
+exercising an option in this regard within three months of adoption of
+the scheme by the Board of governors, whereas for those who join the
+Institute / confirmed after that date the scheme is mandatory.
+
+Under this scheme, a monthly subscription is to be paid by all the
+members of the scheme based on their pay scales to avail the benefits
+of this scheme post retirement. To summarise, it is a cover of medical
+treatment on hospitalization up to a limit. It does not cover
+out-patient expenses, only expenses on admission to a (empanelled)
+hospital. A maximum of 50% of the eligible cover can be availed as
+claim in the first 5 years after retirement from the Institute.
+
+
+The amount of contribution, sum assured, how the sum assured grows
+with time, empanelled hospitals and so on, are detailed in [this
+webpage](https://www.iitb.ac.in/sites/www.iitb.ac.in/files/Features%20of%20New%20PRMS%20Scheme.pdf).
+
+## Campus amenities for retired faculty
+
+Retired faculty are eligible for some miscellaneous benefits:
+
+**Identity card for retired faculty and spouse**: Retired faculty
+members and their spouse are eligible to be issued Institute identity
+cards. One may fill the application form for this available with the
+Security section and submit the same to the faculty establishment
+section in the 2nd floor main building for necessary verification and
+further processing.
+
+**Relationship manager**: In order to ensure that progress related to
+requests and pending matters pertaining to retired faculty members are
+monitored properly and to facilitate a single point of contact in
+case of any query from retired fraternity, a Relationship Manager is
+available in the Faculty Administration section.
+
+**Guest house facility**: Retired Institute faculty members are
+eligible to avail the guest house facility of the Institute against
+concessional rates. Current chargers are ₹ 1,200 per single occupancy
+and ₹ 2,000 per double occupancy per day. Guest rooms can be booked by
+sending an e-mail request to the Registrar or Manager, Guest House, at
+[managergh@iitb.ac.in](mailto:managergh@iitb.ac.in).
+
+**Gulmohar Lawn**: Facility to avail Gulmohar lawn for marriage of
+Son/Daughter or for functions like marriage anniversary of self etc. are
+open to retired faculty members. Current applicable charges for this
+facility is ₹ 22,000 along with a refundable deposit of ₹ 10,000.
+The facility can be availed by sending a written request in the format
+available in ASC website (downloadable forms) to the Executive Engineer
+(Estate) who will authorise payment after verifying the availability.
+Similarly, the facility to use Gulmohar 3rd floor and terrace is also
+available against nominal payment.
+
+**LDAP Account**: Retired faculty will have to inform CC annually for
+continuation or extension of their LDAP account, either before the
+expiry or within a grace period of one year. This one-time activity at
+from the retired faculty within a span of 2 years is to keep a check
+and avoid misuse of dormant LDAP accounts after faculty
+retirements.
+
+**Library access**: Faculty and Group A Officers retired from IIT
+Bombay are eligible for Library membership by paying ₹ 200 for annual
+membership, or by paying ₹ 1000 as life membership fee. Two books can
+be borrowed for a period of 30 days and reference and consultation
+services will be provided to them.  Electronic Resources access
+facility (such as access to e-journals) is not available for retired
+faculty and Group A Officers.

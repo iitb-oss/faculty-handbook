@@ -1,0 +1,78 @@
+# Resources for Teaching {#sec:teachingresources}
+
+Teaching is considered to be an important component of faculty
+activities. That said, most new faculty come in with strong research
+experience, but modest teaching experience, if any. It helps that most
+new faculty are given about a semester off from teaching in the
+beginning - this is often academic unit's policy; in some cases, there may not be a choice if the faculty member joins after a semester has started. Here are a few tips to help with teaching, and preparing for it.
+
+1. When you are assigned a course to teach, you can look at the
+   Academic section of the ASC website
+   (https://asc.iitb.ac.in/acadmenu/index.jsp) for course details
+   such as syllabus and textbooks, as well as timing and venue. In
+   general, it is mandatory to adhere to the specified syllabus,
+   especially for core courses. However, instructors can enhance
+   their course offerings with additional topics and learning content.
+2. You may talk to the Head and ask for details of the previous instructors
+   (this information is also available on ASC). That is assuming this
+   is an existing course, not a new one you are starting; the
+   procedure for starting a new course is described in the [form for proposing a new academic course](http://www.iitb.ac.in/newacadhome/RevisedCourseProposalFormat20154March.pdf). Senior faculty members who have taught the course may be
+   able to help you with teaching material such as slides, homework
+   problems, recommendations for textbooks, capable teaching
+   assistants (TAs) and so forth.
+3. An alumni supported initiative, called the Parimal and
+   Pramod Chaudhari Centre for Learning and Teaching (PPCCLT), now
+   provides a plethora of resources for teaching, drawing on internal
+   and external expertise and experience. These include:
+    a. (Annual) Faculty Development Workshops
+	b. TLC Café - featuring training sessions for faculty on effective teaching
+	c. Community of Practice (CoP) platform for sharing best teaching practices
+    d. Active learning classroom (under construction at the time of	writing). Please check out the [PPCCLT	website](http://www.ppcclt.iitb.ac.in) for more details.They welcome and need faculty involvement to be effective, so please	  consider it.
+
+4. There are several resources available to you to prepare video lectures (getting your regular lectures recorded, or, recording in a studio), and put them online if you desire. These include:
+
+   a. Centre for Distance Engineering Education Programme (CDEEP) –
+      which helps to prepare video lectures. Details are available on
+      their [website](http://www.cdeep.iitb.ac.in/). Please look in
+      the Related Projects section, for information on
+      pedagogy-related projects, usually MoE-supported, like TEQIP,
+      GIAN and NMEICT.
+
+   b. [National Programme on Technology Enhanced Learning (NPTEL)](https://nptel.ac.in/) - a nationwide
+      program supported by MoE for high-quality content development
+      in science/technology and dissemination through Massive Open
+      Online Courses (MOOCs), with facility for testing and
+      certification.
+
+5. IIT Bombay is one of the few institutes in the country to have an
+   academic program in Education Technology. Faculty here pursue
+   research in technology-enhanced learning, pedagogical tools and
+   strategies. If you are interested in exploring new
+   technologies/methodologies in your class, they might be happy to
+   collaborate with you. Details about this Inter-Disciplinary
+   Programme is available [here](http://www.et.iitb.ac.in/). Some of
+   these are outlined below:
+
+   a. [Online Teaching](https://sites.google.com/view/iitb-teachonline/) (popularly known as OTeach). This was developed
+   by ET faculty and PhD research scholars during the Covid-19
+   lockdown. It is constructed as a self-paced course for instructors
+   to move towards teaching online.
+
+   b. [Activity constructors and
+   templates](https://www.et.iitb.ac.in/products/teaching-resources)
+   for using active learning strategies, and [videos](https://www.youtube.com/channel/UCfn80M6YJ4Bd5laqxkJVN3Q ) on pedagogy and teaching
+   strategies in specific topics.
+
+   c. The collaborative learning classroom at PPCCLT
+   is active and functioning. Several institute courses as well as workshops
+   are held every semester. Faculty who are interested can get more
+   [details here](http://www.ppcclt.iitb.ac.in/collaborative-learning-and-research-laboratory/).
+
+The preferred mode for posting materials, assignments, grades and
+other information regarding a course is the internally hosted
+[Moodle](https://moodle.iitb.ac.in) learning platform. More guidance on
+using Moodle effectively is available [here](https://drive.google.com/drive/folders/1U6Z1m-9cR-fP9KWMIqjAWZdOXtJ_lNCf).
+
+We also encourage you to see the [PwD awareness website](https://sites.google.com/view/iitb-pwdcell-training) to get some
+insight on how you can make the learning experience more suited for
+students who face certain disabilities.

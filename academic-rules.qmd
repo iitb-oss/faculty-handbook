@@ -1,0 +1,109 @@
+# Academic Rules {#sec:acadrules}
+
+As a faculty member, the academic responsibilities include: (i)
+teaching existing courses (ii) starting new courses (iii) evaluating
+student performance in courses (iv) supervising research performed by
+students at various levels and (v) evaluating research performed by
+students (supervised by oneself, or colleagues).
+
+As a core activity (along with research), teaching involves delivery
+of courses (and performance of associated activities such as
+evaluation) as part of the Institute's academic programmes. The rules
+governing various aspects of administration and conduct of the
+academic programmes are determined by the Senate. IIT Bombay prides
+itself on a flexible curriculum for its programmes, which gives each
+student ample opportunity to pursue her academic interests
+irrespective of the discipline to which she belongs.
+
+## Proposing a new course
+
+As a faculty member, you can propose new courses as electives in your
+area of expertise. Such courses go through a process of approval,
+first at the academic unit level, then at the level of the appropriate
+Programme committee (PC) of the Senate, and finally at the Senate.
+
+## Evaluation Scheme at IIT Bombay
+
+IIT Bombay follows a credit system for its educational programmes, in which
+the credits assigned to an academic activity are indicative of the
+quantum of work involved in that activity. Thus, the credits for a
+course, for example, depend on the number of Lectures per week (2
+credits per lecture hour), the number of tutorials per week (2 credits
+per tutorial hour) and the number of Practicals or Laboratory hours
+per week (1 credit per hour). Most theory courses are worth 6 credits
+and are made up of 2 lecture hours and a tutorial hour per week (that is, ,
+a 2-1-0-6 structure). Credits are also assigned to activities such as
+seminars and projects. The assessment of a student's performance in a
+course is by continuous evaluation through the duration of the course,
+and the Instructor has considerable freedom in deciding the components
+of evaluation and their relative weights.
+
+Typical components are assignments, tests and other activities such as
+course projects which run through the semester, a mid-semester
+examination (typically worth 30% towards the final grade) and the
+end-semester examination (typically worth 50%). The final percentage
+marks obtained by a student are converted to a letter grade, usually
+based on the performance of the student relative to the class (the
+conversion can also be on an absolute basis, for example if the
+student strength is very small for a course). These and other details
+are available on the [Academic office webpage](http://www.iitb.ac.in/acad/index.html).
+
+Instructors are expected to announce the evaluation methodology at
+the beginning of the course, and also make available the corrected
+answer scripts for every assignment, quiz or examination (including
+the end-semester exam) for the students' inspection. The instructor
+gets a feedback on the effectiveness of her teaching through a system
+of online course evaluation by students, which happens at the end of
+the teaching semester.
+
+Students should be encouraged to participate in the mid-term and end-term course feedback processes. The feedback from mid-term evaluation process may be used constructively for improvement in the course delivery. Teaching evaluations should be taken seriously, and introspection helps one become a better teacher.
+
+
+## PhD supervision
+
+Apart from teaching and instructing courses, you are also expected to
+do a fair amount of supervision at the UG/PG and PhD levels. While
+basic rules for guidance varies across academic units, the PhD
+supervision entails certain basic criteria.
+
+1. Only full time faculty are entitled to undertake PhD supervision.
+2. At any given time, the number of Institute research scholars (TAs and/or RAs) working with under your supervision shall not exceed five. The DPGC/PGC of the academic unit can decide on the total number of research students of all categories working with him/her.
+3. As a supervisor, you are expected to supervise the student till satisfactory results are achieved.
+4. A supervisor must keep a check that the students being supervised
+   deliver the Annual Progress Seminar (APS) every twelve months after
+   joining the program. The APS report must contain information
+   describing the research that has been performed in the completed
+   year and submit it to the Research Progress Committee (RPC). The
+   student must then deliver an open seminar, which all interested
+   members of the academic unit are free to attend, where he/she will
+   be examined by the RPC. The objective of the seminar is to provide
+   feedback about the research completed by the student in the past
+   year, and provide suggestions for continuing and refining his/her
+   research. With the progress of a student's PhD, the work presented
+   is expected to evolve from a thorough understanding of fundamental
+   concepts and reported literature to an in-depth solution to a novel
+   research problem. The RPC lays emphasis on publications in reputed
+   international journals, filing invention disclosures and patents
+   based on nature of the research output, and also encourages the
+   student to present his/her work in international conferences and
+   workshops.
+5. You can also serve as a co-supervisor if any student chooses to
+   have more than one supervisor, and if this is approved by the DPGC.
+6. If you are going on long leave, such as lien/sabbatical leave/special leave/deputation etc., you must propose an alternate arrangement to continue the academic activities of your students.
+ a. Whenever a Supervisor leaves the Institute permanently or temporarily for a period greater than or equal to one year, the DPGCs/IDPCs/PGCs shall provide new supervisor(s) for the students being supervised by him/her before his/her departure.
+ b. Whenever a Supervisor leaves the Institute temporarily for a period less than one year, the DPGCs/IDPCs/PGC shall make an alternate arrangement for the guidance of his/her students.
+ c. The DPGC/ IDPC/ PGC may consider continuation of the original
+ Supervisor upon his/her return to the Institute, as Co-Supervisor of
+ his/her students depending on the period for which he/she has
+ supervised the PhD programmes of the students concerned.
+ d. Any such arrangements made shall be forwarded to PGAPEC for prior approval.
+7. Change of supervisor is generally not advised and should be sought as a last resort. Under exceptional circumstances, if a student chooses to terminate the relationship, then it will only be permitted on recommendation of the DPGC/IDPC/PGCA. Every effort should be made to allow a fair transition for both the faculty and the concerned student.
+8. Student supervision can also be done jointly with faculty or staff
+   of other universities or educational institutes. In some cases,
+   such as the IITB-Monash Research Academy, the Institute facilitates
+   joint advising of students across Institutes. In other cases,
+   permission may be sought from the Dean (AP) through the Head of the
+   academic unit for having co-guides from outside IIT Bombay. If you
+   wish to guide a student and another Institute or University, you
+   may seek permission from the Dean (FA) through the Head of your
+   academic unit.

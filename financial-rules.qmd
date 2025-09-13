@@ -1,0 +1,69 @@
+# General Financial Rules
+The General Financial Rules (GFR) are a set of rules to be followed in
+the government department for incurring expenditure and payment of
+public money. These are detailed in the [Department of Expenditure
+(Ministry of Finance)
+webpage](https://doe.gov.in/order-circular/general-financial-rules2017-0). The
+salient features are outlined below. As a faculty member at IIT
+Bombay, it is useful to be cognizant of these as you get involved in
+receiving and spending money, particularly from government sources,
+for your research programmes, or for academic unit/Institute purposes.
+
+As per GFR 2017, all money received by or on behalf of the government
+either as dues of government or for deposits, remittances or otherwise
+shall be brought into government accounts without delay. The rules
+stipulate that no authority may incur any expenditure or enter into
+any liability involving expenditure or transfer of money or investment
+or deposit from public fund, unless the same has been sanctioned by
+the appropriate authority. Any expenditure incurred for an
+activity (like conference expenditure, training expenditure, purchase,
+Leave Travel Concession, medical bills etc.) requires
+prior approval of the competent authority. The financial powers of the
+Institute have been delegated to various Institute functionaries with
+the approval of the BoG.
+
+The GFR describe how to purchase goods (items), the different modes of
+purchase, like Single Tender Enquiry, Limited Tender Enquiry and
+Advertised Tender Enquiry procurement, along with local purchase
+committee rules based on market survey.
+
+The GFR prescribe how to purchase high value plant, machinery etc. of
+a complex and technical nature under two bids systems that is,  technical
+bid and financial bid. It also talks about vendor registration, rate
+contract, contents of biding document, Earnest Money Deposit, and
+performance guarantee. It emphasises transparency, competition,
+fairness and elimination of arbitrariness in the procurement process
+to attract the best bidder. The Code of Integrity while pursuing
+procurement process is defined, which seeks to make the public
+procurement system efficient, economical and accountable.
+
+GFR 2017 also describes Works, Grants-in-aid and Loans apart from
+Inventory Management and Contract Management. Works mean new
+construction, site preparation, additions and alterations to existing
+works, special repairs to newly purchase or previously abandoned
+buildings or structures including remodelling or replacement. At IIT Bombay,
+these are done by the office of the Dean IPS. So the various Do's and
+Don'ts for "Works" are given in GFR 2017 under "Works" head.
+
+Inventory Management contains the basic rules applicable to all
+Ministry or Departments regarding inventory Management. This addresses
+receipt of goods and materials from private suppliers, issue of goods
+within academic unit/Institutes, buffer stock, physical verification of
+assets and library books, disposal of goods etc. They may be viewed
+under "Inventory Management" section of the GFR-2017.
+
+Contract Management talks about the general principles of a contract
+and its terms. These are outlined below.
+
+1. Implementation of the contract should be strictly monitored and notices issued promptly whenever a breach of provisions occurs.
+
+2. Proper procedure for safe custody and monitoring of Bank Guarantees or other Instruments should be laid down. Monitoring should include a monthly review of all Bank Guarantees or other instruments expiring after three months, along with a review of the progress of supply or work. Extensions of Bank Guarantees or other instruments, where warranted, should be sought immediately.
+
+3. Wherever disputes arise during  implementation of a contract, legal advice should be sought before initiating action to refer the dispute to conciliation and/or arbitration as provided in the contract or to file a suit where the contract does not include an arbitration clause. The draft of the plaint for arbitration should be got vetted by obtaining legal and financial advice. Documents to be filed in the matter of resolution of dispute, if any, should be carefully scrutinized before filing to safeguard government interest.
+
+Recently, the purchase process for equipment and consumables through
+sponsored projects has been streamlined to use the [Government
+e-Marketplace](https://gem.gov.in/) (often referred to as GeM). GeM is
+a portal where sellers can post products and price discovery occurs
+automatically. More details on purchasing processes can be found in
+the [GeM SOP](https://bighome.iitb.ac.in/index.php/s/4nzdNMMmsXECqyD).

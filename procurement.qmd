@@ -1,0 +1,25 @@
+# Checklist for Procurement of Goods as per General Financial Rules (GFR) norms/ Revision of financial powers by BoG.
+This section discusses some general rules that govern purchases from
+IIT Bombay projects and grants.
+
+## Up to Rs. 1 lakh
+Direct market purchase is allowed for items up to Rs. 1 lakh. The
+receipt and proof of payment needs to be given along with Dead Stock
+Register Entry. Note that Purchase committee is not required for the
+Item is priced below Rs. 1 lakh and a direct market purchase is used.
+
+## Above Rs. 1 lakh and up to Rs. 10 lakhs
+
+- A three-member purchase committee to be approved by Head of the Department.
+- The committee shall survey the market to ascertain the reasonableness of the rate, quality, and specification. Identify the appropriate supplier and issue a certificate to that effect (GFR 155). If the procurement value is above Rs. 5 lakhs Local Content Declaration is to be obtained from the vendors. Global Tender Enquiry (GTE) approval is mandatory if the Local Content is less than 20%.
+- Create a PR for the item to be procured with approximate value.
+- If the item is available on Government e-Marketplace (GeM) (https://gem.gov.in/), then a minimum of three quotations from GeM to be obtained and the item should be bought on GeM. One can directly compare three different Original Equipment Manufacturer (OEM) products for that item - a comparative statement is generated automatically and the least priced item can be bought on GeM.
+- In case an item is not available on GeM:
+  - Generate a non-availability certificate on GeM. This report should be dated before any quotation dates.
+  - Obtain a minimum of 3 original quotations. This is mandatory and the quotations should be dated after the Non-Availability Report
+  - Quotations to be signed by all the committee members.
+  - Technical/Financial Comparison between the 3 (or more) quotations to be attached.
+  - Goods Receipt Note to be attached
+  - Dead Stock Register Entry to be made.
+  - Competent Authority approval if less than 3 quotations received.
+  - Any Other Document required.
