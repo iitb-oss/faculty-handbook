@@ -2,3 +2,6 @@ out.html
 out.pdf
 out.odt
 out.docx
+
+/.quarto/
+**/*.quarto_ipynb

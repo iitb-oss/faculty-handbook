@@ -1,0 +1,113 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Faculty Handbook"
+  author: "IIT Bombay"
+  date: "2025"
+  chapters:
+    - index.qmd
+    - preface.qmd
+    - part: "About the Institute"
+      chapters:
+        - institute.qmd
+    - part: "When You Join"
+      chapters:
+        - joining.qmd
+        - regularization.qmd
+        - erp-sap.qmd
+        - resources.qmd
+        - lab-space.qmd
+        - medical.qmd
+        - life-powai.qmd
+        - leaving.qmd
+    - part: "Expectations and Activities"
+      chapters:
+        - expectations.qmd
+        - academic-rules.qmd
+        - teaching-resources.qmd
+        - research-funding.qmd
+        - assessment-promotion.qmd
+        - awards.qmd
+        - continuing-education.qmd
+        - consultancy.qmd
+        - directorship.qmd
+        - starting-company.qmd
+        - conferences.qmd
+    - part: "Rules and Regulations"
+      chapters:
+        - salary-allowances.qmd
+        - cpda.qmd
+        - rdf-ddf.qmd
+        - leave-vacation.qmd
+        - authorizations.qmd
+        - financial-rules.qmd
+        - procurement.qmd
+        - ethics-conduct.qmd
+        - rti.qmd
+    - part: "Faculty Designations"
+      chapters:
+        - faculty-designations.qmd
+    - part: "Retirement"
+      chapters:
+        - retirement.qmd
+    - appendices.qmd
+    - epilogue.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    code-fold: true
+    grid:
+      sidebar-width: 250px
+      body-width: 900px
+      margin-width: 200px
+    page-footer:
+      left: "© 2025 IIT Bombay"
+      right: "Faculty Handbook"
+    downloads: [pdf]
+    include-after-body: _include-after-body.html
+  pdf:
+    documentclass: amsbook
+    classoption: [10pt, openany]
+    geometry:
+      - left=0.4in
+      - right=0.4in
+      - top=1in
+      - bottom=1in
+    papersize: a5
+    pdf-engine: xelatex
+    template: template.tex
+    mainfont: "Times New Roman"
+    sansfont: "Latin Modern Sans"
+    fontsize: 10pt
+    toc: true
+    toc-depth: 2
+    secnumdepth: 3
+    number-sections: true
+    top-level-division: chapter
+    colorlinks: true
+    linkcolor: blue
+    urlcolor: blue
+    toccolor: blue
+    include-in-header:
+      - text: |
+          \usepackage{times}
+          \usepackage{fontspec}
+          \usepackage{newunicodechar}
+          \setmainfont{Times New Roman}
+          \setsansfont[Scale=MatchLowercase]{Latin Modern Sans}
+          \newfontfamily{\ubuntu}[Scale=0.95]{Latin Modern Sans}
+          \newunicodechar{₹}{{\ubuntu ₹\thinspace}}
+          \usepackage{afterpage}
+    keep-tex: true
+
+execute:
+  freeze: auto
