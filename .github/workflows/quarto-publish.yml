@@ -60,27 +60,36 @@ jobs:
 
       - name: Verify fonts and refresh cache
         run: |
-          # Update font cache
+          # Update font cache multiple times to ensure registration
           sudo fc-cache -f -v
           fc-cache -f -v
+          sleep 2
+          sudo fc-cache -f -v
 
           # List available fonts for debugging
           echo "=== Checking for required fonts ==="
           echo "Checking Arial:"
-          fc-list | grep -i "arial" || echo "Arial not found"
+          fc-list : family | grep -i "arial" | head -5 || echo "Arial not found"
 
+          echo ""
           echo "Checking Liberation Sans:"
-          fc-list | grep -i "liberation sans" || echo "Liberation Sans not found"
+          fc-list : family | grep -i "liberation" | head -3 || echo "Liberation Sans not found"
 
+          echo ""
           echo "Checking Ubuntu:"
-          fc-list | grep -i "ubuntu" || echo "Ubuntu fonts not found"
+          fc-list : family | grep -i "ubuntu" | head -3 || echo "Ubuntu fonts not found"
 
+          echo ""
           echo "Checking Latin Modern:"
-          fc-list | grep -i "lm\|latin modern" || echo "Latin Modern fonts not found"
+          fc-list : family | grep -i "lm\|latin modern" | head -3 || echo "Latin Modern fonts not found"
 
           echo ""
           echo "=== Total fonts available: ==="
           fc-list | wc -l
+
+          echo ""
+          echo "=== Checking Arial specifically for XeTeX: ==="
+          fc-match Arial || echo "Arial cannot be matched"
 
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2

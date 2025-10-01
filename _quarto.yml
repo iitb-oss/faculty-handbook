@@ -99,25 +99,9 @@ format:
       - text: |
           \usepackage{fontspec}
           \usepackage{newunicodechar}
-          \IfFontExistsTF{Arial}{
-            \setmainfont{Arial}
-          }{
-            \setmainfont{Liberation Sans}
-          }
-          \IfFontExistsTF{Arial}{
-            \setsansfont[Scale=MatchLowercase]{Arial}
-          }{
-            \setsansfont[Scale=MatchLowercase]{Liberation Sans}
-          }
-          \IfFontExistsTF{Ubuntu Light}{
-            \newfontfamily{\ubuntu}[Scale=0.95]{Ubuntu Light}
-          }{
-            \IfFontExistsTF{Ubuntu}{
-              \newfontfamily{\ubuntu}[Scale=0.95]{Ubuntu}
-            }{
-              \newfontfamily{\ubuntu}[Scale=0.95]{Liberation Sans}
-            }
-          }
+          \setmainfont{Arial}
+          \setsansfont[Scale=MatchLowercase]{Arial}
+          \newfontfamily{\ubuntu}[Scale=0.95]{Arial}
           \newunicodechar{₹}{{\ubuntu ₹\thinspace}}
           \usepackage{afterpage}
     keep-tex: true
