@@ -1,15 +1,15 @@
 /*-- scss:defaults --*/
 
-// Import Ubuntu Light font
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+// Import Noto Sans for Unicode support (rupee symbol, etc.)
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;500;700&display=swap');
 
-// Font variables matching the original setup
-$font-family-monospace: 'Ubuntu Mono', monospace;
-$font-family-sans-serif: 'Latin Modern Sans', 'Ubuntu', sans-serif;
-$font-family-serif: 'Times New Roman', 'Times', serif;
+// Font variables - using Arial as primary font
+$font-family-monospace: 'Consolas', 'Monaco', monospace;
+$font-family-sans-serif: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+$font-family-serif: Arial, 'Helvetica Neue', Helvetica, sans-serif;
 
-// Set primary font to Times New Roman to match original
-$font-family-base: $font-family-serif;
+// Set primary font to Arial
+$font-family-base: $font-family-sans-serif;
 
 // Modern color scheme
 $primary: #0066cc;
@@ -22,36 +22,26 @@ $light: #f8f9fa;
 $dark: #343a40;
 
 // Typography
-$headings-font-family: $font-family-serif;
+$headings-font-family: $font-family-sans-serif;
 $headings-font-weight: 600;
 
 /*-- scss:rules --*/
 
-// Custom font classes to match original LaTeX setup
-.ubuntu {
-  font-family: 'Ubuntu', sans-serif;
-  font-weight: 300;
-  font-size: 0.95em;
+// Rupee symbol fallback using Noto Sans for proper Unicode rendering
+.rupee-symbol {
+  font-family: 'Noto Sans', Arial, sans-serif;
 }
 
-// Special character handling for rupee symbol
-.rupee::before {
-  content: "₹";
-  font-family: 'Ubuntu', sans-serif;
-  font-weight: 300;
-  margin-right: 0.1em;
-}
-
-// Modern book styling
+// Modern book styling with Arial
 body {
-  font-family: 'Times New Roman', 'Times', serif;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
   line-height: 1.6;
   color: #333;
 }
 
-// Enhanced headings
+// Enhanced headings with Arial
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Times New Roman', 'Times', serif;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: 600;
   color: #2c3e50;
   margin-top: 1.5em;
