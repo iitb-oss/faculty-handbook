@@ -1,6 +1,8 @@
 project:
   type: book
   output-dir: docs
+  resources:
+    - .nojekyll
 
 book:
   title: "Faculty Handbook"
@@ -101,8 +103,8 @@ format:
           \usepackage{newunicodechar}
           \setmainfont{Arial}
           \setsansfont[Scale=MatchLowercase]{Arial}
-          \newfontfamily{\ubuntu}[Scale=0.95]{Arial}
-          \newunicodechar{₹}{{\ubuntu ₹\thinspace}}
+          \newfontfamily{\rupeefont}{Noto Sans}[Scale=0.95]
+          \newunicodechar{₹}{{\rupeefont ₹}}
           \usepackage{afterpage}
     keep-tex: true
 

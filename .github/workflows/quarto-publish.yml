@@ -47,6 +47,8 @@ jobs:
             fonts-liberation2 \
             fonts-dejavu-core \
             fonts-dejavu-extra \
+            fonts-noto \
+            fonts-noto-core \
             fontconfig \
             wget \
             unzip \
@@ -95,6 +97,13 @@ jobs:
         uses: quarto-dev/quarto-actions/render@v2
         with:
           to: all
+
+      - name: Disable Jekyll
+        run: |
+          # Create .nojekyll file in docs to prevent Jekyll processing
+          touch docs/.nojekyll
+          echo "Created .nojekyll file in docs/"
+          ls -la docs/.nojekyll
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
