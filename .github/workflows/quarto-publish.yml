@@ -33,18 +33,26 @@ jobs:
           # To install LaTeX to build PDF book
           tinytex: true
 
-      - name: Install system dependencies
+      - name: Install system dependencies and fonts
         run: |
           sudo apt-get update
+
+          # Accept Microsoft EULA for core fonts
+          echo "ttf-mscorefonts-installer msttcorefonts/accepted-mscorefonts-eula select true" | sudo debconf-set-selections
+
+          # Install fonts packages
           sudo apt-get install -y \
+            ttf-mscorefonts-installer \
             fonts-liberation \
+            fonts-liberation2 \
             fonts-dejavu-core \
             fonts-dejavu-extra \
             fontconfig \
             wget \
-            unzip
+            unzip \
+            cabextract
 
-      - name: Install fonts
+      - name: Install additional fonts
         run: |
           # Make install-fonts.sh executable and run it
           chmod +x install-fonts.sh
@@ -53,14 +61,26 @@ jobs:
       - name: Verify fonts and refresh cache
         run: |
           # Update font cache
+          sudo fc-cache -f -v
           fc-cache -f -v
 
           # List available fonts for debugging
           echo "=== Checking for required fonts ==="
-          fc-list | grep -i "arial" || echo "Arial not found (will use Liberation Sans)"
+          echo "Checking Arial:"
+          fc-list | grep -i "arial" || echo "Arial not found"
+
+          echo "Checking Liberation Sans:"
           fc-list | grep -i "liberation sans" || echo "Liberation Sans not found"
+
+          echo "Checking Ubuntu:"
           fc-list | grep -i "ubuntu" || echo "Ubuntu fonts not found"
+
+          echo "Checking Latin Modern:"
           fc-list | grep -i "lm\|latin modern" || echo "Latin Modern fonts not found"
+
+          echo ""
+          echo "=== Total fonts available: ==="
+          fc-list | wc -l
 
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
