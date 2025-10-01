@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # Installs the following fonts:
-# - Times New Roman 
-# - Ubuntu fonts 
+# - Arial (or Liberation Sans as fallback)
+# - Ubuntu fonts
 # - Latin Modern fonts
 # - Latin Modern Math
 #
-# Last updated: September 2025
+# Last updated: October 2025
 
 set -e
 
@@ -176,7 +176,8 @@ verify_fonts() {
     fi
 
     FONTS_TO_CHECK=(
-        "Times New Roman"
+        "Arial"
+        "Liberation Sans"
         "Ubuntu"
         "LM"
     )
@@ -199,8 +200,13 @@ verify_fonts() {
         log_info "Detected font details:"
         for font in "${FOUND_FONTS[@]}"; do
             case $font in
-                "Times New Roman")
-                    fc-list | grep -i "times new roman" | head -3 | while read line; do
+                "Arial")
+                    fc-list | grep -i "arial" | head -3 | while read line; do
+                        log_info "  - ${line%%:*}"
+                    done
+                    ;;
+                "Liberation Sans")
+                    fc-list | grep -i "liberation sans" | head -3 | while read line; do
                         log_info "  - ${line%%:*}"
                     done
                     ;;

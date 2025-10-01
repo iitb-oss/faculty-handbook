@@ -36,13 +36,31 @@ jobs:
       - name: Install system dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y fonts-liberation fonts-dejavu-core fonts-dejavu-extra
+          sudo apt-get install -y \
+            fonts-liberation \
+            fonts-dejavu-core \
+            fonts-dejavu-extra \
+            fontconfig \
+            wget \
+            unzip
 
       - name: Install fonts
         run: |
           # Make install-fonts.sh executable and run it
           chmod +x install-fonts.sh
-          ./install-fonts.sh || echo "Font installation completed"
+          ./install-fonts.sh
+
+      - name: Verify fonts and refresh cache
+        run: |
+          # Update font cache
+          fc-cache -f -v
+
+          # List available fonts for debugging
+          echo "=== Checking for required fonts ==="
+          fc-list | grep -i "arial" || echo "Arial not found (will use Liberation Sans)"
+          fc-list | grep -i "liberation sans" || echo "Liberation Sans not found"
+          fc-list | grep -i "ubuntu" || echo "Ubuntu fonts not found"
+          fc-list | grep -i "lm\|latin modern" || echo "Latin Modern fonts not found"
 
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
