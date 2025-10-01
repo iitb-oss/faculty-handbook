@@ -98,12 +98,17 @@ jobs:
         with:
           to: all
 
-      - name: Disable Jekyll
+      - name: Disable Jekyll and prepare PDF
         run: |
           # Create .nojekyll file in docs to prevent Jekyll processing
           touch docs/.nojekyll
           echo "Created .nojekyll file in docs/"
           ls -la docs/.nojekyll
+
+          # Copy PDF with final name for download
+          cp docs/Faculty-Handbook.pdf docs/IITB-Faculty-Handbook.pdf
+          echo "Copied PDF as IITB-Faculty-Handbook.pdf"
+          ls -lh docs/IITB-Faculty-Handbook.pdf
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

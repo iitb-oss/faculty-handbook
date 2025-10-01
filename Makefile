@@ -7,12 +7,15 @@ MAIN_CONFIG = _quarto.yml
 COVER_PDF = cover.pdf
 TEMPLATE = template.tex
 
-OUT_PDF = out.pdf
+OUT_PDF = IITB-Faculty-Handbook.pdf
 OUT_HTML = out.html
 FACULTY_PDF = docs/Faculty-Handbook.pdf
 DOCS_HTML = docs/index.html
 
 all: $(OUT_PDF) $(OUT_HTML)
+	@echo "Copying final PDF to docs directory..."
+	cp $(OUT_PDF) docs/$(OUT_PDF)
+	@echo "Build complete: $(OUT_PDF) and $(OUT_HTML)"
 
 $(OUT_PDF): $(QMD_FILES) $(MAIN_CONFIG) $(COVER_PDF) $(TEMPLATE)
 	@echo "Building Quarto PDF..."
