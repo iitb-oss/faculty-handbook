@@ -1,0 +1,24 @@
+name: Quarto PR Preview Artifact
+
+on:
+  pull_request:
+    branches: [master]
+
+jobs:
+  build-preview:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-cli-action@v2
+
+      - name: Render Quarto Website
+        run: quarto render
+
+      - name: Upload preview artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: quarto-preview
+          path: ./docs
