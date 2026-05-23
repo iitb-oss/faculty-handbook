@@ -1,3 +1,8 @@
+---
+description: "Leave and vacation policy for IIT Bombay faculty — earned leave, medical leave, maternity/paternity leave, sabbatical, and vacation entitlements."
+keywords: "IITB leave policy, IIT Bombay vacation, sabbatical leave, maternity leave, earned leave faculty"
+---
+
 # Leave and Vacation
 
 During the period of service, an employee is eligible for various
@@ -25,8 +30,9 @@ Vacation is available only to the faculty members of the Institute.
 
 1. A faculty member is entitled to 60 days of vacation during the year. The year for the purpose of vacation is the academic year, that is,  from 1 July to 30 June of the following year. A faculty member joining the Institute any time during the first semester (July-November) is eligible for full vacation while those joining in the second semester (January-April) will be entitled to 30 days of vacation in the year of joining.
 2. The conventional vacation period comprises the months of May, June and December. However, the Institute announces the exact dates every year depending on its academic schedule.
-3. No separate application is made for availing vacation. Each faculty member has to provide his/her vacation plans by filling up the appropriate section on the ERP leave form online.
-4. If a faculty member does not avail the full 60 days vacation in any academic year, 1/3rd of unavailed vacation is converted to Earned leave, and is credited to the earned leave account of the faculty member on 1$^{\text{st}}$ July of the next academic year. Thus, if a faculty avails of a total of $x$ days of vacation during the vacation period, $(60-x)/3$ days of earned leave is credited to his/her earned leave account.
+3. No separate application is made for availing vacation. Each faculty member has to provide his/her vacation plans by filling up the appropriate section on the ERP leave form online at [https://ep.iitb.ac.in/irj/portal](https://ep.iitb.ac.in/irj/portal).
+4. There is no minimum duration requirement for availing vacation — the earlier condition that vacation must be taken for not less than 10 days at a time stands repealed with effect from Summer Vacation 2026.
+5. If a faculty member does not avail the full 60 days vacation in any academic year, 1/3rd of unavailed vacation is converted to Earned leave, and is credited to the earned leave account of the faculty member on 1$^{\text{st}}$ July of the next academic year. Thus, if a faculty avails of a total of $x$ days of vacation during the vacation period, $(60-x)/3$ days of earned leave is credited to his/her earned leave account.
 
 ## Earned Leave
 

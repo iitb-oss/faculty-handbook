@@ -1,3 +1,8 @@
+---
+description: "Closing remarks for the IIT Bombay Faculty Handbook."
+keywords: "IIT Bombay Faculty Handbook, IITB handbook"
+---
+
 # Epilogue {.unlisted .unnumbered}
 
 If you have made it this far, you should now be fairly conversant with

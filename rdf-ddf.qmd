@@ -1,3 +1,8 @@
+---
+description: "Research Development Fund (RDF) and Department Development Fund (DDF) guidelines at IIT Bombay — fund utilisation and approval."
+keywords: "IITB RDF DDF, research development fund, department development fund, IITB fund rules"
+---
+
 # Research Development Fund (RDF) and Department Development Fund (DDF) rules {#sec:rdfddf}
 
 The Institute incentivizes faculty to pursue extramural R&D funding by

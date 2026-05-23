@@ -1,3 +1,8 @@
+---
+description: "Guide to ERP-SAP activities at IIT Bombay — payroll, leave management, travel claims, and administrative workflows."
+keywords: "IITB ERP SAP, IIT Bombay payroll system, travel claims, leave management SAP"
+---
+
 # ERP-SAP Activities
 
 IIT Bombay has recently deployed leading Enterprise Resource Planning

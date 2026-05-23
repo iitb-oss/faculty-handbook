@@ -1,3 +1,8 @@
+---
+description: "How to obtain authorizations and certificates at IIT Bombay — NOC, bonafide certificates, employment verification, and official permissions."
+keywords: "IITB NOC, IIT Bombay certificate, bonafide certificate, employment verification, official authorizations"
+---
+
 # Obtaining authorizations and certificates
 You might find yourself needing various kinds of certificates to be
 submitted for obtaining documents, such as PAN Card from Income Tax

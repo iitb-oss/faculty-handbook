@@ -1,3 +1,8 @@
+---
+description: "Faculty designations and responsibilities at IIT Bombay — roles of Assistant Professor, Associate Professor, Professor, and Institute Chair."
+keywords: "IITB faculty designations, Assistant Professor, Associate Professor, Professor IITB, Institute Chair"
+---
+
 # Faculty designations and responsibilities {#sec:facultygrades}
 This chapter lists the various faculty designations and appointment
 details.

@@ -1,3 +1,8 @@
+---
+description: "General financial rules governing expenditure at IIT Bombay — GFR compliance, delegation of powers, and financial approval procedures."
+keywords: "IITB financial rules, GFR IIT Bombay, expenditure approval, financial powers, procurement rules"
+---
+
 # General Financial Rules
 The General Financial Rules (GFR) are a set of rules to be followed in
 the government department for incurring expenditure and payment of

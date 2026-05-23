@@ -1,3 +1,8 @@
+---
+description: "Salary structure and allowances for IIT Bombay faculty — pay scale, HRA, DA, transport allowance, and academic-grade pay."
+keywords: "IITB faculty salary, IIT Bombay pay scale, HRA, dearness allowance, academic grade pay"
+---
+
 # Salary, allowances etc.
 Your salary is paid directly to your bank account on the last day of
 the month. The _Financial Year_ for tax purposes is from April 1$^{\text{st}}$ of

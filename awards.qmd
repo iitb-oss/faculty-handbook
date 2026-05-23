@@ -1,3 +1,8 @@
+---
+description: "Faculty awards and recognition at IIT Bombay — teaching excellence awards, research awards, and national honours."
+keywords: "IITB faculty awards, IIT Bombay research award, teaching excellence award, national honours faculty"
+---
+
 # Awards
 
 While good teaching and research is likely reward enough, both you and

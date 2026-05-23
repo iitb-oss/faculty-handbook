@@ -1,3 +1,8 @@
+---
+description: "Continuing and executive education programmes at IIT Bombay — CEP, online courses, and professional development offerings."
+keywords: "IITB CEP, continuing education IIT Bombay, executive education, professional development courses"
+---
+
 # Continuing and Executive Education Programmes {#sec:cep}
 
 The office of Educational Outreach (EO) offers courses and programmes

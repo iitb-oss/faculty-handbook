@@ -1,3 +1,8 @@
+---
+description: "Research funding opportunities for IIT Bombay faculty — sponsored projects, IRCC, seed grants, DST, SERB, and industry funding."
+keywords: "IITB research funding, sponsored projects, IRCC, seed grant, DST SERB funding, industry sponsored research"
+---
+
 # Research Funding {#sec:researchfunding}
 
 Research funding could be one of the following three types

@@ -1,3 +1,8 @@
+---
+description: "Appendices to the IIT Bombay Faculty Handbook — supplementary tables, forms, and reference materials."
+keywords: "IIT Bombay Faculty Handbook appendices, IITB forms, reference materials"
+---
+
 # Appendices {.unlisted .unnumbered}
 
 ## More on Housing {#sec:morehousing}

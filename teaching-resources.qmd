@@ -1,3 +1,8 @@
+---
+description: "Resources and support for teaching at IIT Bombay — Moodle, lecture capture, teaching assistants, and pedagogy support."
+keywords: "IITB teaching resources, Moodle IITB, lecture capture, teaching assistants, pedagogy"
+---
+
 # Resources for Teaching {#sec:teachingresources}
 
 Teaching is considered to be an important component of faculty

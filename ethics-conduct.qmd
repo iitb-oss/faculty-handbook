@@ -1,3 +1,8 @@
+---
+description: "Ethics and code of conduct for IIT Bombay faculty — academic integrity, conflict of interest, misconduct procedures, and professional standards."
+keywords: "IITB ethics, IIT Bombay code of conduct, academic integrity, conflict of interest, faculty misconduct"
+---
+
 # Ethics and Code of Conduct
 As a faculty member of a premier Institute of the country, you are always under public scrutiny. It is necessary to maintain a high degree of decorum and integrity at all times. Clearly, it is not possible to give a complete list of what is acceptable and what is not. This section, therefore, deals only with such items as we believe you should be well informed about.
 

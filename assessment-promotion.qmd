@@ -1,3 +1,8 @@
+---
+description: "Assessment and promotion policies for IIT Bombay faculty — APR process, promotion criteria from Assistant to Associate to Full Professor."
+keywords: "IITB promotion policy, faculty APR, IIT Bombay promotion criteria, Associate Professor, Full Professor"
+---
+
 # Assessment and Promotion Policies
 
 ## Application Process

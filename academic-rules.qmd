@@ -1,3 +1,8 @@
+---
+description: "Academic rules at IIT Bombay governing courses, grading, examinations, curriculum, and student assessment."
+keywords: "IITB academic rules, grading policy, examinations, curriculum, IIT Bombay courses"
+---
+
 # Academic Rules {#sec:acadrules}
 
 As a faculty member, the academic responsibilities include: (i)

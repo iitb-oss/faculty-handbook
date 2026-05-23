@@ -1,3 +1,8 @@
+---
+description: "Guidelines for conducting conferences, seminars, and workshops at IIT Bombay — approval, funding, and administrative support."
+keywords: "IITB conference, IIT Bombay seminar, workshop organisation, academic event funding"
+---
+
 # Conducting conferences, seminars and workshops
 You can conduct academic conferences, seminars and workshops on campus
 as well. Conducting an event requires you to write a letter to request

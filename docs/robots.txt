@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saket-choudhary.me/my-iitb-faculty-handbook/sitemap.xml

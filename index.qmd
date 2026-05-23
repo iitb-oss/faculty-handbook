@@ -1,3 +1,8 @@
+---
+description: "The IIT Bombay Faculty Handbook is a comprehensive reference guide for faculty members covering joining procedures, academic policies, research support, financial rules, leave, and life on the Powai campus."
+keywords: "IIT Bombay, Faculty Handbook, IITB, faculty guide, academic policies, IIT faculty"
+---
+
 # Faculty Handbook
 
 Welcome to the IIT Bombay Faculty Handbook - your comprehensive guide to academic life at one of India's premier technological institutes.

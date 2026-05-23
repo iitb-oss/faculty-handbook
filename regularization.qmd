@@ -1,3 +1,8 @@
+---
+description: "Rules for regularization and confirmation of service for IIT Bombay faculty after the probation period."
+keywords: "IIT Bombay regularization, faculty confirmation, probation period, IITB service confirmation"
+---
+
 # Regularization/Confirmation of Service {#sec:regularization}
 
 Under the current norms (viz. [7th Pay Commission

@@ -3,11 +3,31 @@ project:
   output-dir: docs
   resources:
     - .nojekyll
+    - robots.txt
+    - iitb-og-card.png
+
+website:
+  site-url: "https://saket-choudhary.me/my-iitb-faculty-handbook"
+  favicon: "favicon.ico"
 
 book:
-  title: "Faculty Handbook"
+  title: "IIT Bombay Faculty Handbook"
   author: "IIT Bombay"
   date: "2025"
+  description: "The official IIT Bombay Faculty Handbook — a comprehensive guide covering joining procedures, academic rules, research funding, salary, leave, promotion, retirement, and life at the Powai campus."
+  site-url: "https://saket-choudhary.me/my-iitb-faculty-handbook"
+  repo-url: "https://github.com/saketkc/my-iitb-faculty-handbook"
+  repo-actions: [issue]
+  open-graph:
+    title: "IIT Bombay Faculty Handbook"
+    description: "A comprehensive guide for IIT Bombay faculty — covering joining, academic rules, research funding, salary, leave policies, and life on campus."
+    site-name: "IIT Bombay Faculty Handbook"
+    image: "https://saket-choudhary.me/my-iitb-faculty-handbook/iitb-og-card.png"
+  twitter-card:
+    title: "IIT Bombay Faculty Handbook"
+    description: "The official IIT Bombay Faculty Handbook — policies, procedures, and everything faculty need to know."
+    card-style: summary_large_image
+    image: "https://saket-choudhary.me/my-iitb-faculty-handbook/iitb-og-card.png"
   chapters:
     - index.qmd
     - preface.qmd
@@ -106,6 +126,7 @@ format:
           \newfontfamily{\rupeefont}{Noto Sans}[Scale=0.95]
           \newunicodechar{₹}{{\rupeefont ₹}}
           \usepackage{afterpage}
+          \newcounter{none}
     keep-tex: true
 
 execute:

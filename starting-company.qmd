@@ -1,3 +1,8 @@
+---
+description: "Entrepreneurship and startup policy at IIT Bombay — how faculty can start companies based on research and technological breakthroughs."
+keywords: "IITB startup policy, faculty entrepreneurship, IIT Bombay spinoff, research commercialisation"
+---
+
 # Starting a company based on your research/ technological breakthroughs
 The Institute encourages you to capitalize on your research findings
 which have an application potential, through starting your own company

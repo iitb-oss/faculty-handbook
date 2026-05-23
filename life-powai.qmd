@@ -1,3 +1,8 @@
+---
+description: "Life on and around the IIT Bombay Powai campus — housing, schools, transport, recreation, and community life."
+keywords: "IIT Bombay Powai campus life, IITB housing, campus facilities, Powai amenities"
+---
+
 # Life in Powai and beyond
 
 The city of Mumbai offers a wealth of cultural and entertainment

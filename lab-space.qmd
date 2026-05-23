@@ -1,3 +1,8 @@
+---
+description: "Process for lab space allotment at IIT Bombay — how to apply, allocation norms, and managing laboratory facilities."
+keywords: "IITB lab space, IIT Bombay laboratory allotment, research space allocation"
+---
+
 # Lab Space Allotment
 
 As a new faculty (and if you need lab space), you need to contact the

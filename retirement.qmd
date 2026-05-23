@@ -1,3 +1,8 @@
+---
+description: "Retirement and post-retirement benefits for IIT Bombay faculty — superannuation age, gratuity, pension, medical benefits, and re-employment."
+keywords: "IITB retirement, faculty superannuation, pension IIT Bombay, gratuity, post-retirement benefits"
+---
+
 # Retirement and Post-Retirement Benefits {#sec:retirement}
 
 ## Post-retirement Benefits

@@ -1,3 +1,8 @@
+---
+description: "Step-by-step guide for new faculty joining IIT Bombay — offer letters, appointment formalities, housing, bank accounts, and settling in."
+keywords: "IIT Bombay joining, new faculty IITB, appointment formalities, campus housing, faculty onboarding"
+---
+
 # When You Join
 
 Welcome to IIT Bombay's faculty fraternity! The Institute promises you

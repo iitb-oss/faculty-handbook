@@ -1,3 +1,8 @@
+---
+description: "Preface to the IIT Bombay Faculty Handbook — message from the Dean of Faculty Affairs and acknowledgements."
+keywords: "IIT Bombay Faculty Handbook preface, Dean Faculty Affairs, IITB handbook introduction"
+---
+
 \newgeometry{margin=0.5in,top=0in}
 # Preface {.unlisted .unnumbered}
 \vspace{-0.9cm}

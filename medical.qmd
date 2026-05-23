@@ -1,3 +1,8 @@
+---
+description: "Medical facilities available to IIT Bombay faculty and their families — hospital, health centre, reimbursement rules, and CGHS."
+keywords: "IITB medical facilities, IIT Bombay health centre, CGHS, medical reimbursement faculty"
+---
+
 # Medical Facilities
 
 During the period of service, a staff member and his/her dependents (the term _dependent_ is clearly defined in the Service Rules) are provided medical facilities at the IIT Hospital, and whenever required, at various hospitals in the city which are empanelled by the Institute. Medical facility for employee and spouse is also available after retirement on a contributory basis (see the section on PRMS below).

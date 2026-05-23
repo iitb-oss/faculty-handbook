@@ -1,3 +1,8 @@
+---
+description: "Procurement guidelines for IIT Bombay faculty — purchasing goods and services under GFR norms, tender procedures, and financial limits."
+keywords: "IITB procurement, IIT Bombay purchase, GFR procurement, tender, lab equipment purchase"
+---
+
 # Checklist for Procurement of Goods as per General Financial Rules (GFR) norms/ Revision of financial powers by BoG.
 This section discusses some general rules that govern purchases from
 IIT Bombay projects and grants.
