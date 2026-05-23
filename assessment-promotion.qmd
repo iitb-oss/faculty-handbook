@@ -249,7 +249,7 @@ Candidates who meet the following criteria after IFAC approval are to be recomme
 The annual performance appraisal process is in the form of a
 self-assessment. The process should be completed by 31$^{\text{st}}$ March of
 every year and the forms will be filled up online by individual
-faculty member. The self-assessment form includes sections on
+faculty member at the [Faculty Assessment Portal](https://portal.iitb.ac.in/assess/pgfacultylogin.php). The self-assessment form includes sections on
 Teaching, Research and Administration being mandatory and the sections
 on Professional and Extensional activities being optional. The
 methodology of self-assessment, the manner of quantifying performance

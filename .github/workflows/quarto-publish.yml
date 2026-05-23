@@ -106,7 +106,7 @@ jobs:
           ls -la docs/.nojekyll
 
           # Copy PDF with final name for download
-          cp docs/Faculty-Handbook.pdf docs/IITB-Faculty-Handbook.pdf
+          cp docs/IIT-Bombay-Faculty-Handbook.pdf docs/IITB-Faculty-Handbook.pdf
           echo "Copied PDF as IITB-Faculty-Handbook.pdf"
           ls -lh docs/IITB-Faculty-Handbook.pdf
 
