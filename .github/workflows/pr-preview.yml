@@ -2,7 +2,7 @@ name: Quarto PR Preview Artifact
 
 on:
   pull_request:
-    branches: [master]
+    branches: [main]
 
 jobs:
   build-preview:
