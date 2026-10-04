@@ -283,6 +283,8 @@ $if(graphics)$
 % margins by default, and it is still possible to overwrite the defaults
 % using explicit options in \includegraphics[width, height, ...]{}
 \setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% pandoc >= 3.2 wraps images in \pandocbounded; Gin defaults above already bound them
+\providecommand{\pandocbounded}[1]{#1}
 % Set default figure placement to htbp
 \makeatletter
 \def\fps@figure{htbp}
