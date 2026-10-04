@@ -51,8 +51,7 @@ two:
   appear on the NoC. TA claims must be submitted within 15 days of
   completing travel when an advance was drawn, or within 60 days for
   reimbursement (with prior approval of the Dean (FA) for the travel).
-  (*Source:* email from the Dean (FA) to faculty-notices,
-  02.06.2025, with the [checklist on bighome](https://bighome.iitb.ac.in/index.php/s/NXP6CFnE4kxmS2T).)]{.review}
+  (*Source:* [checklist on bighome](https://bighome.iitb.ac.in/index.php/s/NXP6CFnE4kxmS2T).)]{.review}
 
   1. NOC - for test / interview
   2. NOC - for VISA (for attending conference)

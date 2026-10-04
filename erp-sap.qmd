@@ -51,9 +51,7 @@ Currently, following IT systems are available to faculty members:
     reimbursement claim ([my.iitb.ac.in/b/claims](https://my.iitb.ac.in/b/claims/))
     and a Project Dashboard ([my.iitb.ac.in/b/my-projects](https://my.iitb.ac.in/b/my-projects))
     showing each of your sponsored and consultancy projects with funds
-    received, expenditure, blocked amount and available balance. Off
-    campus, use the VPN. (*Sources:* emails from the Head, ASC, to
-    faculty-notices, 02.06.2025 and 10.08.2026.)]{.review}
+    received, expenditure, blocked amount and available balance. Off campus, use the VPN.]{.review}
   - Teaching and learning management is handled through the [Moodle open
     source portal](https://moodle.iitb.ac.in) which is integrated with
     ERP servers. Helpdesk: [moodle.help@iitb.ac.in](mailto:moodle.help@iitb.ac.in).
@@ -73,8 +71,7 @@ Log in at [https://ep.iitb.ac.in/irj/portal](https://ep.iitb.ac.in/irj/portal).
 - *Leave and vacation:* apply for leave, including vacation, on the
   portal. The request goes to the approving authority's worklist on
   the same portal, and an ERP workflow email tells them there is a
-  request to approve. (*Sources:* Circular No. F&SS/VACATION/2026
-  dated 16.03.2026; ERP workflow notifications.)
+  request to approve. (*Source:* Circular No. F&SS/VACATION/2026 dated 16.03.2026.)
 - *Salary statement and income tax projection:* *Employee Self
   Services → ESS Services → Salary Statement and Income Tax
   Projection*. The same screen has *Simulate & Compare Tax Details* to
@@ -95,9 +92,6 @@ Log in at [https://ep.iitb.ac.in/irj/portal](https://ep.iitb.ac.in/irj/portal).
   certificate, etc.) to be handed to your Salary Assistant in the
   Payroll Section. Queries: [payroll@iitb.ac.in](mailto:payroll@iitb.ac.in),
   copy to [arpayroll@iitb.ac.in](mailto:arpayroll@iitb.ac.in).
-  (*Source:* email from Payroll (DR-F&A) to faculty-notices,
-  08.01.2026, "Income Tax : F. Y. 2025-2026 : Declaration of own
-  Investments/Savings".)
 - *Form 16:* the ERP workflow (sender WF_FORM16@iitb.ac.in) emails it
   to you, typically in June.
 - *Medical advance:* you apply on this portal too; see the chapter on

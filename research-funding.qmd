@@ -18,7 +18,7 @@ their research activities at the Institute. Details of this grant are
 as follows:
 
 1. The faculty member should request for a seed grant within 6 months from the date of joining the Institute.
-2. [The maximum duration of a seed grant project is 4 years (except for student fellowship), with no further extension. After the project end date, IRCC closes the project with the approval of the Dean (R&D), and any unspent balance is transferred to the IRCC cost centre. Only national travel is allowed from the seed grant. (*Source:* email from the Office of the Dean (R&D) to faculty-notices, 09.05.2026, "Implementation of Revised Guidelines for Project Management (w.e.f. 15.04.2026)".)]{.review}
+2. [The maximum duration of a seed grant project is 4 years (except for student fellowship), with no further extension. After the project end date, IRCC closes the project with the approval of the Dean (R&D), and any unspent balance is transferred to the IRCC cost centre. Only national travel is allowed from the seed grant.]{.review}
 3. Seed grant proposals should highlight the objectives, expected outcome, time frame, budget with appropriate justification (especially for equipment) and other relevant details. Specify the equipment proposed to be procured under the seed grant.
 4. [The seed grant is up to ₹ 50,00,000 (₹ fifty lakhs), including the
 support for one PhD student in the project mode.]{.review} It can be apportioned
@@ -111,9 +111,7 @@ the agency's. Submit every proposal through IRCC (see below).
 Check the call document for current eligibility and amounts before you
 apply; agencies revise them between calls.
 
-*Sources:* email from the Dean (R&D) to faculty-notices, 21.10.2024,
-"Call for proposals for ANRF Prime Minister Early Career Research Grant
-(PM ECRG)"; the agency pages linked above; [ANRF on
+*Sources:* the agency pages linked above; [ANRF on
 X](https://x.com/ANRFIndia); ICMR, [call for ANVESHAN small grants
 2026](https://www.icmr.gov.in/post/call-for-investigator-initiated-research-proposals-for-icmr-small-extramural-grants-icmr-anveshan-extramural-grants-2026-last-date-march-16-2026-5-00-pm-ist)
 and [deadline

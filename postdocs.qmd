@@ -116,14 +116,5 @@ candidate uploads to the NPDF portal. If the candidate is already an
 IPDF, skip the DPC minutes and route the request through yourself and
 the Head.
 
-*Sources:* [IIT Bombay, Institute Post-Doctoral Fellowship
-(IPDF)](https://www.iitb.ac.in/career/apply/postdoc); email from the
-Dean (FA) office to Heads, 21.04.2025, "Submission of Forms for Future
-PDF Appointments and Temporary faculty appointment" (selection
-procedure agreed at the IFAC meeting of 08.04.2025); email from the
-Dean (FA) office to Heads, 16.05.2025, "Standing Committee meeting for
-PDF Appointments"; F&SS offer letter and instruction sheet for
-Post-Doctoral Fellows (2025); email from the Dean (FA) office to
-faculty-notices, 23.09.2024, "Questionnaire for review of Institute
-Post Doctoral Fellows"; email from the Dean (FA) to faculty-notices,
-09.06.2025, "Submission of Documents for NPDF Applications".
+*Source:* [IIT Bombay, Institute Post-Doctoral Fellowship
+(IPDF)](https://www.iitb.ac.in/career/apply/postdoc).

@@ -51,8 +51,7 @@ A faculty member can be an Associate Faculty of another academic unit.
   other Associate Faculty.
 
 *Source:* [Norms and Policies for Associate
-Faculty](https://bighome.iitb.ac.in/index.php/s/mWFknywxZeoNJXr),
-emailed by the Dean (FA) Office to faculty-notices, 18.02.2026.
+Faculty](https://bighome.iitb.ac.in/index.php/s/mWFknywxZeoNJXr).
 :::
 
 ::: {.review}
@@ -81,10 +80,6 @@ processed in the same way as this internal transfer procedure, with each
 unit's DPC setting the conditions (such as teaching and guidance load)
 and the Standing Committee recommending the appointment.
 
-*Source:* "Proposal for Faculty mobility between academic Units"
-(BoG-approved guidelines) and minutes of a Standing Committee meeting
-on a joint appointment, sent by the Office of the Dean (FA) on
-22.04.2024 as email attachments (no public link).
 :::
 
 ## Professors of Practice
@@ -173,9 +168,7 @@ considers: the application form for appointment of faculty, the
 duration offered, host faculty at IIT Bombay, engagement plan, DPC
 approval date), a detailed CV, and a detailed engagement plan setting
 out the research, teaching or collaborative activities during the
-tenure. The DPC minutes are then attached to the proposal. (*Source:*
-email from the KCDH office, 15.02.2026, with the Institute application
-form and template attached; no public link.)]{.review}
+tenure. The DPC minutes are then attached to the proposal.]{.review}
 
 **Adjunct faculty** are can be retired IIT Bombay faculty members or
 external experts appointed to teach full or half courses. These may be

@@ -57,14 +57,10 @@ Other conditions:
 - All purchase orders for imports continue to be issued by MMD,
   irrespective of value.
 
-*Source:* email from the Deputy Registrar (MMD) to faculty-notices,
-25.07.2025, "Revised purchase process for procurement of scientific
-equipment and consumables" (supersedes the email of 07.07.2025).
-[Summary of research vs routine purchase
+*Sources:* [Summary of research vs routine purchase
 provisions](https://drive.google.com/file/d/1r7x-hsbKa5TDsCqWXruosfJ9Dj5aJiV0/view?usp=sharing)
-· [document linked as "ASC Instructions" in the email (titled "Special
-Provisions for Procurement of Scientific Equipment &
-Consumables")](https://drive.google.com/file/d/1prQ-QWBp6IOGDQ_vY1Y56ianbhXNdEtM/view?usp=sharing)
+· [Special Provisions for Procurement of Scientific Equipment &
+Consumables](https://drive.google.com/file/d/1prQ-QWBp6IOGDQ_vY1Y56ianbhXNdEtM/view?usp=sharing)
 :::
 
 [The sections below apply to routine (non-research) purchases.]{.review}
@@ -110,8 +106,7 @@ Item is priced below Rs. 1 lakh and a direct market purchase is used.
   [Standard Operating Procedure for
   exceptions](http://internal.iitb.ac.in/imcwork/csinfo/gem.pdf)
   (campus network only) applies only to
-  exceptional cases, strictly under exigencies. (*Source:* email from
-  the Deputy Registrar (MMD) to faculty-notices, 28.04.2025.)
+  exceptional cases, strictly under exigencies.
 - *Order of steps for a GeM purchase:* (1) create and approve the PR in
   ERP; (2) source the item on GeM (Direct Market/Bid/Custom Bid/BOQ);
   (3) evaluate bids and prepare the Technical Committee Report
@@ -121,28 +116,19 @@ Item is priced below Rs. 1 lakh and a direct market purchase is used.
   create the DPO in ERP against the pre-approved GeM PR, attaching the
   GeM documents; (8) obtain all approvals in ERP; (9) create the final
   PO in ERP; (10) execute the contract on GeM. Do not process a GeM
-  contract first and create the PO only at payment time. (*Source:*
-  email from the Deputy Registrar (MMD) to faculty-notices, 07.01.2025;
-  [GeM procure-to-pay process
+  contract first and create the PO only at payment time. (*Source:* [GeM procure-to-pay process
   document](https://drive.google.com/file/d/1k2T889j5vx9ofTNeKL4NqoKsJMI7fozk/view?usp=sharing).)
 - *Payment details on GeM:* secondary buyers must update payment
   details against GeM orders immediately (using the Bulk Payment
   Utility). Non-compliance can lead to suspension of the buyer ID or
-  deactivation of IIT Bombay's nodal account. (*Source:* email from the
-  Deputy Registrar (MMD) to faculty-notices, 22.04.2026.)
+  deactivation of IIT Bombay's nodal account.
 - *No brand names in specifications:* procurement documents must not
   name specific brands, makes or trade names (GFR 144(i)(b); Clause
   10(e) of the PPP-MII Order 2017 as amended on 19.07.2024).
   Specifications should be neutral, reasonable and performance-based.
-  (*Source:* email from the Dean (R&D) and Associate Dean (R&D) to
-  faculty-notices, 25.04.2025.)
 - *ERP:* for research purchases, select the ZSCI document type when
   creating the PR; an "Additional Text" field (up to 500 characters)
-  holds the justification and appears on the GFR printout. (*Source:*
-  email from the Head, Application Software Centre, to faculty-notices,
-  24.07.2026.)
+  holds the justification and appears on the GFR printout.
 - *Devices for professional use from donation projects (Dean (ACR)):*
-  attach a scanned, signed "Undertaking" to the PR in ERP. (*Source:*
-  email from the Office of the Dean (ACR) to faculty-notices,
-  21.08.2025.)
+  attach a scanned, signed "Undertaking" to the PR in ERP.
 :::
