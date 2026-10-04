@@ -1,0 +1,129 @@
+---
+description: "Hiring Institute Post-Doctoral Fellows (IPDF) at IIT Bombay: eligibility, fellowship, selection, tenure and extension."
+keywords: "IIT Bombay postdoc, IPDF, Institute Post-Doctoral Fellowship, IITB postdoctoral hiring"
+---
+
+# Institute Post-Doctoral Fellows (IPDF)
+
+An Institute Post-Doctoral Fellow works in your group but draws the
+fellowship from the Institute, so you do not need a project to pay
+for one. The Dean (Faculty Affairs) runs IPDF hiring. In your academic
+unit, the Department Post-doctoral Committee (or the FSC/DPC) screens
+the applications.
+
+## Eligibility
+
+- The candidate should have a fresh PhD, a PhD with less than two
+  years of experience, or a submitted thesis awaiting examination.
+- The candidate should preferably be under 32. SC/ST/OBC-NCL/PwD
+  candidates get age relaxation under Government of India norms.
+- IIT Bombay's own PhD students cannot apply.
+- You can mentor at most two external IPDFs at a time.
+- The call has no last date, so candidates can apply at any time.
+
+## Fellowship
+
+- ₹ 80,000 a month (consolidated), plus HRA at the Government of India
+  rate, currently 30% of the consolidated salary.
+- A non-lapsable contingency grant of ₹ 1,00,000 a year.
+- 30 days of earned leave a year, casual leave, and OPD medical
+  treatment.
+- Support for one international conference during the fellowship,
+  usually after the first year, to present work done at IIT Bombay,
+  and for one national conference each year.
+
+The Institute does not give IPDFs campus housing and pays HRA instead.
+A new fellow can stay in the Guest House at the going rate while
+looking for a flat.
+
+## Selection procedure
+
+The candidate first asks you to be the mentor. With your consent, they
+send the [IPDF application
+form](https://www.iitb.ac.in/sites/default/files/Application%20Form%20-%20for%20IPDF.doc)
+to the Head of your academic unit. Since April 2025 every academic
+unit follows the same seven steps:
+
+1. The candidate submits the application with your consent email
+   attached.
+2. The PDF Screening Committee, FSC or DPC either rejects the
+   application or invites the candidate to give a seminar.
+3. The candidate gives the seminar, online or in person. Circulate the
+   notice widely.
+4. At least three or four faculty members from the area fill in a
+   standard feedback form on the seminar.
+5. The candidate sends two or three referee letters. You add your own
+   detailed letter comparing the candidate with PhD students you have
+   graduated.
+6. The DPC meets in person, reviews the feedback and letters, and
+   decides whether to recommend the candidate. It cannot decide by
+   email or circulation.
+7. The Head presents the case to the Institute Standing Committee for
+   External PDF appointments, with a summary sheet of the unit's
+   applicants. The Standing Committee approves or rejects it.
+
+For each candidate your unit fills in two forms ([templates on
+bighome](https://bighome.iitb.ac.in/index.php/s/94nkwAYee8qqAMB)). The
+Post-doctoral Candidate Evaluation Form rates the seminar, the
+research and publications, and the candidate's teaching and research
+potential, and ends with an overall recommendation. The Summary Sheet
+by Department records the candidate's age against the 32-year cut-off,
+category, publications, thesis submission or graduation date, and how
+many external IPDFs you already mentor. The Dean (FA) office emails
+Heads before each Standing Committee meeting with the date and the
+deadline for uploading these forms.
+
+## Joining
+
+The fellow accepts the offer by email and agrees a joining date with
+you and the Head. They must join in person. On joining, they take the
+joining form to the Faculty and Staff Section (F&SS) with their
+certificates, bank details, PAN and Aadhaar. Security issues the ID
+card, the department sysadmin sets up the LDAP account, and ASC gives
+the ERP licence. To claim HRA, the fellow files the HRA form and rent
+agreement with F&SS.
+
+Before leaving, the fellow completes the no-dues (NDC) process. F&SS
+holds back the last month's salary until they do.
+
+## Duties
+
+The fellow does research with you. The Head may also give them
+reasonable academic or administrative work.
+
+## Tenure and extension
+
+The first appointment is usually for one year. The Institute can
+extend it by up to two more years if the fellow's work is
+satisfactory.
+
+For an extension after the first year, the fellow writes a progress
+report and gives it to you and the Head. The Head forwards it to the
+Dean (FA), and F&SS issues the extension order once the Dean
+approves.
+
+In 2024 and 2025 a committee set up by the Dean (FA) reviewed the IPDF
+programme. It asked faculty about placements, publications, the
+fellows' contribution to their units, TA training and innovation.
+
+## ANRF National Post-Doctoral Fellowship (NPDF)
+
+A candidate applying for an NPDF needs an endorsement from the
+Institute. Send the Dean (FA) office the DPC minutes recommending the
+candidate, and an endorsement letter that you sign as mentor. The
+office returns an endorsement signed by the Registrar, which the
+candidate uploads to the NPDF portal. If the candidate is already an
+IPDF, skip the DPC minutes and route the request through yourself and
+the Head.
+
+*Sources:* [IIT Bombay, Institute Post-Doctoral Fellowship
+(IPDF)](https://www.iitb.ac.in/career/apply/postdoc); email from the
+Dean (FA) office to Heads, 21.04.2025, "Submission of Forms for Future
+PDF Appointments and Temporary faculty appointment" (selection
+procedure agreed at the IFAC meeting of 08.04.2025); email from the
+Dean (FA) office to Heads, 16.05.2025, "Standing Committee meeting for
+PDF Appointments"; F&SS offer letter and instruction sheet for
+Post-Doctoral Fellows (2025); email from the Dean (FA) office to
+faculty-notices, 23.09.2024, "Questionnaire for review of Institute
+Post Doctoral Fellows"; email from the Dean (FA) to faculty-notices,
+09.06.2025, "Submission of Documents for NPDF Applications".

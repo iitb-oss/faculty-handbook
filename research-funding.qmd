@@ -56,6 +56,69 @@ seed grant:
        seed grants will be subject to availability of funds under this
        budget.
 
+## External grants for new faculty
+
+Apply for an external grant in your first year or two. Some schemes,
+PM ECRG among them, accept you only for a short window after you
+join. The Office of the Dean (R&D) emails most calls to
+faculty-notices, usually with an internal deadline a few days before
+the agency's. Submit every proposal through IRCC (see below).
+
+- [ANRF Prime Minister Early Career Research
+  Grant](https://www.anrfonline.in/ANRF/ecrg_anrf?HomePage=New) (PM
+  ECRG) replaced the SERB Start-up Research Grant. It gives up to ₹ 60
+  lakh plus overheads for three years, with no extension. You must hold
+  a PhD in science or engineering (or an MD/MS/MDS/MVSc), be 42 or
+  younger (45 for SC/ST/OBC, PwD and women candidates), and apply
+  within two years of joining. ANRF awards up to 700 a year across all
+  subjects. The call opens once a year in October or November and
+  closes in late November or early December.
+- [ANRF Advanced Research
+  Grant](https://anrfonline.in/ANRF/emr?HomePage=New) (ARG) replaced
+  the SERB Core Research Grant. It funds projects of up to five years
+  and up to ₹ 5 crore in science, engineering and their interfaces
+  with the humanities and social sciences. ARG MATRICS covers the
+  mathematical sciences. ARG pre-proposals are due around May to July,
+  and shortlisted applicants send
+  full proposals later in the year. All ANRF calls appear on
+  [anrfonline.in](https://www.anrfonline.in/).
+- [DBT](https://www.dbtindia.gov.in/latest-announcement) posts its
+  calls for proposals on its announcements page, and you submit
+  through [DBT eProMIS](https://dbtepromis.nic.in/). Most calls are
+  thematic. BioCARe funds women scientists setting up their first
+  independent project.
+- [DBT/Wellcome Trust India
+  Alliance](https://www.indiaalliance.org/applicants/fellowships-at-a-glance)
+  funds biomedical, clinical and public health research. Its Early
+  Career Fellowship is for researchers up to four years past the PhD,
+  and the Intermediate Fellowship for those 4 to 15 years past it.
+  Both run for five years and include research funds.
+- [ICMR](https://www.icmr.gov.in/call-for-proposals) supports health
+  research through investigator-initiated extramural grants, including
+  the ANVESHAN small grants and the NISCHAYAK ANVESHAN intermediate
+  grants. Register and submit on [ICMR
+  e-PMS](https://epms.icmr.org.in/). ICMR opens these calls in late
+  December or January and closes them in March.
+- [DST](https://dst.gov.in/call-for-proposals) issues thematic and
+  bilateral calls, mostly through [onlinedst.gov.in](https://onlinedst.gov.in/).
+  Its open individual research grants moved to ANRF.
+- [CSIR Extramural Research
+  (EMR-II)](https://csirhrdg.res.in/Home/Index/1/Default/3317/62)
+  funds research by faculty in regular positions in science,
+  engineering, agriculture and medicine. Apply on the EMR-II portal
+  when CSIR opens a call.
+
+Check the call document for current eligibility and amounts before you
+apply; agencies revise them between calls.
+
+*Sources:* email from the Dean (R&D) to faculty-notices, 21.10.2024,
+"Call for proposals for ANRF Prime Minister Early Career Research Grant
+(PM ECRG)"; the agency pages linked above; [ANRF on
+X](https://x.com/ANRFIndia); ICMR, [call for ANVESHAN small grants
+2026](https://www.icmr.gov.in/post/call-for-investigator-initiated-research-proposals-for-icmr-small-extramural-grants-icmr-anveshan-extramural-grants-2026-last-date-march-16-2026-5-00-pm-ist)
+and [deadline
+extension](https://x.com/ICMRDELHI/status/2033500742389203155).
+
 ## Sponsored Research Project
 
 Sponsored research projects may be initiated by submitting project
@@ -79,7 +142,7 @@ Some of the sponsoring agencies and their URLs are given below:
   - [Department of Telecommunications (DoT)](https://www.dot.gov.in)
   - [Ministry of Education (MoE)](https://www.education.gov.in/)
   - [Naval Research  Board  (NRB)](https://www.drdo.gov.in/naval-research-board/about-us)
-  - [Science and Engineering Research Board (SERB)](http://serbonline.in)
+  - [Anusandhan National Research Foundation (ANRF), formerly SERB](https://www.anrfonline.in/)
 
 The agencies which can be approached for travel grants for attending
 conferences, seminar, workshops, etc. include DST, CSIR, INSA, UGC and

@@ -315,10 +315,11 @@ retirement.
 
 Faculty and all dependents are eligible to travel by
 air[^airindia]. Employees in Pay Level 9 to 13 are eligible for
-Economy Class, while those in Pay Level 14A are eligible for Business
-Class. Similarly, employees in Pay Levels up to 11 are eligible for
-Second Class AC train fare, while those in Pay Levels 12 and above are
-eligible for First Class AC train fare. Please note that no taxi or
+Economy Class, while those in Pay Level 14 and above (Professors) are
+eligible for Business Class. Similarly, employees in Pay Levels up to
+11 are eligible for Second Class AC train fare, while those in Pay
+Levels 12 and above are eligible for First Class AC train fare. These
+are the same classes as for official tours (see [Domestic travel](cpda.qmd#sec-domestic-ta-da)). Please note that no taxi or
 road mileage is admissible to reach the airport/railway station or for
 internal travel to destination except where road travel is done by
 buses run by Government organizations (for which you will have to

@@ -119,3 +119,36 @@ The hotel limit for conferences, symposia, workshops and project work
 is US $300 per day for a maximum of 7 days, against bills. These rates
 apply from 06.12.2024. (*Source:* [Circular No. REG/BoG-271/2025 dated
 23.01.2025](https://bighome.iitb.ac.in/index.php/s/BM9dyX6YP4fmqdF).)]{.review}
+## Domestic travel: daily allowance rates {#sec-domestic-ta-da}
+
+IIT Bombay pays daily allowance on official tours within India at the
+Government of India rates. The Institute raised these rates from
+01.01.2024, when DA reached 50%:
+
+| Pay level (faculty)                           | Travel class                          | Hotel/day          | Local travel                                       | Food/day |
+|-----------------------------------------------|---------------------------------------|--------------------|----------------------------------------------------|----------|
+| 14 and above (Professor)                      | Air business/club class, or rail AC-I | ₹ 9,375 + taxes    | AC taxi at actuals for official travel within the city | ₹ 1,500  |
+| 12 and 13 (Asst. Prof. Grade I, Assoc. Prof.) | Air economy class, or rail AC-I       | ₹ 5,625 + taxes    | AC taxi, up to 50 km per day within the city        | ₹ 1,250  |
+| 9 to 11 (Asst. Prof. Grade II)                | Air economy class, or rail AC-II      | ₹ 2,813 + taxes    | Up to ₹ 423 per day within the city                 | ₹ 1,125  |
+
+: Domestic tour entitlements w.e.f. 01.01.2024
+
+- Before 2024 the hotel limits were ₹ 7,500, 4,500 and 2,250, the food
+  allowance ₹ 1,200, 1,000 and 900, and local travel ₹ 338. The local
+  travel rules for levels 12 and above stayed the same.
+- Where the state has not set a mileage rate, you get ₹ 30/km by your
+  own car or taxi and ₹ 15/km by auto rickshaw or your own scooter.
+  Journeys on foot earn ₹ 15/km.
+- Claim hotel and taxi costs with bills. The food allowance is a lump
+  sum and needs no vouchers. You get all of it for an absence from
+  headquarters of more than 12 hours, 70% for 6 to 12 hours, and 30%
+  for less than 6 hours (DoE OM, para E(v)). On CPDA claims, journeys
+  under 6 hours get nothing.
+
+*Sources:* [IIT Bombay Circular No. HR-2/HCM-2/TA/2024 dated
+25.07.2024, Revision of Daily Allowance rates on enhancement of DA for
+official tour within
+India](https://bighome.iitb.ac.in/index.php/s/8D6kNN94Qtq9XCA) (rates);
+[DoE OM No. 19030/1/2017-E.IV dated
+13.07.2017](https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf)
+(travel class and other terms, which the circular keeps unchanged).
