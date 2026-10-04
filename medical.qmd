@@ -49,6 +49,51 @@ Though they may not be officially your dependents, the Institute offers OPD faci
 
 When an employee or a dependent is admitted to an outside hospital, up to 90% of the estimated cost can be provided as an advance to the employee.
 
+::: {.review}
+**Applying for a medical advance (online only).** Apply only through
+the EP Portal; the Administration does not accept hard-copy
+applications. The advance can be credited either to the employee's bank
+account or directly to the hospital's account.
+
+1. Visit [https://ep.iitb.ac.in](https://ep.iitb.ac.in) and click
+   *Employee Self-Service*, then *Application for Medical Advance*.
+2. Enter the patient details, whether payment is to be made to the
+   employee account or the hospital account, the reference slip from
+   IITB Hospital and the estimate from the hospital, and upload any
+   other supporting documents.
+3. Click *Check Before Sending* to validate, then *Send Request*.
+
+*Sources:* [Circular No. C&A/Medical/2026 dated
+25.06.2026](https://bighome.iitb.ac.in/index.php/s/ZFw9aSDxLpKiP43);
+email from the Deputy Registrar (F&A) to faculty-notices, 12.02.2026.
+:::
+
+::: {.review}
+**Amended hospital rules (effective 06.12.2024)**
+
+- Emergency hospitalization in any hospital, Government or private, is
+  reimbursable for up to five days.
+- Special medical cases that do not fit any existing category are
+  approved by the Dean (FA) for faculty.
+- Cataract surgery with IOL implantation at an empanelled hospital:
+  package rate of ₹87,200 or actuals; any amount above this is
+  reimbursed at 80%. At a non-empanelled hospital, reimbursement is as
+  per GoI rates.
+- Cardiac angioplasty: package rate of ₹2,25,000 or actuals; any amount
+  above this is reimbursed at 80%.
+- Maternity: Holy Spirit Hospital's standard rates replace Shushrusha
+  Hospital's as the baseline. Delivery at an empanelled hospital is
+  reimbursed as per Institute norms; at a non-empanelled hospital, as
+  per Holy Spirit rates. Pre-natal and post-natal treatment is
+  reimbursed as per Holy Spirit rates.
+- For 4 months after retirement, faculty and staff keep the full
+  medical facility for all entitled dependents, including
+  reimbursement, but without medical advance.
+
+*Source:* [Circular No. C&A/Medical/2025 dated 12.03.2025, Amendment of
+Hospital Policies and Rules](https://bighome.iitb.ac.in/index.php/s/GT5xg8qptzYKWTY).
+:::
+
 For the benefit of staff members staying outside the campus (as also
 for staff on vacation/leave), a list of Medicare Centres/Hospitals is
 approved for OPD treatment. This list can be found on the IIT Bombay

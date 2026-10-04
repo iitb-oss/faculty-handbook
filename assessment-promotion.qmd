@@ -94,6 +94,27 @@ respective academic units for consideration. IFAC takes into account
 the shortlisting done by the academic unit and verifies that the
 criteria approved by the IFAC have been satisfied.
 
+::: {.review}
+**Referees and online submission (Promotions 2026 advertisement)**
+
+- Former (PhD/post-doc) advisers/mentors and co-authors/collaborators
+  can be included in the candidate's referee list, but should not be
+  in the list prepared by the Head/DPC.
+- No IITB faculty member (even a collaborator) is allowed to be a peer
+  reviewer.
+- The candidate fills in four referee names on the last page of the
+  application form and submits it to the Head of the academic unit.
+  The referee list is not uploaded with the application.
+- Applications are uploaded on the OCS portal as a single zip file
+  containing, in order: the summary sheet, the application form
+  (excluding the referee list), the CV, and three best papers.
+
+*Source:* emails from the Dean (FA) Office to faculty-notices,
+03.12.2025 and 31.12.2025, "Advertisement for Faculty Promotions -
+2026". [Eligibility criteria, application form and summary
+sheet](https://drive.google.com/drive/folders/1ehnrsYGzYNHehQ3na-IvZ0fYWlEoREn4?usp=sharing).
+:::
+
 ## Peer Review
 
 Applications approved by IFAC enter into the next stage of peer

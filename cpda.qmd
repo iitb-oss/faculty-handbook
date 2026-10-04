@@ -7,7 +7,8 @@ keywords: "CPDA IIT Bombay, professional development allowance, IITB CPDA rules,
 The CPDA is an MoE provision under which the Institute provides
 faculty at all levels with some level of support for travel (including
 international) and contingency expenses. At the time of writing, the
-allowance amounts to ₹ 3,00,000 for a block period of 3 years. It is to
+allowance amounts to ₹ 3,00,000 for a block period of 3 years [(the
+current block is April 2025 to March 2028)]{.review}. It is to
 be noted that CPDA cannot be utilised by the faculty when he/she is under
 any extraordinary leave.
 
@@ -25,14 +26,48 @@ membership of professional bodies, contingent expenses (includes
 purchase of books and stationery items) [^underreview]. Expenses for a
 conference includes cost of travel (booked through Balmer Lawrie &
 Company, Ashok Travels, or IRCTC), local transport, overseas medical
-insurance, visa fees, registration fee and living expenses @ US $ 365
-per day for the period of conference and two additional days (for
+insurance, visa fees, registration fee and [daily allowance (hotel up
+to US $300 per day plus a per diem of US $100/125/150 per day depending
+on the country)]{.review} for the period of conference and two additional days (for
 travel) preceding/succeeding the conference, subject to a maximum of
 (5+2) days. In case of shortage of funds, the excess expenditure can
 be met from projects and travel grants from other funding agencies.
 
 [^underreview]: The rule is under consideration with higher
     authorities. In case of any changes, the same would be available [here](https://surveys.iitb.ac.in/mod/page/view.php?id=4220#tutorial6).
+    [The ₹2,00,000 conference / ₹1,00,000 contingency split is
+    confirmed for April 2025 to March 2028 by Circular No.
+    C&A/CPDA/2025 dated 03.06.2025.]{.review}
+
+::: {.review}
+**CPDA block April 2025 to March 2028**
+
+- For faculty who join or retire during the block, the contingency
+  amount is sanctioned pro rata.
+- Lab consumables should as far as possible come from the department
+  budget. A claim for lab consumables under CPDA needs the HoD to
+  certify that department funds are not available.
+- Contingency amounts beyond the annual limit can be used at once with
+  prior approval of the Dean (FA) or the competent authority.
+- Settlement of a CPDA advance must be submitted within 15 days of
+  completing the travel; reimbursement claims (when no advance was
+  drawn) within 60 days, with prior approval for the travel. A penalty
+  may apply for late claims.
+- Travel must be booked through Balmer Lawrie & Company, Ashok Travels
+  or IRCTC. Boarding passes and a screenshot of the lowest available
+  airfare at the time of booking must be submitted.
+- Only visa fees, insurance and local road travel count as incidental
+  expenses. Taxi/auto/notary charges for visa appointments, conveyance
+  booking charges, mobile phone, printing/poster, baggage and seat
+  selection charges are not allowed.
+- Daily allowance is paid at 100% for journeys over 12 hours, 70% for 6
+  to 12 hours, and not at all for under 6 hours.
+
+*Source:* [Circular No. C&A/CPDA/2025 dated 03.06.2025, CPDA –
+National/International travel (April 2025 to March
+2028)](https://bighome.iitb.ac.in/index.php/s/Sqsopsz8SeDaCgr), with
+its annexures.
+:::
 
 As per Institute rules following expenses are not allowed using CPDA funds:
 
@@ -63,10 +98,10 @@ International conferences are as follows:
 ----------------------------- -------------- ---------------------------
 Country/ Region               Per Diem (USD) Hotel charges per day (USD)
 ----------------------------- -------------- ---------------------------
-Outside India for Conferences $115           Up to $ 250; amount
-or Seminars                                  payable at actuals (with bills/receipts)
+Outside India for Conferences $100/125/150   Up to $ 300; amount
+or Seminars                   (by country)   payable at actuals (with bills/receipts)
 
-Outside India for Faculty     $115           Would be reimbursed on
+Outside India for Faculty     $100/125/150   Would be reimbursed on
 and Staff Members sent                       actual expenditure incurred
 by the Institute on                          (with bills/receipts) with
 assignments or as a                          special approval of Director.
@@ -76,4 +111,11 @@ on Government work.
 
 If the full hospitality has been provided (boarding and lodging) by
 the organizers, only per diem of 25% of the rates mentioned in the
-table above, that is,  $28.75 will be paid.
+table above [(25% of the per diem rate for the country visited)]{.review} will be paid.
+
+[The per diem of US $100/125/150 depends on the country of visit, as
+per the Annexure of MEA order No. Q/FD/695/03/2000 dated 25.09.2023.
+The hotel limit for conferences, symposia, workshops and project work
+is US $300 per day for a maximum of 7 days, against bills. These rates
+apply from 06.12.2024. (*Source:* [Circular No. REG/BoG-271/2025 dated
+23.01.2025](https://bighome.iitb.ac.in/index.php/s/BM9dyX6YP4fmqdF).)]{.review}

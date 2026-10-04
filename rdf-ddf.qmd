@@ -19,6 +19,38 @@ account. The money in your RDF can be used for attending conferences,
 paying for publishing charges, patenting charges, purchase of laptops,
 etc.
 
+::: {.review}
+**Updates from 2025–26 circulars**
+
+- IRITPP has been merged with RDF. IRCC maintains a document listing the
+  activities and purchases that are allowed (and some that are not)
+  through RDF.
+- Items that border on personal use must be accompanied by a note from
+  the PI on the purpose of the purchase and its relevance to the
+  project/lab, forwarded through the HoD of the project department to
+  the Dean (R&D), using IRCC's "Justification Template for Borderline
+  Personal Items". The PI should give details such as location of use
+  and the overall guest list (for meals). IRCC Accounts processes the
+  bill after the Dean (R&D)'s approval. The same procedure applies to
+  consultancy and government-sponsored projects.
+- Faculty members can buy headphones/AirPods through RDF once in 3
+  years.
+- The RDF project end date is set at the faculty member's
+  superannuation date. On superannuation, IRCC closes the RDF after
+  deducting IRCC expenses/contribution, and any unspent balance is
+  transferred 50% to DDF and 50% to IRCC.
+- Exceptional procurement for project-related expenses from RDF needs
+  the approval of the HoD and the Dean (R&D).
+
+*Sources:* emails from the Dean (R&D) Office to faculty-notices,
+14.08.2025: ["Utilization of
+RDF"](https://rndhelp.ircc.iitb.ac.in/ircc-notifications/faculty-notices/2025-08-14-115400/utilization-rdf)
+and ["Procedure for purchase of items bordering personal
+use"](https://rndhelp.ircc.iitb.ac.in/ircc-notifications/faculty-notices/2025-08-14-104000/procedure-purchase-items-bordering-personal-use-through-consultancy-projects-rdf-and-government-sponsored-projects);
+email from the Office of the Dean (R&D), 09.05.2026, "Implementation of
+Revised Guidelines for Project Management (w.e.f. 15.04.2026)".
+:::
+
 IRCC ploughs back another percentage (again, 15% at the time of
 writing) of the overheads from sponsored projects back into a
 Departmental Development Fund (DDF). The funds therein are intended to

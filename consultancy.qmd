@@ -211,6 +211,28 @@ Terms and Conditions shared by the Institute with the clients.
 
 Note: Earnings for Technology Transfer, Revenue Sharing and Royalty will be governed by the Intellectual Property Policy of the Institute.
 
+::: {.review}
+## Closing a consultancy project (from 15.04.2026)
+
+- A consultancy project whose end date is over must be closed through
+  the DRONA interface within 90 days of the end date, either by
+  submitting the final disbursement or by closing the project directly
+  after submitting the report.
+- Otherwise, as per CPRN norms, 85% of the unspent balance is
+  transferred to the Research Development Fund (RDF) and the
+  remaining 15% is taken as Institute overhead. For example, of an
+  unspent balance of ₹1,20,000, ₹1,02,000 goes to RDF and ₹18,000 is
+  deducted as overhead.
+- An extension needs the funding agency's approval; otherwise a maximum
+  extension of 90 days is allowed at the PI's request.
+- Expenses unrelated to the project are not allowed through the project.
+  The PI should transfer funds to RDF and follow IRCC norms.
+
+*Source:* emails from the Office of the Dean (R&D) to faculty-notices,
+24.04.2026 and 09.05.2026, "Implementation of Revised Guidelines for
+Project Management (w.e.f. 15.04.2026)".
+:::
+
 ## Equity in Lieu of Consultancy
 IIT Bombay has adopted a Start-up policy in line with National
 Innovation and Startup Policy (NISP) formulated by the Ministry of

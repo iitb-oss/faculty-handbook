@@ -29,7 +29,9 @@ The Institute provides a relocation allowance of up to ₹ 5,00,000/-
 for faculty returning from abroad as reimbursement of air fare for
 self, spouse, two children younger than 18 years, and transportation
 of belongings. The limit is ₹ 1,50,000/- for faculty joining from
-within India. As soon as you
+within India. [These rates apply to faculty who join on or after
+06.12.2024. (*Source:* [Circular No. REG/O-2/2025 dated
+09.01.2025](https://bighome.iitb.ac.in/index.php/s/y5zmEm7pfb95HwR).)]{.review} As soon as you
 complete the joining formalities and relocate, you may submit the
 receipts and air tickets to claim this allowance. Settling accounts on
 time applies to all financial transactions!
@@ -42,6 +44,13 @@ Association - through the Office of the Dean (ACR). The paperwork for
 the YFA requires a legal process called Franking that can be completed
 with the assistance of the Administration Section in the Main
 Building.
+
+[The Board (269th meeting, 21.06.2024) renamed the Young Faculty Award
+as the **Young Faculty Fellowship**: ₹3 lakhs per annum for 4 years,
+accorded to newly appointed Assistant Professors and Associate
+Professors. The existing rules of the Young Faculty Award continue to
+apply. (*Source:* [Circular No. Reg/F&SS/2024 dated
+15.01.2025](https://bighome.iitb.ac.in/index.php/s/MHscnHMFz349YHK).)]{.review}
 
 The relocation allowance and YFA are also admissible to Assistant
 Professors (Grade - II), appointed through statutorily constituted
@@ -133,7 +142,7 @@ Immediately on joining:
    form, a form declaring your dependents, a form for joining the New
    Pension Scheme (NPS) and Group Term Scheme Insurance (GTIS).
    a. New faculty have to join the NPS mandatorily, details of which are given in
-   a the [chapter on retirement benefits](#sec:npsnote). (For people who joined on or before 1$^{\text{st}}$ January, 2004, there
+   a the [chapter on retirement benefits](#sec:npsnote). (For people who joined before 1$^{\text{st}}$ January, 2004, there
    was a Pension scheme or a non-pension Contributory Provident Fund).
 
    b. You also need to join the compulsory Group Term Insurance Scheme
@@ -141,6 +150,8 @@ Immediately on joining:
    salary.
 
    Please find a circular in respect of Group Term Insurance Policy implemented from 01-05-2021 [here](https://bighome.iitb.ac.in/index.php/s/djfmgPqgGxNS9N5). You also need the [nomination form](https://bighome.iitb.ac.in/index.php/s/qjR3b5DrekmW8Xw).
+
+   [The policy was renewed with LIC for 01.11.2025 to 31.10.2026 at a premium of ₹15.64 per lakh per month, deducted from salary. New employees are covered automatically from the 1st of the month following joining. The sum assured depends on Cost To Company (CTC): ₹1 crore for CTC of ₹20 lakhs and above; ₹80 lakhs for ₹16–20 lakhs; ₹40 lakhs for ₹8–16 lakhs; ₹25 lakhs for ₹5–8 lakhs; ₹15 lakhs for ₹3–5 lakhs; and ₹12 lakhs below ₹3 lakhs. It is life insurance only, with no savings element. Nominations can be submitted [online](https://surveys.iitb.ac.in/course/view.php?id=792). (*Source:* [Circular No. AO/Admin/GTIP/2025 dated 24.10.2025](https://bighome.iitb.ac.in/index.php/s/ALY7R8ozoQ4BJcd).)]{.review}
 
    b. Attestation Form is to be filled up so that the Institute can do
    a mandatory background check. You will have to provide all

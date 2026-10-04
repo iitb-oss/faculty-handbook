@@ -32,6 +32,7 @@ Vacation is available only to the faculty members of the Institute.
 2. The conventional vacation period comprises the months of May, June and December. However, the Institute announces the exact dates every year depending on its academic schedule.
 3. No separate application is made for availing vacation. Each faculty member has to provide his/her vacation plans by filling up the appropriate section on the ERP leave form online at [https://ep.iitb.ac.in/irj/portal](https://ep.iitb.ac.in/irj/portal).
 4. There is no minimum duration requirement for availing vacation — the earlier condition that vacation must be taken for not less than 10 days at a time stands repealed with effect from Summer Vacation 2026.
+   [Faculty teaching first-year undergraduate courses may avail vacation only after approval from the appropriate authority, subject to submission of grades and completing pending academic responsibilities. Faculty whose annual increment falls due on 1 July must not be on leave on that date (other than casual leave, or a restricted holiday not combined with any other leave); otherwise the increment takes effect from the date of rejoining. (*Source:* Circular No. F&SS/VACATION/2026 dated 16.03.2026, emailed to faculty-notices.)]{.review}
 5. If a faculty member does not avail the full 60 days vacation in any academic year, 1/3rd of unavailed vacation is converted to Earned leave, and is credited to the earned leave account of the faculty member on 1$^{\text{st}}$ July of the next academic year. Thus, if a faculty avails of a total of $x$ days of vacation during the vacation period, $(60-x)/3$ days of earned leave is credited to his/her earned leave account.
 
 ## Earned Leave
@@ -75,6 +76,17 @@ available to the employee, or, when in spite of leave being available,
 the employee specifically desires for the same.
 
 ## Lien
+
+::: {.review}
+The Board of Governors (275th meeting, 21.11.2025) adopted the
+Government of India DoPT OM No. DOPT-1669266628362 dated 24.11.2022 on
+Technical Resignation and Lien. Its provisions apply with immediate
+effect and **supersede the Institute Lien Rules** described below.
+
+*Sources:* [Circular No. Admin./2026 dated
+11.06.2026](https://bighome.iitb.ac.in/index.php/s/dJa9G653MSZ2FBS);
+[DoPT OM dated 24.11.2022](https://bighome.iitb.ac.in/index.php/s/3gDN9ojE9tpoqgN).
+:::
 
 A faculty member may request for keeping lien on his/her post for accepting a job either in India or abroad. Such jobs may be for assignments in private or public sector undertakings. To be eligible for lien, a faculty member must have put in at least 5 years of service after confirmation. The period of lien can be one year at a stretch or two years if the period of service is over 10 years. (Lien period can be for a period of five years for those appointed as Directors or CEOs in a government organization or a public sector unit.)
 

@@ -24,6 +24,69 @@ details.
     - Can be Directors of companies as per Institute norms.
  - *Administration related activities*: Expected to be actively involved in administrative responsibilities as assigned by academic units and the Institute.
 
+::: {.review}
+## Associate Faculty
+
+A faculty member can be an Associate Faculty of another academic unit.
+
+- An Associate Faculty member is expected to contribute to the unit's
+  activities, for example by guiding or co-guiding research students,
+  teaching the unit's courses, serving on committees (mostly for new
+  centres), or undertaking projects routed through the unit. Once
+  approved, this teaching and guidance load may be counted formally at
+  the department or Institute level, including for teaching awards.
+- A unit can acquire an Associate Faculty member by invitation, or by
+  the faculty member applying to the Head of the unit. The faculty
+  member should have played some such role in the previous 3 years
+  (this may be relaxed for new centres).
+- The parent department must endorse the association, and the Head
+  should ensure it does not lead to over-commitment or affect duties
+  to the parent department.
+- The term is three years. Renewal is not automatic and depends on the
+  unit's policy and continued contribution.
+- The Dean (FA) office maintains a database of Associate Faculty with
+  the expiry date of each association.
+- Each unit decides, and documents, how far its Associate Faculty are
+  involved in policy matters such as selection of the Head, faculty and
+  other Associate Faculty.
+
+*Source:* [Norms and Policies for Associate
+Faculty](https://bighome.iitb.ac.in/index.php/s/mWFknywxZeoNJXr),
+emailed by the Dean (FA) Office to faculty-notices, 18.02.2026.
+:::
+
+::: {.review}
+## Moving to another academic unit, and joint appointments
+
+The Board of Governors has approved a procedure for faculty to move
+between academic units, for example with the creation of new
+centres, departments and schools, or to strengthen, rationalize or
+close existing units. A move is recommended by the Director after the
+internal process below and sent to the Chairman, Board of Governors,
+for approval.
+
+1. The faculty member writes to the Heads of the current unit ('X')
+   and the new unit ('Y') about the move.
+2. The faculty member gives the Head of unit X one year's notice to
+   vacate office and lab space. This may be shortened if the space can
+   be vacated sooner.
+3. The DPC of unit X discusses the application and recommends the move.
+4. Unit Y follows its internal procedure for new faculty recruitment and
+   makes a recommendation.
+5. A Standing Committee of the Director, DD (AIA), Dean (FA) and the
+   Heads of X and Y approves the move.
+
+A request for a joint appointment in a second academic unit has been
+processed in the same way as this internal transfer procedure, with each
+unit's DPC setting the conditions (such as teaching and guidance load)
+and the Standing Committee recommending the appointment.
+
+*Source:* "Proposal for Faculty mobility between academic Units"
+(BoG-approved guidelines) and minutes of a Standing Committee meeting
+on a joint appointment, sent by the Office of the Dean (FA) on
+22.04.2024 as email attachments (no public link).
+:::
+
 ## Professors of Practice
 **Professors of Practice** are expected to be top professionals
 (CEO/CTO) with significant experience, typically about 20 years.  They
@@ -103,6 +166,16 @@ with their salaries prevailing at the time of writing are:
   pro rata basis, and are provided free guest house accommodation).
 
 Please note that the salary details for the above appointments are being revised currently.
+
+[To propose a visiting faculty member, the host academic unit's DPC
+considers: the application form for appointment of faculty, the
+"Temporary faculty details" template (affiliation, position and
+duration offered, host faculty at IIT Bombay, engagement plan, DPC
+approval date), a detailed CV, and a detailed engagement plan setting
+out the research, teaching or collaborative activities during the
+tenure. The DPC minutes are then attached to the proposal. (*Source:*
+email from the KCDH office, 15.02.2026, with the Institute application
+form and template attached; no public link.)]{.review}
 
 **Adjunct faculty** are can be retired IIT Bombay faculty members or
 external experts appointed to teach full or half courses. These may be

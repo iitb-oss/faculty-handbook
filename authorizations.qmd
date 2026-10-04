@@ -41,6 +41,19 @@ two:
  Affairs). In these cases, the application should be addressed to the
  Dean (Faculty Affairs), and forwarded on plain paper through Head:
 
+  [For NoC requests for official or personal international visits, and
+  for advance settlement / reimbursement claims, attach the filled and
+  signed [Dean (FA) checklist](https://bighome.iitb.ac.in/index.php/s/NXP6CFnE4kxmS2T)
+  with the hard-copy application. It includes: HoD's "Recommended and
+  Forwarded", the funding source and exact travel dates, the
+  invitation letter (official visits), a screenshot of the leave
+  applied for on ERP, and a passport copy if the passport number must
+  appear on the NoC. TA claims must be submitted within 15 days of
+  completing travel when an advance was drawn, or within 60 days for
+  reimbursement (with prior approval of the Dean (FA) for the travel).
+  (*Source:* email from the Dean (FA) to faculty-notices,
+  02.06.2025, with the [checklist on bighome](https://bighome.iitb.ac.in/index.php/s/NXP6CFnE4kxmS2T).)]{.review}
+
   1. NOC - for test / interview
   2. NOC - for VISA (for attending conference)
   3. NOC - for VISA (Personal visit): should also apply through ERP Portal

@@ -46,6 +46,14 @@ Currently, following IT systems are available to faculty members:
     $\rightarrow$ Helpdesks. For more information, contact
     [helpdesk.basis@iitb.ac.in](mailto:helpdesk.basis@iitb.ac.in),
     [EDP@iitb.ac.in](mailto:EDP@iitb.ac.in).
+  - [MyIITB](https://my.iitb.ac.in) [is the single sign-on portal from
+    ASC for Institute services. It hosts the online newspaper
+    reimbursement claim ([my.iitb.ac.in/b/claims](https://my.iitb.ac.in/b/claims/))
+    and a Project Dashboard ([my.iitb.ac.in/b/my-projects](https://my.iitb.ac.in/b/my-projects))
+    showing each of your sponsored and consultancy projects with funds
+    received, expenditure, blocked amount and available balance. Off
+    campus, use the VPN. (*Sources:* emails from the Head, ASC, to
+    faculty-notices, 02.06.2025 and 10.08.2026.)]{.review}
   - Teaching and learning management is handled through the [Moodle open
     source portal](https://moodle.iitb.ac.in) which is integrated with
     ERP servers. Helpdesk: [moodle.help@iitb.ac.in](mailto:moodle.help@iitb.ac.in).
@@ -56,6 +64,45 @@ The following services for specific activities managed by ASC are available thro
  - [https://surveys.iitb.ac.in](https://surveys.iitb.ac.in) is a self-service portal used for creating your own surveys and content sharing pages.
  - [https://portal.iitb.ac.in/IRBS](https://portal.iitb.ac.in/IRBS) is the interface to book classrooms and view room occupancy/availability.
  - [https://portal.iitb.ac.in/VRP](https://portal.iitb.ac.in/VRP) is a portal used for submitting/tracking ERP related service requests
+
+::: {.review}
+## Using the Employee Portal (ep.iitb.ac.in) for leave, salary and tax
+
+Log in at [https://ep.iitb.ac.in/irj/portal](https://ep.iitb.ac.in/irj/portal).
+
+- *Leave and vacation:* apply for leave, including vacation, on the
+  portal. The request goes to the approving authority's worklist on
+  the same portal, and an ERP workflow email tells them there is a
+  request to approve. (*Sources:* Circular No. F&SS/VACATION/2026
+  dated 16.03.2026; ERP workflow notifications.)
+- *Salary statement and income tax projection:* *Employee Self
+  Services → ESS Services → Salary Statement and Income Tax
+  Projection*. The same screen has *Simulate & Compare Tax Details* to
+  compare the old and new tax regimes. The simulation does not change
+  your actual investment declarations.
+- *Choosing a tax regime:* the new regime applies by default. To
+  switch, go to *Employee Self Services → ESS Services → IT
+  Declaration* and click *Create*. The option window is open from the
+  1st to the 20th of each month, and closes for the financial year
+  from 21 February to 31 March (so the last date is 20 February). Once
+  payroll is processed for the month in which you choose, the regime
+  cannot be changed for that financial year. (*Source:* [User guide for
+  opting Income Tax
+  Regime](https://portal.iitb.ac.in/iitbusermanual/TaxRegimeUserGuide.pdf).)
+- *Investment proofs:* the Payroll Section handles actual investment
+  declarations. Around January each year,
+  Payroll asks for original proofs (Section 80C/80D, home-loan interest
+  certificate, etc.) to be handed to your Salary Assistant in the
+  Payroll Section. Queries: [payroll@iitb.ac.in](mailto:payroll@iitb.ac.in),
+  copy to [arpayroll@iitb.ac.in](mailto:arpayroll@iitb.ac.in).
+  (*Source:* email from Payroll (DR-F&A) to faculty-notices,
+  08.01.2026, "Income Tax : F. Y. 2025-2026 : Declaration of own
+  Investments/Savings".)
+- *Form 16:* the ERP workflow (sender WF_FORM16@iitb.ac.in) emails it
+  to you, typically in June.
+- *Medical advance:* you apply on this portal too; see the chapter on
+  medical facilities.
+:::
 
 ## Resources for ERP support:
   - **Department storekeeper**: For any problem related to purchase and payments from Institute funds.

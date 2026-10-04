@@ -91,7 +91,7 @@ Level 10 or 11, with increments based on experience, plus D.A.
    eligibility criteria for this scale is six years of service as a
    Professor. A maximum of 40% of the total number of Professors can
    be placed in this scale. The corresponding Pay Level is 15, and the
-   salary range is from ₹ 182,000 to ₹ 224,100 per month. Currently,
+   salary range is from ₹ 182,200 to ₹ 224,100 per month. Currently,
    it takes about 12 years to become a HAG scale Professor after
    becoming Professor. Those Professors of CFTIs who are appointed as
    Director in CFTIs by the MoE, shall be deemed to have been placed
@@ -109,6 +109,28 @@ Level 10 or 11, with increments based on experience, plus D.A.
    period. Faculty who hold Chairs receive a salary top up of ₹
    30,000 per month and a contingency grant of ₹ 90,000 per year, in
    addition to their salaries.
+
+   ::: {.review}
+   **Revised from 21.06.2024:**
+
+   - *Chair Professor* (full Professors): ₹9 lakhs per year, made up of
+     a monthly honorarium of ₹50,000 and an annual research grant of ₹3
+     lakhs; 3 years; at most 20% of Professors at a time.
+   - *Chair Faculty* (Associate and Assistant Professors): ₹6.6 lakhs
+     per year, made up of a monthly honorarium of ₹30,000 and an annual
+     research grant of ₹3 lakhs; 3 years; at most 5% of Associate
+     Professors and 5% of Assistant Professors at a time.
+   - *Distinguished Chair* (new; highly accomplished faculty members and
+     emeritus fellows): ₹1 lakh per month and a research grant of ₹5
+     lakhs per year; 3 years; limited to four or five faculty members at
+     any time.
+
+   Other existing terms of Chair Professorship continue.
+   (*Source:* [Circular No. Reg/F&SS/2024 dated
+   15.01.2025](https://bighome.iitb.ac.in/index.php/s/MHscnHMFz349YHK).)
+   [Reviewer: the ₹30,000 per month and ₹90,000 per year figures above
+   predate this circular.]
+   :::
 
 3. _Dearness Allowance:_ A component termed as Dearness Allowance to
    take care of rising prices due to inflation is also a part of your
@@ -241,6 +263,22 @@ town) in the other second two-year block. The four year block also has
 a grace period of one year, that is, the 2024-25 block must be
 utilized (that is outward journey commenced) before 31/12/2026.
 
+```{mermaid}
+%%| label: fig-ltc-block
+%%| fig-cap: "LTC block years: the four-year block 2022-25, made of two two-year blocks, with a one-year grace period."
+gantt
+    dateFormat YYYY-MM-DD
+    axisFormat %Y
+    tickInterval 1year
+    section Four-year block
+    2022-25                       :2022-01-01, 2025-12-31
+    section Two-year blocks
+    2022-23 Home town             :b1, 2022-01-01, 2023-12-31
+    2024-25 Anywhere in India     :b2, 2024-01-01, 2025-12-31
+    section Grace year
+    2024-25 outward journey by    :crit, 2026-01-01, 2026-12-31
+```
+
 ### Eligibility:
 
 The employee appointed on scale must have completed one year of
@@ -270,6 +308,25 @@ block, that is 2024-2027 he/she can avail three home towns and one
 anywhere in India, till he/she completes eight years of service.)
 After the first 8 years of service, the regular LTC rules described
 earlier apply.
+
+```{mermaid}
+%%| label: fig-ltc-new-appointee
+%%| fig-cap: "LTC for a new appointee who joined in 2019: one LTC every year for the first eight years, with the anywhere-in-India LTC on the 4th occasion of each block."
+gantt
+    dateFormat YYYY-MM-DD
+    axisFormat %Y
+    tickInterval 1year
+    section First block
+    Home town          :2020-01-01, 2020-12-31
+    Home town          :2021-01-01, 2021-12-31
+    Home town          :2022-01-01, 2022-12-31
+    Anywhere in India  :crit, 2023-01-01, 2023-12-31
+    section Second block
+    Home town          :2024-01-01, 2024-12-31
+    Home town          :2025-01-01, 2025-12-31
+    Home town          :2026-01-01, 2026-12-31
+    Anywhere in India  :crit, 2027-01-01, 2027-12-31
+```
 
 The all India LTC can be availed only on the 4th occasion of the block and not at random.
 
@@ -307,6 +364,36 @@ administration.
 [^airindia]: Tickets should be booked only through M/S Balmer Lawrie &
     Co. Ltd., M/S Ashok Travels and Tours, or M/S Indian Railways
     Catering and Tourism Corporation Ltd.
+
+::: {.review}
+**Booking air tickets for LTC**
+
+- Air tickets for LTC must be booked through one of the Authorized
+  Travel Agencies: [Balmer Lawrie & Co.
+  Ltd.](https://govemp.balmerlawrietravelapp.com), [Ashok Travels &
+  Tours](https://www.attitdc.in) or [IRCTC](https://www.air.irctc.co.in).
+- Tickets must be booked under the category "LTC", not "Corporate";
+  otherwise the claim cannot be allowed. The ticket must show the word
+  "LTC".
+- Booking on the website of one of these three agents is itself proof
+  that the cheapest fare was booked; no screenshot is needed. (Employees
+  not entitled to air travel who fly under the Special Dispensation
+  Scheme to NER/J&K/A&N/Ladakh must still keep a printout of the flight
+  and fare details for the relevant railhead.)
+- For official travel (TA) by air, no screenshot is required.
+  Employees should choose the "Best Available Fare" in their entitled
+  class, the cheapest fare available, preferably non-stop, in the
+  desired 3-hour time slot on the day of travel, with a 10% price band
+  allowed for convenience.
+
+*Sources:* [Circular No. C&A/LTC/2026 dated
+22.04.2026](https://bighome.iitb.ac.in/index.php/s/yy9CTcPT6WN7gj9);
+[Circular No. C&A/TA/2026 dated
+30.06.2026](https://bighome.iitb.ac.in/index.php/s/3dbY7LDCGHEeKaF);
+[DoPT OM F.No.31011/07/2025-PP.A-IV dated 01.07.2025, FAQs on CCS
+(LTC) Rules](https://bighome.iitb.ac.in/index.php/s/qL3MtQN99Z4byr8),
+circulated to faculty on 05.01.2026.
+:::
 
 ### LTC Advance:
 90% of the estimated cost of journey can be taken as an advance, only
@@ -348,6 +435,24 @@ for internet connection at home.
 To claim this, telephone bills (including mobile bills and bills for
 internet charges) should be submitted to the accounts section. The faculty may choose to submit bills monthly, semi-annually or annually. As it is a reimbursement, no tax liability is due on
 this amount.
+
+::: {.review}
+## Newspaper Reimbursement
+
+Employees at Pay Level 9 and above can claim reimbursement for
+newspapers bought or delivered at their residence, under the circular
+dated 02.01.2019. Claims are made every six months, online at
+[my.iitb.ac.in/b/claims](https://my.iitb.ac.in/b/claims/). The
+Administration announces the deadline for each period; for January to
+June 2026 it was 31.07.2026, and claims after the deadline are not
+accepted. A [user guide (PDF)](https://bighome.iitb.ac.in/index.php/s/ENNsJBZYFzfcc6Z)
+and a [video](https://bighome.iitb.ac.in/index.php/s/ELTtgTnEoLG2SmL)
+explain the claim form.
+
+*Source:* [Circular No. Admin/NR/2026 dated
+13.07.2026](https://bighome.iitb.ac.in/index.php/s/Q7HPWADPbmLgGJq),
+emailed to faculty-notices on 16.07.2026.
+:::
 
 ## Children's Education Allowance
 Expenses incurred in admitting upto two children through school (from Jr. KG to twelfth class) can be reimbursed.

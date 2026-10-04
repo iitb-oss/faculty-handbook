@@ -38,4 +38,4 @@ one's contributions are to be assessed, these weightages shall apply.
 
 [^servicedetails]: _Service_ includes administration as well as  contributions to the society at large and  to the profession. The latter contributions are usually through participation in  extension activities (continuing education, consultancy, etc., on which more in further sections),  membership of professional bodies, governmental committees, journal reviewerships and editorships and so on.
 
-The various designations of faculty in the Institute, along with their responsibilities, is listed in the [next chapter](#sec:facultygrades).
+The various designations of faculty in the Institute, along with their responsibilities, is listed in the [chapter on Faculty Designations](#sec:facultygrades).

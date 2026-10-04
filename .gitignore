@@ -5,3 +5,16 @@ out.docx
 
 /.quarto/
 **/*.quarto_ipynb
+
+# Notes and scratch docs (handbook source is .qmd)
+*.md
+!README.md
+chatbot/
+*.tex
+
+# Stray render artifacts outside docs/
+/*_files/
+/site_libs/
+
+# Build output; CI renders and deploys it
+docs/

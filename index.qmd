@@ -40,3 +40,7 @@ Each section is designed to be self-contained while cross-referencing related to
 ---
 
 *This handbook is regularly updated to reflect changes in institute policies and procedures. For the most current information, please refer to official institute communications and policy documents.*
+
+To suggest a correction or an addition, email Suyash Ulhas Bire
+([suyashb@iitb.ac.in](mailto:suyashb@iitb.ac.in)) or Saket Choudhary
+([saketc@iitb.ac.in](mailto:saketc@iitb.ac.in)).

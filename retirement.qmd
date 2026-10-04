@@ -60,7 +60,7 @@ features of these schemes are as follows.
      after one year of superannuation, you may be required to undergo
      a medical examination. As experts will tell you that it is good
      to commute pension, an illustration of how it works is given
-     below (the example is actually appropriate to a Professor
+     below (the example is actually appropriate to a HAG scale Professor
      retiring at the top of the Pay Level):
 
     Suppose your basic salary was ₹ 224,100 per month at the time of
@@ -125,9 +125,9 @@ or after 1st April 2021 exceeds ₹ 5 Lakhs (for GPF) & ₹ 2.5 lakh
 over ₹ 5 Lakhs (for GPF) and ₹ 2.5 lakh (for CPF) shall be taxable
 in the hands of the employee.
 
-Accumulated GPF/CPF fund received at the time of retirement is tax exempted. --- Pg. No 88
+Accumulated GPF/CPF fund received at the time of retirement is tax exempted.
 
-[^commutation]: The factor reduces if you make the offer later, becoming 7.431,7.262, 7.083 and 6.897 if the age on your next birthday at the time of making the offer is respectively 67,68, 69 and 70. The factor for a person whose age next birthday is 65 is
+[^commutation]: The factor reduces if you make the offer later, becoming 7.431,7.262, 7.083 and 6.897 if the age on your next birthday at the time of making the offer is respectively 67, 68, 69 and 70.
 
 ### Encashment of Leave at the time of Superannuation
 A maximum 300 days of earned leave may be accumulated by an
@@ -135,7 +135,7 @@ employee. All unutilized earned leave up to this maximum duration is
 encashable at the time of superannuation. The rate of encashment is
 the total emoluments (basic + D.A.) per day on the date of retirement
 assuming a month to consist of 30 days. The approximate encashment of
-300 days of leave that a Professor can expect at the time of
+300 days of leave that a HAG scale Professor can expect at the time of
 superannuation is ₹ 224,100 + D.A. (28% at the time of writing) = ₹
 28,68,480. Thus, at the time of superannuation, a faculty member can
 expect:

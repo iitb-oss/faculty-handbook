@@ -244,3 +244,12 @@ img {
     font-size: 0.8em;
   }
 }
+/* Additions from 2025-26 circulars, highlighted until reviewed */
+.review {
+  background-color: #fff59d;
+}
+div.review, section.review {
+  padding: 0.6em 0.9em;
+  margin: 1em 0;
+  border-left: 4px solid #f9a825;
+}

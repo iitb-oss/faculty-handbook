@@ -5,6 +5,8 @@ project:
     - .nojekyll
     - robots.txt
     - iitb-og-card.png
+    - google7de73c713dfe669a.html
+  post-render: seo-postrender.py
 
 website:
   site-url: "https://saket-choudhary.me/my-iitb-faculty-handbook"
@@ -13,19 +15,15 @@ website:
 book:
   title: "IIT Bombay Faculty Handbook"
   author: "IIT Bombay"
-  date: "2025"
+  date: "October 2026"
   description: "The official IIT Bombay Faculty Handbook — a comprehensive guide covering joining procedures, academic rules, research funding, salary, leave, promotion, retirement, and life at the Powai campus."
   site-url: "https://saket-choudhary.me/my-iitb-faculty-handbook"
   repo-url: "https://github.com/saketkc/my-iitb-faculty-handbook"
   repo-actions: [issue]
   open-graph:
-    title: "IIT Bombay Faculty Handbook"
-    description: "A comprehensive guide for IIT Bombay faculty — covering joining, academic rules, research funding, salary, leave policies, and life on campus."
     site-name: "IIT Bombay Faculty Handbook"
     image: "https://saket-choudhary.me/my-iitb-faculty-handbook/iitb-og-card.png"
   twitter-card:
-    title: "IIT Bombay Faculty Handbook"
-    description: "The official IIT Bombay Faculty Handbook — policies, procedures, and everything faculty need to know."
     card-style: summary_large_image
     image: "https://saket-choudhary.me/my-iitb-faculty-handbook/iitb-og-card.png"
   chapters:
@@ -92,7 +90,7 @@ format:
       body-width: 900px
       margin-width: 200px
     page-footer:
-      left: "© 2025 IIT Bombay"
+      left: "© 2026 IIT Bombay"
       right: "Faculty Handbook"
     downloads: [pdf]
     include-after-body: _include-after-body.html

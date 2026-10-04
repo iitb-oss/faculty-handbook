@@ -29,3 +29,13 @@ regard to restaurants, cafes etc. It is also generally
 well-provisioned, in terms of everything from doctors and chemists to
 yoga and arts classes - however, one does not need to leave campus for
 most of these!
+
+[To keep track of what is happening on campus, you can use
+**InstiApp**, built by DevCom, IIT Bombay, a student group. It is available on the web at [insti.app](https://insti.app/) and
+as an [Android
+app](https://play.google.com/store/apps/details?id=app.insti.flutter).
+It has a feed of campus updates, the Institute calendar
+of events, the placement blog and Insti news collated from major
+bodies, a directory of clubs and communities, the mess menu, a campus
+map (InstiMap), quick links to important Institute resources, and
+emergency contacts.]{.review}
