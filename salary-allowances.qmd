@@ -263,21 +263,7 @@ town) in the other second two-year block. The four year block also has
 a grace period of one year, that is, the 2024-25 block must be
 utilized (that is outward journey commenced) before 31/12/2026.
 
-```{mermaid}
-%%| label: fig-ltc-block
-%%| fig-cap: "LTC block years: the four-year block 2022-25, made of two two-year blocks, with a one-year grace period."
-gantt
-    dateFormat YYYY-MM-DD
-    axisFormat %Y
-    tickInterval 1year
-    section Four-year block
-    2022-25                       :2022-01-01, 2025-12-31
-    section Two-year blocks
-    2022-23 Home town             :b1, 2022-01-01, 2023-12-31
-    2024-25 Anywhere in India     :b2, 2024-01-01, 2025-12-31
-    section Grace year
-    2024-25 outward journey by    :crit, 2026-01-01, 2026-12-31
-```
+![LTC block years: the four-year block 2022-25, made of two two-year blocks, with a one-year grace period.](images/ltc-block.png){#fig-ltc-block}
 
 ### Eligibility:
 
@@ -309,24 +295,7 @@ anywhere in India, till he/she completes eight years of service.)
 After the first 8 years of service, the regular LTC rules described
 earlier apply.
 
-```{mermaid}
-%%| label: fig-ltc-new-appointee
-%%| fig-cap: "LTC for a new appointee who joined in 2019: one LTC every year for the first eight years, with the anywhere-in-India LTC on the 4th occasion of each block."
-gantt
-    dateFormat YYYY-MM-DD
-    axisFormat %Y
-    tickInterval 1year
-    section First block
-    Home town          :2020-01-01, 2020-12-31
-    Home town          :2021-01-01, 2021-12-31
-    Home town          :2022-01-01, 2022-12-31
-    Anywhere in India  :crit, 2023-01-01, 2023-12-31
-    section Second block
-    Home town          :2024-01-01, 2024-12-31
-    Home town          :2025-01-01, 2025-12-31
-    Home town          :2026-01-01, 2026-12-31
-    Anywhere in India  :crit, 2027-01-01, 2027-12-31
-```
+![LTC for a new appointee who joined in 2019: one LTC every year for the first eight years, with the anywhere-in-India LTC on the 4th occasion of each block.](images/ltc-new-appointee.png){#fig-ltc-new-appointee}
 
 The all India LTC can be availed only on the 4th occasion of the block and not at random.
 
