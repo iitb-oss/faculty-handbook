@@ -78,6 +78,50 @@ other information regarding a course is the internally hosted
 [Moodle](https://moodle.iitb.ac.in) learning platform. More guidance on
 using Moodle effectively is available [here](https://drive.google.com/drive/folders/1U6Z1m-9cR-fP9KWMIqjAWZdOXtJ_lNCf).
 
+Some instructors use external platforms alongside or instead of
+Moodle:
+
+- [Piazza](https://piazza.com) is a class discussion forum where
+  students post questions and answer each other. **Students can post
+  anonymously to their classmates**, so shy students ask questions
+  they would not ask in class. You can also post course material and
+  announcements and run polls there.
+- [Gradescope](https://www.gradescope.com) is built for **online
+  grading and regrades**. You and your TAs grade scanned handwritten
+  answer scripts against a shared rubric, which speeds up grading
+  large classes and keeps it consistent. Students see their graded
+  scripts online and file regrade requests against specific
+  questions, which replaces the in-person "crib" session. It also
+  runs online quizzes, exams and assignments.
+
 We also encourage you to see the [PwD awareness website](https://sites.google.com/view/iitb-pwdcell-training) to get some
 insight on how you can make the learning experience more suited for
 students who face certain disabilities.
+## Academic malpractice
+
+If you catch a student copying in an exam or plagiarising an
+assignment, follow the Institute's
+standard operating procedure rather than deciding the penalty on your
+own. The Academic Office lists the procedure on its
+[Academic Malpractices page](https://acad.iitb.ac.in/academicMalpractices).
+The penalties for each kind of offence are in the
+[Senate-approved list of punishments](https://acad.iitb.ac.in/sites/default/files/Acad%20Malpractice%20punishments%20Senate%20approved.pdf).
+
+## Student wellness
+
+You may be the first to notice a student who is struggling, from
+missed classes or a sudden drop in grades. Talk to the student, and
+point them to the people below.
+
+- [Student Wellness Centre (SWC)](http://swc.iitb.ac.in/home) offers
+  free, confidential counselling to students.
+- [Flourishing IITB](https://www.flourishing-iitb.org/) is an
+  initiative on student well-being at IIT Bombay.
+- [Saathi](https://www.saathiiitb.com/) is the LGBTQ+ resource group
+  of IIT Bombay.
+- The [Gender Cell](http://www.iitb.ac.in/resources/gendercell)
+  handles complaints of sexual harassment and works on gender
+  sensitisation (see the chapter on Ethics and Code of Conduct).
+- The [SC/ST Students Cell](https://www.scstcell.iitb.ac.in/) handles
+  the concerns and grievances of SC/ST students, including
+  caste-based discrimination.

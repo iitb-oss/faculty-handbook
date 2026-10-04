@@ -1,0 +1,124 @@
+---
+description: "Hosting interns at IIT Bombay: the IRCC-funded IITB Research Internship Award, and self-funded external project/internship students through the Academic Office."
+keywords: "IIT Bombay internship, IITB Research Internship Award, IRCC internship, external project student, visiting student fees"
+---
+
+# Hosting Interns
+
+You can host an undergraduate or master's student from another
+institute in two ways. Under the IRCC scheme the Institute pays the
+intern. Otherwise the student registers through the Academic Office
+and pays a fee to IIT Bombay.
+
+## IITB Research Internship Award (IRCC)
+
+The Dean (R&D) runs this scheme through IRCC. It brings non-IITB
+undergraduates to work in your group for 4 or 6 months, and IRCC pays
+the stipend. Details and archives of earlier years are at
+<https://www.ircc.iitb.ac.in/IRCC-Webpage/IITBInternship/> and
+<https://rndhelp.ircc.iitb.ac.in>.
+
+### What IRCC pays
+
+- A stipend of ₹ 15,000 a month to the intern, paid pro rata by the
+  10th of each month once you submit the intern's attendance.
+- A contingency grant of ₹ 75,000 to you as host. The rules for using
+  it are in the IRCC
+  [Internship Norms](https://rndhelp.ircc.iitb.ac.in/sites/default/files/node/1348/InternshipNorms2022-07-01.pdf).
+  Date bills no later than the intern's last working day and submit
+  them within a month of it.
+
+IRCC funds one intern per faculty member. You can float more than
+one proposal through the scheme, but you pay for the extra interns
+from your own project.
+
+### When it is announced
+
+IRCC follows much the same calendar each year. The 2025-26 dates
+were:
+
+| Activity | Typical timing |
+|---|---|
+| Call to faculty on faculty-notices; proposals open on Drona | Late July |
+| Last date for faculty proposals | Early August (about 10 days after the call) |
+| Call to applicants across the country | Early August |
+| Last date for applications | Early September |
+| Department shortlists sent to IRCC | Mid September |
+| Interviews | Early to mid October |
+| Offers to candidates | Early November |
+| Interns join | Mid to late January |
+| Poster presentation at LHC | Late May |
+| Internship ends | Mid May (4 months) or mid July (6 months) |
+
+The proposal window is short, so watch faculty-notices in July.
+
+### How to take part
+
+1. Log in to [Drona](http://drona.ircc.iitb.ac.in) with your LDAP ID
+   and go to **IITB Research Internship Award → Submit Proposal**. You
+   choose a 4- or 6-month duration here. If you hosted an intern the
+   previous year, Drona asks for feedback on that intern before it
+   lets you submit.
+2. Shortlist applicants with your department's internship
+   coordinator. Applicants should be in the top 20% of their class at
+   their parent institute. You have to tick a box confirming you have
+   verified their documents.
+3. Interview the shortlisted candidates and send the final selection
+   to IRCC.
+
+### Rules for interns
+
+- Interns get only 5 days of leave in the whole internship. IRCC cuts
+  the stipend for any absence beyond that, or any absence without
+  your permission.
+- Interns can work online only to a limited extent.
+- Your department office or you start the request for a temporary
+  I-card from the Security Section.
+- Interns can use the Central Library.
+- Interns do not get OPD at the IITB Hospital and IRCC does not
+  reimburse medical bills. Ask them to buy their own medical and
+  accident insurance.
+- IRCC arranges shared hostel accommodation with mess, paid for by
+  the intern, subject to availability. An intern who does not need
+  accommodation can join as early as December.
+- The parent institute's NOC must include an IP clause.
+
+Queries go to <internship@ircc.iitb.ac.in>.
+
+## Self-funded interns through the Academic Office
+
+Any other student who wants to do a project or internship in your
+group, for example a summer intern or a student doing their degree
+project at IIT Bombay, registers through the Academic Office as an
+external project student. The student pays a fee to the Institute.
+The rules, forms and current fees are at
+<https://acad.iitb.ac.in/admissions/internship>.
+
+### Fees
+
+| Project work | Fee (non-refundable) |
+|---|---|
+| Project work, 8 weeks | ₹ 15,000 |
+| Degree project (B.E./B.Tech./M.Sc./MCA), up to 6 months | ₹ 40,000 |
+| Master's project (M.Tech. level), up to 6 months | ₹ 50,000 |
+| Master's project (M.Tech. level), 6 months to 1 year | ₹ 60,000 |
+
+Hostel and mess charges are extra. Check the Academic Office page
+before you quote fees to a student, since they change.
+
+### Accommodation
+
+The fee does not include a hostel room. If your intern needs one,
+write to the Dean (Academic Programmes) and the Dean (Hostel Affairs)
+well before the student arrives to ask for accommodation. Summer
+rooms fill up fast.
+
+### Foreign students
+
+Foreign students (for example, those funded by Fulbright or DAAD)
+come in as visiting students through the Office of the Dean
+(International Relations), which has its own fee structure. When you
+give such a student a letter of invitation or affiliation, copy it to
+<ir.incoming@iitb.ac.in>. The letter should say that the student must
+not plan travel until they get an offer letter from the IR office,
+which states the fees.
