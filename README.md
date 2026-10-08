@@ -1,6 +1,7 @@
 # IIT Bombay Faculty Handbook
 
 This repository contains the IIT Bombay Faculty Handbook built with Quarto.
+https://iitb-oss.github.io/faculty-handbook/
 
 ## Features
 
