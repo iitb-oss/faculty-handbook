@@ -1,7 +1,7 @@
 # post-render SEO fixes; Quarto emits no canonical link or og:url
 import os, re, pathlib
 
-SITE = "https://saket-choudhary.me/my-iitb-faculty-handbook/"
+SITE = "https://iitb-oss.github.io/faculty-handbook/"
 out = pathlib.Path(os.environ.get("QUARTO_PROJECT_OUTPUT_DIR", "docs"))
 
 for page in out.glob("*.html"):

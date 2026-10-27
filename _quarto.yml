@@ -9,7 +9,7 @@ project:
   post-render: seo-postrender.py
 
 website:
-  site-url: "https://saket-choudhary.me/my-iitb-faculty-handbook"
+  site-url: "https://iitb-oss.github.io/faculty-handbook"
   favicon: "favicon.ico"
 
 book:
@@ -17,15 +17,18 @@ book:
   author: "IIT Bombay"
   date: "October 2026"
   description: "The official IIT Bombay Faculty Handbook — a comprehensive guide covering joining procedures, academic rules, research funding, salary, leave, promotion, retirement, and life at the Powai campus."
-  site-url: "https://saket-choudhary.me/my-iitb-faculty-handbook"
-  repo-url: "https://github.com/saketkc/my-iitb-faculty-handbook"
+  site-url: "https://iitb-oss.github.io/faculty-handbook"
+  repo-url: "https://github.com/iitb-oss/faculty-handbook"
   repo-actions: [issue]
+  sidebar:
+    logo: iitb_logo.png
+    logo-alt: "IIT Bombay logo"
   open-graph:
     site-name: "IIT Bombay Faculty Handbook"
-    image: "https://saket-choudhary.me/my-iitb-faculty-handbook/iitb-og-card.png"
+    image: "https://iitb-oss.github.io/faculty-handbook/iitb-og-card.png"
   twitter-card:
     card-style: summary_large_image
-    image: "https://saket-choudhary.me/my-iitb-faculty-handbook/iitb-og-card.png"
+    image: "https://iitb-oss.github.io/faculty-handbook/iitb-og-card.png"
   chapters:
     - index.qmd
     - preface.qmd
