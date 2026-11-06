@@ -230,7 +230,7 @@ in which IIT Bombay has its teaching and research activities are those of
 Engineering, Science, Humanities & Social Sciences, Management, Design, Educational Technology,
 Entrepreneurship and Policy ([more
 details](https://www.iitb.ac.in/divisions)). Academic
-programmes in these areas are hosted in 29 academic units.
+programmes in these areas are hosted in [34]{.review} academic units.
 
 Broadly speaking:
 
@@ -291,7 +291,13 @@ Below is a list of departments, centres, schools and other academic units.
 1. [Centre for Machine Intelligence and Data Science (C-MinDS)](https://www.minds.iitb.ac.in/)
 1. [Centre of Studies in Resources Engineering (CSRE)](http://www.csre.iitb.ac.in/)
 1. [Centre for Technology Alternatives for Rural Areas (CTARA)](http://www.ctara.iitb.ac.in/)
+1. [[Centre for Sophisticated Instruments and Facilities (CSIF)](https://www.csif.iitb.ac.in/)]{.review}
 1. [Koita Centre for Digital Health (KCDH)](https://www.kcdh.iitb.ac.in/)
+1. [[Centre for Defence Technology Innovations and Strategies (CDTIS)](https://cdtis.iitb.ac.in/)]{.review}
+1. [[Centre for Semiconductor Technologies (SemiX)](https://www.semix.iitb.ac.in/semix/)]{.review}
+1. [[Centre for Traditional Indian Knowledge and Skills (CTIKS)](https://ctiks.iitb.ac.in/)]{.review}
+1. [[Medical Technology Research and Innovation Centre (MED-TRIC)](https://medtric.iitb.ac.in/)]{.review}
+1. [[Motilal Oswal Centre for Capital Markets (MOCCM)](https://www.som.iitb.ac.in/moccm/)]{.review}
 
 In addition to the above, the [IITB-Monash Research Academy
 (<strong>Section 8 Company</strong>)](http://www.iitbmonash.org/),
@@ -332,7 +338,7 @@ who are updated of the issues of the faculty in the academic unit.
 
 These Centres host a large number of sophisticated equipment and advanced facilities for carrying out R&D activities at IIT Bombay. The following are the research facilities at IIT Bombay:
 
-1. [Centre for Semiconductor Technologies (SemiX)](https://www.semix.iitb.ac.in/semix/)
+1. [[Centre for Sophisticated Instruments and Facilities (CSIF)](#sec-csif)]{.review}
 1. [Centre of Excellence in Steel Technology(CoEST)](https://www.iitb.ac.in/mems/en/research/coest#:~:text=Indian%20Institute%20of%20Technology%20Bombay%20(IIT%20Bombay)%20establish%20a%20Centre,Board%20of%20Governors%2C%20IIT%20Bombay.)
 1. [Centre of Excellence in Oil, Gas and Energy (CoE-OGE)](http://www.coeoge.iitb.ac.in/)
 1. [DRDO-Industry-Academia Centre of Excellence (DIA-CoE)](https://www.iitb.ac.in/taxonomy/term/142)
@@ -348,6 +354,23 @@ These Centres host a large number of sophisticated equipment and advanced facili
 1. Water Innovation Centre: Technology, Research and Education (WICTRE)
 1. [Sunita Sanghi Centre of Ageing and Neurodegenerative Diseases (SCAN)](https://www.scan.iitb.ac.in/)
 1. [Centre of Excellence on Membrane Technologies for Desalination, Brine Management, and Water Recycling](https://www.desaltm.in/)
+
+::: {.review}
+#### Centre for Sophisticated Instruments and Facilities (CSIF) {#sec-csif}
+
+[CSIF](https://www.csif.iitb.ac.in/) runs the Institute's central research facilities, including SAIF, from the SAIF building. CRNTS has been subsumed into it. It houses 171 research facilities and admits PhD students through the CReST programme. Contact: head.csif@iitb.ac.in or office.csif@iitb.ac.in.
+
+**Using the facilities.** [instruments.iitb.ac.in](https://instruments.iitb.ac.in/) lists the facilities by group, such as spectroscopy and microscopy, and links to each facility's page. Availability, training sessions and calls for student Teaching Assistants for the instruments are announced on faculty-notices.
+
+**CReST PhD programme.** Through Collaborative Research on Science and Technology (CReST), faculty can recruit PhD students for interdisciplinary projects that depend on CSIF's instruments. CSIF calls for topics on faculty-notices. Under the rules in the latest call:
+
+- Each topic needs a Guide and a Co-guide from two different academic units, and the Guide must state the Co-guide's contribution.
+- A faculty member can float one topic as PI in the TA/FA/SW/SF/IS/CT/EX categories and submit at most two topics as PI or Co-PI. TAP/PS topics have no numerical limit.
+- A Guide or Co-guide allotted a TA-category student is not allotted another for three years.
+- Admitted students do TA duty in CSIF whatever their financial support. Externally registered students who do not live on campus and full-time Institute staff are exempt.
+
+**Funding for central facilities.** The Research Infrastructure Funding Committee (RIFC) invites proposals to buy, upgrade or repair high-end equipment in the central facilities, with priority for upgrades, repairs and high-value replacement parts. A new central facility must serve the wider campus, and needs DPC approval from three departments. Proposals go through the HoD to the CSIF office. Definitions and guidelines are on the [RIFC page](https://rndhelp.ircc.iitb.ac.in/RIFCPage).
+:::
 
 **Industry liaison and Startup incubation**
 
