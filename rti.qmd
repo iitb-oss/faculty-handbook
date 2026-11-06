@@ -7,7 +7,6 @@ keywords: "RTI IIT Bombay, Right to Information, IITB transparency, RTI obligati
 
 In 2005, the Indian Parliament enacted a legislation known as the Right to Information (RTI) Act, which empowers a citizen to get any information from the Government or from any publicly funded institution. Exceptions are few and an educational Institute does not qualify for exemption. This requires faculty members to be extra careful. For instance, any one can ask for the marking scheme adopted while awarding grades or, for that matter, a copy of the mark sheets of all students in a course. A query from the Institute's Public Information Officer must be answered within a stipulated time limit. Details of RTI is available on IIT Bombay's website.
 
-::: {.review}
 The Institute must reply to an RTI request within 30 days. If a request
 forwarded to your unit seeks information it does not hold, tell the
 Legal & RTI Cell within 3 days. Otherwise send clear, complete, point-wise
@@ -15,4 +14,3 @@ answers within the timeline given. Delayed, incorrect or misleading
 replies can attract a penalty and disciplinary action under Section 20
 of the Act. (*Source:* [Circular No. REG/FAA/RTI/2025-26 dated
 19.11.2025](https://bighome.iitb.ac.in/index.php/s/eoASXpnrWXnzWpR).)
-:::

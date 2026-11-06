@@ -9,7 +9,6 @@ To get started in the Institute, you can familiarize yourself with the resources
 
 In addition to research projects, one may also take on [consultancy projects](consultancy.qmd) for external organizations. Finally, the [Continuing Education Programme (CEP)](#sec:cep) permits you to conduct courses for external organizations through the Institute.
 
-::: {.review}
 ## Computing, storage and writing tools
 
 - *Google Workspace:* the Computer Centre provides Google Workspace for
@@ -43,4 +42,3 @@ Under One Nation One Subscription (ONOS), authors can apply for support
 with article processing charges in listed journals through the [ONOS
 portal](https://www.onos.gov.in/apc-support). Use your @iitb.ac.in email
 address and your correct affiliation.
-:::

@@ -37,10 +37,10 @@ purchases continue to follow the existing rules in the sections below.
   RFQ (offline) or SRM; above ₹25 lakhs, floated on SRM for at least 15
   days. Local content declaration is mandatory above ₹50 lakhs, and GTE
   approval must be obtained if the local content is below 20%.
-  [Use this mode only in the circumstances listed in Rule 166 of GFR
+  Use this mode only in the circumstances listed in Rule 166 of GFR
   2017, with the justification documented and a specific, reasoned case
   in the Proprietary Article Certificate. Routine need, convenience or
-  avoidable delay is not sufficient.]{.review}
+  avoidable delay is not sufficient.
 
 Other conditions:
 
@@ -65,7 +65,6 @@ provisions](https://drive.google.com/file/d/1r7x-hsbKa5TDsCqWXruosfJ9Dj5aJiV0/vi
 · [Special Provisions for Procurement of Scientific Equipment &
 Consumables](https://drive.google.com/file/d/1prQ-QWBp6IOGDQ_vY1Y56ianbhXNdEtM/view?usp=sharing)
 
-::: {.review}
 **Paying vendors on IRCC projects.** For direct market purchases up to
 ₹2.5 lakhs on IRCC projects, project staff and PIs submit vendor invoices
 through the [Automated Vendor Payment
@@ -73,7 +72,6 @@ Software](https://my.iitb.ac.in/b/vendor-payment) on MyIITB ([instruction
 manual](https://docs.google.com/document/d/1RoTjOAZGgM1ZabtDOrDGv5HFrqoQ3U8mVW_bVLCcbEA/edit?usp=sharing)).
 Scan and upload the invoices; IRCC accepts no hard copies. Submit bills to the Department Store, and keep the bills and
 supporting documents for 10 years.
-:::
 
 The sections below apply to routine (non-research) purchases.
 

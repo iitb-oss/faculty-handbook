@@ -14,7 +14,6 @@ guidelines and are not exhaustive. For complete information, faculty
 members should refer to the Institute's statutes or consult the
 Administration section of the Institute.
 
-::: {.review}
 ## Applying for leave
 
 - Apply for all leave on the EP interface and get it sanctioned in
@@ -33,7 +32,6 @@ Administration section of the Institute.
 
 (*Source:* [Circular No. F&SS/Leave/2025 dated
 10.06.2025](https://bighome.iitb.ac.in/index.php/s/9aFi2d2mfkoKg3i).)
-:::
 
 ## Casual Leave
 As the name suggests, this form of leave is to meet casual requirements of an individual.

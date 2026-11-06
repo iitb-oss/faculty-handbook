@@ -26,7 +26,6 @@ offering EO courses, please check the EO Handbook or drop an email to
 discussion. The EO office will provide the necessary infrastructural
 and logistical support.
 
-::: {.review}
 CDEEP's service charges are subsidized (see the [revised
 rates](https://drive.google.com/file/d/1xVEJn_uoK6T8qXiQS_LKVdMtCEdYQaxb/view?usp=sharing)),
 and it offers AI-enabled content creation, event coverage and
@@ -34,4 +33,3 @@ creative content such as banners, flyers and short videos. For a fully
 recorded or hybrid course delivered through EO, CDEEP records and edits
 the first 10 hours free of charge. This covers one course per faculty
 member, first come, first served, for up to 30 faculty members.
-:::

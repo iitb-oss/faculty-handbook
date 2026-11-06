@@ -34,7 +34,6 @@ Jammu; at the same time, the Indian School of Mines, Dhanbad
 
 There are two statutory documents that stipulate the way the Institute is to be run. The first one is [The Institutes of Technology Act, 1961](https://www.iitb.ac.in/sites/www.iitb.ac.in/files/2023-10/IITsAct_1.pdf), passed by the Indian Parliament. The act stipulates that the IITs are institutions of national importance and prescribes the broad framework of their governance. The second one is the Statutes of I.I.T. Bombay, which gives the detailed [rules of governance](https://www.iitb.ac.in/sites/www.iitb.ac.in/files/IITBStatutes.pdf).
 
-
 ### The Visitor
 Formally, the President of India is officially the chief of the IITs;
 (s)he is  called the Visitor of the Institutes. In reality, the
@@ -114,9 +113,9 @@ be extended until (s)he reaches the age of superannuation (70 years).
 The Director is helped in the administration by a committee of Deputy
 Directors and Deans ([listed
 here](https://www.iitb.ac.in/institute-functionaries)). At
-the time of writing, there are two Deputy Directors, [Deputy Director
+the time of writing, there are two Deputy Directors, Deputy Director
 (ART) and Deputy Director (Finance, Infrastructure and Administration, or
-FIA)]{.review}, one of whom serves as Acting
+FIA), one of whom serves as Acting
 Director whenever the Director is away.  The powers vested in the
 Director have been delegated by the Board, up to certain limits, to various Deans
 in the interest of smooth administration. There are ten (10)
@@ -177,7 +176,6 @@ Deans. They are as follows:
       more detail on this. The post of Associate Dean - III (IPS) has
       also been proposed and is awaiting approval as of mid-2021.
 
-
    6. The _Dean (International Relations, IR)_ promotes and
       administers international linkages (see [International Relations
       Office](http://www.ir.iitb.ac.in/)). The Institute has a very
@@ -230,7 +228,7 @@ in which IIT Bombay has its teaching and research activities are those of
 Engineering, Science, Humanities & Social Sciences, Management, Design, Educational Technology,
 Entrepreneurship and Policy ([more
 details](https://www.iitb.ac.in/divisions)). Academic
-programmes in these areas are hosted in [34]{.review} academic units.
+programmes in these areas are hosted in 34 academic units.
 
 Broadly speaking:
 
@@ -285,16 +283,16 @@ Below is a list of departments, centres, schools and other academic units.
 1. [Centre for Machine Intelligence and Data Science (C-MinDS)](https://www.minds.iitb.ac.in/)
 1. [Centre of Studies in Resources Engineering (CSRE)](http://www.csre.iitb.ac.in/)
 1. [Centre for Technology Alternatives for Rural Areas (CTARA)](http://www.ctara.iitb.ac.in/)
-1. [[Centre for Sophisticated Instruments and Facilities (CSIF)](https://www.csif.iitb.ac.in/)]{.review}
-1. [[Centre for Climate Studies](https://www.climate.iitb.ac.in/)]{.review}
-1. [[Centre for Educational Technology (CET)](http://www.et.iitb.ac.in/)]{.review}
-1. [[Centre for Systems and Control Engineering](http://www.sc.iitb.ac.in/)]{.review}
+1. [Centre for Sophisticated Instruments and Facilities (CSIF)](https://www.csif.iitb.ac.in/)
+1. [Centre for Climate Studies](https://www.climate.iitb.ac.in/)
+1. [Centre for Educational Technology (CET)](http://www.et.iitb.ac.in/)
+1. [Centre for Systems and Control Engineering](http://www.sc.iitb.ac.in/)
 1. [Koita Centre for Digital Health (KCDH)](https://www.kcdh.iitb.ac.in/)
-1. [[Centre for Defence Technology Innovations and Strategies (CDTIS)](https://cdtis.iitb.ac.in/)]{.review}
-1. [[Centre for Semiconductor Technologies (SemiX)](https://www.semix.iitb.ac.in/semix/)]{.review}
-1. [[Centre for Traditional Indian Knowledge and Skills (CTIKS)](https://ctiks.iitb.ac.in/)]{.review}
-1. [[Medical Technology Research and Innovation Centre (MED-TRIC)](https://medtric.iitb.ac.in/)]{.review}
-1. [[Motilal Oswal Centre for Capital Markets (MOCCM)](https://moccm.iitb.ac.in/)]{.review}
+1. [Centre for Defence Technology Innovations and Strategies (CDTIS)](https://cdtis.iitb.ac.in/)
+1. [Centre for Semiconductor Technologies (SemiX)](https://www.semix.iitb.ac.in/semix/)
+1. [Centre for Traditional Indian Knowledge and Skills (CTIKS)](https://ctiks.iitb.ac.in/)
+1. [Medical Technology Research and Innovation Centre (MED-TRIC)](https://medtric.iitb.ac.in/)
+1. [Motilal Oswal Centre for Capital Markets (MOCCM)](https://moccm.iitb.ac.in/)
 
 In addition to the above, the [IITB-Monash Research Academy
 (<strong>Section 8 Company</strong>)](http://www.iitbmonash.org/),
@@ -335,26 +333,25 @@ who are updated of the issues of the faculty in the academic unit.
 
 These Centres host a large number of sophisticated equipment and advanced facilities for carrying out R&D activities at IIT Bombay. The following are the research facilities at IIT Bombay:
 
-1. [[Centre for Sophisticated Instruments and Facilities (CSIF)](#sec-csif)]{.review}
+1. [Centre for Sophisticated Instruments and Facilities (CSIF)](#sec-csif)
 1. [Centre of Excellence in Steel Technology(CoEST)](https://www.iitb.ac.in/mems/en/research/coest#:~:text=Indian%20Institute%20of%20Technology%20Bombay%20(IIT%20Bombay)%20establish%20a%20Centre,Board%20of%20Governors%2C%20IIT%20Bombay.)
-1. [[Centre of Excellence in Critical Minerals, Metals and Materials (CoE-CMMM)](https://www.chem.iitb.ac.in/coe-cmmm/)]{.review}
+1. [Centre of Excellence in Critical Minerals, Metals and Materials (CoE-CMMM)](https://www.chem.iitb.ac.in/coe-cmmm/)
 1. [Centre of Excellence in Oil, Gas and Energy (CoE-OGE)](http://www.coeoge.iitb.ac.in/)
 1. [DRDO-Industry-Academia Centre of Excellence (DIA-CoE)](https://www.iitb.ac.in/taxonomy/term/142)
 1. [Centre of Excellence in Quantum Information, Computing, Science and Technology (CoE-QuICST)](https://www.quicst.org/)
 1. [Geospatial Information Science and Engineering](https://www.iitb.ac.in/taxonomy/term/143)
-1. [National Centre of Excellence in Carbon Capture, Utilization and Storage (NCoE-CCUS)]{.review}
+1. National Centre of Excellence in Carbon Capture, Utilization and Storage (NCoE-CCUS)
 1. [National Centre of Excellence in Technology for Internal Security (NCETIS)](http://ncetis.iitb.ac.in/)
 1. [National Centre for Photovoltaic Research and Education (NCPRE)](http://www.ncpre.iitb.ac.in/ncpre/)
-1. [[Wadhwani Hub and Wadhwani Innovation and Translation Centre (WITC)](https://www.wrcb.in/)]{.review}
+1. [Wadhwani Hub and Wadhwani Innovation and Translation Centre (WITC)](https://www.wrcb.in/)
 1. [Biomedical Engineering and Technology Incubation Centre (BETiC)](https://www.betic.org/)
 1. [Tata Centre for Technology and Design (TCTD)](http://www.tatacentre.iitb.ac.in/)
 1. Technocraft Centre for Applied Artificial Intelligence (TCAAI)
-1. [Photovoltaics Technology and Innovation Centre (PoTIC)]{.review}
+1. Photovoltaics Technology and Innovation Centre (PoTIC)
 1. Water Innovation Centre: Technology, Research and Education (WICTRE)
 1. [Sunita Sanghi Centre of Ageing and Neurodegenerative Diseases (SCAN)](https://www.scan.iitb.ac.in/)
 1. [Centre of Excellence on Membrane Technologies for Desalination, Brine Management, and Water Recycling](https://www.desaltm.in/)
 
-::: {.review}
 #### Centre for Sophisticated Instruments and Facilities (CSIF) {#sec-csif}
 
 [CSIF](https://www.csif.iitb.ac.in/) runs the Institute's central research facilities, including SAIF, from the SAIF building. CRNTS has been subsumed into it. It gives all IITB users open access, through [Drona](https://drona.ircc.iitb.ac.in), to about 180 research instruments, and it runs an interdisciplinary PhD programme, CReST. Contact: head.csif@iitb.ac.in or office.csif@iitb.ac.in.
@@ -369,7 +366,6 @@ These Centres host a large number of sophisticated equipment and advanced facili
 - Admitted students do TA duty in CSIF whatever their financial support. Externally registered students who do not live on campus and full-time Institute staff are exempt.
 
 **Funding for central facilities.** The Research Infrastructure Funding Committee (RIFC) invites proposals to buy, upgrade or repair high-end equipment in the central facilities, with priority for upgrades, repairs and high-value replacement parts. A new central facility must serve the wider campus, and needs DPC approval from three departments. Proposals go through the HoD to the CSIF office. Definitions and guidelines are on the [RIFC page](https://rndhelp.ircc.iitb.ac.in/RIFCPage).
-:::
 
 **Industry liaison and Startup incubation**
 

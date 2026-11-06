@@ -30,7 +30,6 @@ well-provisioned, in terms of everything from doctors and chemists to
 yoga and arts classes - however, one does not need to leave campus for
 most of these!
 
-::: {.review}
 If you live on campus and keep a pet, it must be registered and
 vaccinated under municipal rules, and you must give copies of these
 documents to the Public Health Office. Dogs are registered on the
@@ -38,7 +37,6 @@ documents to the Public Health Office. Dogs are registered on the
 Licensed pets must wear their registration tag. Pets are not allowed in
 hostels, and non-residents cannot bring pets onto campus. See the full
 [policy for pet animals](https://bighome.iitb.ac.in/index.php/s/8HTPEeZs38rRdGw).
-:::
 
 To keep track of what is happening on campus, you can use
 **InstiApp**, built by DevCom, IIT Bombay, a student group. It is available on the web at [insti.app](https://insti.app/) and
@@ -50,7 +48,7 @@ bodies, a directory of clubs and communities, the mess menu, a campus
 map (InstiMap), quick links to important Institute resources, and
 emergency contacts.
 
-[To find your way around campus, use the [IIT Bombay campus
+To find your way around campus, use the [IIT Bombay campus
 map](https://iitb-oss.github.io/iitbmap/). It locates buildings, hostels,
 classrooms and lab rooms, shows canteen and mess hours, gives walking and
-driving directions, and works offline.]{.review}
+driving directions, and works offline.

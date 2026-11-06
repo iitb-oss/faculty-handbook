@@ -34,13 +34,13 @@ etc.
   consultancy and government-sponsored projects.
 - Faculty members can buy headphones/AirPods through RDF once in 3
   years.
-- [PCs, laptops and mobile phones for professional use can be bought
-  from RDF once every three years, with effect from 1 April 2026.]{.review}
-- [The Institute processes an IP application only with the
+- PCs, laptops and mobile phones for professional use can be bought
+  from RDF once every three years, with effect from 1 April 2026.
+- The Institute processes an IP application only with the
   commercialization information template filed alongside it. After a PI's first 5 IP applications, a one-time deduction of 10% of
   costs (about ₹20,000) applies once a patent or IP is granted, taken
   from the ₹1 lakh transferred to RDF each financial year under the
-  IRITPP merger.]{.review}
+  IRITPP merger.
 - The RDF project end date is set at the faculty member's
   superannuation date. On superannuation, IRCC closes the RDF after
   deducting IRCC expenses/contribution, and any unspent balance is

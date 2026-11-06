@@ -226,7 +226,6 @@ When you receive your salary slip, you will find some deductions as well. The pr
    refund of income tax, you have to add these while filing your
    return.
 
-
 2. _Professional Tax:_ Currently ₹ 2,500 per year.
 
 3. Contribution to CPF/GPF/NPS.
@@ -375,11 +374,10 @@ members can avail LTC during vacation also, but with prior intimation
 LTC claim as soon as the return journey is completed.
 
 Final LTC claim settlement:
-[Submit the claim within the [time limits](#sec-claim-time-limits).]{.review} If an advance is not settled in time, it will be recovered suo-moto with penal interest @ 2% over GPF interest from the date of drawal to the date of recovery, as per rules.
+Submit the claim within the [time limits](#sec-claim-time-limits). If an advance is not settled in time, it will be recovered suo-moto with penal interest @ 2% over GPF interest from the date of drawal to the date of recovery, as per rules.
 
 Tickets for LTC travel are required to be booked through authorised agents viz. M/s Balmer Lawrie & Company, M/s Ashok Travels, or IRCTC.
 
-::: {.review}
 ## Time limits for claims {#sec-claim-time-limits}
 
 | Claim | If an advance was drawn | If no advance was drawn |
@@ -410,7 +408,6 @@ For bills of ₹ 10,000 and above, show that the supplier was paid.
 
 Do not draw a fresh advance while an earlier advance of the same nature
 is outstanding, unless it is justified and approved.
-:::
 
 ## Telephone Expense Reimbursement
 

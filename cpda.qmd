@@ -132,7 +132,6 @@ Government of India rates. The Institute raised these rates from
 
 : Travel class on domestic tours
 
-::: {.review}
 The daily allowance rates for all employees are:
 
 | Pay level    | Hotel/day (plus taxes)   | Local travel/day           | Food/day                 |
@@ -161,11 +160,10 @@ day for their stay (was ₹ 1,000), on production of a receipt.
 
 The personal effects rates apply on transfer, after retirement and so on.
 The circular heads them "per day", but the DoE OM sets them per km.
-:::
 
-- Claim hotel and taxi costs with bills. [At Level 8 and below, you can
+- Claim hotel and taxi costs with bills. At Level 8 and below, you can
   make a self-certified claim up to the ceiling, without vouchers. The
-  Class 'X' city amount needs vouchers.]{.review}
+  Class 'X' city amount needs vouchers.
   The food allowance is a lump
   sum and needs no vouchers. You get all of it for an absence from
   headquarters of more than 12 hours, 70% for 6 to 12 hours, and 30%
