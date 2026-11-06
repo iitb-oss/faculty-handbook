@@ -7,7 +7,6 @@ keywords: "IITB procurement, IIT Bombay purchase, GFR procurement, tender, lab e
 This section discusses some general rules that govern purchases from
 IIT Bombay projects and grants.
 
-::: {.review}
 ## Scientific equipment and consumables for research (from July 2025)
 
 The limits in this section apply only to scientific equipment and
@@ -38,6 +37,10 @@ purchases continue to follow the existing rules in the sections below.
   RFQ (offline) or SRM; above ₹25 lakhs, floated on SRM for at least 15
   days. Local content declaration is mandatory above ₹50 lakhs, and GTE
   approval must be obtained if the local content is below 20%.
+  [Use this mode only in the circumstances listed in Rule 166 of GFR
+  2017, with the justification documented and a specific, reasoned case
+  in the Proprietary Article Certificate. Routine need, convenience or
+  avoidable delay is not sufficient.]{.review}
 
 Other conditions:
 
@@ -61,9 +64,18 @@ Other conditions:
 provisions](https://drive.google.com/file/d/1r7x-hsbKa5TDsCqWXruosfJ9Dj5aJiV0/view?usp=sharing)
 · [Special Provisions for Procurement of Scientific Equipment &
 Consumables](https://drive.google.com/file/d/1prQ-QWBp6IOGDQ_vY1Y56ianbhXNdEtM/view?usp=sharing)
+
+::: {.review}
+**Paying vendors on IRCC projects.** For direct market purchases up to
+₹2.5 lakhs on IRCC projects, project staff and PIs submit vendor invoices
+through the [Automated Vendor Payment
+Software](https://my.iitb.ac.in/b/vendor-payment) on MyIITB ([instruction
+manual](https://docs.google.com/document/d/1RoTjOAZGgM1ZabtDOrDGv5HFrqoQ3U8mVW_bVLCcbEA/edit?usp=sharing)).
+Scan and upload the invoices; IRCC accepts no hard copies. Submit bills to the Department Store, and keep the bills and
+supporting documents for 10 years.
 :::
 
-[The sections below apply to routine (non-research) purchases.]{.review}
+The sections below apply to routine (non-research) purchases.
 
 ## Up to Rs. 1 lakh
 Direct market purchase is allowed for items up to Rs. 1 lakh. The
@@ -87,7 +99,6 @@ Item is priced below Rs. 1 lakh and a direct market purchase is used.
   - Competent Authority approval if less than 3 quotations received.
   - Any Other Document required.
 
-::: {.review}
 **Updates from 2025–26 circulars (purchases up to ₹10 lakhs)**
 
 - *Purchase committee:* for routine purchases above ₹1 lakh and up to
@@ -131,4 +142,3 @@ Item is priced below Rs. 1 lakh and a direct market purchase is used.
   holds the justification and appears on the GFR printout.
 - *Devices for professional use from donation projects (Dean (ACR)):*
   attach a scanned, signed "Undertaking" to the PR in ERP.
-:::

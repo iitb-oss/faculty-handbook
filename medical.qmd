@@ -11,6 +11,19 @@ During the period of service, a staff member and his/her dependents (the term _d
 
 The Institute has a reasonably well-equipped Hospital with both in-patient and out-patient facilities. In addition to several full time doctors, there are several visiting specialists who attend the Hospital on certain days and are available for consultation. The Hospital also provides for dental care as well as for homeopathic medicine. Basic diagnostic facilities are provided at the Institute Hospital. These include pathology, X-Rays, Sonography, ECG etc. The Hospital also has a physiotherapy section. The Hospital administration is headed by a Chief Medical Officer (CMO). A Committee known as the ["Hospital and Health Advisory Committee (HHAC)"](https://www.iitb.ac.in/hospital/HHAC.html), headed by a Professor of the Institute acts as a general policy watchdog for the Hospital and related issues. This Committee reviews Hospital policies from time to time and recommends measures that need to be taken to improve Hospital services. All major reimbursement claims are also recommended for approval by this committee.
 
+::: {.review}
+## Hospital records system
+
+The Hospital has used the Aarogya Hospital Information Management System
+since 31 August 2026. The Front Desk gives you the doctor's name and room
+number. Doctors record consultations
+electronically, and consultation notes reach your registered email by
+midnight the same day. Medical certificates and pathology and radiology
+reports also arrive electronically, and you get an SMS when a specialist
+or pathology appointment is booked. Prescriptions are printed at the Local
+Pharmacy. OPD registration runs from 8:00 AM to 5:40 PM.
+:::
+
 ## Your medical file
 
 The Hospital maintains a family file for every employee, which is available in the outer office. For an outpatient (OPD) consultation, the file has to be presented at the Hospital reception, who will print out a blank prescription slip. The slip along with the file is to be taken to the doctor who you wish to consult.
@@ -49,7 +62,6 @@ Though they may not be officially your dependents, the Institute offers OPD faci
 
 When an employee or a dependent is admitted to an outside hospital, up to 90% of the estimated cost can be provided as an advance to the employee.
 
-::: {.review}
 **Applying for a medical advance (online only).** Apply only through
 the EP Portal; the Administration does not accept hard-copy
 applications. The advance can be credited either to the employee's bank
@@ -65,9 +77,7 @@ account or directly to the hospital's account.
 
 *Source:* [Circular No. C&A/Medical/2026 dated
 25.06.2026](https://bighome.iitb.ac.in/index.php/s/ZFw9aSDxLpKiP43).
-:::
 
-::: {.review}
 **Amended hospital rules (effective 06.12.2024)**
 
 - Emergency hospitalization in any hospital, Government or private, is
@@ -91,7 +101,6 @@ account or directly to the hospital's account.
 
 *Source:* [Circular No. C&A/Medical/2025 dated 12.03.2025, Amendment of
 Hospital Policies and Rules](https://bighome.iitb.ac.in/index.php/s/GT5xg8qptzYKWTY).
-:::
 
 For the benefit of staff members staying outside the campus (as also
 for staff on vacation/leave), a list of Medicare Centres/Hospitals is

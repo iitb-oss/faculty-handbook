@@ -106,12 +106,8 @@ Level 10 or 11, with increments based on experience, plus D.A.
    also.  Funding for several of these comes from endowments, and is
    managed by the Dean (ACR)'s office, which also takes an active role
    in raising funds for further Chairs. The selection to these Chairs is done by a Selection Committees. The tenure of the Chair Professorship position is for a period of three years, and the chair is re-advertised at the end of that
-   period. Faculty who hold Chairs receive a salary top up of ₹
-   30,000 per month and a contingency grant of ₹ 90,000 per year, in
-   addition to their salaries.
-
-   ::: {.review}
-   **Revised from 21.06.2024:**
+   period. With effect from 21.06.2024, faculty who hold Chairs receive
+   the following in addition to their salaries:
 
    - *Chair Professor* (full Professors): ₹9 lakhs per year, made up of
      a monthly honorarium of ₹50,000 and an annual research grant of ₹3
@@ -128,9 +124,6 @@ Level 10 or 11, with increments based on experience, plus D.A.
    Other existing terms of Chair Professorship continue.
    (*Source:* [Circular No. Reg/F&SS/2024 dated
    15.01.2025](https://bighome.iitb.ac.in/index.php/s/MHscnHMFz349YHK).)
-   [Reviewer: the ₹30,000 per month and ₹90,000 per year figures above
-   predate this circular.]
-   :::
 
 3. _Dearness Allowance:_ A component termed as Dearness Allowance to
    take care of rising prices due to inflation is also a part of your
@@ -335,7 +328,6 @@ administration.
     Co. Ltd., M/S Ashok Travels and Tours, or M/S Indian Railways
     Catering and Tourism Corporation Ltd.
 
-::: {.review}
 **Booking air tickets for LTC**
 
 - Air tickets for LTC must be booked through one of the Authorized
@@ -363,7 +355,6 @@ administration.
 [DoPT OM F.No.31011/07/2025-PP.A-IV dated 01.07.2025, FAQs on CCS
 (LTC) Rules](https://bighome.iitb.ac.in/index.php/s/qL3MtQN99Z4byr8),
 circulated to faculty on 05.01.2026.
-:::
 
 ### LTC Advance:
 90% of the estimated cost of journey can be taken as an advance, only
@@ -384,11 +375,42 @@ members can avail LTC during vacation also, but with prior intimation
 LTC claim as soon as the return journey is completed.
 
 Final LTC claim settlement:
-Where advance has been drawn, the claim for reimbursement shall be submitted within one month of the completion of the return journey. Failing which outstanding advance will be recovered suo-moto with penal interest @ 2% over GPF interest from the date of drawal to the date of recovery, as per rules.
-
-Where no advance has be drawn, the claim for reimbursement shall be submitted within three months of the completion of the return journey.
+[Submit the claim within the [time limits](#sec-claim-time-limits).]{.review} If an advance is not settled in time, it will be recovered suo-moto with penal interest @ 2% over GPF interest from the date of drawal to the date of recovery, as per rules.
 
 Tickets for LTC travel are required to be booked through authorised agents viz. M/s Balmer Lawrie & Company, M/s Ashok Travels, or IRCTC.
+
+::: {.review}
+## Time limits for claims {#sec-claim-time-limits}
+
+| Claim | If an advance was drawn | If no advance was drawn |
+|:------|:------------------------|:------------------------|
+| LTC | Within 30 days of the return journey | Within 60 days of the return journey |
+| TA on official tours (India or abroad) | Within 15 days of the return journey | Within 60 days of the return journey |
+| TA on retirement | Not applicable | Within 180 days of the journey |
+| Medical | Within 30 days of discharge from hospital | Within 180 days of the end of treatment or discharge |
+
+A late claim is forfeited. For LTC and TA, the whole advance is also
+recovered with penal interest. An unused medical advance must be
+refunded or is recovered.
+
+Apply for TA/DA advances, settlements and reimbursements online on the
+EP portal, except for CPDA, Gymkhana, OTC, IoE and PTD funds. Offices aim
+to process advances, claims and other files within 3 working days for
+clear cases, 5 where more information is needed, and 7 for complicated
+cases.
+
+(*Sources:* [Office Order No. HR-2 (HCM 2)/TA/2021 dated
+22.11.2021](https://bighome.iitb.ac.in/index.php/s/cb4pz7rya38yB5z); [Notification No. HR-2/HCM-2/TA/2024
+dated 18.09.2024](https://bighome.iitb.ac.in/index.php/s/wRrHt4aa3p35yn4).)
+
+Submit proof of payment with every claim. Bills and receipts must be in
+the claimant's name. For UPI, NEFT/RTGS or card payments, include the
+transaction details. For cash payments, get a receipt from the payee.
+For bills of ₹ 10,000 and above, show that the supplier was paid.
+
+Do not draw a fresh advance while an earlier advance of the same nature
+is outstanding, unless it is justified and approved.
+:::
 
 ## Telephone Expense Reimbursement
 
@@ -406,7 +428,6 @@ To claim this, telephone bills (including mobile bills and bills for
 internet charges) should be submitted to the accounts section. The faculty may choose to submit bills monthly, semi-annually or annually. As it is a reimbursement, no tax liability is due on
 this amount.
 
-::: {.review}
 ## Newspaper Reimbursement
 
 Employees at Pay Level 9 and above can claim reimbursement for
@@ -421,7 +442,6 @@ explain the claim form.
 
 *Source:* [Circular No. Admin/NR/2026 dated
 13.07.2026](https://bighome.iitb.ac.in/index.php/s/Q7HPWADPbmLgGJq).
-:::
 
 ## Children's Education Allowance
 Expenses incurred in admitting upto two children through school (from Jr. KG to twelfth class) can be reimbursed.

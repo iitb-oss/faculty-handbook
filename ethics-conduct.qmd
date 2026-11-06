@@ -25,6 +25,43 @@ Director and the Chairperson in that order. In extreme cases, you may take your 
 5. _Social media usage policy_: Social media posts from IIT Bombay connected official accounts are governed by rules specified in [this document](https://www.iitb.ac.in/sites/www.iitb.ac.in/files/Guidelines%20For%20Use%20Of%20Offical%20IIT%20Bombay%20Accounts%20On%20Social%20Media_2.pdf).
 
 ::: {.review}
+## Annual Immovable Property Return
+
+All employees, including faculty members, must file an Immovable
+Property Return (IPR) every year for the preceding calendar year, even
+if they own no immovable property. File it online at
+[my.iitb.ac.in](https://my.iitb.ac.in) under Employee → Claims; email
+and hard copies are not accepted. Anyone who misses the deadline is
+denied vigilance clearance. (*Source:* [Circular No. Administration/2026
+dated 15.01.2026](https://bighome.iitb.ac.in/index.php/s/sXbNYLsryLqNEzQ).)
+
+## Medical activities and research involving people
+
+Medical testing, research with human participants and the collection of
+biological samples all need prior approval, including clearance from
+the relevant ethics committee. The Institute Hospital must be informed
+and involved in any medical activity concerning students. External
+laboratories or medical service providers can be engaged only with the
+necessary permissions and in line with Institute guidelines. Obtain
+informed consent, and do not subject anyone to testing or intervention
+without authorization. (*Source:* [Circular No. REG/C-11/2026 dated
+31.08.2026](https://bighome.iitb.ac.in/index.php/s/pz26oWkTFH3K8M9).)
+
+Submit proposals to the Institute Ethics Committee (IEC), Institutional
+Review Board (IRB) and Institute Animal Ethics Committee (IAEC) through
+the Drona portal.
+
+## Joint Standing Committee
+
+A Joint Standing Committee addresses complaints from faculty and staff.
+Its members are the Deputy Directors, the Dean (Faculty), the Dean (AA)
+and the Registrar. The Dean (Faculty) convenes it for complaints that
+originate from a faculty member or involve only faculty, and the
+President of the Faculty Forum is invited when a complaint involves
+faculty. (*Source:* [Office Order No. AO/LU/JSC/2025 dated
+24.01.2025](https://bighome.iitb.ac.in/index.php/s/L3Nf7pwTcby64sR).)
+:::
+
 ## Periodic review under FR 56(J)/(I)
 
 The Board of Governors, in its 271st meeting on 6 December 2024,
@@ -34,8 +71,6 @@ following parameters: doubtful integrity, ineffectiveness, and conduct
 unbecoming of a Government servant. Heads of Departments/Sections
 periodically review employees on these parameters and forward any such
 cases to the concerned authority.
-
-:::
 
 ## Sexual Harassment and Gender Cell
 
@@ -156,6 +191,11 @@ fruitful to us faculty-members, the students and the institute.
 Being an Institute of excellence, the Institute takes a very serious view of any act of plagiarism. While the penal codes are silent on it, there are guidelines issued by National Academies on what constitutes plagiarism. In technical publications, all joint authors are responsible equally for any offence of plagiarism. Punishment can be severe, including termination of service.
 
 ## Consultancy ethics
+
+[Do not pay honoraria from your consultancy projects to your spouse,
+children or close relatives, or use their services on your own projects.
+This is a direct conflict of interest and is not allowed.]{.review}
+
 Private consultancy is a serious breach of the code of conduct. Similarly, you should not take up remunerative assignments outside the Institute without explicit permission from the Institute. You should also not accept assignments in a Tutorial organization either as a consultant or for direct teaching.
 
 In case you wish to participate in an external engagement of any kind

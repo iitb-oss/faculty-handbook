@@ -41,6 +41,9 @@ Each section is designed to be self-contained while cross-referencing related to
 
 *This handbook is regularly updated to reflect changes in institute policies and procedures. For the most current information, please refer to official institute communications and policy documents.*
 
-To suggest a correction or an addition, email Suyash Ulhas Bire
-([suyashb@iitb.ac.in](mailto:suyashb@iitb.ac.in)) or Saket Choudhary
-([saketc@iitb.ac.in](mailto:saketc@iitb.ac.in)).
+To report an error or suggest an addition, [open an issue on
+GitHub](https://github.com/iitb-oss/faculty-handbook/issues) or email
+Suyash Ulhas Bire ([suyashb@iitb.ac.in](mailto:suyashb@iitb.ac.in)),
+Saket Choudhary ([saketc@iitb.ac.in](mailto:saketc@iitb.ac.in)) or the
+Dean (FA) Office
+([dean.fa.office@iitb.ac.in](mailto:dean.fa.office@iitb.ac.in)).

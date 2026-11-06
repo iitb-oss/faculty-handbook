@@ -11,6 +11,7 @@ project:
 website:
   site-url: "https://iitb-oss.github.io/faculty-handbook"
   favicon: "favicon.ico"
+  llms-txt: true
 
 book:
   title: "IIT Bombay Faculty Handbook"

@@ -104,8 +104,10 @@ features of these schemes are as follows.
  e. _Gratuity:_ A lump sum amount known as gratuity is payable to an
     employee on superannuation. The amount payable is a fourth of the
     emoluments for every completed six months of service, subject to a
-    maximum of ₹ 20,00,000. The emolument includes basic pay and
+    maximum of [₹ 25,00,000 (from 01.01.2024)]{.review}. The emolument includes basic pay and
     D.R. drawn by the employee on the day of superannuation.
+    [(*Source:* [Circular No. HR-2 (HCM 1)/2024 dated
+    12.07.2024](https://bighome.iitb.ac.in/index.php/s/4rRGcwWHt2L3YHR).)]{.review}
 
 2. _Contributory Provident Fund (CPF)_: If you have opted for this
    scheme, no pension is payable to you. However, the gratuity
@@ -141,15 +143,15 @@ superannuation is ₹ 224,100 + D.A. (28% at the time of writing) = ₹
 expect:
 
 - Commutation: ~₹ 40,82,744
-- Gratuity: ₹ 20,00,000
+- Gratuity: [₹ 25,00,000]{.review}
 - Leave encashment: ~ ₹ 28,68,480
-This totals to about ₹ 89,51,224. This is in addition to the GPF balance of employee.
+This totals to about [₹ 94,51,224]{.review}. This is in addition to the GPF balance of employee.
 
 ### National Pension System (for those who joined the service on or after 1.1.2004) {#sec:npsnote}
 The [National Pension System
 (NPS)](https://enps.nsdl.com/eNPS/NationalPensionSystem.html) is
 applicable for all employees who joined the Institute on or after
-1.1.2004. The funds are managed by the National Security Depository
+1.1.2004. [The ₹ 25,00,000 gratuity limit also applies to these employees.]{.review} The funds are managed by the National Security Depository
 Ltd (NSDL). In particular, contributions into the NPS are eligible for
 tax benefits as mentioned at the [NPS CRA
 website](https://www.npscra.nsdl.co.in/tax-benefits-under-nps.php). A subscriber can make partial withdrawal after joining the NPS after 10 years, not exceeding twenty-five per cent of the contributions made by him/her and excluding contribution made by employer, if any, at any time before exit from National Pension System subject to the terms and conditions, purpose, frequency and limits specified under Regulations 8 of PFRDA (Exits & Withdrawals under the NPS), Regulations, 2015. The guidelines for partial withdrawal can be accessed at [this link](https://www.npscra.nsdl.co.in/download/Annexure_PFRDA_Circular_CRA_PO_RI_Master_2016_003.pdf).

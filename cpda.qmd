@@ -7,8 +7,8 @@ keywords: "CPDA IIT Bombay, professional development allowance, IITB CPDA rules,
 The CPDA is an MoE provision under which the Institute provides
 faculty at all levels with some level of support for travel (including
 international) and contingency expenses. At the time of writing, the
-allowance amounts to ₹ 3,00,000 for a block period of 3 years [(the
-current block is April 2025 to March 2028)]{.review}. It is to
+allowance amounts to ₹ 3,00,000 for a block period of 3 years (the
+current block is April 2025 to March 2028). It is to
 be noted that CPDA cannot be utilised by the faculty when he/she is under
 any extraordinary leave.
 
@@ -26,20 +26,19 @@ membership of professional bodies, contingent expenses (includes
 purchase of books and stationery items) [^underreview]. Expenses for a
 conference includes cost of travel (booked through Balmer Lawrie &
 Company, Ashok Travels, or IRCTC), local transport, overseas medical
-insurance, visa fees, registration fee and [daily allowance (hotel up
+insurance, visa fees, registration fee and daily allowance (hotel up
 to US $300 per day plus a per diem of US $100/125/150 per day depending
-on the country)]{.review} for the period of conference and two additional days (for
+on the country) for the period of conference and two additional days (for
 travel) preceding/succeeding the conference, subject to a maximum of
 (5+2) days. In case of shortage of funds, the excess expenditure can
 be met from projects and travel grants from other funding agencies.
 
 [^underreview]: The rule is under consideration with higher
     authorities. In case of any changes, the same would be available [here](https://surveys.iitb.ac.in/mod/page/view.php?id=4220#tutorial6).
-    [The ₹2,00,000 conference / ₹1,00,000 contingency split is
+    The ₹2,00,000 conference / ₹1,00,000 contingency split is
     confirmed for April 2025 to March 2028 by Circular No.
-    C&A/CPDA/2025 dated 03.06.2025.]{.review}
+    C&A/CPDA/2025 dated 03.06.2025.
 
-::: {.review}
 **CPDA block April 2025 to March 2028**
 
 - For faculty who join or retire during the block, the contingency
@@ -67,7 +66,6 @@ be met from projects and travel grants from other funding agencies.
 National/International travel (April 2025 to March
 2028)](https://bighome.iitb.ac.in/index.php/s/Sqsopsz8SeDaCgr), with
 its annexures.
-:::
 
 As per Institute rules following expenses are not allowed using CPDA funds:
 
@@ -111,35 +109,64 @@ on Government work.
 
 If the full hospitality has been provided (boarding and lodging) by
 the organizers, only per diem of 25% of the rates mentioned in the
-table above [(25% of the per diem rate for the country visited)]{.review} will be paid.
+table above (25% of the per diem rate for the country visited) will be paid.
 
-[The per diem of US $100/125/150 depends on the country of visit, as
+The per diem of US $100/125/150 depends on the country of visit, as
 per the Annexure of MEA order No. Q/FD/695/03/2000 dated 25.09.2023.
 The hotel limit for conferences, symposia, workshops and project work
 is US $300 per day for a maximum of 7 days, against bills. These rates
 apply from 06.12.2024. (*Source:* [Circular No. REG/BoG-271/2025 dated
-23.01.2025](https://bighome.iitb.ac.in/index.php/s/BM9dyX6YP4fmqdF).)]{.review}
+23.01.2025](https://bighome.iitb.ac.in/index.php/s/BM9dyX6YP4fmqdF).)
+
 ## Domestic travel: daily allowance rates {#sec-domestic-ta-da}
 
 IIT Bombay pays daily allowance on official tours within India at the
 Government of India rates. The Institute raised these rates from
 01.01.2024, when DA reached 50%:
 
-| Pay level (faculty)                           | Travel class                          | Hotel/day          | Local travel                                       | Food/day |
-|-----------------------------------------------|---------------------------------------|--------------------|----------------------------------------------------|----------|
-| 14 and above (Professor)                      | Air business/club class, or rail AC-I | ₹ 9,375 + taxes    | AC taxi at actuals for official travel within the city | ₹ 1,500  |
-| 12 and 13 (Asst. Prof. Grade I, Assoc. Prof.) | Air economy class, or rail AC-I       | ₹ 5,625 + taxes    | AC taxi, up to 50 km per day within the city        | ₹ 1,250  |
-| 9 to 11 (Asst. Prof. Grade II)                | Air economy class, or rail AC-II      | ₹ 2,813 + taxes    | Up to ₹ 423 per day within the city                 | ₹ 1,125  |
+| Pay level (faculty)                           | Travel class                          |
+|-----------------------------------------------|---------------------------------------|
+| 14 and above (Professor)                      | Air business/club class, or rail AC-I |
+| 12 and 13 (Asst. Prof. Grade I, Assoc. Prof.) | Air economy class, or rail AC-I       |
+| 9 to 11 (Asst. Prof. Grade II)                | Air economy class, or rail AC-II      |
 
-: Domestic tour entitlements w.e.f. 01.01.2024
+: Travel class on domestic tours
 
-- Before 2024 the hotel limits were ₹ 7,500, 4,500 and 2,250, the food
-  allowance ₹ 1,200, 1,000 and 900, and local travel ₹ 338. The local
-  travel rules for levels 12 and above stayed the same.
-- Where the state has not set a mileage rate, you get ₹ 30/km by your
-  own car or taxi and ₹ 15/km by auto rickshaw or your own scooter.
-  Journeys on foot earn ₹ 15/km.
-- Claim hotel and taxi costs with bills. The food allowance is a lump
+::: {.review}
+The daily allowance rates for all employees are:
+
+| Pay level    | Hotel/day (plus taxes)   | Local travel/day           | Food/day                 |
+|:-------------|:-------------------------|:---------------------------|:-------------------------|
+| 14 and above | ₹ 9,375 (was ₹ 7,500)    | AC taxi at actuals for official travel | ₹ 1,500 (was ₹ 1,200)    |
+| 12 and 13    | ₹ 5,625 (was ₹ 4,500)    | AC taxi, up to 50 km       | ₹ 1,250 (was ₹ 1,000)    |
+| 9 to 11      | ₹ 2,813 (was ₹ 2,250)    | ₹ 423 (was ₹ 338)          | ₹ 1,125 (was ₹ 900)      |
+| 6 to 8       | ₹ 938 (was ₹ 750)        | ₹ 281 (was ₹ 225)          | ₹ 1,000 (was ₹ 800)      |
+| 5 and below  | ₹ 563 (was ₹ 450)        | ₹ 141 (was ₹ 113)          | ₹ 625 (was ₹ 500)        |
+
+: Daily allowance by pay level w.e.f. 01.01.2024
+
+In Class 'X' cities, employees up to Level 8 can claim up to ₹ 1,250 per
+day for their stay (was ₹ 1,000), on production of a receipt.
+
+| Item                                                       | Earlier | Revised |
+|:-----------------------------------------------------------|:--------|:--------|
+| Own car or taxi, per km (where no state rate is set)       | ₹ 24    | ₹ 30    |
+| Auto rickshaw, own scooter, etc., per km (same condition)  | ₹ 12    | ₹ 15    |
+| Journeys on foot, per km                                   | ₹ 12    | ₹ 15    |
+| Personal effects by road, Level 6 and above, per km        | ₹ 50    | ₹ 63    |
+| Personal effects by road, Level 5, per km                  | ₹ 25    | ₹ 31    |
+| Personal effects by road, Level 4 and below, per km        | ₹ 15    | ₹ 19    |
+
+: Mileage and personal effects rates w.e.f. 01.01.2024
+
+The personal effects rates apply on transfer, after retirement and so on.
+The circular heads them "per day", but the DoE OM sets them per km.
+:::
+
+- Claim hotel and taxi costs with bills. [At Level 8 and below, you can
+  make a self-certified claim up to the ceiling, without vouchers. The
+  Class 'X' city amount needs vouchers.]{.review}
+  The food allowance is a lump
   sum and needs no vouchers. You get all of it for an absence from
   headquarters of more than 12 hours, 70% for 6 to 12 hours, and 30%
   for less than 6 hours (DoE OM, para E(v)). On CPDA claims, journeys

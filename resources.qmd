@@ -7,4 +7,40 @@ keywords: "IITB resources, IIT Bombay library, computing facilities, research la
 
 To get started in the Institute, you can familiarize yourself with the resources available for helping you teach and conduct research effectively. The [Academic Rules](#sec:acadrules) discuss all aspects related to courses, curricula and other teaching related aspects and [Resources for Teaching](#sec:teachingresources) lists some resources to help with teaching. The Institute, while encouraging you to apply for external grants to support your research, also provides you a Seed grant to get you started on your research projects. More details on this are available [here](#sec:researchfunding). You also have access to a Research and Development Fund (RDF) that can be used with more flexibility for your research related activities. Your academic unit would also have a Department Development Fund to support development activities of interest to your academic unit as a whole. These are discussed in greater detail [here](#sec:rdfddf).
 
-In addition to research projects, one may also take on [consultancy projects](sec:consultancy) for external organizations. Finally, the [Continuing Education Programme (CEP)](#sec:cep) permits you to conduct courses for external organizations through the Institute.
+In addition to research projects, one may also take on [consultancy projects](consultancy.qmd) for external organizations. Finally, the [Continuing Education Programme (CEP)](#sec:cep) permits you to conduct courses for external organizations through the Institute.
+
+::: {.review}
+## Computing, storage and writing tools
+
+- *Google Workspace:* the Computer Centre provides Google Workspace for
+  Education Plus, with 500 GB of Drive storage per faculty member, Meet
+  with up to 1000 participants and recording, and originality reports
+  for plagiarism checks.
+- *OneDrive:* the faculty quota is 10 GB. Move large files elsewhere. In
+  January 2026 the Computer Centre advised keeping backups of
+  OneDrive, Exchange and SharePoint data outside the @iitb.ac.in Microsoft
+  tenant, as Microsoft had made the tenant read-only.
+- *High performance computing:* the Computer Centre's clusters include
+  Praganak. Request an account at
+  [hpcaccreq.iitb.ac.in](https://hpcaccreq.iitb.ac.in).
+- *Library tools:* the Central Library provides Turnitin, Grammarly and
+  Overleaf. With an Overleaf faculty licence you can add any number of
+  students to your projects.
+
+## Publishing
+
+Write the Institute's address in all publications as: Laboratory/
+Department/Centre/Unit, Indian Institute of Technology Bombay, Powai,
+Mumbai - 400076. Do not abbreviate the name to IIT Bombay or IITB, or add
+punctuation to it.
+
+From 19 September 2026, corresponding authors at IIT Bombay can publish
+open access without article processing charges in eligible Cambridge
+University Press journals, under a one-year agreement with the Central
+Library.
+
+Under One Nation One Subscription (ONOS), authors can apply for support
+with article processing charges in listed journals through the [ONOS
+portal](https://www.onos.gov.in/apc-support). Use your @iitb.ac.in email
+address and your correct affiliation.
+:::

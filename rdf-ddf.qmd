@@ -19,7 +19,6 @@ account. The money in your RDF can be used for attending conferences,
 paying for publishing charges, patenting charges, purchase of laptops,
 etc.
 
-::: {.review}
 **Updates from 2025–26 circulars**
 
 - IRITPP has been merged with RDF. IRCC maintains a document listing the
@@ -35,6 +34,13 @@ etc.
   consultancy and government-sponsored projects.
 - Faculty members can buy headphones/AirPods through RDF once in 3
   years.
+- [PCs, laptops and mobile phones for professional use can be bought
+  from RDF once every three years, with effect from 1 April 2026.]{.review}
+- [The Institute processes an IP application only with the
+  commercialization information template filed alongside it. After a PI's first 5 IP applications, a one-time deduction of 10% of
+  costs (about ₹20,000) applies once a patent or IP is granted, taken
+  from the ₹1 lakh transferred to RDF each financial year under the
+  IRITPP merger.]{.review}
 - The RDF project end date is set at the faculty member's
   superannuation date. On superannuation, IRCC closes the RDF after
   deducting IRCC expenses/contribution, and any unspent balance is
@@ -46,7 +52,6 @@ etc.
 RDF"](https://rndhelp.ircc.iitb.ac.in/ircc-notifications/faculty-notices/2025-08-14-115400/utilization-rdf)
 and ["Procedure for purchase of items bordering personal
 use"](https://rndhelp.ircc.iitb.ac.in/ircc-notifications/faculty-notices/2025-08-14-104000/procedure-purchase-items-bordering-personal-use-through-consultancy-projects-rdf-and-government-sponsored-projects).
-:::
 
 IRCC ploughs back another percentage (again, 15% at the time of
 writing) of the overheads from sponsored projects back into a
