@@ -269,7 +269,7 @@ Below is a list of departments, centres, schools and other academic units.
 1. [Humanities and Social Sciences](http://www.hss.iitb.ac.in/)
 1. [Mathematics](http://www.math.iitb.ac.in/)
 1. [Mechanical Engineering](http://www.me.iitb.ac.in/)
-1. [Metallurgical Engineering and Materials Science](http://www.met.iitb.ac.in/)
+1. [Metallurgical Engineering and Materials Science](https://www.iitb.ac.in/mems/en)
 1. [Physics](http://www.phy.iitb.ac.in/)
 1. [Industrial Engineering and Operations Research](http://www.ieor.iitb.ac.in/)
 
@@ -279,12 +279,6 @@ Below is a list of departments, centres, schools and other academic units.
 1. [IDC School of Design](http://www.idc.iitb.ac.in/)
 1. [Shailesh J. Mehta School of Management](http://www.som.iitb.ac.in/)
 
-**Interdisciplinary Programs**
-
-1. [Climate Studies](http://www.climate.iitb.ac.in/)
-1. [Educational Technology](http://www.et.iitb.ac.in/)
-1. [Systems and Control Engineering](http://www.sc.iitb.ac.in/)
-
 **Centres offering Academic Degrees**
 
 1. [Ashank Desai Centre for Policy Studies (ADCPS)](http://www.cps.iitb.ac.in/)
@@ -292,12 +286,15 @@ Below is a list of departments, centres, schools and other academic units.
 1. [Centre of Studies in Resources Engineering (CSRE)](http://www.csre.iitb.ac.in/)
 1. [Centre for Technology Alternatives for Rural Areas (CTARA)](http://www.ctara.iitb.ac.in/)
 1. [[Centre for Sophisticated Instruments and Facilities (CSIF)](https://www.csif.iitb.ac.in/)]{.review}
+1. [[Centre for Climate Studies](https://www.climate.iitb.ac.in/)]{.review}
+1. [[Centre for Educational Technology (CET)](http://www.et.iitb.ac.in/)]{.review}
+1. [[Centre for Systems and Control Engineering](http://www.sc.iitb.ac.in/)]{.review}
 1. [Koita Centre for Digital Health (KCDH)](https://www.kcdh.iitb.ac.in/)
 1. [[Centre for Defence Technology Innovations and Strategies (CDTIS)](https://cdtis.iitb.ac.in/)]{.review}
 1. [[Centre for Semiconductor Technologies (SemiX)](https://www.semix.iitb.ac.in/semix/)]{.review}
 1. [[Centre for Traditional Indian Knowledge and Skills (CTIKS)](https://ctiks.iitb.ac.in/)]{.review}
 1. [[Medical Technology Research and Innovation Centre (MED-TRIC)](https://medtric.iitb.ac.in/)]{.review}
-1. [[Motilal Oswal Centre for Capital Markets (MOCCM)](https://www.som.iitb.ac.in/moccm/)]{.review}
+1. [[Motilal Oswal Centre for Capital Markets (MOCCM)](https://moccm.iitb.ac.in/)]{.review}
 
 In addition to the above, the [IITB-Monash Research Academy
 (<strong>Section 8 Company</strong>)](http://www.iitbmonash.org/),
@@ -340,17 +337,19 @@ These Centres host a large number of sophisticated equipment and advanced facili
 
 1. [[Centre for Sophisticated Instruments and Facilities (CSIF)](#sec-csif)]{.review}
 1. [Centre of Excellence in Steel Technology(CoEST)](https://www.iitb.ac.in/mems/en/research/coest#:~:text=Indian%20Institute%20of%20Technology%20Bombay%20(IIT%20Bombay)%20establish%20a%20Centre,Board%20of%20Governors%2C%20IIT%20Bombay.)
+1. [[Centre of Excellence in Critical Minerals, Metals and Materials (CoE-CMMM)](https://www.chem.iitb.ac.in/coe-cmmm/)]{.review}
 1. [Centre of Excellence in Oil, Gas and Energy (CoE-OGE)](http://www.coeoge.iitb.ac.in/)
 1. [DRDO-Industry-Academia Centre of Excellence (DIA-CoE)](https://www.iitb.ac.in/taxonomy/term/142)
 1. [Centre of Excellence in Quantum Information, Computing, Science and Technology (CoE-QuICST)](https://www.quicst.org/)
 1. [Geospatial Information Science and Engineering](https://www.iitb.ac.in/taxonomy/term/143)
-1. National Centre of Excellence in Carbon Capture and Utilization (NCoE-CCU)
-1. [National Centre of Excellence in Technology for Internal Security (NCETIS)](https://www.ee.iitb.ac.in/~ncetis/)
+1. [National Centre of Excellence in Carbon Capture, Utilization and Storage (NCoE-CCUS)]{.review}
+1. [National Centre of Excellence in Technology for Internal Security (NCETIS)](http://ncetis.iitb.ac.in/)
 1. [National Centre for Photovoltaic Research and Education (NCPRE)](http://www.ncpre.iitb.ac.in/ncpre/)
-1. [Wadhwani Research Centre for Bioengineering (WRCB)](http://www.iitb.ac.in/wrcb/)
+1. [[Wadhwani Hub and Wadhwani Innovation and Translation Centre (WITC)](https://www.wrcb.in/)]{.review}
 1. [Biomedical Engineering and Technology Incubation Centre (BETiC)](https://www.betic.org/)
 1. [Tata Centre for Technology and Design (TCTD)](http://www.tatacentre.iitb.ac.in/)
 1. Technocraft Centre for Applied Artificial Intelligence (TCAAI)
+1. [Photovoltaics Technology and Innovation Centre (PoTIC)]{.review}
 1. Water Innovation Centre: Technology, Research and Education (WICTRE)
 1. [Sunita Sanghi Centre of Ageing and Neurodegenerative Diseases (SCAN)](https://www.scan.iitb.ac.in/)
 1. [Centre of Excellence on Membrane Technologies for Desalination, Brine Management, and Water Recycling](https://www.desaltm.in/)
@@ -358,9 +357,9 @@ These Centres host a large number of sophisticated equipment and advanced facili
 ::: {.review}
 #### Centre for Sophisticated Instruments and Facilities (CSIF) {#sec-csif}
 
-[CSIF](https://www.csif.iitb.ac.in/) runs the Institute's central research facilities, including SAIF, from the SAIF building. CRNTS has been subsumed into it. It houses 171 research facilities and admits PhD students through the CReST programme. Contact: head.csif@iitb.ac.in or office.csif@iitb.ac.in.
+[CSIF](https://www.csif.iitb.ac.in/) runs the Institute's central research facilities, including SAIF, from the SAIF building. CRNTS has been subsumed into it. It gives all IITB users open access, through [Drona](https://drona.ircc.iitb.ac.in), to about 180 research instruments, and it runs an interdisciplinary PhD programme, CReST. Contact: head.csif@iitb.ac.in or office.csif@iitb.ac.in.
 
-**Using the facilities.** [instruments.iitb.ac.in](https://instruments.iitb.ac.in/) lists the facilities by group, such as spectroscopy and microscopy, and links to each facility's page. Availability, training sessions and calls for student Teaching Assistants for the instruments are announced on faculty-notices.
+**Using the facilities.** [instruments.iitb.ac.in](https://instruments.iitb.ac.in/) lists the facilities by group, such as spectroscopy and microscopy, and links to each facility's page. Submit usage requests and book slots on Drona. Availability, training sessions and calls for student Teaching Assistants for the instruments are announced on faculty-notices.
 
 **CReST PhD programme.** Through Collaborative Research on Science and Technology (CReST), faculty can recruit PhD students for interdisciplinary projects that depend on CSIF's instruments. CSIF calls for topics on faculty-notices. Under the rules in the latest call:
 
