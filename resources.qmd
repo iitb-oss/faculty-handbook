@@ -42,3 +42,4 @@ Under One Nation One Subscription (ONOS), authors can apply for support
 with article processing charges in listed journals through the [ONOS
 portal](https://www.onos.gov.in/apc-support). Use your @iitb.ac.in email
 address and your correct affiliation.
+[The list of eligible journals now covers the top 10% of journals in each subject category (946 journals); see the [ONOS APC titles list](https://www.onos.gov.in/APCTitles). Queries go to [apcsupport@onos.gov.in](mailto:apcsupport@onos.gov.in).]{.review}

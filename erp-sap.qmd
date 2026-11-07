@@ -52,6 +52,8 @@ Currently, following IT systems are available to faculty members:
     and a Project Dashboard ([my.iitb.ac.in/b/my-projects](https://my.iitb.ac.in/b/my-projects))
     showing each of your sponsored and consultancy projects with funds
     received, expenditure, blocked amount and available balance. Off campus, use the VPN.
+    [Use Facility $\rightarrow$ Incident Reporting on MyIITB to report accidents, near misses, dangerous occurrences and unsafe conditions on campus. You can attach photographs and track the status of your report.]{.review}
+  - [The ASC home page has a Faculty Advisor dashboard. It summarises your advisees by batch, flags those who need attention this semester, and lets you look up any advisee by roll number or name.]{.review}
   - Teaching and learning management is handled through the [Moodle open
     source portal](https://moodle.iitb.ac.in) which is integrated with
     ERP servers. Helpdesk: [moodle.help@iitb.ac.in](mailto:moodle.help@iitb.ac.in).

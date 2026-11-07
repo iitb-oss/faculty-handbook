@@ -33,6 +33,14 @@ Administration section of the Institute.
 (*Source:* [Circular No. F&SS/Leave/2025 dated
 10.06.2025](https://bighome.iitb.ac.in/index.php/s/9aFi2d2mfkoKg3i).)
 
+## Holidays
+
+::: {.review}
+The Registrar issues the list of closed and restricted holidays each year. In addition to the closed holidays, you can take any two of the listed restricted holidays. Holidays marked as depending on the moon may shift. The [2027 list](https://bighome.iitb.ac.in/index.php/s/Fzkz3K7Z9trJARa) has 17 closed holidays.
+:::
+
+*Source:* [Office Memorandum No. GA/Holidays/2027 dated 30.10.2026](https://bighome.iitb.ac.in/index.php/s/Fzkz3K7Z9trJARa).
+
 ## Casual Leave
 As the name suggests, this form of leave is to meet casual requirements of an individual.
 
@@ -52,6 +60,8 @@ Vacation is available only to the faculty members of the Institute.
 3. No separate application is made for availing vacation. Each faculty member has to provide his/her vacation plans by filling up the appropriate section on the ERP leave form online at [https://ep.iitb.ac.in/irj/portal](https://ep.iitb.ac.in/irj/portal).
 4. There is no minimum duration requirement for availing vacation — the earlier condition that vacation must be taken for not less than 10 days at a time stands repealed with effect from Summer Vacation 2026.
    Faculty teaching first-year undergraduate courses may avail vacation only after approval from the appropriate authority, subject to submission of grades and completing pending academic responsibilities. Faculty whose annual increment falls due on 1 July must not be on leave on that date (other than casual leave, or a restricted holiday not combined with any other leave); otherwise the increment takes effect from the date of rejoining. (*Source:* Circular No. F&SS/VACATION/2026 dated 16.03.2026.)
+
+   [Winter vacation 2026 runs from 29 November 2026 to 28 December 2026. Winter and summer vacation together in 2026-27 cannot exceed 60 days. Faculty whose annual increment falls due on 1 January 2027 must not be on leave that day, other than casual leave or a restricted holiday not combined with other leave; otherwise the increment takes effect from the date of rejoining.]{.review} (*Source:* Circular No. F&SS/VACATION/2026 dated 21.10.2026.)
 5. If a faculty member does not avail the full 60 days vacation in any academic year, 1/3rd of unavailed vacation is converted to Earned leave, and is credited to the earned leave account of the faculty member on 1$^{\text{st}}$ July of the next academic year. Thus, if a faculty avails of a total of $x$ days of vacation during the vacation period, $(60-x)/3$ days of earned leave is credited to his/her earned leave account.
 
 ## Earned Leave

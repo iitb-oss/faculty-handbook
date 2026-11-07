@@ -223,7 +223,7 @@ and Form 02, an optional statement form for the student.
 
 The penalties approved by the 270th Senate are on hold until a
 revised disciplinary framework is agreed. Until then, disciplinary
-action follows the document the Senate approved in April 2015. Once
+action follows the [document the Senate approved in April 2015](https://drive.google.com/file/d/1gsIDDTCw3mEPtlxpPgekT4J9LZqfoFvs/view). Once
 the D-ADAC's recommendations are approved, instructors apply any
 penalty on marks. Instructors must not apply grade penalties when
 awarding grades, because the Academic Office applies those. Cases
@@ -242,6 +242,7 @@ You may be the first to notice a student who is struggling, from
 missed classes or a sudden drop in grades. Talk to the student, and
 point them to the people below.
 
+- [The Wellness Response Team (WRT) supports students in crisis at any hour. It has counsellors and plain-clothes security staff, with a psychiatrist on call. Reach it by phone or WhatsApp at +91 8356 810252 (call in an emergency) or by email at [wellness@iitb.ac.in](mailto:wellness@iitb.ac.in).]{.review}
 - [Student Wellness Centre (SWC)](http://swc.iitb.ac.in/home) offers
   free, confidential counselling to students.
 - [Flourishing IITB](https://www.flourishing-iitb.org/) is an
