@@ -100,6 +100,14 @@ format:
       left: "© 2026 IIT Bombay"
       right: "Faculty Handbook"
     downloads: [pdf]
+    include-in-header:
+      - text: |
+          <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-TNZCFG5M"></script>
+          <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+          </script>
     include-after-body: _include-after-body.html
   pdf:
     documentclass: amsbook
