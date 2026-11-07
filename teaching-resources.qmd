@@ -97,6 +97,83 @@ Moodle:
 We also encourage you to see the [PwD awareness website](https://sites.google.com/view/iitb-pwdcell-training) to get some
 insight on how you can make the learning experience more suited for
 students who face certain disabilities.
+
+## Conducting examinations
+
+::: {.review}
+The suggestions below are for faculty who set or invigilate a
+mid-semester or end-semester exam.
+
+**Two weeks before the exam**
+
+1. Fill in the Academic Office form that is circulated before each
+   exam. It asks whether the exam is closed book, open book or
+   SAFE-based, which decides the venue, and how many answer books
+   you need: 12-page books for the mid-semester exam and 16-page
+   books for the end-semester exam.
+2. Brief your TA invigilators. They must arrive 30 minutes early
+   with their original ID card. They may not bring bags, phones,
+   earphones, papers, reading material or laptops. They report any
+   suspected malpractice to you quietly.
+3. Remind students of the rules. They should reach the venue half
+   an hour early and be in their seats ten minutes before the start.
+   Entry closes 30 minutes after the exam starts, and no student is
+   admitted without an original ID card. Students may bring only
+   their ID card, the stationery the exam needs and a water bottle,
+   plus the authorised material for an open-book exam. Phones,
+   smartwatches, laptops, earphones and other devices are not
+   allowed anywhere in the exam building, so students should leave
+   them in their hostel rooms.
+
+**On the day of the exam**
+
+4. Arrive half an hour before the start. Stay until every answer book
+   has been collected, counted and packed.
+5. Collect the answer books from the staff yourself. Academic Office
+   staff supply them for common courses, and department staff
+   supply them for all other courses. Staff hand answer books only
+   to the faculty invigilator, never to TAs or project staff. You get
+   one main answer book for each registered student, a small packet
+   of spares, and two 4-page supplementary sheets for each student.
+6. Write the rules on the board, adjusted for the type of exam: no
+   phones, smartwatches or other electronic devices; no books,
+   notes, formula sheets or chits; taking an answer sheet out of the
+   hall counts as an unauthorised practice; and unauthorised
+   practices may lead to disciplinary action.
+7. Do not bring reading material or a laptop into the hall. You may
+   carry a phone, but do not join virtual meetings or calls during
+   the exam.
+
+**During the exam**
+
+8. Make sure the TA or staff invigilators take attendance and check
+   each student's ID card. If a student has no ID card, check their
+   photo on ASC. If that does not settle it, photograph the student
+   at the desk and note this on the attendance sheet.
+9. Sign and date each supplementary sheet before you hand it to a
+   student.
+10. Let only one student out of the hall at a time for a bio-break.
+11. Exam halls are monitored centrally through CCTV. If the
+    monitoring picks up any unauthorised activity, you will be told,
+    and you should follow the procedure under
+    [Academic malpractice](#academic-malpractice).
+
+**After the exam**
+
+12. On the
+    [attendance sheet](https://drive.google.com/file/d/1bSVBXcwVZCfUtGNUD3c8Gkm20wvqqDMt/view),
+    record how many main and supplementary sheets were issued, used
+    and left unused.
+13. Hand the unused sheets back to the staff yourself, not through a
+    TA.
+
+Steps 5, 9, 12 and 13 do not apply when students write their answers
+on the question paper itself.
+:::
+
+*Sources:* [Report of the committee to revisit Examination Conduct
+Rules and Process](https://surveys.iitb.ac.in/pluginfile.php/19040/course/section/2824/Report%20of%20the%20committee%20to%20revisit%20Examination%20Conduct%20Rules%20and%20Process-After%20Meeting.pdf).
+
 ## Academic malpractice
 
 If you catch a student copying in an exam or plagiarising an
@@ -106,6 +183,58 @@ own. The Academic Office lists the procedure on its
 [Academic Malpractices page](https://acad.iitb.ac.in/academicMalpractices).
 The penalties for each kind of offence are in the
 [Senate-approved list of punishments](https://acad.iitb.ac.in/sites/default/files/Acad%20Malpractice%20punishments%20Senate%20approved.pdf).
+
+::: {.review}
+**If you see unfair means during an exam.** Your job in the hall is
+only to stop the act, collect the material and record what happened.
+The Disciplinary Action Committee (DAC) handles the rest later. The
+report includes two forms: Form 01, which the invigilator fills in,
+and Form 02, an optional statement form for the student.
+
+*During the exam*
+
+1. Quietly collect the unauthorised material: chits, phone or other
+   device, answer papers. Say as little as possible to the student
+   and avoid disturbing the others.
+2. If the item has to be given back, such as a phone, photograph it.
+   If you are not sure who the student is, photograph them at the
+   desk.
+3. Take the student's original answer book and give them a fresh one.
+   They carry on writing until the end of the exam.
+
+*After the exam*
+
+4. Fill in and sign Form 01.
+5. Give the student a chance to record their version of events on
+   Form 02, at a designated venue with additional staff present.
+   The student does not have to fill in Form 02, unless a phone was
+   taken.
+6. Return any phone you took. The student signs for it on Form 02.
+7. Submit Form 01 to the Head of the Department conducting the
+   course. Attach the collected material, the original answer book
+   and Form 02, if the student filled it in. Digital material can be
+   sent by email.
+8. When the student leaves the exam hall, alert the Wellness Response
+   Team by phone at +91 8356 810252 and by email at
+   [wellness@iitb.ac.in](mailto:wellness@iitb.ac.in). Give the course
+   code, the student's name and roll number, and the exam venue.
+
+*Penalties*
+
+The penalties approved by the 270th Senate are on hold until a
+revised disciplinary framework is agreed. Until then, disciplinary
+action follows the document the Senate approved in April 2015. Once
+the D-ADAC's recommendations are approved, instructors apply any
+penalty on marks. Instructors must not apply grade penalties when
+awarding grades, because the Academic Office applies those. Cases
+are summarised on the
+[D-ADAC summary sheet](https://drive.google.com/file/d/16Z8pLZVW4i7rRPOxbAMlv1Emhy35U7fV/view).
+:::
+
+*Sources:* [Report of the committee to revisit Examination Conduct
+Rules and Process](https://surveys.iitb.ac.in/pluginfile.php/19040/course/section/2824/Report%20of%20the%20committee%20to%20revisit%20Examination%20Conduct%20Rules%20and%20Process-After%20Meeting.pdf)
+(includes Forms 01 and 02);
+[minutes of the Heads' meeting, 30 September 2026](https://docs.google.com/document/d/1hRB7_UNrzu16TjCjF4_DFLtQgtTbFSklBJxg4dVQgEw/edit).
 
 ## Student wellness
 
