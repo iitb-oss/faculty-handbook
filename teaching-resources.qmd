@@ -169,6 +169,29 @@ mid-semester or end-semester exam.
 
 Steps 5, 9, 12 and 13 do not apply when students write their answers
 on the question paper itself.
+
+**Instructions during conduct of exams to be followed by STUDENTS**
+
+1. Students are not permitted to enter the examination building during examination hours, if they are not appearing for the examination.
+2. Students are advised to reach the examination venue half an hour before the start of the examination to allow for entry procedures, and occupy their respective seat at least ten minutes before the start of the examination. Entry will be closed after half an hour of the start of the examination.
+3. Students need to bring their original ID card and essential stationery ONLY (including pen, pencil, scale etc. as per the requirement of the exam) and a water bottle (if required).
+4. No bags, notes, papers, books will be allowed inside the examination building. In case of an open books/notes examination, the authorised material can be carried inside the examination building.
+5. No mobiles, smartwatches, laptops, earphones, headphones or any other electronic gadgets will be allowed inside the examination building. If brought, these items will be kept outside the examination building at your own risk. It is directed to leave all the above-mentioned items at the hostel room itself.
+6. Possession of answer sheets outside the examination hall will be considered as an unauthorized act.
+7. Students may be checked for possession of unauthorized materials.
+8. Disciplinary actions corresponding to unauthorized practices are available at the following link: <https://acad.iitb.ac.in/academicMalpractices>
+
+**Instructions during conduct of exams to be followed by invigilating student TAs**
+
+1. Invigilation to be taken very seriously. Report the cases of suspected unauthorized acts promptly to the faculty invigilator with minimal disturbance to the class.
+2. Invigilating TAs are required to reach the examination hall 30 minutes before the start of the exam.
+3. All invigilating student TAs need to bring ORIGINAL ID cards.
+4. Invigilating student TAs are not allowed to bring bags, mobiles, headphones, earphones, papers, manuscripts, any reading material, laptop etc. to the examination hall.
+5. TAs may start taking attendance of the students, in consultation with the faculty invigilator. While taking attendance, check the ID card of the students appearing for the examination and confirm their identity.
+6. TAs should hand over unused answer sheets to the faculty invigilator ONLY.
+7. TAs should allow only one student at a time from the exam hall for bio-break.
+
+For details regarding the exam conduct rules, procedures and penalties, please visit : <https://acad.iitb.ac.in/academicMalpractices>
 :::
 
 *Sources:* [Report of the committee to revisit Examination Conduct
